@@ -106,7 +106,7 @@ These decisions are final unless a serious implementation problem is discovered.
 | `export/ci_days.json`    | **Primary source of truth** for CI/Tumblr era day pages. Items are embedded inline. |
 | `export/mt_entries.json` | **Secondary source** for MT era (pre-Tumblr) day pages and redirect rules.          |
 | `export/redirects.csv`   | Redirect rules for all legacy MT URLs.                                              |
-| `export/images/`         | Source directory containing existing locally archived Tumblr photo-post images.     |
+| `export/images/`         | Source directory containing locally archived Tumblr photo-post images.              |
 
 ### Data Shape — ci_days.json
 
@@ -156,6 +156,7 @@ Fall back to `item_data` only for fields missing from `rendered`.
   "entry_status": 2,
   "entry_title": "Open for business",
   "entry_text": "...",
+  "entry_text_more": "...",
   "entry_created_on": "2002-08-18 14:40:01",
   "day_date": "2002-08-18",
   "entry_basename": "open_for_busine",
@@ -166,6 +167,11 @@ Fall back to `item_data` only for fields missing from `rendered`.
 ```
 
 Only entries with `entry_status = 2` (published) are included.
+
+MT entry processing rules:
+
+- Concatenate `entry_text` and `entry_text_more` as the full body. About 33 entries have extended content in `entry_text_more`.
+- Strip `<script>` tags from MT content during migration (dead Haloscan comment scripts and similar).
 
 ### Data Shape — redirects.csv
 
@@ -249,17 +255,15 @@ These decisions are made once during migration. Eleventy templates do not need t
 know item types. When planning the implementation check `export/ci_days.json` to
 see which of these types are actually relevant.
 
-| Type           | Rendered output written to markdown                                                                                 |
-| -------------- | ------------------------------------------------------------------------------------------------------------------- |
-| `photo`        | Markdown image with absolute path + caption as paragraph. If `photo_click_url` present, image is wrapped in a link. |
-| `regular`      | Always use `rendered.body_html_without_h1` as HTML passthrough.                                                     |
-| `blog`         | `## title` heading + `rendered.body_html` as HTML passthrough.                                                      |
-| `quote`        | Blockquote containing `rendered.quote_text` + `— source` attribution line.                                          |
-| `link`         | Markdown link using `rendered.link_text` / `rendered.link_url` + `rendered.link_description` as paragraph.          |
-| `video`        | `rendered.video_player` HTML preserved as-is + `rendered.video_caption` as paragraph.                               |
-| `conversation` | `rendered.conversation_title` as heading + `rendered.conversation_text` as HTML passthrough.                        |
-| `audio`        | `rendered.audio_caption` as paragraph + raw relevant `item_data` fields preserved in an HTML comment for reference. |
-| unknown        | Raw content preserved as HTML passthrough with a `<!-- TODO: unknown type: {type} -->` comment.                     |
+| Type      | Rendered output written to markdown                                                                                                                                                                                        |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `photo`   | Markdown image with absolute path. Alt text is `caption_html` with HTML stripped. `caption_html` rendered as HTML passthrough below the image. If `photo_click_url` present, image is wrapped in a link.                   |
+| `regular` | Always use `rendered.body_html_without_h1` as HTML passthrough.                                                                                                                                                            |
+| `blog`    | `## title` heading + `rendered.body_html` as HTML passthrough.                                                                                                                                                             |
+| `quote`   | Blockquote containing `rendered.quote_text` + `— source` attribution line.                                                                                                                                                 |
+| `link`    | Markdown link using `rendered.link_text` / `rendered.link_url` + `rendered.link_description` as paragraph.                                                                                                                 |
+| `video`   | `rendered.video_player` HTML preserved as-is + `rendered.video_caption` as paragraph.                                                                                                                                      |
+| unknown   | Raw content preserved as HTML passthrough with a `<!-- TODO: unknown type: {type} -->` comment. `conversation` and `audio` types do not appear in the export data — the unknown fallback handles them if they ever appear. |
 
 **MT entries:**
 
@@ -376,6 +380,9 @@ For `regular`-type items and other HTML blobs:
 5. If a download or rewrite is not possible safely, preserve the original remote HTML and
    log it in the media report as **unresolved remote reference** with the post date,
    item id, and original URL(s).
+6. Scan content HTML for `stungeye.com`-hosted image references. Leave these as remote
+   — do not attempt to download or rewrite them. Log them in the media report as
+   **stungeye.com remote reference** (date, item id, URL) for future manual localization.
 
 Implementation Note:
 
@@ -393,6 +400,7 @@ The migration script emits `migration-media-report.md` listing:
 - All unresolved remote Tumblr image references (date, item id, URL)
 - Any `rendered.image` filenames where no local file was found
 - Any failed image downloads or ambiguous rewrites
+- All `stungeye.com`-hosted image references found in content HTML (left as remote, listed for future localization)
 
 This is the TODO list for the post-migration media recovery pass.
 
@@ -553,8 +561,7 @@ for deployment instructions.
 
 ### Year page (`/archive/by_date/yyyy/`)
 
-Renders the full content of all day pages in that year, newest first.
-Each day block links to its canonical day page.
+A navigation page listing all months in that year that have content, each linking to its month page. Does not render day content inline.
 Self-canonical.
 
 ### Month page (`/archive/by_date/yyyy/mm/`)
