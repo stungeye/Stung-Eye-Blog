@@ -1,0 +1,37 @@
+---
+date: 2013-10-03 16:12:00
+title: "Discovered on October 3, 2013"
+permalink: /archive/by_date/2013/10/03/
+---
+
+[![A 3D printed bust made last night at our local maker-space, AssentWorks.
+
+I stand by my prediction that the wide-scale piracy of physical objects is just around the corner. Especially considering that Fuji Film is already capable of printing near-flawless reproductions of Van Gogh&#8217;s paintings.
+
+Related: Digital Grotesque, a 3D printed room designed by programming algorithms. &#8220;A fully immersive, solid, human-scale, enclosed structure that is entirely 3D printed out of sand.&#8221;
+
+Update: A reply from Kerry Stevenson, the man who actually printed this head, addressing my piracy comment.
+
+@stungeye I disagree with your premise, although I made that very head. Might want to read my post here: http://t.co/wBqUzcXglT— Kerry Stevenson (@krst) October 4, 2013
+
+For complex objects, I agree with Kerry that 3D piracy still has a long way to go. However, a search on Thingiverse (a repository of 3D printable designs) shows that boardgames like Settlers of Catan have already been cloned. (Side note for Catan / Game of Thrones Fans: Settlers of the Iron Throne.)
+
+I witnessed the growth of media piracy from tape-swapping to mp3s to HD BlueRay rips. Seventeen years ago I found my first mp3 online. It took me an hour to download. Napster appeared a few years later to simplify the process, followed by high-speed internet to speed up the downloads. Now, if you&#8217;ll excuse me I&#8217;m off to print-up a copy of Pandora&#8217;s box. ;)
+
+p.s. If you&#8217;re fascinated by this technology, drop by AssentWorks on a Tuesday open-house night. I&#8217;d also recommend dropping by the 5th floor of the Artspace Building (corner of Arthur &amp; Bannatyne) on the evening of the first Friday of any month. There you can see how jeweller Bryan Johnson has been using CNC milling and 3D printing in his artistic workflow.](/archive/by_date/2013/10/03/tumblr_mu3zvfObHW1qzoknmo1_500.jpg)](http://stungeye.tumblr.com/image/63017706477)
+
+<p>A 3D printed bust made last night at our local maker-space, <a href="http://assentworks.ca/">AssentWorks</a>.</p>
+
+<p>I stand by <a href="http://stungeye.com/archive/by_date/2009/01/26">my prediction</a> that the wide-scale piracy of physical objects is just around the corner. Especially considering that Fuji Film is already capable of <a href="http://www.fujifilm.eu/eu/news/article/news/premium-three-dimensional-replicas-of-van-gogh-masterpieces/">printing near-flawless reproductions of Van Gogh&#8217;s paintings</a>.</p>
+
+<p><strong>Related:</strong> <a href="http://vimeo.com/74350367">Digital Grotesque</a>, a 3D printed room designed by programming algorithms. &#8220;A fully immersive, solid, human-scale, enclosed structure that is entirely 3D printed out of sand.&#8221;</p>
+
+<p><strong>Update:</strong> A reply from Kerry Stevenson, the man who actually printed this head, addressing my piracy comment.</p>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" data-partner="tweetdeck"><p><a href="https://twitter.com/stungeye">@stungeye</a> I disagree with your premise, although I made that very head. Might want to read my post here: <a href="http://t.co/wBqUzcXglT"><a href="http://t.co/wBqUzcXglT">http://t.co/wBqUzcXglT</a></a></p>— Kerry Stevenson (@krst) <a href="https://twitter.com/krst/statuses/385950765757386752">October 4, 2013</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><p>For complex objects, I agree with Kerry that 3D piracy still has a long way to go. However, a search on <a href="http://www.thingiverse.com">Thingiverse</a> (a repository of 3D printable designs) shows that <a href="http://www.thingiverse.com/search/page:1?q=catan&amp;sa=">boardgames like Settlers of Catan have already been cloned</a>. (Side note for Catan / Game of Thrones Fans: <a href="http://www.behance.net/gallery/Game-of-Thrones-themed-Settlers-of-Catan/8116629">Settlers of the Iron Throne</a>.)</p>
+
+<p>I witnessed the growth of media piracy from tape-swapping to mp3s to HD BlueRay rips. Seventeen years ago I found my first mp3 online. It took me an hour to download. Napster appeared a few years later to simplify the process, followed by high-speed internet to speed up the downloads. Now, if you&#8217;ll excuse me I&#8217;m off to print-up a copy of Pandora&#8217;s box. ;)</p>
+
+<p><strong>p.s.</strong> If you&#8217;re fascinated by this technology, drop by <a href="http://assentworks.ca/contact/">AssentWorks on a Tuesday open-house night</a>. I&#8217;d also recommend dropping by the 5th floor of the Artspace Building (corner of Arthur &amp; Bannatyne) on the evening of the <a href="http://www.firstfridayswinnipeg.org/whats-on.html">first Friday of any month</a>. There you can see how jeweller <a href="https://bryanjohnson.ca/">Bryan Johnson</a> has been using CNC milling and 3D printing in his artistic workflow.</p>

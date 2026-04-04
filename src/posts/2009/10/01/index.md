@@ -1,0 +1,7 @@
+---
+date: 2009-10-01 13:11:10
+title: "Discovered on October 1, 2009"
+permalink: /archive/by_date/2009/10/01/
+---
+
+[![Photo](/archive/by_date/2009/10/01/tumblr_kquien58zl1qzoknmo1_500.gif)](http://www.ironicsans.com/2009/07/esoteric_comic_1.html)

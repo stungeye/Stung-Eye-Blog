@@ -1,0 +1,13 @@
+---
+date: 2002-11-27 09:30:45
+title: Green Wednesday
+permalink: /archive/by_date/2002/11/27/
+---
+
+The <s><a href="Flunk-For_Sleepyheads_Only-02-Blue_Monday.mp3">song of the week</a></s> (No Longer Online) is <a href="http://www.flunkmusic.com" target=_blank>Flunk</a>'s cover of Blue Monday. (Check the video <a href="http://www.flunkmusic.com/bluemonday.html" target=_blank>here</a>.)<br>
+<a href="http://serialtext.com/display.cgi/200110111957" target=_blank>Serialtext</a>: <i>5 novels, 5 days a week. Serialtext brings you a new chapter of a new novel every day of the week, featuring some of the best authors found online and offline.</i><br>
+<a href="http://serialtext.com/display.cgi/20011020905" target=_blank>Spontaneous Prose</a>.<br>
+A <a href="http://www.k10k.net/dropbox/newstempstuff/portfolios.html" target=_blank>list of webpages</a> with interesting/novel design concepts.<br>
+The car is in the shop and it supposedly needs $500 dollars worth of repairs, (plus labour!). Being able to brake is fairly important to me... so I think we will go ahead with "da fix'n". I just wish I knew a bit more about the inner works of cars. I hate feeling so clueless when talking to the mechanic.<br>
+<a href="http://us.imdb.com/Title?0143861" target=_blank>Scratch</a> is playing at the <a href="http://www.winnipegfilmgroup.mb.ca/index.cfm?FS=3&CF=1" target=_blank>Cinematheque</a> from Decemeber 7th until the 12th. I should really keep up with the Cinematheque scheduel. I missed <a href="http://us.imdb.com/Title?0274812" target=_blank>Secretary</a> and <a href="http://us.imdb.com/Title?0268690" target=_blank>Thirteen Conversations About One Thing</a> this month.<br>
+I love the fact that the <A HREF=http://www.allmusic.com/cg/amg.dll?p=amg&opt1=1&sql=hayden onMouseOver="window.status='Search allmusic.com for Hayden\'s entry';return true" onMouseOut="window.status='';return true" target=_blank>Hayden</A> album <a href="http://www.allmusic.com/cg/amg.dll?p=amg&uid=SEARCH&sql=Aq1anqjkuojja" target=_blank>Moving Carful</a> devotes twice as much time to the sound of rain falling/water dripping than it does to music.

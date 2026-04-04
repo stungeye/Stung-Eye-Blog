@@ -1,0 +1,19 @@
+{
+  "name": "stungeye-com",
+  "version": "1.0.0",
+  "description": "Stung Eye — Eleventy static site",
+  "type": "module",
+  "scripts": {
+    "migrate": "node tools/migrate.js",
+    "scan-media": "node tools/scan-media.js",
+    "dev": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "luxon": "^3.7.2"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

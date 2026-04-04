@@ -1,0 +1,25 @@
+---
+date: 2011-10-22 21:02:02
+title: "Discovered on October 22, 2011"
+permalink: /archive/by_date/2011/10/22/
+---
+
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fstungeye%2Fgoddess-of-knowledge-a-sleepytime-mix-2008%2F" frameborder="0" ></iframe>
+
+<p><a href="https://www.mixcloud.com/stungeye/goddess-of-knowledge-a-sleepytime-mix-2008/">Sending Zzzzzs Across the Pond</a> - A wally glutton sleepytime mix I made in <a href="http://stungeye.com/archives/2008/02/sending_zzzzzs.php">early 2008</a>.</p>
+
+---
+
+[![Ergo - A Logical Card Game
+
+via](/archive/by_date/2011/10/22/tumblr_ltheroHkd21qzoknmo1_500.png)](http://www.tumblr.com/photo/1280/11783743797/1/tumblr_ltheroHkd21qzoknm)
+
+<p><a href="http://catalystgamelabs.com/pdfs/Ergo_Rules_LO.pdf">Ergo - A Logical Card Game</a></p>
+
+<p><a href="https://twitter.com/#!/mak_kolybabi/status/127561420182261760">via</a></p>
+
+---
+
+[![via](/archive/by_date/2011/10/22/tumblr_lppz0euvxT1r0wnsho1_500.jpg)](http://xote.tumblr.com/post/8736173713)
+
+<p><a href="http://laureola.tumblr.com/post/11783181468">via</a></p>

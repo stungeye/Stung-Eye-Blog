@@ -1,0 +1,30 @@
+---
+layout: layouts/archive-index.njk
+pagination:
+  data: collections.daysByYear
+  size: 1
+  alias: yearEntry
+permalink: "/archive/by_date/{{ yearEntry[0] }}/"
+eleventyComputed:
+  title: "Archive: {{ yearEntry[0] }}"
+---
+{% set year = yearEntry[0] %}
+{% set days = yearEntry[1] %}
+
+<h1>{{ year }}</h1>
+
+{% set months = [] %}
+{% for day in days %}
+  {% set m = day.date | monthFromDate %}
+  {% if m not in months %}
+    {% set months = (months.push(m), months) %}
+  {% endif %}
+{% endfor %}
+
+<ul>
+{% for m in months | sort %}
+  <li><a href="/archive/by_date/{{ year }}/{{ m }}/">{{ m | monthName }} {{ year }}</a></li>
+{% endfor %}
+</ul>
+
+<p><a href="/archive/">&larr; Back to Archive</a></p>

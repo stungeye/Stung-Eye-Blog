@@ -1,0 +1,24 @@
+---
+layout: layouts/archive.njk
+pagination:
+  data: collections.days
+  size: 10
+  alias: days
+  reverse: false
+permalink: "{% if pagination.pageNumber == 0 %}/{% else %}/page/{{ pagination.pageNumber + 1 }}/{% endif %}"
+title: ""
+---
+{% for day in days %}
+<article class="day-block">
+  <header class="day-block-header">
+    <h2><a href="{{ day.url }}">{{ day.data.title }}</a></h2>
+    <time datetime="{{ day.date | isoDate }}">{{ day.date | readableDate }}</time>
+  </header>
+  <div class="day-block-content">
+    {{ day.content | safe }}
+  </div>
+</article>
+{% if not loop.last %}<hr class="day-separator">{% endif %}
+{% endfor %}
+
+{% include "partials/pagination.njk" %}

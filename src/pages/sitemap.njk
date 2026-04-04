@@ -1,0 +1,35 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{ config.siteUrl }}/</loc>
+  </url>
+  {%- set totalPages = (collections.days | length / config.daysPerPage) | round(0, "ceil") %}
+  {%- for i in range(1, totalPages) %}
+  <url>
+    <loc>{{ config.siteUrl }}/page/{{ i + 1 }}/</loc>
+  </url>
+  {%- endfor %}
+  {%- for day in collections.days %}
+  <url>
+    <loc>{{ config.siteUrl }}{{ day.url }}</loc>
+    <lastmod>{{ day.date | isoDate }}</lastmod>
+  </url>
+  {%- endfor %}
+  {%- for yearEntry in collections.daysByYear %}
+  <url>
+    <loc>{{ config.siteUrl }}/archive/by_date/{{ yearEntry[0] }}/</loc>
+  </url>
+  {%- endfor %}
+  {%- for monthEntry in collections.daysByMonth %}
+  <url>
+    <loc>{{ config.siteUrl }}/archive/by_date/{{ monthEntry[0] | replace('-', '/') }}/</loc>
+  </url>
+  {%- endfor %}
+  <url>
+    <loc>{{ config.siteUrl }}/archive/</loc>
+  </url>
+</urlset>

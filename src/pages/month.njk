@@ -1,0 +1,32 @@
+---
+layout: layouts/archive.njk
+pagination:
+  data: collections.daysByMonth
+  size: 1
+  alias: monthEntry
+permalink: "/archive/by_date/{{ monthEntry[0] | replace('-', '/') }}/"
+eleventyComputed:
+  title: "{{ (monthEntry[0] | split('-'))[1] | monthName }} {{ (monthEntry[0] | split('-'))[0] }}"
+---
+{% set yearMonth = monthEntry[0] %}
+{% set days = monthEntry[1] %}
+{% set parts = yearMonth | split("-") %}
+{% set year = parts[0] %}
+{% set month = parts[1] %}
+
+<h1>{{ month | monthName }} {{ year }}</h1>
+
+{% for day in days %}
+<article class="day-block">
+  <header class="day-block-header">
+    <h2><a href="{{ day.url }}">{{ day.data.title }}</a></h2>
+    <time datetime="{{ day.date | isoDate }}">{{ day.date | readableDate }}</time>
+  </header>
+  <div class="day-block-content">
+    {{ day.content | safe }}
+  </div>
+</article>
+{% if not loop.last %}<hr class="day-separator">{% endif %}
+{% endfor %}
+
+<p><a href="/archive/by_date/{{ year }}/">&larr; Back to {{ year }}</a></p>

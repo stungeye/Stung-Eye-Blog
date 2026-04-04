@@ -1,0 +1,9 @@
+---
+date: 2002-09-27 16:23:56
+title: Like Bubble Gum On A Celebrities Shoe
+permalink: /archive/by_date/2002/09/27/
+---
+
+I don't often watch TV. When I do watch, I end up getting freaked out by our cultures continuing obsession with beauty, youth and celebrity. When was it decided that watching a movie star pick gum off the bottom of their shoe was time well spent? Sometimes I get scared about the future... Then I turn off the TV, hug my girlfriend, pet my bunnies and smile.<BR>
+So October keeps getting better! The <a href="http://www.sendandreceive.org/main.htm" target=_blank>send & receive festival</a> is taking place from October 18 - 25. Lots of very interesting experimental and avant garde music and film. On October 20th as part of send & receive,  <A HREF=http://www.allmusic.com/cg/amg.dll?p=amg&opt1=1&sql=amon|tobin onMouseOver="window.status='Search allmusic.com for Amon Tobin\'s entry';return true" onMouseOut="window.status='';return true" target=_blank>Amon Tobin</A> (aka Cujo) will be @ <a href="http://www.pyramid7.com" target=_blank>the Pyramid</a> with <A HREF=http://www.allmusic.com/cg/amg.dll?p=amg&opt1=1&sql=Prefuse|73 onMouseOver="window.status='Search allmusic.com for Prefuse 73\'s entry';return true" onMouseOut="window.status='';return true" target=_blank>Prefuse 73</A>, <A HREF=http://www.allmusic.com/cg/amg.dll?p=amg&opt1=1&sql=P|Love onMouseOver="window.status='Search allmusic.com for P Love\'s entry';return true" onMouseOut="window.status='';return true" target=_blank>P Love</A> and <A HREF=http://www.allmusic.com/cg/amg.dll?p=amg&opt1=1&sql=Bonobo onMouseOver="window.status='Search allmusic.com for Bonobo\'s entry';return true" onMouseOut="window.status='';return true" target=_blank>Bonobo</a>.<BR>
+I'm looking forward to music, friends and smiles tonight!
