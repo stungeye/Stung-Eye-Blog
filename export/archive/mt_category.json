@@ -1,0 +1,182 @@
+[
+    {
+        "category_id": "1",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "Test",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    },
+    {
+        "category_id": "5",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "Site News",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    },
+    {
+        "category_id": "3",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "Old Uncategorized Archives",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    },
+    {
+        "category_id": "4",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "Meme Propagation",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    },
+    {
+        "category_id": "6",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "Personal",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    },
+    {
+        "category_id": "7",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "Language",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    },
+    {
+        "category_id": "8",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "Music",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    },
+    {
+        "category_id": "9",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "Writing",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    },
+    {
+        "category_id": "10",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "Photo",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    },
+    {
+        "category_id": "11",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "Travel",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    },
+    {
+        "category_id": "12",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "Sticker",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    },
+    {
+        "category_id": "13",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "Noosphere",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    },
+    {
+        "category_id": "14",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "Winnipeg",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    },
+    {
+        "category_id": "15",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "BeeBytes",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    },
+    {
+        "category_id": "16",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "Philosophy",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    },
+    {
+        "category_id": "17",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "Memory",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    },
+    {
+        "category_id": "18",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "Video",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    },
+    {
+        "category_id": "19",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "Sketch",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    },
+    {
+        "category_id": "20",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "Programming",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    },
+    {
+        "category_id": "21",
+        "category_blog_id": "1",
+        "category_allow_pings": null,
+        "category_label": "politics",
+        "category_description": null,
+        "category_author_id": "1",
+        "category_ping_urls": null
+    }
+]

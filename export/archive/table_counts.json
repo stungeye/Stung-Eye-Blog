@@ -1,0 +1,57 @@
+{
+    "items": {
+        "exists": true,
+        "row_count": 806,
+        "path": "export/archive/items.json"
+    },
+    "items_back": {
+        "exists": true,
+        "row_count": 780,
+        "path": "export/archive/items_back.json"
+    },
+    "items_back_mid": {
+        "exists": true,
+        "row_count": 780,
+        "path": "export/archive/items_back_mid.json"
+    },
+    "items_back_mid2": {
+        "exists": true,
+        "row_count": 780,
+        "path": "export/archive/items_back_mid2.json"
+    },
+    "mt_blog": {
+        "exists": true,
+        "row_count": 1,
+        "path": "export/archive/mt_blog.json"
+    },
+    "mt_author": {
+        "exists": true,
+        "row_count": 5,
+        "path": "export/archive/mt_author.json"
+    },
+    "mt_category": {
+        "exists": true,
+        "row_count": 20,
+        "path": "export/archive/mt_category.json"
+    },
+    "mt_placement": {
+        "exists": true,
+        "row_count": 505,
+        "path": "export/archive/mt_placement.json"
+    },
+    "mt_comment": {
+        "exists": true,
+        "row_count": 0,
+        "path": "export/archive/mt_comment.json"
+    },
+    "mt_trackback": {
+        "exists": true,
+        "row_count": 0,
+        "path": "export/archive/mt_trackback.json"
+    },
+    "mt_tbping": {
+        "exists": true,
+        "row_count": 0,
+        "path": "export/archive/mt_tbping.json"
+    }
+}
