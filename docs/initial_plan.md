@@ -9,6 +9,45 @@ reading experience.
 
 ---
 
+## Implementation Philosophy
+
+### Prefer
+
+- The smallest design that fully satisfies the spec
+- Explicit, readable code over clever or compressed code
+- Local reasoning over hidden coupling
+- Clear, well-defined seams that make future changes easier
+- Simple data flow that is easy to follow end-to-end
+
+### Avoid
+
+- Speculative abstractions
+- Unnecessary indirection or layers
+- Premature generalization
+- Introducing dependencies without clear benefit
+- "Magic" behavior that is not immediately obvious from reading the code
+
+### Structural Simplicity Matters
+
+Structural complexity naturally accumulates in a codebase over time. Left unchecked,
+that complexity makes every future change slower, riskier, and harder to reason about.
+This project should actively resist that drift.
+
+Choose simple, "boring" solutions when they meet the requirements. Favor
+straightforward code over flexible or extensible designs that are not currently needed.
+
+Some abstraction is of course required for clean, non-repetitive code. The test for
+whether an abstraction earns its place: does it make the code obviously simpler and
+easier to follow, or does it introduce indirection that a reader has to mentally
+unwrap? If the latter, prefer the direct approach.
+
+Clean structure and simple code improve readability for both humans and AI systems.
+This makes the codebase easier to understand, review, debug, and modify safely.
+
+The goal is not elegance through abstraction, but durability through clarity.
+
+---
+
 ## Site Identity
 
 - **Site title:** Stung Eye
