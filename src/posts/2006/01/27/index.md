@@ -6,7 +6,7 @@ permalink: /archive/by_date/2006/01/27/
 
 You're a CN worker tasked with painting over graffiti on freight trains. What do you do when you start to appreciate the art your paid to remove?
 
-[You take pictures](http://www.pegcity.com/html/modules.php?name=News&file=article&sid=875). That's right, a show that opened last night at the [Graffiti Gallery](http://www.graffitigallery.ca/) (109 Higgins Avenue Winnipeg, Manitoba) showcases photographs of ephemeral freight graf taken by various CN workers and local graf artists. It's worth the trip.
+[You take pictures](http://www.pegcity.com/html/modules.php?name=News&amp;file=article&amp;sid=875). That's right, a show that opened last night at the [Graffiti Gallery](http://www.graffitigallery.ca/) (109 Higgins Avenue Winnipeg, Manitoba) showcases photographs of ephemeral freight graf taken by various CN workers and local graf artists. It's worth the trip.
 
 \*\*\*
 

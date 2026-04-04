@@ -4,39 +4,73 @@ title: Ordered Chaos
 permalink: /archive/by_date/2004/02/09/
 ---
 
-<BR>
-<IMG border="0" SRC="http://www.stungeye.com/images/photos/wally/0204/9/mandel_T.jpg" ALT="Thumbnail Image of a black and white Mandelbrot Fractal"><BR>
-The above image is a black and white representation of a <a href="http://en.wikipedia.org/wiki/Mandelbrot_Set" target="_blank">Mandelbrot set</a>, (the worlds most famous fractal), that I generated using Flash MX 2004. Chances are, you've seen one before. I saw one for the first time in the early 90s and it wasn't until today that I really understood how they were generated. I spent 6 hours today experimenting with this fractal in Flash.<BR>
-<i>For the lay person:</i><BR>
-Imagine the Mandelbrot set as a cage for numbers. Once placed inside the cage, certain numbers can escape very easily, others have to struggle to escape, and some are doomed to remain for eternity. In the above image, these forever 'trapped' numbers are shown in white.<BR>
-<i>For the geeks:</i><BR>
-The Mandelbrot cage wasn't designed for everyday numbers like 16 or 42. No, this cage was designed to trap numbers with imaginary components. The imaginary unit is i, where i is the square root of -1. ( i * i = -1. This is why we call it imaginary, for no real number multiplied by itself can yield a negative result.)<BR>
-A complex number is one which has both a Real and Imaginary component, a + ib. (Where 'a' is the real component and 'b' is the imaginary component.) Complex numbers are added and multiplied differently than Real Numbers. Let's say I have two complex number, N and G, where N = a + ib and G = c + id:<BR>
+<img border="0" src="http://www.stungeye.com/images/photos/wally/0204/9/mandel_T.jpg" alt="Thumbnail Image of a black and white Mandelbrot Fractal">
+
+The above image is a black and white representation of a <a href="http://en.wikipedia.org/wiki/Mandelbrot_Set" target="_blank">Mandelbrot set</a>, (the worlds most famous fractal), that I generated using Flash MX 2004. Chances are, you've seen one before. I saw one for the first time in the early 90s and it wasn't until today that I really understood how they were generated. I spent 6 hours today experimenting with this fractal in Flash.
+
+<i>For the lay person:</i>
+
+Imagine the Mandelbrot set as a cage for numbers. Once placed inside the cage, certain numbers can escape very easily, others have to struggle to escape, and some are doomed to remain for eternity. In the above image, these forever 'trapped' numbers are shown in white.
+
+<i>For the geeks:</i>
+
+The Mandelbrot cage wasn't designed for everyday numbers like 16 or 42. No, this cage was designed to trap numbers with imaginary components. The imaginary unit is i, where i is the square root of -1. ( i * i = -1. This is why we call it imaginary, for no real number multiplied by itself can yield a negative result.)
+
+A complex number is one which has both a Real and Imaginary component, a + ib. (Where 'a' is the real component and 'b' is the imaginary component.) Complex numbers are added and multiplied differently than Real Numbers. Let's say I have two complex number, N and G, where N = a + ib and G = c + id:
+
 N + G = (a + c) + i(b + d)
-N * G = ac &#8722; bd + i (bc + ad)<BR>
-For more information on complex numbers <a href="http://en.wikipedia.org/wiki/Complex_numbers" target="_blank">look here</a>.<BR>
-Our fractal image is built on a grid of complex numbers where the horizontal x axis represents the Real components and the vertical y axis represents the Imaginary components. The Mandelbrot set lives within the region defined by: -3 < x < 2 and -2 < y 2. (Let's call this the Mandelbrot Plane.)<BR>
-The mathematical cage is defined as follows:<BR>
+N * G = ac − bd + i (bc + ad)
+
+For more information on complex numbers <a href="http://en.wikipedia.org/wiki/Complex_numbers" target="_blank">look here</a>.
+
+Our fractal image is built on a grid of complex numbers where the horizontal x axis represents the Real components and the vertical y axis represents the Imaginary components. The Mandelbrot set lives within the region defined by: -3 &lt; x &lt; 2 and -2 &lt; y 2. (Let's call this the Mandelbrot Plane.)
+
+The mathematical cage is defined as follows:
+
 1 - Let C be a complex number within the Mandelbrot Plane.
 2 - Let Z = 0.
 3 - Find the next value of Z according to this formula: Znew = Zold * Zold + C
-4 - Repeat step 3 until Z falls outside of the Mandelbrot Plane (i.e. the number escaped from our cage)<BR>
-<I>(If Z is truly trapped in our cage we will be able to repeat step 3 infinitely. Therefore, we can assume that our point C belongs inside of the Mandelbrot Set after a fixed number of iterations has been performed. In my flash experiments below, I used a maximum iteration value of 20.)</I><BR>
-***<BR>
-I wrote a collection of Flash Mandelbrot generators today using Actionscript 2.0. I created the first four demos before I realized that I could halve the processing time by assuming that the fractal was symmetrical. Flash was not designed for this kind of number crunching. (Time to learn <a href="http://processing.org/" target="_blank">processing</a> for Java). Please note that images generated by these Flash applets are highly simplified representations of the Mandelbrot set. This is due to both their scale as well as the maximum iteration value I chose. (For a more detailed view visit the <a href="http://aleph0.clarku.edu/~djoyce/julia/explorer.html" target="_blank">Julia and Mandelbrot Set Explorer</a>.)<BR><BR>
-<B><I>Note:If you have a slow computer or if you are fairly impatient you can skip the Flash experiments and download an image of their rendered output.</I></B><BR><BR>
+4 - Repeat step 3 until Z falls outside of the Mandelbrot Plane (i.e. the number escaped from our cage)
+
+<i>(If Z is truly trapped in our cage we will be able to repeat step 3 infinitely. Therefore, we can assume that our point C belongs inside of the Mandelbrot Set after a fixed number of iterations has been performed. In my flash experiments below, I used a maximum iteration value of 20.)</i>
+
+***
+
+I wrote a collection of Flash Mandelbrot generators today using Actionscript 2.0. I created the first four demos before I realized that I could halve the processing time by assuming that the fractal was symmetrical. Flash was not designed for this kind of number crunching. (Time to learn <a href="http://processing.org/" target="_blank">processing</a> for Java). Please note that images generated by these Flash applets are highly simplified representations of the Mandelbrot set. This is due to both their scale as well as the maximum iteration value I chose. (For a more detailed view visit the <a href="http://aleph0.clarku.edu/~djoyce/julia/explorer.html" target="_blank">Julia and Mandelbrot Set Explorer</a>.)
+
+
+<b><i>Note:If you have a slow computer or if you are fairly impatient you can skip the Flash experiments and download an image of their rendered output.</i></b>
+
+
 In these first two examples the 'trapped' Mandelbrot numbers are shown in black. The other numbers are displayed in blue according to how fast they escaped from the cage. (The larger and brighter the pixel, the quicker it was able to escape.)
-<BR>
-<a HREF="#" border=0 onMouseOver="window.status='Click to listen to the Scaled Pixel Low Rez in another window';return true" onMouseOut="window.status='';return true" onClick="display_flash('http://www.stungeye.com/flash/0204/9/scaledToAlpha.swf','Scaled Pixels - Low Rez',480,660);return false;">Sideways Mandelbrot with Pixel Scaling and Shading. (Low Rez)</a> - <A HREF="#" border=0 onMouseOver="window.status='Click to view sample images in another window';return true" onMouseOut="window.status='';return true" onClick="display_image('http://www.stungeye.com/images/photos/wally/0204/9/scaledToAlpha.jpg','Pre-Rendered',481,639);return false;">Pre-rendered image</A><BR>
-<a HREF="#" border=0 onMouseOver="window.status='Click to listen to the Scaled Pixel High Rez in another window';return true" onMouseOut="window.status='';return true" onClick="display_flash('http://www.stungeye.com/flash/0204/9/scaledToAlphaHigh.swf','Scaled Pixels - High Rez',480,660);return false;">Sideways Mandelbrot with Pixel Scaling and Shading. (High Rez)</a> - <A HREF="#" border=0 onMouseOver="window.status='Click to view sample images in another window';return true" onMouseOut="window.status='';return true" onClick="display_image('http://www.stungeye.com/images/photos/wally/0204/9/scaledToAlphaHigh.jpg','Pre-Rendered',480,638);return false;">Pre-rendered image</A><BR><BR>
-These two examples are identical to the previous two, other than the fact that the pixel scaling is now random. (Pseudo-Random)<BR>
-<a HREF="#" border=0 onMouseOver="window.status='Click to listen to the Random Scale Low Rez in another window';return true" onMouseOut="window.status='';return true" onClick="display_flash('http://www.stungeye.com/flash/0204/9/randomPixelScale.swf','Randomly Scaled Pixels - Low Rez',480,660);return false;">Sideways Mandelbrot with Random Pixel Scaling. (Low Rez)</a> - <A HREF="#" border=0 onMouseOver="window.status='Click to view sample images in another window';return true" onMouseOut="window.status='';return true" onClick="display_image('http://www.stungeye.com/images/photos/wally/0204/9/randomPixelScale.jpg','Pre-Rendered',479,639);return false;">Pre-rendered image</A><BR>
-<a HREF="#" border=0 onMouseOver="window.status='Click to listen to the Random Scale High Rez in another window';return true" onMouseOut="window.status='';return true" onClick="display_flash('http://www.stungeye.com/flash/0204/9/randomPixelScaleHigh.swf','Randomly Scaled Pixels - High Rez',480,660);return false;">Sideways Mandelbrot with Random Pixel Scaling. (High Rez)</a> - <A HREF="#" border=0 onMouseOver="window.status='Click to view sample images in another window';return true" onMouseOut="window.status='';return true" onClick="display_image('http://www.stungeye.com/images/photos/wally/0204/9/randomPixelScaleHigh.jpg','Pre-Rendered',479,639);return false;">Pre-rendered image</A><BR><BR>
-Using white circular pixels. (Scaling and brightness are again determined by escape speed.)<BR>
-<a HREF="#" border=0 onMouseOver="window.status='Click to listen to the Circular Scale Low Rez in another window';return true" onMouseOut="window.status='';return true" onClick="display_flash('http://www.stungeye.com/flash/0204/9/circularScale.swf','Circular Scaled Pixels - Low Rez',500,660);return false;">Sideways Mandelbrot with Circular Pixel Scaling. (Low Rez)</a> - <A HREF="#" border=0 onMouseOver="window.status='Click to view sample images in another window';return true" onMouseOut="window.status='';return true" onClick="display_image('http://www.stungeye.com/images/photos/wally/0204/9/circularScale.jpg','Pre-Rendered',500,640);return false;">Pre-rendered image</A><BR>
-<a HREF="#" border=0 onMouseOver="window.status='Click to listen to the Circular Scale High Rez in another window';return true" onMouseOut="window.status='';return true" onClick="display_flash('http://www.stungeye.com/flash/0204/9/circularScaleHigh.swf','Circular Scaled Pixels - High Rez',484,660);return false;">Sideways Mandelbrot with Circular Pixel Scaling. (High Rez)</a> - <A HREF="#" border=0 onMouseOver="window.status='Click to view sample images in another window';return true" onMouseOut="window.status='';return true" onClick="display_image('http://www.stungeye.com/images/photos/wally/0204/9/circularScaleHigh.jpg','Pre-Rendered',484,637);return false;">Pre-rendered image</A><BR><BR>
-A more 'classical' looking Mandelbrot, where the pixel colour represents the escape speed.<BR>
-<a HREF="#" border=0 onMouseOver="window.status='Click to listen to the Coloured Circular Scale in another window';return true" onMouseOut="window.status='';return true" onClick="display_flash('http://www.stungeye.com/flash/0204/9/circularScaleColourHigh.swf','Colour Circular Scaled Pixels - Low Rez',485,660);return false;">Sideways Mandelbrot with Colour Circular Pixel Scaling.</a> - <A HREF="#" border=0 onMouseOver="window.status='Click to view sample images in another window';return true" onMouseOut="window.status='';return true" onClick="display_image('http://www.stungeye.com/images/photos/wally/0204/9/circularScaleColourHigh.jpg','Pre-Rendered',485,638);return false;">Pre-rendered image</A><BR><BR>
-<A HREF="#" border=0 onMouseOver="window.status='Click to view sample images in another window';return true" onMouseOut="window.status='';return true" onClick="display_image('http://www.stungeye.com/images/photos/wally/0204/9/gluttonbrots.jpg','Some Gluttonbrots',640,581);return false;">Click here to see some Mandelbrot images I generated using Flash and Photoshop.</A><BR>
-***<BR>
-In my last post I mentioned the <a href="http://www.complexification.net/gallery/machines/buddahbrot/" target="_blank">Buddhabrot</a>, a sideways Mandelbrot which resembles an image of the Buddha sitting in meditation. This Buddhabrot is generated using the same mathematical 'trap' I described above. However, <I>"If the [complex number] escapes [from the trap] [...], its path is reiterated, exposing its position onto the image surface with each step. In this fashion, areas of dense particle travel appear bright white."</I> In other words, the Buddhabrot is a visualization of the escape path of all the points which <i>don't</i> belong in a Mandelbrot set. Cool!
+
+
+<a href="#" border="0" onmouseover="window.status='Click to listen to the Scaled Pixel Low Rez in another window';return true" onmouseout="window.status='';return true" onclick="display_flash('http://www.stungeye.com/flash/0204/9/scaledToAlpha.swf','Scaled Pixels - Low Rez',480,660);return false;">Sideways Mandelbrot with Pixel Scaling and Shading. (Low Rez)</a> - <a href="#" border="0" onmouseover="window.status='Click to view sample images in another window';return true" onmouseout="window.status='';return true" onclick="display_image('http://www.stungeye.com/images/photos/wally/0204/9/scaledToAlpha.jpg','Pre-Rendered',481,639);return false;">Pre-rendered image</a>
+
+<a href="#" border="0" onmouseover="window.status='Click to listen to the Scaled Pixel High Rez in another window';return true" onmouseout="window.status='';return true" onclick="display_flash('http://www.stungeye.com/flash/0204/9/scaledToAlphaHigh.swf','Scaled Pixels - High Rez',480,660);return false;">Sideways Mandelbrot with Pixel Scaling and Shading. (High Rez)</a> - <a href="#" border="0" onmouseover="window.status='Click to view sample images in another window';return true" onmouseout="window.status='';return true" onclick="display_image('http://www.stungeye.com/images/photos/wally/0204/9/scaledToAlphaHigh.jpg','Pre-Rendered',480,638);return false;">Pre-rendered image</a>
+
+
+These two examples are identical to the previous two, other than the fact that the pixel scaling is now random. (Pseudo-Random)
+
+<a href="#" border="0" onmouseover="window.status='Click to listen to the Random Scale Low Rez in another window';return true" onmouseout="window.status='';return true" onclick="display_flash('http://www.stungeye.com/flash/0204/9/randomPixelScale.swf','Randomly Scaled Pixels - Low Rez',480,660);return false;">Sideways Mandelbrot with Random Pixel Scaling. (Low Rez)</a> - <a href="#" border="0" onmouseover="window.status='Click to view sample images in another window';return true" onmouseout="window.status='';return true" onclick="display_image('http://www.stungeye.com/images/photos/wally/0204/9/randomPixelScale.jpg','Pre-Rendered',479,639);return false;">Pre-rendered image</a>
+
+<a href="#" border="0" onmouseover="window.status='Click to listen to the Random Scale High Rez in another window';return true" onmouseout="window.status='';return true" onclick="display_flash('http://www.stungeye.com/flash/0204/9/randomPixelScaleHigh.swf','Randomly Scaled Pixels - High Rez',480,660);return false;">Sideways Mandelbrot with Random Pixel Scaling. (High Rez)</a> - <a href="#" border="0" onmouseover="window.status='Click to view sample images in another window';return true" onmouseout="window.status='';return true" onclick="display_image('http://www.stungeye.com/images/photos/wally/0204/9/randomPixelScaleHigh.jpg','Pre-Rendered',479,639);return false;">Pre-rendered image</a>
+
+
+Using white circular pixels. (Scaling and brightness are again determined by escape speed.)
+
+<a href="#" border="0" onmouseover="window.status='Click to listen to the Circular Scale Low Rez in another window';return true" onmouseout="window.status='';return true" onclick="display_flash('http://www.stungeye.com/flash/0204/9/circularScale.swf','Circular Scaled Pixels - Low Rez',500,660);return false;">Sideways Mandelbrot with Circular Pixel Scaling. (Low Rez)</a> - <a href="#" border="0" onmouseover="window.status='Click to view sample images in another window';return true" onmouseout="window.status='';return true" onclick="display_image('http://www.stungeye.com/images/photos/wally/0204/9/circularScale.jpg','Pre-Rendered',500,640);return false;">Pre-rendered image</a>
+
+<a href="#" border="0" onmouseover="window.status='Click to listen to the Circular Scale High Rez in another window';return true" onmouseout="window.status='';return true" onclick="display_flash('http://www.stungeye.com/flash/0204/9/circularScaleHigh.swf','Circular Scaled Pixels - High Rez',484,660);return false;">Sideways Mandelbrot with Circular Pixel Scaling. (High Rez)</a> - <a href="#" border="0" onmouseover="window.status='Click to view sample images in another window';return true" onmouseout="window.status='';return true" onclick="display_image('http://www.stungeye.com/images/photos/wally/0204/9/circularScaleHigh.jpg','Pre-Rendered',484,637);return false;">Pre-rendered image</a>
+
+
+A more 'classical' looking Mandelbrot, where the pixel colour represents the escape speed.
+
+<a href="#" border="0" onmouseover="window.status='Click to listen to the Coloured Circular Scale in another window';return true" onmouseout="window.status='';return true" onclick="display_flash('http://www.stungeye.com/flash/0204/9/circularScaleColourHigh.swf','Colour Circular Scaled Pixels - Low Rez',485,660);return false;">Sideways Mandelbrot with Colour Circular Pixel Scaling.</a> - <a href="#" border="0" onmouseover="window.status='Click to view sample images in another window';return true" onmouseout="window.status='';return true" onclick="display_image('http://www.stungeye.com/images/photos/wally/0204/9/circularScaleColourHigh.jpg','Pre-Rendered',485,638);return false;">Pre-rendered image</a>
+
+
+<a href="#" border="0" onmouseover="window.status='Click to view sample images in another window';return true" onmouseout="window.status='';return true" onclick="display_image('http://www.stungeye.com/images/photos/wally/0204/9/gluttonbrots.jpg','Some Gluttonbrots',640,581);return false;">Click here to see some Mandelbrot images I generated using Flash and Photoshop.</a>
+
+***
+
+In my last post I mentioned the <a href="http://www.complexification.net/gallery/machines/buddahbrot/" target="_blank">Buddhabrot</a>, a sideways Mandelbrot which resembles an image of the Buddha sitting in meditation. This Buddhabrot is generated using the same mathematical 'trap' I described above. However, <i>"If the [complex number] escapes [from the trap] [...], its path is reiterated, exposing its position onto the image surface with each step. In this fashion, areas of dense particle travel appear bright white."</i> In other words, the Buddhabrot is a visualization of the escape path of all the points which <i>don't</i> belong in a Mandelbrot set. Cool!

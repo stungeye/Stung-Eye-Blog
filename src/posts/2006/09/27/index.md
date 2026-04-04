@@ -6,13 +6,14 @@ permalink: /archive/by_date/2006/09/27/
 
 ## Stat Attack
 
-<img src="http://stungeye.com/images/statsSept2006.jpg" alt="Stats as of 27 Sept. 2006" title="Stats as of 27 Sept. 2006" style="border: solid 2px #902400;" />
+<img src="http://stungeye.com/images/statsSept2006.jpg" alt="Stats as of 27 Sept. 2006" title="Stats as of 27 Sept. 2006" style="border: solid 2px #902400;">
 
-The above [SparkLines](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR&topic_id=1&topic=) illustrate the posting activity on this blog since it began on August 18, 2002.
+The above [SparkLines](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR&amp;topic_id=1&amp;topic=) illustrate the posting activity on this blog since it began on August 18, 2002.
 
 2003 was my "year of the blog". ;)
 
-These images are generated live via some custom Javascript on the [archives page](http://stungeye.com/archives/).<br/>
+These images are generated live via some custom Javascript on the [archives page](http://stungeye.com/archives/).
+
 (Developed using Firefox. IE support is iffy. If you want to see the code, dig around.)
 
 [Dazzle's stats](http://justdazzle.com/archives.html) are available too.
@@ -31,8 +32,9 @@ Some love:
 
 ---
 
-<a href="http://www.flickr.com/photos/44124420549@N01/253863832/" title="Click for hi-res" target="_blank"><img src="http://static.flickr.com/106/253863832_44d37cecbd.jpg" alt="" style="border: solid 2px #000000;" /></a>
-<br/>
+<a href="http://www.flickr.com/photos/44124420549@N01/253863832/" title="Click for hi-res" target="_blank"><img src="http://static.flickr.com/106/253863832_44d37cecbd.jpg" alt="" style="border: solid 2px #000000;"></a>
+
+
 Above @ Forks, Winnipeg, 2006
 
 Other summer shots:

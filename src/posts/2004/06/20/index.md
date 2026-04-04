@@ -6,7 +6,7 @@ permalink: /archive/by_date/2004/06/20/
 
 My hard-drive is dying. When I try to access certain files it goes: Clickclickclickclickclickclicklclick. Next, the computer freezes and I have to run scandisk to repair the bad sectors. MS Outlook went first. Messenger was second. Now explorer.exe is randomly clicking and crashing! 
 
-Luckily, the HD is under warranty. But what a pain in the arse: Remove HD -> Mail to IBM -> Wait -> Receive new HD -> Full Reinstall. Arg.
+Luckily, the HD is under warranty. But what a pain in the arse: Remove HD -&gt; Mail to IBM -&gt; Wait -&gt; Receive new HD -&gt; Full Reinstall. Arg.
 
 ***
 

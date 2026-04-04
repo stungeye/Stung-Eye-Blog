@@ -6,7 +6,7 @@ permalink: /archive/by_date/2007/01/16/
 
 From the documentary [Before The Music Dies](http://www.beforethemusicdies.com/blog/about-the-film) (B4MD), *Creating A Pop Star*:
 
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/irk3_p15RJY"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/irk3_p15RJY" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/irk3_p15RJY"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/irk3_p15RJY" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></object>
 
 Related: [B4MD Trailer](http://www.beforethemusicdies.com/blog/watch-the-trailer)
 

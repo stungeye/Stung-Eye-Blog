@@ -6,15 +6,15 @@ permalink: /archive/by_date/2006/02/10/
 
 As I mentioned a [few days back](http://stungeye.com/archives/2006/02/left_behind.php), I sent the following via email to some friends, as well as to [ask.metafilter](http://ask.metafilter.com):
 
->According to [Leibniz](http://en.wikipedia.org/wiki/Leibniz), a theory must be simpler than the data it explains. In other words (for the nerds amongst us), understanding equals compression.
->
->I challenge you to help me understand this via a thought-experiment:
->
->Let's take two experiences we are all familiar with: [Pleasure](http://www.google.ca/search?q=define%3Apleasure) and [Pain](http://www.google.ca/search?q=define%3Apain).
->
->Explain the difference between these two experiences.
->
->There is (of course) no "correct" answer; however, I ask that you attempt to use as few words as possible to explain your answer.
+&gt;According to [Leibniz](http://en.wikipedia.org/wiki/Leibniz), a theory must be simpler than the data it explains. In other words (for the nerds amongst us), understanding equals compression.
+&gt;
+&gt;I challenge you to help me understand this via a thought-experiment:
+&gt;
+&gt;Let's take two experiences we are all familiar with: [Pleasure](http://www.google.ca/search?q=define%3Apleasure) and [Pain](http://www.google.ca/search?q=define%3Apain).
+&gt;
+&gt;Explain the difference between these two experiences.
+&gt;
+&gt;There is (of course) no "correct" answer; however, I ask that you attempt to use as few words as possible to explain your answer.
 
 I sent this email for many reason; the question itself being initially irrelevant.
 
@@ -32,54 +32,65 @@ There were also a signification number of responses that called my question into
 
 In some cases I've combined similar comments to avoid repeats. Comments were also edited (in certain cases) for spelling, grammar, and length.
 
-<br/>**Perception**
 
-Pain is generally an aversive stimuli, pleasure a reinforcing one.  Of course if you ask an S&M aficionado they'd likely disagree.  Short answer, the difference is perception.
+**Perception**
 
-Pleasure - all things desired and the feelings gained from them.<br/>
+Pain is generally an aversive stimuli, pleasure a reinforcing one.  Of course if you ask an S&amp;M aficionado they'd likely disagree.  Short answer, the difference is perception.
+
+Pleasure - all things desired and the feelings gained from them.
+
 Pain - all things undesired and the feelings gained from them.
 
-Pleasure - positive emotional response (to some stimuli)<br/>
+Pleasure - positive emotional response (to some stimuli)
+
 Pain - negative emotional response (to some stimuli)
 
-Pleasure - the result of a stimulus that causes the brain to want to re-enforce the input.<br/>
+Pleasure - the result of a stimulus that causes the brain to want to re-enforce the input.
+
 Pain - the result of a stimulus that causes the brain to want to diminish the input.
 
 Pleasure rewards, pain punishes.
 
 Pleasure and pain are the neurocognitive functions that have evolved in the brain to reward or punish behaviors that are likely to increase or decrease an animal's procreative success. Pleasure is the reward, and pain the punishment, and that's the only objective difference.
 
-<br/>**Relativity**
+
+**Relativity**
 
 Pleasure is the opposite of Pain.
 
-Pain and pleasure are relative. To fully understand & appreciate either, we have to experience both.
+Pain and pleasure are relative. To fully understand &amp; appreciate either, we have to experience both.
 
 It's entirely possible that the whole distinction is fictitious, that there are no poles or unmixed feelings, but a continuity, pleasure tinged with pain and vice versa.
 
-<br/>**Example**
+
+**Example**
 
 Pleasure is a beer, pain is the hangover.
 
-Pleasure = icecream<br/>
+Pleasure = icecream
+
 Pain = burning it off on the elliptical trainer.
 
 Pleasure and pain can be both good and bad. Pleasure can be joyful, a flower, or it could get you in trouble, Bill Clinton. Pain can hurt and that is usually negative, but it can also teach. Once bitten twice shy. fire=danger. No pain no gain.
 
-<br/>**Linguistics**
 
-Pain: Ow!<br/>
+**Linguistics**
+
+Pain: Ow!
+
 Pleasure: Oh!
 
 Only difference I can see is in the spelling; pleasure (P-L-E-A-S-U-R-E) vs. pain (P.A.I.N).
 
-<br/>**Links**
 
-You might be interested in the "[Define blah in 10 words or less](http://www.google.com/search?q=%2210%20words%20or%20less%22%20site%3A37signals.com&hl=en)" [google.com] series that [37 Signals](http://www.37signals.com/) run(s) at their [blog](http://www.37signals.com/svn/).
+**Links**
+
+You might be interested in the "[Define blah in 10 words or less](http://www.google.com/search?q=%2210%20words%20or%20less%22%20site%3A37signals.com&amp;hl=en)" [google.com] series that [37 Signals](http://www.37signals.com/) run(s) at their [blog](http://www.37signals.com/svn/).
 
 [Usual-stories on the Tree of Life](http://robotwisdom2.blogspot.com/2006/01/usual-stories-on-tree-of-life.html)
 
-<br/>**Questioning the Question**
+
+**Questioning the Question**
 
 A theory doesn't just rehash data; it elucidates a pattern in it.
 
@@ -105,7 +116,8 @@ Rules and theories are good but don't put too much faith in them - just as much 
 
 I disagree with your premise. The main value of theories is to help us link and organize other data and theories into a corpus, which can then be conveniently "walked" both from the specfic to the general (induction), and from the general to the specific (deduction). There is no point in developing an infinity of disconnected theories over an infinity of data sets, if the theories don't build into something still greater and more abstract; that greater thing being human knowledge.
 
-<br/>**Conclusion**
+
+**Conclusion**
 
 I was overwhelmed by the number of responses, the variety of views presented, and the constructive criticism.
 
@@ -113,7 +125,8 @@ Thanks to the criticism, I now see that my choice of highly personal and polariz
 
 We must all remember that although science is often presented as fact, it remains an ever-changing man-made model; one which is open to, and thrives on, questioning and debate. 
 
-Learn to Question.<br/>
+Learn to Question.
+
 *Question to Learn.*
 
 And on that note: [Does time, as a dimension, actually exist](http://www.rebelscience.org/Crackpots/notorious.htm)?

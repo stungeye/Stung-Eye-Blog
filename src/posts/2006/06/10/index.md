@@ -8,13 +8,13 @@ Michael Berg is the father of Nicholas Berg, an American businessman believed to
 
 When asked about the <acronym title="Intentionally killing, with premeditation.">murder</acronym> of al-Zarqawi by US forces, Michael Berg had this to say:
 
->Well, my reaction is I'm sorry whenever any human being dies. Zarqawi is a human being. He has a family who are reacting just as my family reacted when Nick was killed, and I feel bad for that. 
->
->I feel doubly bad, though, because Zarqawi is also a political figure, and his death will re-ignite yet another wave of revenge, and revenge is something that I do not follow, that I do want ask for, that I do not wish for against anybody. And it can't end the cycle. As long as people use violence to combat violence, we will always have violence.
+&gt;Well, my reaction is I'm sorry whenever any human being dies. Zarqawi is a human being. He has a family who are reacting just as my family reacted when Nick was killed, and I feel bad for that. 
+&gt;
+&gt;I feel doubly bad, though, because Zarqawi is also a political figure, and his death will re-ignite yet another wave of revenge, and revenge is something that I do not follow, that I do want ask for, that I do not wish for against anybody. And it can't end the cycle. As long as people use violence to combat violence, we will always have violence.
 
 The [full text is available on Cnn.com](http://www.cnn.com/2006/WORLD/meast/06/08/berg.interview/). 
 
-A video of the interview was shown, in full on CNN, the morning of June 8th. Portions of the interview have in rotation since then, with [the most provocative ideas absent](http://www.globalresearch.ca/index.php?context=viewArticle&code=FLE20060608&articleId=2608).  
+A video of the interview was shown, in full on CNN, the morning of June 8th. Portions of the interview have in rotation since then, with [the most provocative ideas absent](http://www.globalresearch.ca/index.php?context=viewArticle&amp;code=FLE20060608&amp;articleId=2608).  
 
 \* \* \*
 

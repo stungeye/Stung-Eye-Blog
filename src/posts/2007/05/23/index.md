@@ -36,6 +36,6 @@ permalink: /archive/by_date/2007/05/23/
 
 # EcoLanguage #
 
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/-QI1iuAvTKE"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/-QI1iuAvTKE" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/-QI1iuAvTKE"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/-QI1iuAvTKE" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></object>
 
 ^ [More Ecolanguage Lessons...](http://youtube.com/profile_videos?user=leearnold)

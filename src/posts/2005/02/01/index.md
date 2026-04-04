@@ -20,7 +20,7 @@ For the curious: We got general admission, stand-up-and-jump-around at-the-front
 
 Last Wednesday I met my first computer repair customer. Friday night, I met another, and yesterday, a third. All problems were solved, (1: Ancient modem short-circuiting the motherboard, 2: Loads of spyware and viruses, 3: Webpage advice and instruction). 
 
-I designed <A HREF="http://www.stungeye.com/drtech/special.php" target="_blank">a new flyer for the business</A>, (the first wasn't as enticing, and included a spelling mistake) and posted a classified ad in the <A href="http://www.amsterdamweekly.nl/" target="_blank">Amsterdam Weekly</A>. The ad brought the second and third customers; the first found my number on the bulletin-board of our neighborhood grocery store. Each customer was supplied with some flyers for friends and family. The remaining flyers were distributed by my parents as they explored the city.
+I designed <a href="http://www.stungeye.com/drtech/special.php" target="_blank">a new flyer for the business</a>, (the first wasn't as enticing, and included a spelling mistake) and posted a classified ad in the <a href="http://www.amsterdamweekly.nl/" target="_blank">Amsterdam Weekly</a>. The ad brought the second and third customers; the first found my number on the bulletin-board of our neighborhood grocery store. Each customer was supplied with some flyers for friends and family. The remaining flyers were distributed by my parents as they explored the city.
 
 My quest for full-time employment continues, having sent my resume to many IT companies, and multilingual employment agencies.
 
@@ -28,8 +28,8 @@ Shannon was disappointed as she was not asked for a second interview with Boom C
 
 ***
 
-In September I posted this <A href="http://stungeye.com/archives/2004/09/maki.php">scan of a sticker from Ottawa</A>. A fellow named James has posted <a href="http://www.flickr.com/photos/jmacaulay/sets/102883/" target="_blank">a collection of Maki sticker on Flikr</A>. Check it.
+In September I posted this <a href="http://stungeye.com/archives/2004/09/maki.php">scan of a sticker from Ottawa</a>. A fellow named James has posted <a href="http://www.flickr.com/photos/jmacaulay/sets/102883/" target="_blank">a collection of Maki sticker on Flikr</a>. Check it.
 
-I have posted <A HREF="http://stungeye.com/structured/2005/01/all-out-of-order.html" target="_blank">a short story about a weather man</A> to my fiction blog, <a href="http://stungeye.com/structured/" target="_blank">structured thought</A>.
+I have posted <a href="http://stungeye.com/structured/2005/01/all-out-of-order.html" target="_blank">a short story about a weather man</a> to my fiction blog, <a href="http://stungeye.com/structured/" target="_blank">structured thought</a>.
 
 The wind here is strong, and the weather changes rapidly. The sun has just appeared, banishing the grey skies that have oppressed us for the past week. Time to head outside.

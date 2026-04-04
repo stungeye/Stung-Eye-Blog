@@ -74,6 +74,17 @@ function stripScriptTags(html) {
     .trim();
 }
 
+/**
+ * Normalize legacy HTML: lowercase tags, quote attributes.
+ * Uses cheerio to parse and re-serialize the fragment.
+ */
+function normalizeHtml(html) {
+  if (!html) return "";
+  const $ = cheerioLoad(html, { xml: false, decodeEntities: false });
+  // cheerio serializes with lowercase tags and quoted attributes
+  return $("body").html() || "";
+}
+
 /** Escape YAML string value (wrap in quotes if needed). */
 function yamlString(str) {
   if (!str) return '""';
@@ -490,7 +501,17 @@ function renderMtEntry(entry, { includeTitle = false } = {}) {
   body = stripScriptTags(body);
 
   // Strip Haloscan comment links (dead commenting service)
-  body = body.replace(/<BR\s*\/?>\s*<a\s+href="http:\/\/www\.haloscan\.com\/comments\.php[^"]*"[^>]*>Comments?(?:\s*\(\d+\))?<\/a>\s*(?:<BR\s*\/?>)?/gi, "");
+  body = body.replace(
+    /<BR\s*\/?>\s*<a\s+href="http:\/\/www\.haloscan\.com\/comments\.php[^"]*"[^>]*>Comments?(?:\s*\(\d+\))?<\/a>\s*(?:<BR\s*\/?>)?/gi,
+    "",
+  );
+
+  // Convert <BR><BR> to paragraph breaks (blank line) and <BR> to newlines
+  body = body.replace(/<br\s*\/?>\s*<br\s*\/?>/gi, "\n\n");
+  body = body.replace(/<br\s*\/?>/gi, "\n");
+
+  // Normalize legacy HTML (lowercase tags, quote attributes) via cheerio
+  body = normalizeHtml(body);
 
   // Strip trailing separator dashes (legacy MT formatting)
   body = body.replace(/\n?-{4,}\s*$/g, "");

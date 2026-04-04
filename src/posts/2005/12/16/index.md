@@ -20,22 +20,22 @@ We are capable of much more.
 
 \*\*\*
 
->[Le Parkour](http://en.wikipedia.org/wiki/Parkour) is a physical discipline of French origin, in which participants attempt to pass obstacles in a smooth and rapid manner. 
->
->Parkour is said to be *L'art du Deplacement*, consisting of uninterrupted forward motion over, under, around and through obstacles (both man-made and natural) in one's environment. Such movement may come in the form of running, jumping, climbing and other more complicated techniques. The goal of the practice of parkour is to be able to adapt one's movement to any given situation so that any obstacle can be overcome with the human body's abilities.
+&gt;[Le Parkour](http://en.wikipedia.org/wiki/Parkour) is a physical discipline of French origin, in which participants attempt to pass obstacles in a smooth and rapid manner. 
+&gt;
+&gt;Parkour is said to be *L'art du Deplacement*, consisting of uninterrupted forward motion over, under, around and through obstacles (both man-made and natural) in one's environment. Such movement may come in the form of running, jumping, climbing and other more complicated techniques. The goal of the practice of parkour is to be able to adapt one's movement to any given situation so that any obstacle can be overcome with the human body's abilities.
 
 Flipping, and other acrobatics, isn't part of pure Parkour. We'll call it FreeStyle Parkour.
 
 More (FreeStyle) Parkour videos:
 
-* [Parkour Documentary](http://video.google.com/videoplay?docid=-1854204693582154043&q=parkour) - David Belle ("father" of the sport) and the French Parkour scene.
-* [A Brothers Journey](http://video.google.com/videoplay?docid=1109524397094788304&q=brothers+journey)
+* [Parkour Documentary](http://video.google.com/videoplay?docid=-1854204693582154043&amp;q=parkour) - David Belle ("father" of the sport) and the French Parkour scene.
+* [A Brothers Journey](http://video.google.com/videoplay?docid=1109524397094788304&amp;q=brothers+journey)
 * [Urban-Style](http://video.google.com/videoplay?docid=-8140663665761261356) - Dutch Parkour
 
 If your ready to bounce off buildings, or to spin spin spin:
 
 * [FreeStyle Parkour Fundamentals](http://www.urbanfreeflow.com/fundamentals/fundamentals.htm)
-* [How to breakdance](http://video.google.com/videoplay?docid=-6326682566308001456&q=breakdancing) - Another video care of [Google Video](video.google.com).
+* [How to breakdance](http://video.google.com/videoplay?docid=-6326682566308001456&amp;q=breakdancing) - Another video care of [Google Video](video.google.com).
 
 Or, you can remain in front of your computer, and play this [Parkour video game from the CBC](http://www.cbc.ca/kids/games/freerun/).
 

@@ -10,17 +10,17 @@ Here's [what I told Steve about our vacation](http://dear.mr.harper.infogami.com
 
 \* \* \*
 
-* [The Dimensions of String Theory](http://www.tenthdimension.com/flash2.php) -> Choose _Imagining the Ten Dimensions_ from the Navigation menu
+* [The Dimensions of String Theory](http://www.tenthdimension.com/flash2.php) -&gt; Choose _Imagining the Ten Dimensions_ from the Navigation menu
 * [22 ComicBook panels that always work](http://homepage.mac.com/georgepratt/iblog/B44581127/C1898775419/E347695153/)
 * [Music for one apartment and six drummers](http://video.google.com/videoplay?docid=-8000409016826512649) (video)
 * [The Reagan Doctrine](http://www.positiveatheism.org/hist/asimov.htm)
-* [Pink Tentacle](http://www.pinktentacle.com/2006/07/gallery-of-fantastic-creatures/) -> Gallery of fantastic creatures
+* [Pink Tentacle](http://www.pinktentacle.com/2006/07/gallery-of-fantastic-creatures/) -&gt; Gallery of fantastic creatures
 * [MoodStats](http://www.moodstats.com/pages/about.asp)
 * [DavidWebber Artist](http://www.davidwebber.net/art.html)
-* [JohnPowers Artist](http://www.johnpowers.us/) -> Mmmmmmmmm symmetry
-* [Commentary on Kierkegaard](http://www.sorenkierkegaard.org/comment.htm) -> with some 8+ English translations of the Philosopher's work
-* [weonlycomeoutatnight](http://www.weonlycomeoutatnight.com/) -> Urban Monsters
-* [Building Gods](http://video.google.com/videoplay?docid=1079797626827646234) -> Rough cut of an Artificial Intelligence/TransHumanism documentary (video)
+* [JohnPowers Artist](http://www.johnpowers.us/) -&gt; Mmmmmmmmm symmetry
+* [Commentary on Kierkegaard](http://www.sorenkierkegaard.org/comment.htm) -&gt; with some 8+ English translations of the Philosopher's work
+* [weonlycomeoutatnight](http://www.weonlycomeoutatnight.com/) -&gt; Urban Monsters
+* [Building Gods](http://video.google.com/videoplay?docid=1079797626827646234) -&gt; Rough cut of an Artificial Intelligence/TransHumanism documentary (video)
 
 Speaking of AI, I've been reading [A Theory of Cognitivity for Artificial Intelligence](http://mind.sourceforge.net/theory5.html). The jargon can be demanding, but at times [my understanding of consciousness](http://stungeye.com/archives/2003/11/from_instincts.php) is rewarded through revelations.
 

@@ -26,6 +26,6 @@ See: [World Population @ Wikipedia](http://en.wikipedia.org/wiki/World_populatio
 
 *Update (29/10/07) - Comment from a friend on facebook:*
 
->"I think we need to see the country breakdown to remind us how lucky Canada is to play such an important role despite our small numbers. We are such a well-off nation (in so many ways)."
->
->["Map" of Population Size of Countries](http://www.xist.org/earth/gen_popsize.aspx)
+&gt;"I think we need to see the country breakdown to remind us how lucky Canada is to play such an important role despite our small numbers. We are such a well-off nation (in so many ways)."
+&gt;
+&gt;["Map" of Population Size of Countries](http://www.xist.org/earth/gen_popsize.aspx)

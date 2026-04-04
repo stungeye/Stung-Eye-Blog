@@ -13,10 +13,10 @@ Use the "Download Original" link or stream it from the player (it's the bottom t
 * Overdub - What a Wonderful Radiohead
 * David Bowie - Kooks
 * Cat Power - Wonderwall
-* Belle & Sebastian - The Fox in the Snow
-* Iron & Wine - Such Great Heights
+* Belle &amp; Sebastian - The Fox in the Snow
+* Iron &amp; Wine - Such Great Heights
 * Little Dragon - Twice
-* Ella F & Louis A - Summertime
+* Ella F &amp; Louis A - Summertime
 * D.R.I - Inspiration
 * Led Zeppelin - Bron-Yr-Aur
 * Air - Ce Matin La
@@ -28,9 +28,12 @@ Use the "Download Original" link or stream it from the player (it's the bottom t
 
 #Past Mixes
 
-**2007:** [Parental Mix](http://stungeye.com/archives/2007/05/turtle_shells.php)<br/>
-**2006:** [Look Up! Get Down!](http://stungeye.com/archives/2007/03/look_up_get_dow.php)<br/>
-**2005:** [Astro Mix](http://stungeye.com/archives/2006/12/astro_mix.php)<br/>
+**2007:** [Parental Mix](http://stungeye.com/archives/2007/05/turtle_shells.php)
+
+**2006:** [Look Up! Get Down!](http://stungeye.com/archives/2007/03/look_up_get_dow.php)
+
+**2005:** [Astro Mix](http://stungeye.com/archives/2006/12/astro_mix.php)
+
 **2004:** [Back and Forth](http://stungeye.com/archives/2004/08/banana_moon.php)
 
 <small><em>I'm not a pirate, I just grog a lot.</em></small>

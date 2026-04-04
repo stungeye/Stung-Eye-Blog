@@ -11,7 +11,7 @@ It's summer, make yourself a friend in a local farmer. Enjoy the tastiness.
 <table width="100%" cellspacing="1" cellpadding="3" border="1" style="font-size: 0.9em">
 <thead>
 <tr>
-<th width="13%" valign="top" >
+<th width="13%" valign="top">
 			Location</th>
             <th width="13%" valign="top">
 			Contact</th>
@@ -28,11 +28,11 @@ It's summer, make yourself a friend in a local farmer. Enjoy the tastiness.
             <th width="19%" valign="top">
 			Directions</th>
 </tr>
-<thead>
-<tbody> 
+</thead><thead>
+</thead><tbody> 
 
 			<tr>
-            <td width="13%" valign="top" >
+            <td width="13%" valign="top">
 			Exchange District</td>
             <td width="13%" valign="top">
 			Lisa Holowchuk</td>
@@ -47,7 +47,7 @@ It's summer, make yourself a friend in a local farmer. Enjoy the tastiness.
             <td width="10%" valign="top">
 			Sept 27</td>
             <td width="19%" valign="top">
-			Parking lot on corner of Main & 
+			Parking lot on corner of Main &amp; 
 			McDermott Avenue</td>
           </tr>
 			<tr>
@@ -113,7 +113,7 @@ It's summer, make yourself a friend in a local farmer. Enjoy the tastiness.
             <td width="10%" valign="top">
 			Sept 25</td>
             <td width="19%" valign="top">
-			Gas Station Theatre on River Avenue & 
+			Gas Station Theatre on River Avenue &amp; 
 			Osborne Street</td>
           </tr>
 			<tr>
@@ -210,6 +210,6 @@ It's summer, make yourself a friend in a local farmer. Enjoy the tastiness.
 			Sept 20</td>
             <td width="19%" valign="top">
 			Red River Exhibition 
-            Park - 3977 Portage Avenue & Perimeter Hwy</td></tr>
+            Park - 3977 Portage Avenue &amp; Perimeter Hwy</td></tr>
 
 </tbody></table>

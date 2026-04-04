@@ -16,7 +16,7 @@ We spent today visiting <a href="http://www.faunia.es/www/swf/index.php" target=
 
 I am currently reading, The Game, by A.S. Byatt. I think she loves commas and semicolons, more than I.
 
-<div class=quote>
+<div class="quote">
 "I have grown fond of semicolons in recent years. . . . It is almost always a greater pleasure to come across a semicolon than a period. The period tells you that that is that; if you didn't get all the meaning you wanted or expected, anyway you got all the writer intended to parcel out and now you have to move along. But with a semicolon there you get a pleasant little feeling of expectancy; there is more to come; read on; it will get clearer."
 
 - Lewis Thomas</div>

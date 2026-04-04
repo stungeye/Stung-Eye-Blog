@@ -26,7 +26,7 @@ The net is awash in [Scientology](http://en.wikipedia.org/wiki/Scientology) deba
 
 A quick run-down of Scientology doctrine from [Wikipedia](http://en.wikipedia.org/wiki/Xenu):
 
-> 75 million years ago, [an alien ruler of the "Galactic Confederacy" named Xenu], brought billions of people to Earth in [DC-8](http://www.boeing.com/commercial/dc-8/index.html)-like spacecraft, stacked them around volcanoes and blew them up with hydrogen bombs. Their souls then clustered together and stuck to the bodies of the living, and continue to wreak chaos and havoc today.
+&gt; 75 million years ago, [an alien ruler of the "Galactic Confederacy" named Xenu], brought billions of people to Earth in [DC-8](http://www.boeing.com/commercial/dc-8/index.html)-like spacecraft, stacked them around volcanoes and blew them up with hydrogen bombs. Their souls then clustered together and stuck to the bodies of the living, and continue to wreak chaos and havoc today.
 
 These evil alien souls can be removed from us if we pay to be [audited](http://en.wikipedia.org/wiki/Auditing_%28Scientology%29). Auditing can also free us of [Engrams](http://en.wikipedia.org/wiki/Engram_%28Dianetics%29), painful memories which are the single source of all human illness. 
 

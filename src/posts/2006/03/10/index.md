@@ -4,8 +4,8 @@ title: Soda Pop
 permalink: /archive/by_date/2006/03/10/
 ---
 
-<a href="http://flickr.com/photos/44124420549@N01/sets/72057594079247230/" title="Click for hi-res" target="_blank"><img src="http://static.flickr.com/42/110599950_b0c73aafaf_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
-</span>
+<a href="http://flickr.com/photos/44124420549@N01/sets/72057594079247230/" title="Click for hi-res" target="_blank"><img src="http://static.flickr.com/42/110599950_b0c73aafaf_m.jpg" alt="" style="border: solid 2px #000000;"></a>
+
 
 **Updates Abound:**
 

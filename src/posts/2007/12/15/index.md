@@ -17,4 +17,4 @@ According to the [2007 Google Zeitgeist](http://www.google.com/intl/en/press/zei
 * how to levitate
 * how to skateboard
 
-If you can master all ten you become the 2007 &Uuml;berhuman.
+If you can master all ten you become the 2007 Überhuman.

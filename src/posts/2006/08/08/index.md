@@ -16,7 +16,7 @@ The Red Librarian has posted a list of his [25 favourite books](http://www.redli
 
 [Can you see the dolphins](http://onlinedeal.blogspot.com/2006/08/what-do-you-see-in-this-image-you-saw.html)?
 
-&Omega; is also [my favorite strange (transcendental) number](http://www.scienceblogs.com/goodmath/2006/08/_my_favorite_strange_number_1.php). Mmmmmmm, halting theory.
+Ω is also [my favorite strange (transcendental) number](http://www.scienceblogs.com/goodmath/2006/08/_my_favorite_strange_number_1.php). Mmmmmmm, halting theory.
 
 Mmmmmmm, [Lemon Pickles](http://indianfoodrocks.blogspot.com/2006/05/lemon-pickle-without-oil-picture.html).
 

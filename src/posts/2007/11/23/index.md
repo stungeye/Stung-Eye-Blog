@@ -18,6 +18,6 @@ permalink: /archive/by_date/2007/11/23/
 * [One Stroke of the Pen](http://m3.entitea.com/piles/?s=onepenstroke) - Jesus!
 * [Collective Perception](http://www.collectiveperception.com/)
 * [Twelve Virtues of Rationality ](http://yudkowsky.net/virtues/)
-* [Eighth wonder of the world?](http://www.dailymail.co.uk/pages/live/articles/news/worldnews.html?in_article_id=495538&in_page_id=1811)
+* [Eighth wonder of the world?](http://www.dailymail.co.uk/pages/live/articles/news/worldnews.html?in_article_id=495538&amp;in_page_id=1811)
 * [The Gashlycrumb Tinies By Edward Gorey](http://comunidad.ciudad.com.ar/argentina/capital_federal/visualmix/vonzai/gorey.html)
 * [Depth of Field Test](http://mrdoob.com/lab/pv3d/dof/05/) (Built using [Papervision3D](http://papervision3d.blip.tv/).)

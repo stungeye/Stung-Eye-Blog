@@ -12,5 +12,5 @@ If you're still rocking 8-bit colour, the text should render in black and white.
 
 If your browser support alternate style sheets - like <a href="http://www.mozilla.org/products/firefox/" target="_blank">Foxfire</a> - there are three sheets available; the default texture skinned template; a simplified colour template; and the 8-bit minimal colours template.
 
-<A HREF="#" border=0 onMouseOver="window.status='Click to view the StungEye Redesign in another window';return true" onMouseOut="window.status='';return true" onClick="display_image('http://www.stungeye.com/images/others/0604/redesign.jpg','StungEye Redesign',468,500);return false;"><IMG border=0 SRC="http://www.stungeye.com/images/others/0604/redesign_T.jpg"></A>
-<i>(Follow the head to view the template rendered with Firefox 0.8 in Windows 2000.)</I>
+<a href="#" border="0" onmouseover="window.status='Click to view the StungEye Redesign in another window';return true" onmouseout="window.status='';return true" onclick="display_image('http://www.stungeye.com/images/others/0604/redesign.jpg','StungEye Redesign',468,500);return false;"><img border="0" src="http://www.stungeye.com/images/others/0604/redesign_T.jpg"></a>
+<i>(Follow the head to view the template rendered with Firefox 0.8 in Windows 2000.)</i>

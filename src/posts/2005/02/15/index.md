@@ -10,9 +10,9 @@ The computer repair business is going well. The most successful means of adverti
 
 Shannon had an interview yesterday at the five-star hotel <a href="http://www.hotels.nl/amsterdam/krasnapolsky/" target="_blank">Krasnapolsky</a>. I have also submitted her CV to inFocus for a customer service position.
 
-We live in the Oud-Zuid (Old South), a suburban neighborhood near the Amsterdam Olympic stadium. Within walking distance there is a grocery store, a fruit and veggie market, a butcher, a baker (I have yet to find the candlestick maker), a video rental shop, three of four pubs, along with a handful of cafes and coffeeshops. On Saturday night we discovered <A HREF="http://www.vakzuid.nl/" target="_blank">Vakzuid</A>, a club one block away from our apartment. What more could we ask for?
+We live in the Oud-Zuid (Old South), a suburban neighborhood near the Amsterdam Olympic stadium. Within walking distance there is a grocery store, a fruit and veggie market, a butcher, a baker (I have yet to find the candlestick maker), a video rental shop, three of four pubs, along with a handful of cafes and coffeeshops. On Saturday night we discovered <a href="http://www.vakzuid.nl/" target="_blank">Vakzuid</a>, a club one block away from our apartment. What more could we ask for?
 
-We have been planning our trip to the <A HREF="http://www.oxegen.ie/" target="_blank">Oxygene</A> festival in Dublin. I just bought our plane tickets over the Net. The festival takes place on the 9th and 10th of July. We will be leaving on the 7th and returning to Amsterdam on the 12th. The U2 concert is on the 13th, so it'll be a busy music week. 
+We have been planning our trip to the <a href="http://www.oxegen.ie/" target="_blank">Oxygene</a> festival in Dublin. I just bought our plane tickets over the Net. The festival takes place on the 9th and 10th of July. We will be leaving on the 7th and returning to Amsterdam on the 12th. The U2 concert is on the 13th, so it'll be a busy music week. 
 
 Speaking of music, we are going to see the Chemical Brothers next Thursday, and I just found out that both Jack Johnson and Sage Francis are coming to A'dam.
 

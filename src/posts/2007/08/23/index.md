@@ -8,7 +8,7 @@ I start teaching this Tuesday, w[XML](XML) and w[Mobile Development](Mobile Deve
 
 Last weekend I went on a canoe trip in [Nopiming Provincial Park](http://www.gov.mb.ca/conservation/parks/popular_parks/nopiming/index.html):
 
-<iframe width="425" height="350" frameborder="no" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&t=h&hl=en&msa=0&om=1&msid=112744489221848401341.0004382eaf26c7b845d4b&ll=50.504693,-95.263309&spn=0.077626,0.181274&output=embed&s=AARTsJo-k7tPkkHjN3e5h0Wi-VN2p6aA_g"></iframe>
+<iframe width="425" height="350" frameborder="no" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;t=h&amp;hl=en&amp;msa=0&amp;om=1&amp;msid=112744489221848401341.0004382eaf26c7b845d4b&amp;ll=50.504693,-95.263309&amp;spn=0.077626,0.181274&amp;output=embed&amp;s=AARTsJo-k7tPkkHjN3e5h0Wi-VN2p6aA_g"></iframe>
 
 Zoom out to get a better idea of where the park is located.
 
@@ -22,5 +22,5 @@ Zoom out to get a better idea of where the park is located.
 * [The Thirty Theses](http://anthropik.com/thirty)
 * [The Age of Simulation](http://www.transparencynow.com/tablesim.htm)
 * [The Origins of Pattern Theory](http://www.patternlanguage.com/archive/ieee/ieeetext.htm)
-* [A Sketch Towards a Taxonomy of Meta-Desserts](http://www.flickr.com/photos/several_bees/529448560) [[large](http://www.flickr.com/photo_zoom.gne?id=529448560&size=o)]
+* [A Sketch Towards a Taxonomy of Meta-Desserts](http://www.flickr.com/photos/several_bees/529448560) [[large](http://www.flickr.com/photo_zoom.gne?id=529448560&amp;size=o)]
 * [Least Religious Countries](http://www.gadling.com/2007/08/23/least-religious-countries/)

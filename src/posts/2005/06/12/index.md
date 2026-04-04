@@ -10,9 +10,11 @@ Unlike blogs, which are linear expression mediums (posts are displayed in chrono
 
 I'll be exploiting <a href="http://www.tiddlywiki.com/">JeremyRuston's TiddlyWiki</a> to solidify and explore thought, through pattern, language, and connections:
 
-<div class='quote'>A TiddlyWiki is like a blog because it's divided up into neat little chunks, but it encourages you to read it by hyperlinking rather than sequentially[...] I think that TiddlyWiki represents a novel medium for writing, and will promote it's own distinctive WritingStyle.&nbsp;<br />[<a href="http://www.tiddlywiki.com/#TiddlyWiki">link</a>]</div>
+<div class="quote">A TiddlyWiki is like a blog because it's divided up into neat little chunks, but it encourages you to read it by hyperlinking rather than sequentially[...] I think that TiddlyWiki represents a novel medium for writing, and will promote it's own distinctive WritingStyle.&nbsp;
+[<a href="http://www.tiddlywiki.com/#TiddlyWiki">link</a>]</div>
 &nbsp;
-<div class='quote'><strong>WikiFact:</strong> Wiki software originated in the design pattern community as a way of writing and discussing <a href="http://en.wikipedia.org/wiki/Pattern_language">PatternLanguages</a>.&nbsp;<br />[<a href="http://en.wikipedia.org/wiki/Wiki_wiki_web">link</a>]<span style="vertical-align: super">meta!</span></div>
+<div class="quote"><strong>WikiFact:</strong> Wiki software originated in the design pattern community as a way of writing and discussing <a href="http://en.wikipedia.org/wiki/Pattern_language">PatternLanguages</a>.&nbsp;
+[<a href="http://en.wikipedia.org/wiki/Wiki_wiki_web">link</a>]<span style="vertical-align: super">meta!</span></div>
 
 There is no point to this project beyond the indexing of fanciful ideas.
 

@@ -14,7 +14,7 @@ More on the ACTA:
 * [Proposed US ACTA multi-lateral intellectual property trade agreement](http://wikileaks.org/wiki/G-8_plurilateral_intellectual_property_trade_agreement_discussion_paper)
 * [A former Conservative organizer speaks out against the ACTA](http://www.canada.com/ottawacitizen/news/letters/story.html?id=aeee9444-3b27-4a56-a45c-ee4ecfbc1cc6).
 
-In [my second letter](http://stungeye.infogami.com/Letter_to_Anita_Neville_-_Net_Neutrality) I ask Mrs. Neville to support the w[Net Neutrality](Net Neutrality) private member's bill ([C-552](http://www2.parl.gc.ca/HousePublications/Publication.aspx?Language=E&Parl=39&Ses=2&Mode=1&Pub=Bill&Doc=C-552_1&File=24#1)) introduced by [NDP](http://ndp.ca/) MP [Charlie Angus](http://www.charlieangus.net/).
+In [my second letter](http://stungeye.infogami.com/Letter_to_Anita_Neville_-_Net_Neutrality) I ask Mrs. Neville to support the w[Net Neutrality](Net Neutrality) private member's bill ([C-552](http://www2.parl.gc.ca/HousePublications/Publication.aspx?Language=E&amp;Parl=39&amp;Ses=2&amp;Mode=1&amp;Pub=Bill&amp;Doc=C-552_1&amp;File=24#1)) introduced by [NDP](http://ndp.ca/) MP [Charlie Angus](http://www.charlieangus.net/).
 
 More on Net Neutrality in Canada:
 

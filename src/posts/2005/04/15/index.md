@@ -10,7 +10,7 @@ Then one afternoon, I saw the word bedrijf (company) written in cursive.
 
 Try this yourself: Grab a pen/paper and write the word "bedrijf" in cursive. What does the 'ij' remind you of?
 
-'ij' in cursive = &yuml; (A y with a <a href="http://en.wikipedia.org/wiki/Diaeresis" target="_blank">diaeresis</a>.)
+'ij' in cursive = ÿ (A y with a <a href="http://en.wikipedia.org/wiki/Diaeresis" target="_blank">diaeresis</a>.)
 
 The Dutch alphabet doesn't contain a 'y'. I find it fascinating that they would represent the 'y' sound with this cursive pseudo-y.
 

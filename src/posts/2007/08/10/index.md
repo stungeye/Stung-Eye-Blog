@@ -8,10 +8,10 @@ It's the Summer of Thought brought to you by Winnipeg's [Consideration Liberatio
 
 From their [manifesto](http://considerationliberationarmy.ca/manifesto.php):
 
->We are the Consideration Liberation Army. Underground, over airwaves, lollygagging in air-conditioned offices, and cavorting behind basement curtains. We smile in broad daylight and shout while you are sleeping.
->
-> [...]
->
-> The indifferent will be tattooed with troubling questions. The thoughtless will be flogged with compact lines of verse. And the cruel and condescending will held captive in waterparks until they learn to laugh like children.
+&gt;We are the Consideration Liberation Army. Underground, over airwaves, lollygagging in air-conditioned offices, and cavorting behind basement curtains. We smile in broad daylight and shout while you are sleeping.
+&gt;
+&gt; [...]
+&gt;
+&gt; The indifferent will be tattooed with troubling questions. The thoughtless will be flogged with compact lines of verse. And the cruel and condescending will held captive in waterparks until they learn to laugh like children.
 
 The Consideration Liberation Army was created by [Shawna Dempsey and Lorri Millan](http://www.fingerinthedyke.ca/).

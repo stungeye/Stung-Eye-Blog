@@ -45,7 +45,7 @@ Related: [Pencil Revolution](http://www.pencilrevolution.com/).
 
 \*\*\*
 
-Philosophical & Religious findings:
+Philosophical &amp; Religious findings:
 
 * [Godlorica](http://godlorica.blogspot.com/) - Breaking News on God and Other Higher Beings in this World and the World to Come
 * [AskPhilosophers](http://www.amherst.edu/askphilosophers/) - You ask. Philosophers answer.

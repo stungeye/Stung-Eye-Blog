@@ -6,10 +6,10 @@ permalink: /archive/by_date/2005/07/05/
 
 From <a href="http://languageisavirus.com/">Language Is A Virus</a>:
 
-<UL>
-<li><a href="http://languageisavirus.com/articles/articles.php?subaction=showcomments&id=1099110341&archive=&start_from=&ucat=&">Ezra Pound on Language in Poetry</a></li>
-<li><a href="http://languageisavirus.com/articles/articles.php?subaction=showcomments&id=1099110918&archive=&start_from=&ucat=&">Allen  Ginsberg's Mind Writing Slogans</a></li>
-<li><a href="http://languageisavirus.com/articles/articles.php?subaction=showcomments&id=1099110986&archive=&start_from=&ucat=&">Jack Kerouac's Essentials of Spontaneous Prose</a></li>
+<ul>
+<li><a href="http://languageisavirus.com/articles/articles.php?subaction=showcomments&amp;id=1099110341&amp;archive=&amp;start_from=&amp;ucat=&amp;">Ezra Pound on Language in Poetry</a></li>
+<li><a href="http://languageisavirus.com/articles/articles.php?subaction=showcomments&amp;id=1099110918&amp;archive=&amp;start_from=&amp;ucat=&amp;">Allen  Ginsberg's Mind Writing Slogans</a></li>
+<li><a href="http://languageisavirus.com/articles/articles.php?subaction=showcomments&amp;id=1099110986&amp;archive=&amp;start_from=&amp;ucat=&amp;">Jack Kerouac's Essentials of Spontaneous Prose</a></li>
 <li>Explore <a href="http://languageisavirus.com/">this virus</a>, many treats to be found.</li>
 </ul>
 
@@ -17,7 +17,7 @@ From <a href="http://languageisavirus.com/">Language Is A Virus</a>:
 
 Last Saturday we went to an Electro party at the <a href="http://squat.net/overtoom301/">301 Overtoom</a> squat (or ex-squat?).
 
-<div class='quote'>"Squatting is the act of occupying an abandoned or unoccupied space or building that the squatter does not own, rent, or otherwise have permission to use. Squatters often claim rights over the spaces they have squatted by virtue of occupation, rather than ownership; in this sense, squatting is similar to (and potentially a necessary condition of) adverse possession, by which a possessor of real property without title may eventually gain legal title to the real property. [...]
+<div class="quote">"Squatting is the act of occupying an abandoned or unoccupied space or building that the squatter does not own, rent, or otherwise have permission to use. Squatters often claim rights over the spaces they have squatted by virtue of occupation, rather than ownership; in this sense, squatting is similar to (and potentially a necessary condition of) adverse possession, by which a possessor of real property without title may eventually gain legal title to the real property. [...]
 
 Besides places to live squats are often socially interesting places, hosting give-away shops, pirate radio stations, (often vegetarian or vegan) restaurants."</div><a href="http://en.wikipedia.org/wiki/Squatting">Squatting @ Wikipedia</a>
 

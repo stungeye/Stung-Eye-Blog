@@ -34,7 +34,9 @@ As predicted, Radio.Blog.Club has switched up their search results. The script w
 
 ---
 
-<a href="http://www.flickr.com/photos/44124420549@N01/86530022/" title="Click for hi-res" target="_blank"><img src="http://static.flickr.com/42/86530022_1fabf08739_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
-</span>
-<br/><br/>
+<a href="http://www.flickr.com/photos/44124420549@N01/86530022/" title="Click for hi-res" target="_blank"><img src="http://static.flickr.com/42/86530022_1fabf08739_m.jpg" alt="" style="border: solid 2px #000000;"></a>
+
+
+
+
 **My task for today.**

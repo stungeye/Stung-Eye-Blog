@@ -27,7 +27,7 @@ Friday Link Fun:
 * [Exactitudes](http://www.exactitudes.com/) - Homogeneity: it feels good.
 * [You think this is just a game?](http://www.art-rash.com/movies/justagame.htm) [video]
 * [The Fancy Pants Adventure](http://hallpass.com/media/fancypantsadventure.html) [flash game]
-* [The Vinegar Institute](http://www.versatilevinegar.org/usesandtips.html) - Uses & Tips
+* [The Vinegar Institute](http://www.versatilevinegar.org/usesandtips.html) - Uses &amp; Tips
 * [Nihilist Job Resume](http://mcsweeneys.net/2006/4/3fezzell.html)
 
 Also, if you're a nerd and you haven't switched from Winamp to Foobar2000: [get with the program](http://foobar2000.org/). [Related: [Foobar200 Wiki FAQ](http://wiki.hydrogenaudio.org/index.php?title=Foobar2000:FAQ)]

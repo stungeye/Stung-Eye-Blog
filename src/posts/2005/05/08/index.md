@@ -6,7 +6,7 @@ permalink: /archive/by_date/2005/05/08/
 
 Noam Gonick shoots Winnipeg inside out:
 
-<div class="quote">"<a href="http://strykerthemovie.com/" target="_blank">Stryker</a> is a little off the beaten path for Winnipeg's Gonick, but still illustrates his penchant for gay-themed flicks. Gonick is best known for his short film 1919, a black-and-white version of <a href="http://www.thecanadianencyclopedia.com/index.cfm?PgNm=ArchivedFeatures&Params=A250" target="_blank">the 1919 Winnipeg General Strike</a> from the point of view of a gay bathhouse, and Hey Happy, a movie about gay ravers at the end of the world. Stryker paints the picture that when Winnipeg's street gangs aren't smoking crack and arguing with themselves, they're having sex with transvestites."
+<div class="quote">"<a href="http://strykerthemovie.com/" target="_blank">Stryker</a> is a little off the beaten path for Winnipeg's Gonick, but still illustrates his penchant for gay-themed flicks. Gonick is best known for his short film 1919, a black-and-white version of <a href="http://www.thecanadianencyclopedia.com/index.cfm?PgNm=ArchivedFeatures&amp;Params=A250" target="_blank">the 1919 Winnipeg General Strike</a> from the point of view of a gay bathhouse, and Hey Happy, a movie about gay ravers at the end of the world. Stryker paints the picture that when Winnipeg's street gangs aren't smoking crack and arguing with themselves, they're having sex with transvestites."
 
 - <a href="http://newwinnipeg.com/culture/2005/05-05noam-gonick-stryker.htm" target="_blank">Noam Gonick 'strykes' Winnipeg thug life, Alex Reid</a>.
 </div>

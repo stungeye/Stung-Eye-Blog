@@ -6,7 +6,7 @@ permalink: /archive/by_date/2005/06/30/
 
 From my friend Claire:
 
-<div class='quote'>The Devil's Lake water diversion project is scheduled to open on July 1st.  When it opens, water will flow from Devil's Lake in North Dakota, into the Sheyenne River, which joins the Red River and flows through Manitoba into Hudson Bay. [...]
+<div class="quote">The Devil's Lake water diversion project is scheduled to open on July 1st.  When it opens, water will flow from Devil's Lake in North Dakota, into the Sheyenne River, which joins the Red River and flows through Manitoba into Hudson Bay. [...]
 
 Canada and Manitoba have been asking for review of the project by the International Joint Commission, which administrates the Boundary Waters Treaty, but so far the United States has not agreed.
 
@@ -18,9 +18,9 @@ Claire has created an <a href="http://www.petitiononline.com/DevilsLk/petition.h
 Inform yourself, and sign <a href="http://www.petitiononline.com/DevilsLk/petition.html">the petition</a> if this project concerns you.
 
 More information from <a href="http://www.foecanada.org/">Friends of the Earth</a>:
-<UL>
-<LI><a href="http://www.foecanada.org/index.php?option=content&task=view&id=85&Itemid=73">5 Reasons to Care about the Devils Lake Outlet</a>.</LI>
-<LI><a href="http://www.foecanada.org/index.php?option=content&task=view&id=101&Itemid=87">Send an E-letter to Paul Matrin voicing your concern</a>.</LI>
-</UL>
+<ul>
+<li><a href="http://www.foecanada.org/index.php?option=content&amp;task=view&amp;id=85&amp;Itemid=73">5 Reasons to Care about the Devils Lake Outlet</a>.</li>
+<li><a href="http://www.foecanada.org/index.php?option=content&amp;task=view&amp;id=101&amp;Itemid=87">Send an E-letter to Paul Matrin voicing your concern</a>.</li>
+</ul>
 
 You would think the state of North Dakota would give us better <a href="http://www.pch.gc.ca/progs/cpsc-ccsp/jfa-ha/canada_e.cfm">birthday present</a> than this.

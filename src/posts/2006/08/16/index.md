@@ -6,7 +6,7 @@ permalink: /archive/by_date/2006/08/16/
 
 Hello lovers,
 
-Set aside 25 minutes to watch philosopher [Sam Harris](http://en.wikipedia.org/wiki/Sam_Harris_%28author%29) outline [the dangers of religious moderation](http://video.google.com/videoplay?docid=116152867541418146&q=sam+harris). 
+Set aside 25 minutes to watch philosopher [Sam Harris](http://en.wikipedia.org/wiki/Sam_Harris_%28author%29) outline [the dangers of religious moderation](http://video.google.com/videoplay?docid=116152867541418146&amp;q=sam+harris). 
 
 Yes, _moderation_ not [extremism](http://en.wikipedia.org/wiki/Extremism).
 

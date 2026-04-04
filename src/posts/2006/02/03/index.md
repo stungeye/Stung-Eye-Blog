@@ -20,15 +20,15 @@ The second version highlights the music of fellow Winnipegger [Equanim](http://w
 
 Last Friday I sent the following via email to some friends, as well as to [ask.metafilter](http://ask.metafilter.com):
 
->According to [Leibniz](http://en.wikipedia.org/wiki/Leibniz), a theory must be *simpler* than the data it explains. In other words (for the nerds amongst us), understanding equals compression.
->
->I challenge you to help me understand this via a thought-experiment:
->
->Let's take two experiences we are all familiar with: Pleasure and Pain.
->
->Explain the difference between these two experiences.
->
->There is (of course) no "correct" answer; however, I ask that you attempt to use as few words as possible to explain your answer.
+&gt;According to [Leibniz](http://en.wikipedia.org/wiki/Leibniz), a theory must be *simpler* than the data it explains. In other words (for the nerds amongst us), understanding equals compression.
+&gt;
+&gt;I challenge you to help me understand this via a thought-experiment:
+&gt;
+&gt;Let's take two experiences we are all familiar with: Pleasure and Pain.
+&gt;
+&gt;Explain the difference between these two experiences.
+&gt;
+&gt;There is (of course) no "correct" answer; however, I ask that you attempt to use as few words as possible to explain your answer.
 
 If you'd like to add to the debate, hit me up with a comment. I'll be compiling the responses this weekend.
 

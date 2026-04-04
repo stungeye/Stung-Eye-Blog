@@ -4,7 +4,8 @@ title: Big BaDa Boom - 1 to 100
 permalink: /archive/by_date/2008/01/11/
 ---
 
-<object width="425" height="373"><param name="movie" value="http://www.youtube.com/v/okOBUp0oaNM&rel=1&border=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/okOBUp0oaNM&rel=1&border=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="373"></embed></object><br/>
+<object width="425" height="373"><param name="movie" value="http://www.youtube.com/v/okOBUp0oaNM&amp;rel=1&amp;border=1"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/okOBUp0oaNM&amp;rel=1&amp;border=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="373"></object>
+
 [via](http://www.boingboing.net)
 
 *And...*

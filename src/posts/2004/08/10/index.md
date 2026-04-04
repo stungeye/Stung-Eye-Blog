@@ -8,7 +8,7 @@ A new look, for a journey that began <a href="http://stungeye.com/archives/2002/
 
 Along with the new look-and-feel, I switched the blog back-end from <a href="http://www.blogger.com" target="_blank">Blogger</a> to <a href="http://www.movabletype.org/" target="_blank">Movable Type</a> 3.0.
 
-The inspiration for the design, came from the <A HREF="#" onMouseOver="window.status='Click to view the Patterns of Culture Cover in another window';return true" onMouseOut="window.status='';return true" onClick="display_image('http://www.stungeye.com/images/patterns.jpg','Patterns of Culture',227,369);return false;">striking cover</A> of the 1959 edition, of <a href="http://en.wikipedia.org/wiki/Ruth_Benedict" target="_blank">Ruth Benedict</a>'s Patterns of Culture.
+The inspiration for the design, came from the <a href="#" onmouseover="window.status='Click to view the Patterns of Culture Cover in another window';return true" onmouseout="window.status='';return true" onclick="display_image('http://www.stungeye.com/images/patterns.jpg','Patterns of Culture',227,369);return false;">striking cover</a> of the 1959 edition, of <a href="http://en.wikipedia.org/wiki/Ruth_Benedict" target="_blank">Ruth Benedict</a>'s Patterns of Culture.
 
 For more information about the re-design, <a href="http://stungeye.com/about/">visit the About page</a>.
 

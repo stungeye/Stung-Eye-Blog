@@ -12,7 +12,7 @@ I am also grateful to the French customer I've been dealing with. They are very 
 
 In a recent email to some friends, I noted that the word 'Unfortunately' is often featured in my work correspondences. It's a word that comes with the tech-support territory. The French equivalent for this word is 'malheureusement'. A look at the root words 'unfortunate' and 'malheureux', provides a glimpse into the divergent thought-processes encouraged both languages.
 
-<div class=quote><strong>un.for.tu.nate</strong>
+<div class="quote"><strong>un.for.tu.nate</strong>
 
 Characterized by undeserved bad luck; unlucky.
 

@@ -11,11 +11,11 @@ permalink: /archive/by_date/2006/01/06/
 A few days ago I stumbled across [An Experimental Study of the Emergence of Human Communication Systems](http://www.haskins.yale.edu/Haskins/STAFF/galantucci2005reprint1) [pdf] by Bruno Galantucci.
 
 From the abstract:
->Pairs of participants played video games requiring communication. Members of a pair were physically separated but exchanged graphic signals through a medium that prevented the use of standard symbols (e.g., letters). Communication systems emerged and developed rapidly during the games, integrating the use of explicit signs with information implicitly available to players and silent behavior-coordinating procedures.
+&gt;Pairs of participants played video games requiring communication. Members of a pair were physically separated but exchanged graphic signals through a medium that prevented the use of standard symbols (e.g., letters). Communication systems emerged and developed rapidly during the games, integrating the use of explicit signs with information implicitly available to players and silent behavior-coordinating procedures.
 
 Yesterday, serendipity lead me to discover the w[Nicaraguan Sign Language](Nicaraguan Sign Language) (NLS). 
 
->By 1983 there were over 400 deaf students enrolled in the two [Nicaraguan deaf] schools. [...] The [language] program achieved little success, with most students failing to grasp the concept of words. However, while the children remained linguistically disconnected from their teachers, the playground [...] provided fertile ground for them to communicate with each other, and by combining gestures and elements of their home-sign systems, [...] they were creating their own language.
+&gt;By 1983 there were over 400 deaf students enrolled in the two [Nicaraguan deaf] schools. [...] The [language] program achieved little success, with most students failing to grasp the concept of words. However, while the children remained linguistically disconnected from their teachers, the playground [...] provided fertile ground for them to communicate with each other, and by combining gestures and elements of their home-sign systems, [...] they were creating their own language.
 
 You can watch [a 5 minute documentary on NLS](http://www.pbs.org/wgbh/evolution/library/07/2/l_072_04.html) over at [PBS](http://www.pbs.org).
 
@@ -23,12 +23,18 @@ It's interesting to note that NLS would not have developed if these children had
 
 *Side note: That last sentence sounds funny with 'was' beside a plural, but I assure you that the verb is in agreement with 'bulk' not 'languages'. ;)*
 
->Mind is the Master power that moulds and makes,<br/>
->And Man is Mind, and evermore he takes<br/>
->The tool of Thought, and, shaping what he wills,<br/>
->Brings forth a thousand joys, a thousand ills:--<br/>
->He thinks in secret, and it comes to pass:<br/>
->Environment is but his looking-glass.<br/>
+&gt;Mind is the Master power that moulds and makes,
+
+&gt;And Man is Mind, and evermore he takes
+
+&gt;The tool of Thought, and, shaping what he wills,
+
+&gt;Brings forth a thousand joys, a thousand ills:--
+
+&gt;He thinks in secret, and it comes to pass:
+
+&gt;Environment is but his looking-glass.
+
 
 And so begins [As Man Thinketh](http://www.gutenberg.org/dirs/etext03/mntkh10.txt) [Also [here](http://www.concentric.net/%7Econure/allen.html)], w[James Allen](James Allen %28author%29)'s turn of the century take on the power of thought.
 

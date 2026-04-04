@@ -12,10 +12,10 @@ Back in my BSS days (early 90s) I was lucky to download 200MB a year, and my har
 
 For example, the other day I wanted some information on <a href="http://en.wikipedia.org/wiki/Typography" target="_blank">typography</a>:
 
-- <A HREF="http://www.cameronmoll.com/archives/000240.html" target="_blank">The non-typographer's guide to practical typeface selection</A>
+- <a href="http://www.cameronmoll.com/archives/000240.html" target="_blank">The non-typographer's guide to practical typeface selection</a>
 - Five simple steps to better typography: <a href="http://www.markboulton.co.uk/journal/comments/five_simple_steps_to_better_typography/" target="_blank">Part 1</a>, <a href="http://www.markboulton.co.uk/journal/comments/five_simple_steps_to_better_typography_part_2/" target="_blank">Part 2</a>, <a href="http://www.markboulton.co.uk/journal/comments/five_simple_steps_to_better_typography_part_3/" target="_blank">Part 3</a>
 - <a href="http://www.thinkingwithtype.com/" target="_blank">Thinking In Type</a>
-- <A HREF="http://www.goodfonts.org/" target="_blank">300 free fonts for designers</A>
+- <a href="http://www.goodfonts.org/" target="_blank">300 free fonts for designers</a>
 
 Beautiful.
 

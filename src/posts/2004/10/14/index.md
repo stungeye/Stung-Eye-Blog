@@ -14,7 +14,7 @@ I managed to purchase a bottle of cough syrup for Shannon.
 
 The conversation:
 
-<em>Me: Habla Ingl&eacute;s?
+<em>Me: Habla Inglés?
 
 Pharmacist: No.
 

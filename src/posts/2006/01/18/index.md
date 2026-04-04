@@ -4,29 +4,45 @@ title: no caps
 permalink: /archive/by_date/2006/01/18/
 ---
 
->**since feeling is first**
->
->since feeling is first<br/>
->who pays any attention<br/>
->to the syntax of things<br/>
->will never wholly kiss you<br/>
->wholly to be a fool<br/>
->while Spring is in the world<br/>
->
->my blood approves,<br/>
->and kisses are a better fate<br/>
->than wisdom<br/>
->lady i swear by all flowers. Don't cry<br/>
->the best gesture of my brain is less than<br/>
->your eyelids' flutter which says<br/>
->
->we are for each other: then<br/>
->laugh, leaning back in my arms<br/>
->for life's not a paragraph<br/>
->
->and death i think is no parenthesis<br/>
->
->*e.e. cummings*
+&gt;**since feeling is first**
+&gt;
+&gt;since feeling is first
+
+&gt;who pays any attention
+
+&gt;to the syntax of things
+
+&gt;will never wholly kiss you
+
+&gt;wholly to be a fool
+
+&gt;while Spring is in the world
+
+&gt;
+&gt;my blood approves,
+
+&gt;and kisses are a better fate
+
+&gt;than wisdom
+
+&gt;lady i swear by all flowers. Don't cry
+
+&gt;the best gesture of my brain is less than
+
+&gt;your eyelids' flutter which says
+
+&gt;
+&gt;we are for each other: then
+
+&gt;laugh, leaning back in my arms
+
+&gt;for life's not a paragraph
+
+&gt;
+&gt;and death i think is no parenthesis
+
+&gt;
+&gt;*e.e. cummings*
 
 Congrats to my cousin Jody on his recent engagement to the lovely Karolina.
 

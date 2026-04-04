@@ -10,37 +10,37 @@ If you read the Da Vinci Code, or closer to home, if you've been following the d
 
 Here's an excerpt from an email I sent a friend today partially explaining the source of my spiritual atheism:
 
->As a geek, math is my bridge to the spiritual. The more one studies math the more one realizes how fuzzy it can get. Take Phi, the w[golden ratio](golden ratio), that number our artists and builders often incorporate into their works, purposefully or not. It's found in successive ratios of the w[Fibonacci sequence](Fibonacci sequence) **0,1,1,2,3,5,8,13,21,34**... and so on, each number being the sum of the previous two.
->
->1/1 = 1
->
->2/1 = 2
->
->3/2 = 1.5
->
->5/3 = 1.666666666...
->
->8/5 = 1.6
->
->13/8 = 1.625
->
->21/13 = 1.61538...
->
->34/21 = 1.61904...
->
->Here we are converging on a w[transcendental number](transcendental number), somewhere in the vicinity of 1.61803399... The further we travel along the Fibonacci sequence, the closer the ratios get to Phi. But! We can never reach Phi. Its parent sequence is infinite.
->
->For this reason, Phi is fuzzy. Interestingly, it pops up throughout the natural world; in the arrangement of plant branches; in the veins of leaves and animal blood vessels, in the spirals of sunflower seeds and sea shells, in the population growth of rabbit warrens (the study of which was how the Fibonacci sequence was discovered), and so on...
->
->A DNA molecule measures approximately **34** angstroms long by **21** angstroms wide. We've seen *those* numbers before.
->
->Phi and others like it --ask Jeff about the transcendental number [e ](http://en.wikipedia.org/wiki/E_%28mathematical_constant%29) that pops up everywhere in electrical physics-- show us that math is just a *human* model, a tool we use to anchor reality, a tool with limitations, where certain concepts refused to be nailed down, defined.
->
->*And it is here*, in the eddies and swirls, on the blurry edge of the model that gives root to all science, where I find my god; a god of interconnection and perfect imprecision; a god like a golden cord tying us all together; a god around which no box can be drawn.
+&gt;As a geek, math is my bridge to the spiritual. The more one studies math the more one realizes how fuzzy it can get. Take Phi, the w[golden ratio](golden ratio), that number our artists and builders often incorporate into their works, purposefully or not. It's found in successive ratios of the w[Fibonacci sequence](Fibonacci sequence) **0,1,1,2,3,5,8,13,21,34**... and so on, each number being the sum of the previous two.
+&gt;
+&gt;1/1 = 1
+&gt;
+&gt;2/1 = 2
+&gt;
+&gt;3/2 = 1.5
+&gt;
+&gt;5/3 = 1.666666666...
+&gt;
+&gt;8/5 = 1.6
+&gt;
+&gt;13/8 = 1.625
+&gt;
+&gt;21/13 = 1.61538...
+&gt;
+&gt;34/21 = 1.61904...
+&gt;
+&gt;Here we are converging on a w[transcendental number](transcendental number), somewhere in the vicinity of 1.61803399... The further we travel along the Fibonacci sequence, the closer the ratios get to Phi. But! We can never reach Phi. Its parent sequence is infinite.
+&gt;
+&gt;For this reason, Phi is fuzzy. Interestingly, it pops up throughout the natural world; in the arrangement of plant branches; in the veins of leaves and animal blood vessels, in the spirals of sunflower seeds and sea shells, in the population growth of rabbit warrens (the study of which was how the Fibonacci sequence was discovered), and so on...
+&gt;
+&gt;A DNA molecule measures approximately **34** angstroms long by **21** angstroms wide. We've seen *those* numbers before.
+&gt;
+&gt;Phi and others like it --ask Jeff about the transcendental number [e ](http://en.wikipedia.org/wiki/E_%28mathematical_constant%29) that pops up everywhere in electrical physics-- show us that math is just a *human* model, a tool we use to anchor reality, a tool with limitations, where certain concepts refused to be nailed down, defined.
+&gt;
+&gt;*And it is here*, in the eddies and swirls, on the blurry edge of the model that gives root to all science, where I find my god; a god of interconnection and perfect imprecision; a god like a golden cord tying us all together; a god around which no box can be drawn.
 
 For the musically inclined:
 
->There are **13** notes in the span of any note through its octave.
+&gt;There are **13** notes in the span of any note through its octave.
 A scale is comprised of **8** notes, of which the **5**th and **3**rd notes create the basic foundation of all chords, and are based on whole tone which is **2** steps from the root tone. [[via](http://goldennumber.net/music.htm)]
 
 \* \* \*

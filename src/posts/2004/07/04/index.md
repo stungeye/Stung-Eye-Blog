@@ -15,14 +15,14 @@ The above quote was taken from <a href="http://mitpress.mit.edu/e-books/HP/hypte
 ***
 
 I want to learn <a href="http://en.wikipedia.org/wiki/Latin_language" target="_blank">Latin</a>. <a href="http://stungeye.com/archives/2004/06/grammar_for_two.php">Previously</a>, I posted a link to <a href="http://www.textkit.com/" target="_blank">TextKit</a>, an online source for free Ancient Greek and Latin e-books. Since then, I have discovered the following:
-<UL>
-<LI><a href="http://community.middlebury.edu/~harris/whylatin.html" target="_blank">Latin: Why study it at all?</a> and <a href="http://community.middlebury.edu/~harris/SubIndex/latinbackg.html" target="_blank">other essays by William Harris</a>.</LI>
-<LI><a href="http://www.cherryh.com/www/latin1.htm" target="_blank">Latin: The Easy Way</a> - A non-traditional online course.</LI>
-<LI><a href="http://www.rci.rutgers.edu/~wcd/Latin.htm" target="_blank">Latin by the Dowling Method</a>, which stresses the use of <a href="http://users.cybercity.dk/~bbe6711/" target="_blank">Lingua Latina</a>.</LI>
-<LI><a href="http://www.arts.cuhk.edu.hk/Lexis/Wheelock-Latin/" target="_blank">Dale Grote's online study guide</a> to the popular text, <em>Wheelock's Latin</em>.  This guide eventually became <a href="http://www.bolchazy.com/prod.php?cat=latin&id=486X" target="_blank">this book</a>.</LI>
-<LI><a href="http://wikibooks.org/wiki/Latin" target="_blank">A Wiki based Latin course</a>.</LI>
-<LI><a href="http://www.sprachprofi.de.vu/latin" target="_blank">Latin course for the Virtual School of Languages</a></LI>
-</UL>
+<ul>
+<li><a href="http://community.middlebury.edu/~harris/whylatin.html" target="_blank">Latin: Why study it at all?</a> and <a href="http://community.middlebury.edu/~harris/SubIndex/latinbackg.html" target="_blank">other essays by William Harris</a>.</li>
+<li><a href="http://www.cherryh.com/www/latin1.htm" target="_blank">Latin: The Easy Way</a> - A non-traditional online course.</li>
+<li><a href="http://www.rci.rutgers.edu/~wcd/Latin.htm" target="_blank">Latin by the Dowling Method</a>, which stresses the use of <a href="http://users.cybercity.dk/~bbe6711/" target="_blank">Lingua Latina</a>.</li>
+<li><a href="http://www.arts.cuhk.edu.hk/Lexis/Wheelock-Latin/" target="_blank">Dale Grote's online study guide</a> to the popular text, <em>Wheelock's Latin</em>.  This guide eventually became <a href="http://www.bolchazy.com/prod.php?cat=latin&amp;id=486X" target="_blank">this book</a>.</li>
+<li><a href="http://wikibooks.org/wiki/Latin" target="_blank">A Wiki based Latin course</a>.</li>
+<li><a href="http://www.sprachprofi.de.vu/latin" target="_blank">Latin course for the Virtual School of Languages</a></li>
+</ul>
 I plan to travel with Wheelock's Latin, along with Grote's study guide and the Lingua Latina.
 
 ***

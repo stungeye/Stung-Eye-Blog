@@ -13,4 +13,4 @@ In the meanwhile:
 * [Simulacra and Simulations](http://www.stanford.edu/dept/HPS/Baudrillard/Baudrillard_Simulacra.html), Jean Baudrillard - The Age of Simulation
 * [Manifesto of Surrealism](http://www.tcf.ua.edu/Classes/Jbutler/T340/SurManifesto/ManifestoOfSurrealism.htm) - Andre Breton
 *  [What is Surrealism?](http://pers-www.wlv.ac.uk/~fa1871/whatsurr.html) - Andre Breton [via [wood s lot](http://web.ncf.ca/ek867/wood_s_lot.html)]
-* [Will Wright & Brian Eno: Playing with Time](http://fora.tv/fora/showthread.php?t=451) - Generative Art/Music/Gaming [video]
+* [Will Wright &amp; Brian Eno: Playing with Time](http://fora.tv/fora/showthread.php?t=451) - Generative Art/Music/Gaming [video]

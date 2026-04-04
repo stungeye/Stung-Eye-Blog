@@ -13,7 +13,7 @@ Canada Day Meme Madness:
 
 #Photos and Video
 * [ Eine's East End Shopfront Shutter Letters](http://www.flickr.com/photos/dgbalancesrocks/sets/1816327/)
-* [Ants in Second Life](http://youtube.com/watch?v=ehEzRUu4_RM) - Similar to [my Seekers](http://www.stungeye.com/sketch.php?sketch=The%20Seekers%202.0&path=processing/0404/2.0/&filename=theSeekers2&w=600&h=400).
+* [Ants in Second Life](http://youtube.com/watch?v=ehEzRUu4_RM) - Similar to [my Seekers](http://www.stungeye.com/sketch.php?sketch=The%20Seekers%202.0&amp;path=processing/0404/2.0/&amp;filename=theSeekers2&amp;w=600&amp;h=400).
 * [Vintage Photographs](http://community.livejournal.com/vintagephoto/)
 * [ Oscilloscope Studios' photos](http://www.flickr.com/photos/oscilloscope/) - The Beastie Boy Flickr Stream.
 

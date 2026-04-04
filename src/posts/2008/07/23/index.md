@@ -30,7 +30,7 @@ Curved Hall in Toronto
 
 ## allangeske.ca
 
-<img src="http://allangeske.ca/sites/default/files/images/Worldwide.thumbnail.jpg" style="float:right; margin-left: 10px;" />
+<img src="http://allangeske.ca/sites/default/files/images/Worldwide.thumbnail.jpg" style="float:right; margin-left: 10px;">
 
 My father, Allan Geske, is a master printmaker. 
 
@@ -42,4 +42,4 @@ Please explore his new website [allangeske.ca](http://allangeske.ca/):
 
 Previous on Stungeye: [Show + Tell](http://stungeye.com/archives/2007/08/show_tell.php) - a group exhibition at the University of Winnipeg.
 
-<br style="clear:both;" />
+<br style="clear:both;">

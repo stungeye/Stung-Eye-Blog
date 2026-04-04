@@ -14,7 +14,7 @@ Blogging as constrained writing. When else do I write?
 
 "This thesis discusses the importance of the book as image, object, and text. [With] specific examples as they pertain to the publishing of books in general and to Daniel Richler's Kicking Tomorrow (1991-3) in particular" - <a href="http://www.mouton-noir.org/writings/thesis/contents.html" target="_blank">Image, Object, Text</a>
 
-The translation of Harry Potter & the Philosopher's Stone into <a href="http://www.users.globalnet.co.uk/~loxias/harry_potter.htm" target="_blank">Ancient Greek</a>.
+The translation of Harry Potter &amp; the Philosopher's Stone into <a href="http://www.users.globalnet.co.uk/~loxias/harry_potter.htm" target="_blank">Ancient Greek</a>.
 
 <a href="http://www.csse.monash.edu.au/~damian/papers/HTML/Perligata.html" target="_blank">Write Perl programs in Latin</a>.
 
@@ -50,7 +50,7 @@ For the math nerds: <a href="http://www.stanford.edu/~segerman/autologlyphs.html
 
 <a href="http://www.fakeisthenewreal.org/subway/" target="_blank">Subway systems of the world, presented on the same scale</a>.
 
-The robots are coming. <a href="http://www.toyota.co.jp/en/special/robot/" target=_blank>The robots are coming</a>.
+The robots are coming. <a href="http://www.toyota.co.jp/en/special/robot/" target="_blank">The robots are coming</a>.
 
 <a href="http://www.bbc.co.uk/h2g2/guide/A533927" target="_blank">Self-reference</a> : "This entry is about self-reference, so (inevitably), it refers to itself." - From the BBC's guide to life, the universe and everything: <a href="http://www.bbc.co.uk/dna/h2g2/" target="_blank">h2g2</a>.
 

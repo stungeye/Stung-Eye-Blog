@@ -4,8 +4,8 @@ title: +/- ve
 permalink: /archive/by_date/2006/05/27/
 ---
 
-<a href="http://www.flickr.com/photos/txmx2/153997111/" title="Click for hi-res" target="_blank"><img src="http://static.flickr.com/60/153997111_7389f1d257_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
-</span>
+<a href="http://www.flickr.com/photos/txmx2/153997111/" title="Click for hi-res" target="_blank"><img src="http://static.flickr.com/60/153997111_7389f1d257_m.jpg" alt="" style="border: solid 2px #000000;"></a>
+
 
 First off, I'm on a mission to map those [urban forests of Winnipeg that I have explored](http://www.wayfaring.com/maps/show/16750).
 

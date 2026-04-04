@@ -4,8 +4,9 @@ title: "Flapp'n"
 permalink: /archive/by_date/2006/09/23/
 ---
 
-<a href="http://www.flickr.com/photos/44124420549@N01/247887998/" title="Click for hi-res" target="_blank"><img src="http://static.flickr.com/96/247887998_8e41792ff7.jpg" alt="" style="border: solid 2px #000000;" /></a>
-<br/>
+<a href="http://www.flickr.com/photos/44124420549@N01/247887998/" title="Click for hi-res" target="_blank"><img src="http://static.flickr.com/96/247887998_8e41792ff7.jpg" alt="" style="border: solid 2px #000000;"></a>
+
+
 
 The above photo was taken during our [Muskoday visit](http://stungeye.com/archives/2006/08/beat_and_pieces.php).
 

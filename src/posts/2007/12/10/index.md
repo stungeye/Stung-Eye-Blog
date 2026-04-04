@@ -15,12 +15,16 @@ It's easy to feel that as an individual voter we wield little political power; h
 I would still urge you to write, fax or call Mr. Prentice if you're concerned about fair copyright reform in Canada. 
 See: [Example Letters](http://stungeye.infogami.com/Copyright)
 
-Jim Prentice Constituency Office<br/>
-Suite 105<br/>
-1318 Centre St NE<br/>
+Jim Prentice Constituency Office
+
+Suite 105
+
+1318 Centre St NE
+
 Calgary, Alberta T2E 2R7
 
-403 216-7777<br/>
+403 216-7777
+
 Fax 403 230-4368
 
 Prentice.J@parl.gc.ca

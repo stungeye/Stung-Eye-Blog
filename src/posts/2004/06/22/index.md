@@ -38,7 +38,7 @@ Unintended Use: <a href="http://www.informatik.umu.se/~erik/UnintendedUse.html" 
 
 ***
 
-<a href="http://www.archive.org/audio/audio-searchresults.php?searchAll=yes&collection=&submit=main&search=naropa&limit=100&start=0" target="_blank">The Naropa University Beat Generation audio archives</a>.
+<a href="http://www.archive.org/audio/audio-searchresults.php?searchAll=yes&amp;collection=&amp;submit=main&amp;search=naropa&amp;limit=100&amp;start=0" target="_blank">The Naropa University Beat Generation audio archives</a>.
 
 ***
 

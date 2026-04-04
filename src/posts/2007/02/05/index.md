@@ -4,7 +4,7 @@ title: Receipt Withheld
 permalink: /archive/by_date/2007/02/05/
 ---
 
-<embed src="http://www.vimeo.com/moogaloop.swf?clip_id=134034" quality="best" scale="exactfit" width="400" height="300" type="application/x-shockwave-flash"></embed>
+<embed src="http://www.vimeo.com/moogaloop.swf?clip_id=134034" quality="best" scale="exactfit" width="400" height="300" type="application/x-shockwave-flash">
 
 This was recorded live, using only a multi-track [sampler](http://en.wikipedia.org/wiki/Sampler_%28musical_instrument%29). 
 
@@ -12,7 +12,7 @@ Other videos:
 
 * [A Girl Like Me](http://youtube.com/watch?v=17fEy0q6yqc)
 * [20 Short Animations](http://www.laboratory101.com/?p=51)
-* [Live Jungle / Drum & Bass drumming](http://www.youtube.com/watch?v=kp5OxEzxuSg) [[more](http://www.youtube.com/watch?v=b98BJ36K1wo)]
+* [Live Jungle / Drum &amp; Bass drumming](http://www.youtube.com/watch?v=kp5OxEzxuSg) [[more](http://www.youtube.com/watch?v=b98BJ36K1wo)]
 
 Links:
 

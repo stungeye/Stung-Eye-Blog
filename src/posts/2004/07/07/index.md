@@ -14,7 +14,7 @@ If you use <a href="http://del.icio.us/">del.icio.us</a>, flip: <a href="http://
 
 <a href="http://kevan.org/extispicious.cgi?name=stungeye" target="_blank">My Noosphere Map</a>
 
-<a href="http://kevan.org/extispicious.cgi?name=chefquix" target="_blank">Chef Quix' Noosphere Map</A>
+<a href="http://kevan.org/extispicious.cgi?name=chefquix" target="_blank">Chef Quix' Noosphere Map</a>
 
 It started with <a href="http://blackbeltjones.typepad.com/work/2004/07/my_delicious_ta.html" target="_blank">this diagram</a> and <a href="http://www.bluejoh.com/maze/zeitgeist.php" target="_blank">this script</a>.
 

@@ -8,7 +8,7 @@ Shan and I enjoyed ourselves exploring Winnipeg this past Friday.
 
 We started with w[Cafe Americanos](Cafe Americano) and some tasty treats at the [Pastry Castle](http://pastrycastle.ca/). A group of ladies from out of town asked us where they could find souvenirs. We sent then across the street to the [Keepsake Gallery](http://keepsakesgallery.ca/).
 
-After our coffee we walked over to [Mayberry Fine Art](http://www.mayberryfineart.com/) and then on to [Ragpickers Anti-Fashion Emporium](http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendID=54766140). The second floor of Ragpickers houses a wonderful collection of (mainly non-fiction) used books. (I gravitate to their philosophy section). [I picked up](http://flickr.com/photos/stungeye/2559837036/) the Manticore (w[Robertson Davies](Robertson Davies)); Godel, Escher, Bach (w[Douglas R. Hofstadter](Douglas R. Hofstadter)) and two books from w[Issac Asimov](Issac Asimov)'s Foundation series. 
+After our coffee we walked over to [Mayberry Fine Art](http://www.mayberryfineart.com/) and then on to [Ragpickers Anti-Fashion Emporium](http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=54766140). The second floor of Ragpickers houses a wonderful collection of (mainly non-fiction) used books. (I gravitate to their philosophy section). [I picked up](http://flickr.com/photos/stungeye/2559837036/) the Manticore (w[Robertson Davies](Robertson Davies)); Godel, Escher, Bach (w[Douglas R. Hofstadter](Douglas R. Hofstadter)) and two books from w[Issac Asimov](Issac Asimov)'s Foundation series. 
 
 Antiques and Funk is just around the block, and there I bought [a lovely old Gillette razor](http://flickr.com/photos/stungeye/2559012799/). 
 

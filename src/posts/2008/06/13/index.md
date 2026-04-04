@@ -4,7 +4,7 @@ title: Copyfight in Canada Redux
 permalink: /archive/by_date/2008/06/13/
 ---
 
-The copyright amendment [bill C-61](http://www2.parl.gc.ca/HousePublications/Publication.aspx?Docid=3570473&file=4) tabled yesterday by Industry Minister Jim Prentice is worse for Canadians than expected. 
+The copyright amendment [bill C-61](http://www2.parl.gc.ca/HousePublications/Publication.aspx?Docid=3570473&amp;file=4) tabled yesterday by Industry Minister Jim Prentice is worse for Canadians than expected. 
 
 ####Personal Use and Fair Dealing
 
@@ -41,7 +41,7 @@ For information on how to stop these proposed amendments read [Michael Geist's T
 ####More Information
 
 * [Bill C-61: First Reactions](http://www.faircopyright.ca/?p=125) - Laura Murray
-* [Howard Knopf & Safwan Javed Respond to Canadian DMCA](http://youtube.com/watch?v=uOBLExSiaDY) [video]
+* [Howard Knopf &amp; Safwan Javed Respond to Canadian DMCA](http://youtube.com/watch?v=uOBLExSiaDY) [video]
 * [Canadian Music Creators Collation Slams Bill C-61](http://www.musiccreators.ca/wp/?p=264) - CMCC members include Feist, Sloan, Broken Social Scene, Billy Talent, Sarah McLachlan, Avril Lavigne, Barenaked Ladies, John K. Samson (Weakerthans), Matthew Good, Raine Maida (Our Lady Peace), Randy Bachman, Richie Hawtin, Sum 41, The New Pornographers, Stars, Metric, Wide Mouth Mason, and [many more](http://www.musiccreators.ca/wp/?page_id=7).
 * [Michael Geist's continued coverage](http://www.michaelgeist.ca/tags/Copyright+Microsite+-+About+the+Canadian+DMCA)
 * [Government Fact Sheets on Bill C-61](http://www.ic.gc.ca/epic/site/crp-prda.nsf/en/h_rp01157e.html)
@@ -50,10 +50,10 @@ For information on how to stop these proposed amendments read [Michael Geist's T
 
 The Supreme Court declared in [Theberge v. Galerie d'Art du Petit Champlain](http://scc.lexum.umontreal.ca/en/2002/2002scc34/2002scc34.html) (2002):
 
-> "Excessive control by holders of copyrights and other forms of intellectual property may unduly limit the ability of the public domain to incorporate and embellish creative innovation in the long-term interests of society as a whole, or create practical obstacles to proper utilization." 
+&gt; "Excessive control by holders of copyrights and other forms of intellectual property may unduly limit the ability of the public domain to incorporate and embellish creative innovation in the long-term interests of society as a whole, or create practical obstacles to proper utilization." 
 
 The court also noted:
 
->"Once an authorized copy of a work is sold to a member of the public, it is generally for the purchaser, not the author, to determine what happens to it."
+&gt;"Once an authorized copy of a work is sold to a member of the public, it is generally for the purchaser, not the author, to determine what happens to it."
 
 In 2004, in [CCH v. Law Society of Upper Canada](http://scc.lexum.umontreal.ca/en/2004/2004scc13/2004scc13.html), the Supreme Court was even more explicit about the importance of users' rights.

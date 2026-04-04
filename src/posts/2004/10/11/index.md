@@ -20,6 +20,6 @@ Last nights dinner was a true hostel experience. Our food provided by the kitche
 
 ---
 
-<a href="http://www.flickr.com/photos/44124420549@N01/813891/" title="Click for hi-res" target="_blank"><img src="http://www.flickr.com/photos/813891_cc0b466689_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
-</span>
+<a href="http://www.flickr.com/photos/44124420549@N01/813891/" title="Click for hi-res" target="_blank"><img src="http://www.flickr.com/photos/813891_cc0b466689_m.jpg" alt="" style="border: solid 2px #000000;"></a>
+
 Just a quick note: I've uploaded <a href="http://flickr.com/photos/44124420549@N01/tags/paris/" target="_blank">a few photos from paris</a>.

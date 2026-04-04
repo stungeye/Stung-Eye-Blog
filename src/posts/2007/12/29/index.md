@@ -11,7 +11,7 @@ Earlier this year [ChefQuix](http://perceptionalism.com) told me about a techniq
 * Choose a daily task you wish to make a habit.
 * For each day that you accomplish your task put a big red X over that day on the wall calendar.
 
->"After a few days you'll have a chain. Just keep at it and the chain will grow longer every day. You'll like seeing that chain, especially when you get a few weeks under your belt. Your only job next is to not break the chain." 
+&gt;"After a few days you'll have a chain. Just keep at it and the chain will grow longer every day. You'll like seeing that chain, especially when you get a few weeks under your belt. Your only job next is to not break the chain." 
 [[via](http://lifehacker.com/software/motivation/jerry-seinfelds-productivity-secret-281626.php)]
 
 <h1>Print your own "chain-calendar"</h1>

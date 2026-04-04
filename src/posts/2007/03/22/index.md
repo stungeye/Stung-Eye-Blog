@@ -6,11 +6,14 @@ permalink: /archive/by_date/2007/03/22/
 
 dear dear,
 
-*"actually kyle..."*<br/>
+*"actually kyle..."*
+
 and i changed my mind
 
-*"actually..."*<br/>
+*"actually..."*
+
 and i changed yours
 
-actually,<br/>
+actually,
+
 kyle
