@@ -21,10 +21,18 @@ eleventyComputed:
   {% endif %}
 {% endfor %}
 
-<ul>
 {% for m in months | sort %}
-  <li><a href="/archive/by_date/{{ year }}/{{ m }}/">{{ m | monthName }} {{ year }}</a></li>
-{% endfor %}
+<h2><a href="/archive/by_date/{{ year }}/{{ m }}/">{{ m | monthName }} {{ year }}</a></h2>
+<ul>
+  {% for day in days %}
+    {% if day.date | monthFromDate == m %}
+    <li>
+      <a href="{{ day.url }}">{{ day.data.title }}</a>
+      <time datetime="{{ day.date | isoDate }}">{{ day.date | readableDate }}</time>
+    </li>
+    {% endif %}
+  {% endfor %}
 </ul>
+{% endfor %}
 
 <p><a href="/archive/">&larr; Back to Archive</a></p>

@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if title %}{{ title }} — {{ config.siteTitle }}{% else %}{{ config.siteTitle }}{% endif %}</title>
   <link rel="canonical" href="{{ config.siteUrl }}{{ page.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ config.siteTitle }}" href="/feed.xml">
   <link rel="stylesheet" href="/assets/css/main.css">
 </head>
 <body>

@@ -1,0 +1,27 @@
+---
+permalink: /feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ config.siteTitle }}</title>
+    <link>{{ config.siteUrl }}/</link>
+    <description>{{ config.siteTitle }} — personal blog since 2002</description>
+    <atom:link href="{{ config.siteUrl }}/feed.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    {%- set feedDays = collections.days | batch(config.daysPerFeed) | first %}
+    {%- if feedDays | length %}
+    <lastBuildDate>{{ feedDays[0].date | isoDate }}</lastBuildDate>
+    {%- endif %}
+    {%- for day in feedDays %}
+    <item>
+      <title>{{ day.data.title }}</title>
+      <link>{{ config.siteUrl }}{{ day.url }}</link>
+      <guid>{{ config.siteUrl }}{{ day.url }}</guid>
+      <pubDate>{{ day.date | isoDate }}</pubDate>
+      <description>{{ day.content | striptags | truncate(500) }}</description>
+    </item>
+    {%- endfor %}
+  </channel>
+</rss>
