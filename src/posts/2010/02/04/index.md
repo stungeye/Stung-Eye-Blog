@@ -4,9 +4,7 @@ title: "Discovered on February 4, 2010"
 permalink: /archive/by_date/2010/02/04/
 ---
 
-![Quick! My first animated gif remix. :P
-
-[Source image from Lauren Nassef&#8217;s A Drawing A Day&#160;: via]](/archive/by_date/2010/02/04/tumblr_kxcetf2WDr1qzoknmo1_400.gif)
+![Quick! My first animated gif remix. :P Source image from Lauren Nassef&#8217;s A Drawing A Day&#160;: via](/archive/by_date/2010/02/04/tumblr_kxcetf2WDr1qzoknmo1_400.gif)
 
 <p><a href="http://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog">Quick</a>! My first animated gif remix. :P</p>
 

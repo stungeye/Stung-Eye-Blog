@@ -4,9 +4,7 @@ title: "Discovered on November 27, 2008"
 permalink: /archive/by_date/2008/11/27/
 ---
 
-[![Aquabooks. Have you checked out their new digs?
-
-&#8220;274 Garry Street in the benevolent capitalist shadow of Portage and Main.&#8221;](/archive/by_date/2008/11/27/5ylglO2OXgt9q4nouHa5XJu8o1_500.jpg)](http://aquabooks.tumblr.com)
+![Aquabooks. Have you checked out their new digs? &#8220;274 Garry Street in the benevolent capitalist shadow of Portage and Main.&#8221;](/archive/by_date/2008/11/27/5ylglO2OXgt9q4nouHa5XJu8o1_500.jpg)
 
 <p><a href="http://www.aquabooks.ca/">Aquabooks</a>. Have you checked out their new digs?</p>
 

@@ -48,15 +48,18 @@ The migration script (`tools/migrate.js`) performs a one-time conversion of expo
 
 ```bash
 npm run migrate
+npm run resize-images  # must be run after every migrate
 ```
 
-This reads from `export/ci_days.json`, `export/mt_entries.json`, and `export/redirects.csv`, then:
+`npm run migrate` reads from `export/ci_days.json`, `export/mt_entries.json`, and `export/redirects.csv`, then:
 
 - Generates 970 day pages under `src/posts/`
-- Copies 295 archived images into co-located day folders
+- Copies 295 archived images (at 500px) into co-located day folders
 - Downloads and localizes Tumblr-hosted images found in content HTML
 - Generates `nginx/redirects.conf` (447 redirect rules)
 - Emits `migration-media-report.md` listing all media handling results
+
+`npm run resize-images` must be run immediately after, as migrate overwrites `src/posts/` images with the 500px originals. It reads high-res originals from `export/images-hires/` and writes images resized to `imageMaxWidth` (configured in `src/_data/config.js`) into `src/posts/`.
 
 See [MIGRATION-NOTES.md](MIGRATION-NOTES.md) for detailed migration decisions.
 

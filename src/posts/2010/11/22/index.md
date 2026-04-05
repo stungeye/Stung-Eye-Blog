@@ -4,7 +4,7 @@ title: "Discovered on November 22, 2010"
 permalink: /archive/by_date/2010/11/22/
 ---
 
-[![Sand dunes inside the Proctor crater on Mars. [via apod]](/archive/by_date/2010/11/22/tumblr_lcauv98x4K1qzoknmo1_500.jpg)](http://upload.wikimedia.org/wikipedia/commons/8/86/Proctor_Crater_Dune_Field.jpg)
+[![Sand dunes inside the Proctor crater on Mars. via apod](/archive/by_date/2010/11/22/tumblr_lcauv98x4K1qzoknmo1_500.jpg)](http://upload.wikimedia.org/wikipedia/commons/8/86/Proctor_Crater_Dune_Field.jpg)
 
 <p>Sand dunes inside the <a href="http://en.wikipedia.org/wiki/Proctor_(Martian_crater)">Proctor crater</a> on Mars. [via <a href="http://antwrp.gsfc.nasa.gov/apod/">apod</a>]</p>
 

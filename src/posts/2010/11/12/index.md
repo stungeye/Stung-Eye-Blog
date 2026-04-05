@@ -15,7 +15,7 @@ permalink: /archive/by_date/2010/11/12/
 <p>Recently, election officials in Washington D.C. invited security experts to test an internet voting system designed for overseas voters. Within 36 hours a team of computer scientists from the University of Michigan had compromised the system, allowing them to read and change recorded votes. One member of the team, J. Alex Halderman, had this to say:</p>
 
 <blockquote>
-  <p>&#8220;Major web sites like Facebook and Twitter regularly suffer from vulnerabilities. These high-profile sites have greater resources and far more security experience than the municipalities that run elections. It may someday be possible to build a secure method for voting over the Internet, but in the meantime, such systems should be presumed to be vulnerable based on the limitations of today&#8217;s security technology.&#8221;</p>
+  <p>“Major web sites like Facebook and Twitter regularly suffer from vulnerabilities. These high-profile sites have greater resources and far more security experience than the municipalities that run elections. It may someday be possible to build a secure method for voting over the Internet, but in the meantime, such systems should be presumed to be vulnerable based on the limitations of today’s security technology.”</p>
 </blockquote>
 
 <p>Implementing internet voting in Winnipeg would require a change in provincial legislation.</p>
@@ -28,7 +28,7 @@ permalink: /archive/by_date/2010/11/12/
 </ul><p>Electronic voting machines are equally troubling:</p>
 
 <ul><li><a href="http://news.idg.no/cw/art.cfm?id=003AE63C-17A4-0F78-31DDDC0DCFA62609">Dutch Government Bans Electronic Voting</a></li>
-<li><a href="http://indiaevm.org/">India&#8217;s Electronic Voting Machines Vulnerable to Fraud</a></li>
+<li><a href="http://indiaevm.org/">India’s Electronic Voting Machines Vulnerable to Fraud</a></li>
 <li><a href="http://www.nytimes.com/2007/08/05/us/05vote.html?_r=1">California Restricts Voting Machines</a></li>
 <li><a href="https://www.eff.org/issues/e-voting">Electronic Frontier Foundation on E-Voting Rights</a></li>
 </ul>

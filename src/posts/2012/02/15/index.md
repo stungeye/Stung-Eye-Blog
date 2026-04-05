@@ -10,8 +10,7 @@ permalink: /archive/by_date/2012/02/15/
 
 ---
 
-![&#8220;We are, each of us, largely responsible for what gets put into our brains, for what, as adults, we wind up caring for and knowing about. No longer at the mercy of the reptile brain, we can change&#8230;&#8221;
-&#8212; Carl Sagan [via]](/archive/by_date/2012/02/15/tumblr_lzgf4ezysf1qzoknmo1_500.gif)
+![&#8220;We are, each of us, largely responsible for what gets put into our brains, for what, as adults, we wind up caring for and knowing about. No longer at the mercy of the reptile brain, we can change&#8230;&#8221; &#8212; Carl Sagan via](/archive/by_date/2012/02/15/tumblr_lzgf4ezysf1qzoknmo1_500.gif)
 
 <p>&#8220;We are, each of us, largely responsible for what gets put into our brains, for what, as adults, we wind up caring for and knowing about. No longer at the mercy of the reptile brain, we can change&#8230;&#8221;<br/>
 &#8212; Carl Sagan [<a href="http://fuckyeahexistentialism.tumblr.com">via</a>]</p>

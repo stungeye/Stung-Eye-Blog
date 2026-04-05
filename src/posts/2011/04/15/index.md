@@ -4,9 +4,7 @@ title: "Discovered on April 15, 2011"
 permalink: /archive/by_date/2011/04/15/
 ---
 
-![Modern Day Petroglyph
-
-Some background info: Translated from Portuguese](/archive/by_date/2011/04/15/tumblr_ljofwiROT01qzoknmo1_500.jpg)
+![Modern Day Petroglyph Some background info: Translated from Portuguese](/archive/by_date/2011/04/15/tumblr_ljofwiROT01qzoknmo1_500.jpg)
 
 <p><strong>Modern Day Petroglyph</strong></p>
 

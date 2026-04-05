@@ -4,9 +4,7 @@ title: "Discovered on February 11, 2011"
 permalink: /archive/by_date/2011/02/11/
 ---
 
-[![“EXIST” by Kelly Mark
-
-via&#160;: via&#160;: via](/archive/by_date/2011/02/11/tumblr_lgag7qOYzW1qaruxco1_500.jpg)](http://www.ireallyshould.com/)
+[![“EXIST” by Kelly Mark via&#160;: via&#160;: via](/archive/by_date/2011/02/11/tumblr_lgag7qOYzW1qaruxco1_500.jpg)](http://www.ireallyshould.com/)
 
 <p>“EXIST” by <a href="http://www.ireallyshould.com/">Kelly Mark</a></p>
 

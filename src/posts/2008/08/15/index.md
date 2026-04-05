@@ -4,15 +4,7 @@ title: Wikiabet
 permalink: /archive/by_date/2008/08/15/
 ---
 
-[![Found searching Blogonia for &#8220;propositional calculus&#8221;:
-
-
-
-Alain Badiou - Course on Logic - Part I 
-Alain Badiou - Course on Logic - Part II
-Alain Badiou - Course on Logic - Part III
-
-&#8220;A translation of lecture notes from a course on Logic delivered by Alain Badiou in 1980 - 81. It is rather short and deals specifically with Gödel and his theorem of incompleteness.&#8221;](/archive/by_date/2008/08/15/02MycoI69con3n9rQoRgZuy1_500.jpg)](http://stellarcartographies.wordpress.com/2008/07/05/alain-badiou-course-on-logic-1980-81/)
+[![Found searching Blogonia for &#8220;propositional calculus&#8221;: Alain Badiou - Course on Logic - Part I Alain Badiou - Course on Logic - Part II Alain Badiou - Course on Logic - Part III &#8220;A translation of lecture notes from a course on Logic delivered by Alain Badiou in 1980 - 81. It is rather short and deals specifically with Gödel and his theorem of incompleteness.&#8221;](/archive/by_date/2008/08/15/02MycoI69con3n9rQoRgZuy1_500.jpg)](http://stellarcartographies.wordpress.com/2008/07/05/alain-badiou-course-on-logic-1980-81/)
 
 <p>Found searching <a href="http://blogsearch.google.com/">Blogonia</a> for &#8220;propositional calculus&#8221;:</p>
 

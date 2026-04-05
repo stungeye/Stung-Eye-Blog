@@ -10,7 +10,7 @@ permalink: /archive/by_date/2011/03/15/
 
 <p>During each of the seventeen talks I scribbled down my thoughts in a notepad. During the week that followed, I tried to distill each talk down to one compelling analogy. These seventeen analogies are presented below (<em>in italics</em>), along with links to each video (follow the arrows).</p>
 
-<p>Some of the analogies are direct quotes, others are summaries of what I personally took away from a talk. Out of context these analogies may have little meaning, so watch the videos. I&#8217;ve marked my favourite talks with a star (★).</p>
+<p>Some of the analogies are direct quotes, others are summaries of what I personally took away from a talk. Out of context these analogies may have little meaning, so watch the videos. I’ve marked my favourite talks with a star (★).</p>
 
 <h3>Len Brownlie</h3>
 

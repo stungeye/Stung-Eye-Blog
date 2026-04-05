@@ -4,9 +4,7 @@ title: "Discovered on December 7, 2010"
 permalink: /archive/by_date/2010/12/07/
 ---
 
-![@redlibrarian: &#8220;From the Wiki page on Jan Tschichold, a book designer who looked specifically at page ratios.&#8221;
-
-Cross Post!](/archive/by_date/2010/12/07/tumblr_ld2t1gKmHt1qzoknmo1_500.png)
+![@redlibrarian: &#8220;From the Wiki page on Jan Tschichold, a book designer who looked specifically at page ratios.&#8221; Cross Post!](/archive/by_date/2010/12/07/tumblr_ld2t1gKmHt1qzoknmo1_500.png)
 
 <p><a href="http://twitter.com/redlibrarian">@redlibrarian</a>: &#8220;From the <a href="http://en.wikipedia.org/wiki/Jan_Tschichold">Wiki page on Jan Tschichold</a>, a book designer who looked specifically at page ratios.&#8221;</p>
 

@@ -4,13 +4,7 @@ title: "Discovered on February 2, 2011"
 permalink: /archive/by_date/2011/02/02/
 ---
 
-[![Winnipeg Quiz: Where was this 1950&#8217;s 1909 photo taken?
-
-Update: Correct answer submitted by AH.
-
-The location is McDermot Avenue, west from Main Street.
-
-Photo Source: The Rise and Sprawl](/archive/by_date/2011/02/02/tumblr_lg0f52snwM1qzoknmo1_500.jpg)](http://2.bp.blogspot.com/_Fta5SQvT4nc/TUbh1QQI9TI/AAAAAAAABBM/lHWlyPoPPRA/s1600/4881013058_ba1f6fa0b2_b.jpg)
+[![Winnipeg Quiz: Where was this 1950&#8217;s 1909 photo taken? Update: Correct answer submitted by AH. The location is McDermot Avenue, west from Main Street. Photo Source: The Rise and Sprawl](/archive/by_date/2011/02/02/tumblr_lg0f52snwM1qzoknmo1_500.jpg)](http://2.bp.blogspot.com/_Fta5SQvT4nc/TUbh1QQI9TI/AAAAAAAABBM/lHWlyPoPPRA/s1600/4881013058_ba1f6fa0b2_b.jpg)
 
 <p><strong>Winnipeg Quiz:</strong> Where was this <s>1950&#8217;s</s> 1909 photo taken?</p>
 

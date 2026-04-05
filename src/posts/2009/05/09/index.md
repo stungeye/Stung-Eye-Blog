@@ -4,7 +4,7 @@ title: "Discovered on May 9, 2009"
 permalink: /archive/by_date/2009/05/09/
 ---
 
-[![Roomba Chaos - [via]](/archive/by_date/2009/05/09/02MycoI69na3mmx56G13F7UVo1_500.jpg)](http://signaltheorist.com/?p=91)
+[![Roomba Chaos - via](/archive/by_date/2009/05/09/02MycoI69na3mmx56G13F7UVo1_500.jpg)](http://signaltheorist.com/?p=91)
 
 Roomba Chaos - [<a href="http://www.doobybrain.com/2009/05/08/long-exposure-shows-roomba-cleaning-path/">via</a>]
 

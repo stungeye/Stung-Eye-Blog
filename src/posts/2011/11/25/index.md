@@ -4,9 +4,7 @@ title: "Discovered on November 25, 2011"
 permalink: /archive/by_date/2011/11/25/
 ---
 
-[![Pic Du Midi Observatory
-
-Another view of the Observatory.](/archive/by_date/2011/11/25/tumblr_lv84vrbbl81qzoknmo1_500.jpg)](http://www.tumblr.com/photo/1280/13301621691/1/tumblr_lv84vrbbl81qzoknm)
+![Pic Du Midi Observatory Another view of the Observatory.](/archive/by_date/2011/11/25/tumblr_lv84vrbbl81qzoknmo1_500.jpg)
 
 <p><a href="http://en.wikipedia.org/wiki/Pic_du_Midi_de_Bigorre">Pic Du Midi Observatory</a></p>
 

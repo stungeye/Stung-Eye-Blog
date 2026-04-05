@@ -30,10 +30,10 @@ permalink: /archive/by_date/2008/09/01/
 <li>Birds Fled From Me - The Resisted</li>
 <li>Marco Polo - Nostalgia feat. Masta Ace</li>
 <li>The Black Ghosts - Tears from a Gun</li>
-<li>She & Him - Black Hole</li>
+<li>She &amp; Him - Black Hole</li>
 <li>Cut Copy - Feel the Love</li>
 <li>New Pornographers - Myriad Harbour</li>
-<li>Reverie Sound Revue - Passes & Passports</li>
+<li>Reverie Sound Revue - Passes &amp; Passports</li>
 <li>Kate Nash - Fluorescent Adolescent</li>
 </ul>
 <h3>Triangle Waves</h3>

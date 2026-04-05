@@ -14,14 +14,7 @@ permalink: /archive/by_date/2010/11/18/
 
 ---
 
-[![Girl Talk makes illegal art.
-
-
-  All Day is intended to be listened to as a whole.
-  
-  This album is a free download. [torrent]
-  
-  Girl Talk thanks all artists sampled.](/archive/by_date/2010/11/18/tumblr_lc2gtxBdkt1qzoknmo1_500.jpg)](http://illegal-art.net/allday/)
+[![Girl Talk makes illegal art. All Day is intended to be listened to as a whole. This album is a free download. torrent Girl Talk thanks all artists sampled.](/archive/by_date/2010/11/18/tumblr_lc2gtxBdkt1qzoknmo1_500.jpg)](http://illegal-art.net/allday/)
 
 <p><a href="http://en.wikipedia.org/wiki/Girl_Talk_(musician)">Girl Talk</a> makes <a href="http://illegal-art.net/allday/">illegal art</a>.</p>
 

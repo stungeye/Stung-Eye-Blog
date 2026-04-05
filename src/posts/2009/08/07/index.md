@@ -8,6 +8,6 @@ permalink: /archive/by_date/2009/08/07/
 
 ---
 
-![e m a i l  t o  s i s t a](/archive/by_date/2009/08/07/02MycoI69qus1uck91LWCexno1_500.png)
+![e m a i l t o s i s t a](/archive/by_date/2009/08/07/02MycoI69qus1uck91LWCexno1_500.png)
 
 e m a i l  t o  s i s t a

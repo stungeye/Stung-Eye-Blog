@@ -4,11 +4,7 @@ title: "Discovered on February 7, 2010"
 permalink: /archive/by_date/2010/02/07/
 ---
 
-![Climb Aboard
-
-Media: Photoshop / Custom Processing sketch.
-
-I cannot remember the source of the ladybug. It was part of a free sprite library created by an indie-game developer.](/archive/by_date/2010/02/07/tumblr_kxhtbnRY331qzoknmo1_500.png)
+![Climb Aboard Media: Photoshop / Custom Processing sketch. I cannot remember the source of the ladybug. It was part of a free sprite library created by an indie-game developer.](/archive/by_date/2010/02/07/tumblr_kxhtbnRY331qzoknmo1_500.png)
 
 <p><a href="http://www.flickr.com/photos/stungeye/4339054376/">Climb Aboard</a></p>
 

@@ -12,14 +12,7 @@ permalink: /archive/by_date/2012/04/12/
 
 ---
 
-[![Off the Grid
-
-
-  There are growing number of people
-  who have decided to live light on the earthto not be a part of problem anymore
-  I spent the last few years with four of them
-  striving for harmony with nature
-  in the most pristine corners of United States.](/archive/by_date/2012/04/12/tumblr_m2dmfmtkWT1qzoknmo1_500.png)](http://24.media.tumblr.com/tumblr_m2dmfmtkWT1qzoknmo1_1280.png)
+![Off the Grid There are growing number of people who have decided to live light on the earthto not be a part of problem anymore I spent the last few years with four of them striving for harmony with nature in the most pristine corners of United States.](/archive/by_date/2012/04/12/tumblr_m2dmfmtkWT1qzoknmo1_500.png)
 
 <p><a href="http://www.ericvalli.com/index.php?/stories/off-the-grid/">Off the Grid</a></p>
 

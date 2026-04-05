@@ -4,7 +4,7 @@ title: "Discovered on February 11, 2010"
 permalink: /archive/by_date/2010/02/11/
 ---
 
-[![via](/archive/by_date/2010/02/11/tumblr_kxpg57g8tF1qzoknmo1_500.png)](http://s3.amazonaws.com/data.tumblr.com/tumblr_kxp5wxJMmw1qz6f9yo1_1280.png?AWSAccessKeyId=0RYTHV9YYQ4W5Q3HQMG2&amp;Expires=1266024455&amp;Signature=p31SLImjUqGx6vo%2Fjos8CEPe%2BuI%3D)
+![via](/archive/by_date/2010/02/11/tumblr_kxpg57g8tF1qzoknmo1_500.png)
 
 <p><a href="http://thisisnthappiness.com/">via</a></p>
 

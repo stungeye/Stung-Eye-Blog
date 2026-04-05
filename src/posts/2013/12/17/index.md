@@ -6,7 +6,7 @@ permalink: /archive/by_date/2013/12/17/
 
 ## Probability of Dice Rolls in Settlers of Catan
 
-<p><img src="https://stungeye.com/images/others/1213/settlers.jpg" alt="Settlers of Catan Board"/></p>
+<p><img src="https://stungeye.com/images/others/1213/settlers.jpg" alt="Settlers of Catan Board"></p>
 
 <p><strong>A few weeks back I played a game of <a href="https://en.wikipedia.org/wiki/The_Settlers_of_Catan">Settler of Catan</a> where an 8 was only rolled once.</strong> This is <em>a pretty big deal</em> if you know how the game is played.</p>
 
@@ -28,7 +28,7 @@ permalink: /archive/by_date/2013/12/17/
 
 <p>The following chart shows this distribution of sums. Notice that the sum of two uniform distributions (each die) makes a triangular distribution.</p>
 
-<p><img src="https://stungeye.com/images/others/1213/dice_sum_probabilities.jpg" alt="All possible combos when summing two six-sided dice."/></p>
+<p><img src="https://stungeye.com/images/others/1213/dice_sum_probabilities.jpg" alt="All possible combos when summing two six-sided dice."></p>
 
 <p>Shown in this image are the 36 possible outcomes of rolling 2 dice. Six of these combos sum to a 7 while only one of them sums to a 2. It should therefore be apparent that in a game of Settlers, 7s are rolled more often than 2s. <em>If you don’t believe me, grab a pair of dice and start rolling while keeping track of the sums.</em></p>
 
@@ -38,7 +38,7 @@ permalink: /archive/by_date/2013/12/17/
 
 <p>I coded the following visualization to demonstrates these dice-sum probabilities. In this program virtual 6-sided dice-throws are simulated using a <a href="https://en.wikipedia.org/wiki/Pseudorandomness">pseudorandom</a> number generator. In total over 3000 virtual dice are thrown before the programs resets.</p>
 
-<iframe width="428" height="370" scrolling="no" frameborder="0" src="https://www.openprocessing.org/sketch/124236/embed/?width=400&height=300&border=true"></iframe>
+<iframe width="428" height="370" scrolling="no" frameborder="0" src="https://www.openprocessing.org/sketch/124236/embed/?width=400&amp;height=300&amp;border=true"></iframe>
 
 <p>The <span style="color:#eee; background-color:#008789; padding: 0 3px;">left-hand graph</span> above shows how often each virtual die lands on a specific side, 1 through 6. Since there is an equal probability of each side appearing, the columns in this graph should all be approximately the same height. This is the uniform distribution I mentioned earlier.</p>
 
@@ -52,7 +52,7 @@ permalink: /archive/by_date/2013/12/17/
 
 <p>The next visualization demonstrates just this effect. Each refresh of the graphs represents another possible 72-roll game of Settlers. <em>With a sample size of 72 pairs of dice the graphs are often far from ideal.</em> In some games <span style="color:#eee; background-color:#008789; padding: 0 3px;">dice-sides</span> are far from uniform, and the <span style="color:#eee; background-color:#FC4349; padding: 0 3px;">dice sums</span> do not always follow the expected triangular probability distribution.</p>
 
-<iframe width="428" height="370" scrolling="no" frameborder="0" src="https://www.openprocessing.org/sketch/124261/embed/?width=400&height=300&border=true"></iframe>
+<iframe width="428" height="370" scrolling="no" frameborder="0" src="https://www.openprocessing.org/sketch/124261/embed/?width=400&amp;height=300&amp;border=true"></iframe>
 
 <h3>Our Crazy Game</h3>
 
@@ -73,7 +73,7 @@ permalink: /archive/by_date/2013/12/17/
 <p>While this is true, it’s important to note that we are now talking about two different probabilities.</p>
 
 <ol><li>Probability of <strong>a sequence</strong> of 71 no-8 rolls: 1 in 40,813</li>
-<li>Probability of rolling only one 8 <strong>anywhere</strong> in 79 rolls: 1 in 10,594</li>
+<li>Probability of rolling only one 8&nbsp;<strong>anywhere</strong> in 79 rolls: 1 in 10,594</li>
 </ol><h3>Resources and Further Reading</h3>
 
 <p>Before I started writing this blog post I wrote <a href="https://gist.github.com/stungeye/7912928">a Ruby program to simulate the roll of dice in Settlers</a> using the truly random data from <a href="http://random.org">Random.org</a>.</p>

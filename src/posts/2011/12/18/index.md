@@ -10,7 +10,7 @@ permalink: /archive/by_date/2011/12/18/
 
 <h3>Fiction</h3>
 
-<p>It was a very sci-fi year. Pullman&#8217;s Dark Materials books were my favourites, although I&#8217;d say this was a 4 star year on average.</p>
+<p>It was a very sci-fi year. Pullman’s Dark Materials books were my favourites, although I’d say this was a 4 star year on average.</p>
 
 <ul><li><a href="http://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell">Jonathan Strange and Mr Norrell</a> - Susanna Clarke</li>
 <li><a href="http://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer">The Adventures of Tom Sawyer</a> - Mark Twain</li>
@@ -24,14 +24,14 @@ permalink: /archive/by_date/2011/12/18/
 <li>The Subtle Knife</li>
 <li>The Amber Spyglass</li>
 </ul></li>
-<li><a href="http://en.wikipedia.org/wiki/Childhood%27s_End">Childhood&#8217;s End</a> - Arthur C. Clark</li>
+<li><a href="http://en.wikipedia.org/wiki/Childhood%27s_End">Childhood’s End</a> - Arthur C. Clark</li>
 <li><a href="http://www.aftertheparty.co.uk">After the Party</a> - Lisa Jewell</li>
 <li><a href="http://en.wikipedia.org/wiki/Calculating_God">Calculating God</a> - Robert Sawyer</li>
-<li><a href="http://en.wikipedia.org/wiki/Foucault%27s_Pendulum">Foucault&#8217;s Pendulum</a> - Umberto Eco</li>
+<li><a href="http://en.wikipedia.org/wiki/Foucault%27s_Pendulum">Foucault’s Pendulum</a> - Umberto Eco</li>
 <li><a href="http://en.wikipedia.org/wiki/Rendezvous_with_Rama">Rendezvous with Rama</a> - Arthur C. Clark</li>
 </ul><h3>Non-Fiction</h3>
 
-<p>In the non-fiction world, I seem to be on a bit of a &#8220;Ruby with Olsen&#8221; kick.</p>
+<p>In the non-fiction world, I seem to be on a bit of a “Ruby with Olsen” kick.</p>
 
 <ul><li><a href="http://eloquentruby.com/">Eloquent Ruby</a> - Russ Olsen</li>
 <li><a href="http://designpatternsinruby.com/">Design Patterns in Ruby</a> - Russ Olsen</li>

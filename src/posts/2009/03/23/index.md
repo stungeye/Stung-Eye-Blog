@@ -6,7 +6,7 @@ permalink: /archive/by_date/2009/03/23/
 
 ## Art and Code - Overview Part II
 
-<p>My Art and Code overview continues&#8230; (See: <a href="http://stungeye.com/archive/by_date/2009/03/17">Part I</a>)</p>
+<p>My Art and Code overview continues… (See: <a href="http://stungeye.com/archive/by_date/2009/03/17">Part I</a>)</p>
 
 <h3>Sunday - Toolkit Overviews and Dorkbot @ Brillobox</h3>
 
@@ -14,7 +14,7 @@ permalink: /archive/by_date/2009/03/23/
 
 <p>Some notes I jotted down during the presentations:</p>
 
-<h4>Alice - Presented by CMU&#8217;s <a href="http://www.cs.cmu.edu/~djslater/">Don Slater</a>.</h4>
+<h4>Alice - Presented by CMU’s <a href="http://www.cs.cmu.edu/~djslater/">Don Slater</a>.</h4>
 
 <p><a href="http://www.alice.org/">Alice</a> is a 3D programming environment for creating animations, games and videos. 3d models of objects and characters are programmed visually by dragging/dropping/connecting various Instruction-Tiles together.</p>
 
@@ -32,7 +32,7 @@ permalink: /archive/by_date/2009/03/23/
 <h4>Pd - Presented by <a href="http://at.or.at/hans/blog/">Hans-Christoph Steiner</a>
 </h4>
 
-<p><a href="http://puredata.info/">Pd</a> or Pure Data is a graphical programming language for audio and video programming. Data (most often audio signals) flows through various specialized transformation or generation nodes/objects which are visually connected together by the programmer using &#8220;wires&#8221;.</p>
+<p><a href="http://puredata.info/">Pd</a> or Pure Data is a graphical programming language for audio and video programming. Data (most often audio signals) flows through various specialized transformation or generation nodes/objects which are visually connected together by the programmer using “wires”.</p>
 
 <p>1000 words == <a href="http://footils.org/tut/pddrums/drumcenter-01.png">Picture</a></p>
 
@@ -62,7 +62,7 @@ permalink: /archive/by_date/2009/03/23/
 <h4>Hackety Hack - Presented by <a href="http://whytheluckystiff.net/">_why</a>
 </h4>
 
-<p><a href="http://github.com/why/hacketyhack/tree/master">Hackety Hack</a> is a Ruby-based environment designed to make programming accessible for kids, (especially teenagers). Its motivation: <a href="http://whytheluckystiff.net/articles/theLittleCodersPredicament.html">The Little Coder&#8217;s Predicament</a></p>
+<p><a href="http://github.com/why/hacketyhack/tree/master">Hackety Hack</a> is a Ruby-based environment designed to make programming accessible for kids, (especially teenagers). Its motivation: <a href="http://whytheluckystiff.net/articles/theLittleCodersPredicament.html">The Little Coder’s Predicament</a></p>
 
 <p><em>Jotted Down:</em></p>
 
@@ -72,4 +72,4 @@ permalink: /archive/by_date/2009/03/23/
 
 <p>The ASCII sword-fighting program stirs-up long dormant memories of <a href="http://en.wikipedia.org/wiki/Monkey_Island_%28series%29">Monkey Island</a>.</p>
 
-<p>And then we ate lunch. To be continued&#8230;</p>
+<p>And then we ate lunch. To be continued…</p>

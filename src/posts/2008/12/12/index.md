@@ -10,11 +10,7 @@ Music-video stream based on <a href="http://last.fm">last.fm</a> user preference
 
 ---
 
-[![Beauty in Symmetry - Manitoba Legislative Building (1939)
-
-Note the outline showing the former parliament building and the diagonal entry paths foreseeing future desire lines.
-
-From the amazing Manitoba Historical Maps Flickr Stream.](/archive/by_date/2008/12/12/02MycoI69hesl2a69JRk4o3Ro1_500.jpg)](http://www.flickr.com/photos/manitobamaps/3103037678/)
+[![Beauty in Symmetry - Manitoba Legislative Building (1939) Note the outline showing the former parliament building and the diagonal entry paths foreseeing future desire lines. From the amazing Manitoba Historical Maps Flickr Stream.](/archive/by_date/2008/12/12/02MycoI69hesl2a69JRk4o3Ro1_500.jpg)](http://www.flickr.com/photos/manitobamaps/3103037678/)
 
 <p>Beauty in Symmetry - Manitoba Legislative Building (1939)</p>
 

@@ -4,9 +4,7 @@ title: "Discovered on October 3, 2015"
 permalink: /archive/by_date/2015/10/03/
 ---
 
-[![Gordon Magnin [via]
-
-More Magnin Cut Ups](/archive/by_date/2015/10/03/tumblr_nvnbp2oUaq1qzoknmo1_500.jpg)](http://stungeye.tumblr.com/image/130399861305)
+![Gordon Magnin via More Magnin Cut Ups](/archive/by_date/2015/10/03/tumblr_nvnbp2oUaq1qzoknmo1_500.jpg)
 
 <p><a href="http://gordonmagnin.com/">Gordon Magnin</a> [<a href="http://thesocietyofthespectacle.com/2009/11/gordon-magnin/09-05-31-cubes/">via</a>]</p>
 

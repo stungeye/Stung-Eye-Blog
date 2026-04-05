@@ -34,10 +34,10 @@ Fan Out
 
 <p>Translators note from A Thousand Plateaus:</p>
 
-<p><em>&#8220;This is a book that speaks of many things, of ticks and quilts and fuzzy sub-
+<p><em>“This is a book that speaks of many things, of ticks and quilts and fuzzy sub-
 sets and noology and political economy. It is difficult to know how to
 approach it. What do you do with a book that dedicates an entire chapter to
-music and animal behavior—and then claims that it isn&#8217;t a chapter?&#8221;</em></p>
+music and animal behavior—and then claims that it isn’t a chapter?”</em></p>
 
 <p>Read them in PDF:</p>
 

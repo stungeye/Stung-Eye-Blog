@@ -4,9 +4,7 @@ title: "Discovered on June 9, 2011"
 permalink: /archive/by_date/2011/06/09/
 ---
 
-![Wonder Wheel
-
-via - via](/archive/by_date/2011/06/09/tumblr_lmj663joA01qz6f9yo1_500.jpg)
+![Wonder Wheel via - via](/archive/by_date/2011/06/09/tumblr_lmj663joA01qz6f9yo1_500.jpg)
 
 <p>Wonder Wheel</p>
 
@@ -14,9 +12,7 @@ via - via](/archive/by_date/2011/06/09/tumblr_lmj663joA01qz6f9yo1_500.jpg)
 
 ---
 
-![Scale and Perspective
-
-via - via](/archive/by_date/2011/06/09/tumblr_lftweyN4fn1qbcqmwo1_500.gif)
+![Scale and Perspective via - via](/archive/by_date/2011/06/09/tumblr_lftweyN4fn1qbcqmwo1_500.gif)
 
 <p>Scale and Perspective</p>
 

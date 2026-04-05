@@ -4,9 +4,7 @@ title: "Discovered on October 18, 2008"
 permalink: /archive/by_date/2008/10/18/
 ---
 
-[![The Manitoba Flood of 1950 - This is why we have the floodway.
-
-(Side Note: Canada Packers Plant or Castle?)](/archive/by_date/2008/10/18/02MycoI69f85ee5nkNUyS3r2o1_500.jpg)](http://www.manitobaphotos.com/1950.htm)
+[![The Manitoba Flood of 1950 - This is why we have the floodway. (Side Note: Canada Packers Plant or Castle?)](/archive/by_date/2008/10/18/02MycoI69f85ee5nkNUyS3r2o1_500.jpg)](http://www.manitobaphotos.com/1950.htm)
 
 <p><a href="http://www.manitobaphotos.com/1950.htm">The Manitoba Flood of 1950</a> - <a href="http://www.manitobaphotos.com/1950/183.jpg">This</a> is why we have <a href="http://en.wikipedia.org/wiki/Red_River_Floodway">the floodway</a>.</p>
 

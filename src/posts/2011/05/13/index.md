@@ -10,9 +10,7 @@ permalink: /archive/by_date/2011/05/13/
 
 ---
 
-![Julie Hagerty, take me to bed
-
-From embryo AD.&#8217;s &#8220;Portcullis&#8221;.](/archive/by_date/2011/05/13/tumblr_ll52f8avxj1qzoknmo1_400.jpg)
+![Julie Hagerty, take me to bed From embryo AD.&#8217;s &#8220;Portcullis&#8221;.](/archive/by_date/2011/05/13/tumblr_ll52f8avxj1qzoknmo1_400.jpg)
 
 <p><a href="http://www.flickr.com/photos/hulapaint/1557562258/in/photostream">Julie Hagerty, take me to bed</a></p>
 

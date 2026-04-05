@@ -15,7 +15,7 @@ permalink: /archive/by_date/2009/04/04/
 <h4>Processing - Presented by co-creators <a href="http://benfry.com/">Ben Fry</a> and <a href="http://www.reas.com/">Casey Reas</a>
 </h4>
 
-<p>I&#8217;ve written about <a href="http://processing.org">Processing</a> here <a href="http://stungeye.com/archive/by_date/2008/11/25">before</a>. It is still my goto tool for visual coding.</p>
+<p>I’ve written about <a href="http://processing.org">Processing</a> here <a href="http://stungeye.com/archive/by_date/2008/11/25">before</a>. It is still my goto tool for visual coding.</p>
 
 <p><em>Jotted Down:</em></p>
 
@@ -30,16 +30,16 @@ permalink: /archive/by_date/2009/04/04/
 
 <p><em>Jotted Down:</em></p>
 
-<p>I guess I&#8217;m a <a href="http://en.wikipedia.org/wiki/Free_and_open_source_software">FLOSS</a> snob; although this environment looks much more polished than Pd, I gave it less attention because it&#8217;s a commercial product. (There&#8217;s a 30-day trail version, but the full bundle costs $699 USD.)</p>
+<p>I guess I’m a <a href="http://en.wikipedia.org/wiki/Free_and_open_source_software">FLOSS</a> snob; although this environment looks much more polished than Pd, I gave it less attention because it’s a commercial product. (There’s a 30-day trail version, but the full bundle costs $699 USD.)</p>
 
-<p>Reminder to check out the work of <a href="http://en.wikipedia.org/wiki/Michael_Joaquin_Grey">Michael Joaquin Grey</a>, especially <a href="http://www.bampfa.berkeley.edu/digitalart/ripmixburn/TXT0191">Recapitulate: Retrace, Erase, Repeat</a> which uses <a href="http://images.google.ca/images?q=Goya%20The%20Disasters%20of%20War">Goya&#8217;s The Disasters of War</a> etchings as source fodder.</p>
+<p>Reminder to check out the work of <a href="http://en.wikipedia.org/wiki/Michael_Joaquin_Grey">Michael Joaquin Grey</a>, especially <a href="http://www.bampfa.berkeley.edu/digitalart/ripmixburn/TXT0191">Recapitulate: Retrace, Erase, Repeat</a> which uses <a href="http://images.google.ca/images?q=Goya%20The%20Disasters%20of%20War">Goya’s The Disasters of War</a> etchings as source fodder.</p>
 
 <p>Also, check out <a href="http://vimeo.com/3753964">Hello World, The Song</a> (in Max/MSP)</p>
 
 <h4>VVVV - Presented by <a href="http://www.meso.net/oschatz/">Sebastian Oschatz</a>
 </h4>
 
-<p><a href="http://vvvv.org">Vvvv</a> is a video-synthesis toolkit. The programming interface is similar to the patch-base language we&#8217;ve already seen (Pd and Max/MSP), graphical function-blocks connected with wires. For a more detailed look read <a href="http://hackety.org/2009/03/13/ctrlB.html">Ctrl+B For Concurrency</a>.</p>
+<p><a href="http://vvvv.org">Vvvv</a> is a video-synthesis toolkit. The programming interface is similar to the patch-base language we’ve already seen (Pd and Max/MSP), graphical function-blocks connected with wires. For a more detailed look read <a href="http://hackety.org/2009/03/13/ctrlB.html">Ctrl+B For Concurrency</a>.</p>
 
 <p>Of the visual languages presented at the conference, vvvv is the only one I downloaded and experimented with. Oh I do wish for infinite time to play with all these wonderful tools.</p>
 
@@ -47,7 +47,7 @@ permalink: /archive/by_date/2009/04/04/
 
 <p>Read the <a href="http://vvvv.org/tiki-index.php?page=licensing">vvvv licensing page</a>, commercial vs. non-commercial uses.</p>
 
-<p>This language doesn&#8217;t contain any explicit looping structures.</p>
+<p>This language doesn’t contain any explicit looping structures.</p>
 
 <p>Nerdy VJs would go wild for this.</p>
 

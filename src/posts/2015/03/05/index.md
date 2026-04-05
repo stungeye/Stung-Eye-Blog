@@ -4,14 +4,7 @@ title: "Discovered on March 5, 2015"
 permalink: /archive/by_date/2015/03/05/
 ---
 
-[![Ceci n&#8217;est pas un visage.
-
-Title: Time
-Artist: Kim Laughton
-
-This is a CG rendered face, not a photograph. It was modelled using ZBrush and rendered with Arnold. It took 32 hours to render. I wonder how long it took Kim Laughton to model/sculpt it?
-
-More Hyper-realistic CG on the HyperRealCG Tumblr.](/archive/by_date/2015/03/05/tumblr_nk8qnmrRxo1unlgyro1_500.jpg)](http://stungeye.tumblr.com/image/112799022540)
+![Ceci n&#8217;est pas un visage. Title: Time Artist: Kim Laughton This is a CG rendered face, not a photograph. It was modelled using ZBrush and rendered with Arnold. It took 32 hours to render. I wonder how long it took Kim Laughton to model/sculpt it? More Hyper-realistic CG on the HyperRealCG Tumblr.](/archive/by_date/2015/03/05/tumblr_nk8qnmrRxo1unlgyro1_500.jpg)
 
 <p>Ceci n&#8217;est pas un visage.</p>
 

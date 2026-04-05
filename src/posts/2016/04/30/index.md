@@ -4,11 +4,7 @@ title: "Discovered on April 30, 2016"
 permalink: /archive/by_date/2016/04/30/
 ---
 
-[![How to Work Better
-
-Peter Fischli and David Weiss at Guggenheim, New York
-
-via: this isn&rsquo;t happiness](/archive/by_date/2016/04/30/tumblr_o6eqa4xYB51qz6f9yo1_500.jpg)](http://stungeye.tumblr.com/image/143627899225)
+![How to Work Better Peter Fischli and David Weiss at Guggenheim, New York via: this isn&rsquo;t happiness](/archive/by_date/2016/04/30/tumblr_o6eqa4xYB51qz6f9yo1_500.jpg)
 
 <p><strong>How to Work Better</strong></p>
 

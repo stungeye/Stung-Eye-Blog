@@ -10,6 +10,6 @@ A <a href="http://www.templeton.org/bigquestions/">Templeton Conversation</a> &#
 
 ---
 
-[![Sad Guys on Trading Floors](/archive/by_date/2008/10/09/02MycoI69eva1plzusbCvhFFo1_500.jpg)](http://sadguysontradingfloors.tumblr.com/)
+![Sad Guys on Trading Floors](/archive/by_date/2008/10/09/02MycoI69eva1plzusbCvhFFo1_500.jpg)
 
 <a href="http://sadguysontradingfloors.tumblr.com/">Sad Guys on Trading Floors</a>

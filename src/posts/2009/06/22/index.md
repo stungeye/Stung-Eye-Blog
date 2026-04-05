@@ -4,13 +4,7 @@ title: "Discovered on June 22, 2009"
 permalink: /archive/by_date/2009/06/22/
 ---
 
-[![StungEye Affiliate:
-
-&#8220;Literary Cat Celebrates 10,000+ Unique Visitors to Meow Reader.
-
-The Internet Eats Novelty. View our monthly stats graph.
-
-(Note that Stumple Upon sent us nearly 7,500 uniques in the first month.)&#8221;](/archive/by_date/2009/06/22/jHt93UwO3p0z2gsmBsAm1n8go1_500.jpg)](http://meow-reader.tumblr.com/)
+![StungEye Affiliate: &#8220;Literary Cat Celebrates 10,000+ Unique Visitors to Meow Reader. The Internet Eats Novelty. View our monthly stats graph. (Note that Stumple Upon sent us nearly 7,500 uniques in the first month.)&#8221;](/archive/by_date/2009/06/22/jHt93UwO3p0z2gsmBsAm1n8go1_500.jpg)
 
 <p><a href="http://stungeye.com">StungEye</a> Affiliate:</p>
 

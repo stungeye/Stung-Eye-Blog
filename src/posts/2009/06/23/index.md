@@ -4,13 +4,7 @@ title: "Discovered on June 23, 2009"
 permalink: /archive/by_date/2009/06/23/
 ---
 
-[![Shan and I met this happy angler by the Assiniboine river on Friday night.
-
-In 2006/2007 I emailed various levels of government to see if it was safe to eat fish caught in our Winnipeg river systems.
-
-Also: Assiniboine River Water Quality Study 2001/2002 - Water Quality Mgmt Section, Manitoba Conservation [pdf]
-
-Related: More Photos - Early Summer 2009 (Flickr Set)](/archive/by_date/2009/06/23/02MycoI69p2cwhuqtm1FSnRfo1_500.jpg)](http://www.flickr.com/photos/stungeye/3651361330/)
+[![Shan and I met this happy angler by the Assiniboine river on Friday night. In 2006/2007 I emailed various levels of government to see if it was safe to eat fish caught in our Winnipeg river systems. Also: Assiniboine River Water Quality Study 2001/2002 - Water Quality Mgmt Section, Manitoba Conservation pdf Related: More Photos - Early Summer 2009 (Flickr Set)](/archive/by_date/2009/06/23/02MycoI69p2cwhuqtm1FSnRfo1_500.jpg)](http://www.flickr.com/photos/stungeye/3651361330/)
 
 <p>Shan and I met this happy angler by the Assiniboine river on Friday night.</p>
 

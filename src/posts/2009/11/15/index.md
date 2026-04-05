@@ -4,9 +4,7 @@ title: "Discovered on November 15, 2009"
 permalink: /archive/by_date/2009/11/15/
 ---
 
-[![Dutchie
-
-From Jan Willemsen&#8217;s Nederland photochromes. Also: Oude fotos van Nederland. [via]](/archive/by_date/2009/11/15/tumblr_kt5u9q4b2o1qzn6jzo1_400.jpg)](http://www.flickr.com/photos/8725928@N02/3161596234/)
+[![Dutchie From Jan Willemsen&#8217;s Nederland photochromes. Also: Oude fotos van Nederland. via](/archive/by_date/2009/11/15/tumblr_kt5u9q4b2o1qzn6jzo1_400.jpg)](http://www.flickr.com/photos/8725928@N02/3161596234/)
 
 <p>Dutchie</p>
 

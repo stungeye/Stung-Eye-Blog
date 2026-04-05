@@ -4,9 +4,7 @@ title: "Discovered on January 29, 2009"
 permalink: /archive/by_date/2009/01/29/
 ---
 
-[![The Dance Language of Bees
-
-via suddenly](/archive/by_date/2009/01/29/02MycoI69jajast9W5mOf2CGo1_500.jpg)](http://1.bp.blogspot.com/_7laTi_Z4eAA/SMSoxOxulgI/AAAAAAAAB7o/Yujep7fr860/s1600-h/biology622)
+[![The Dance Language of Bees via suddenly](/archive/by_date/2009/01/29/02MycoI69jajast9W5mOf2CGo1_500.jpg)](http://1.bp.blogspot.com/_7laTi_Z4eAA/SMSoxOxulgI/AAAAAAAAB7o/Yujep7fr860/s1600-h/biology622)
 
 <p><a href="http://ajourneyroundmyskull.blogspot.com/2008/09/dance-language-of-bees.html">The Dance Language of Bees</a></p>
 

@@ -6,7 +6,7 @@ permalink: /archive/by_date/2010/03/06/
 
 ## Mobile Development
 
-<p>This weekend I&#8217;ll be exploring:</p>
+<p>This weekend I’ll be exploring:</p>
 
 <ul>
 <li>

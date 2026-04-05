@@ -6,7 +6,7 @@ permalink: /archive/by_date/2009/02/26/
 
 ## You Are Beyond the Edge of Forever
 
-<p>&#8230;</p>
+<p>…</p>
 
 <pre><code>  (sleeping) Enter command: inventory
         You are carrying: a theorem. an axiom. 
@@ -45,7 +45,7 @@ permalink: /archive/by_date/2009/02/26/
         It begins: 
 </code></pre>
 
-<p><em>&#8220;<a href="http://everything2.com/e2node/Beyond%2520the%2520Tesseract">The metaphysical existentialism of reality</a>&#8230;&#8221;</em></p>
+<p><em>“<a href="http://everything2.com/e2node/Beyond%2520the%2520Tesseract">The metaphysical existentialism of reality</a>…”</em></p>
 
 <p>via: <a href="http://chneukirchen.org/trivium/">trivium</a></p>
 

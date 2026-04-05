@@ -4,10 +4,7 @@ title: "Discovered on April 25, 2011"
 permalink: /archive/by_date/2011/04/25/
 ---
 
-![James Jean
-
-via: just bunny and me
-via: this isn&#8217;t happiness](/archive/by_date/2011/04/25/tumblr_lk4aitHde91qz6f9yo1_500.jpg)
+![James Jean via: just bunny and me via: this isn&#8217;t happiness](/archive/by_date/2011/04/25/tumblr_lk4aitHde91qz6f9yo1_500.jpg)
 
 <p><strong><a href="http://www.jamesjean.com/">James Jean</a></strong></p>
 

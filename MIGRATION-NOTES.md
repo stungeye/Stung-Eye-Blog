@@ -80,6 +80,16 @@ The migration script validates that every redirect target has a corresponding bu
 
 Eleventy copies co-located images to the output via passthrough copy with path remapping (`src/posts/` → `archive/by_date/`).
 
+**Important:** `npm run migrate` always overwrites `src/posts/` images with the 500px originals from `export/images/`. Run `npm run resize-images` immediately after every migrate to restore the higher-resolution published versions from `export/images-hires/`.
+
+### High-Resolution Image Archive
+
+284 of 295 photos have a 1280px version stored in `export/images-hires/` (downloaded once via `npm run download-hires`). 11 images have no 1280px version available from Tumblr (5 GIFs and 6 new-style images).
+
+`npm run resize-images` reads from `export/images-hires/` and writes images resized to `imageMaxWidth` (default: 800px, configured in `src/_data/config.js`) into `src/posts/`. Images already narrower than `imageMaxWidth` are copied as-is. GIFs are always copied without resizing.
+
+To republish at a different width: update `imageMaxWidth` in `src/_data/config.js`, run `npm run resize-images`, then `npm run build`.
+
 ### Tumblr Image Localization
 
 Content HTML is scanned for Tumblr-hosted image references (in `<img src>` and `srcset` attributes). When found, the migration script:

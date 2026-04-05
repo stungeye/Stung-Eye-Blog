@@ -4,11 +4,7 @@ title: "Discovered on October 1, 2008"
 permalink: /archive/by_date/2008/10/01/
 ---
 
-[![On Saturday Google and I shared birthdays. Today is NASA&#8217;s 50th.
-
-The above photo was taken 8 years before the inception of NASA. It shows the first rocket launch from Cape Canaveral, Florida in July 1950.
-
-If you search via the Google link I&#8217;ve provided you&#8217;ll be time-warped back 10 years.](/archive/by_date/2008/10/01/02MycoI69ejp63ct0xH1jMsmo1_500.jpg)](http://grin.hq.nasa.gov/ABSTRACTS/GPN-2000-000613.html)
+[![On Saturday Google and I shared birthdays. Today is NASA&#8217;s 50th. The above photo was taken 8 years before the inception of NASA. It shows the first rocket launch from Cape Canaveral, Florida in July 1950. If you search via the Google link I&#8217;ve provided you&#8217;ll be time-warped back 10 years.](/archive/by_date/2008/10/01/02MycoI69ejp63ct0xH1jMsmo1_500.jpg)](http://grin.hq.nasa.gov/ABSTRACTS/GPN-2000-000613.html)
 
 <p>On Saturday <a href="http://www.google.com/search2001.html">Google</a> and I shared birthdays. Today is <a href="http://www.nasa.gov/50th/home/index.html">NASA&#8217;s 50th</a>.</p>
 

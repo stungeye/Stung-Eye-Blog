@@ -12,6 +12,6 @@ permalink: /archive/by_date/2010/06/20/
 
 ---
 
-[![Cross The Road - [via]](/archive/by_date/2010/06/20/tumblr_l4bt7wtUEi1qzoknmo1_500.jpg)](http://s3.amazonaws.com/data.tumblr.com/tumblr_l3roh8050B1qb4u5ro1_1280.jpg?AWSAccessKeyId=0RYTHV9YYQ4W5Q3HQMG2&amp;Expires=1277145552&amp;Signature=90cMQWQggVo%2Bq9BaojnrXGln%2BnY%3D)
+![Cross The Road - via](/archive/by_date/2010/06/20/tumblr_l4bt7wtUEi1qzoknmo1_500.jpg)
 
 <p>Cross The Road - [<a href="http://greghatesyourgod.tumblr.com">via</a>]</p>

@@ -12,7 +12,7 @@ permalink: /archive/by_date/2009/05/16/
 
 ---
 
-[![LampHead -  experiments in surrealistic shading](/archive/by_date/2009/05/16/02MycoI69nk5qro1DueOPu1no1_500.jpg)](http://www.tschachtli.net/images/npr/LampHead.jpg)
+[![LampHead - experiments in surrealistic shading](/archive/by_date/2009/05/16/02MycoI69nk5qro1DueOPu1no1_500.jpg)](http://www.tschachtli.net/images/npr/LampHead.jpg)
 
 LampHead -  <a href="http://www.tschachtli.net/npr.html">experiments in surrealistic shading</a>
 

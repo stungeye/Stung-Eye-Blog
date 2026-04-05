@@ -4,17 +4,7 @@ title: "Discovered on November 4, 2008"
 permalink: /archive/by_date/2008/11/04/
 ---
 
-[![This is the URL http://stungeye.com encoded as a QR-Code using the Kaywa QR-Code Generator.
-
-QR-Codes are a type of 2-dimensional barcode that can be used to encode text or raw data.
-
-QR code can be read by most modern camera phones with the appropriate software.
-
-QR graffiti anyone?
-
-More info: (re)Discovering the 2nd Dimension
-
-This post was inspired by: Tender Lovemaking](/archive/by_date/2008/11/04/02MycoI69fwcnftrLf9v7IpFo1_500.png)](http://qrcode.kaywa.com/)
+[![This is the URL http://stungeye.com encoded as a QR-Code using the Kaywa QR-Code Generator. QR-Codes are a type of 2-dimensional barcode that can be used to encode text or raw data. QR code can be read by most modern camera phones with the appropriate software. QR graffiti anyone? More info: (re)Discovering the 2nd Dimension This post was inspired by: Tender Lovemaking](/archive/by_date/2008/11/04/02MycoI69fwcnftrLf9v7IpFo1_500.png)](http://qrcode.kaywa.com/)
 
 <p>This is the URL <a href="http://stungeye.com">http://stungeye.com</a> encoded as a QR-Code using the <a href="http://qrcode.kaywa.com/">Kaywa QR-Code Generator</a>.</p>
 

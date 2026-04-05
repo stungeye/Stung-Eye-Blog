@@ -17,7 +17,7 @@ permalink: /archive/by_date/2008/07/28/
 </li>
 <li>Comments are handled by <a href="http://disqus.com/">Disqus</a> which in turn provides a <a href="http://stungeye.disqus.com/">commentstream</a>.</li>
 </ul>
-<p>I feel so&#8230; aggregated.</p>
+<p>I feel so… aggregated.</p>
 
 <p>The site runs on a custom platform that uses <a href="http://codeigniter.com/">CodeIgniter</a> and the <a href="http://www.tumblr.com/api">Tumblr API</a>. The code is based on a <a href="http://www.yongfook.com/post/view/92/how-to-make-your-own-lifestream-blog">pre-release version of SweetCron</a>. Currently the theme is a slightly tweaked version of the default Tumblr theme. This will change with time.</p>
 

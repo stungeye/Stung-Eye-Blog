@@ -4,7 +4,7 @@ title: "Discovered on November 4, 2009"
 permalink: /archive/by_date/2009/11/04/
 ---
 
-[![Propositional logic with a new &#8220;alphabet&#8221; for the Boolean operators. [More: Explanation &amp; Related Logical Tautologies]](/archive/by_date/2009/11/04/tumblr_ksm96pkX6q1qzoknmo1_500.jpg)](http://www.flickr.com/photos/hexadecimal_time/2418492457/sizes/l/)
+[![Propositional logic with a new &#8220;alphabet&#8221; for the Boolean operators. More: Explanation &amp; Related Logical Tautologies](/archive/by_date/2009/11/04/tumblr_ksm96pkX6q1qzoknmo1_500.jpg)](http://www.flickr.com/photos/hexadecimal_time/2418492457/sizes/l/)
 
 <p>Propositional logic with a new &#8220;alphabet&#8221; for the Boolean operators. [More: <a href="http://www.flickr.com/photos/hexadecimal_time/2418492457/">Explanation</a> &amp; <a href="http://www.flickr.com/photos/hexadecimal_time/2400610933/sizes/l/">Related Logical Tautologies</a>]</p>
 

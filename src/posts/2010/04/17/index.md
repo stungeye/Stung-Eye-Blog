@@ -23,9 +23,7 @@ permalink: /archive/by_date/2010/04/17/
 
 ---
 
-[![Algorithmically generated Russian Dolls. (Open with a browser that supports html5 canvas, in other words, not Internet Explorer.)
-
-via](/archive/by_date/2010/04/17/tumblr_l11kc7wJkI1qzoknmo1_500.png)](http://members.optuszoo.com.au/~emilybutler/russian_dolls.html)
+[![Algorithmically generated Russian Dolls. (Open with a browser that supports html5 canvas, in other words, not Internet Explorer.) via](/archive/by_date/2010/04/17/tumblr_l11kc7wJkI1qzoknmo1_500.png)](http://members.optuszoo.com.au/~emilybutler/russian_dolls.html)
 
 <p><a href="http://members.optuszoo.com.au/~emilybutler/russian_dolls.html">Algorithmically generated Russian Dolls</a>. (Open with a browser that supports html5 canvas, in other words, not Internet Explorer.)</p>
 

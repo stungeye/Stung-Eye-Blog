@@ -14,9 +14,7 @@ permalink: /archive/by_date/2008/10/04/
 
 ---
 
-[![Above, a new way to explore Flickr use Rainbow vomiting pandas.
-
-Also: Patent for Flickr&#8217;s &#8220;Interestingness&#8221; Algorithm](/archive/by_date/2008/10/04/02MycoI69eo33e4mwJGihbvKo1_500.jpg)](http://www.flickr.com/explore/panda)
+[![Above, a new way to explore Flickr use Rainbow vomiting pandas. Also: Patent for Flickr&#8217;s &#8220;Interestingness&#8221; Algorithm](/archive/by_date/2008/10/04/02MycoI69eo33e4mwJGihbvKo1_500.jpg)](http://www.flickr.com/explore/panda)
 
 <p>Above, a new way to <a href="http://www.flickr.com/explore/panda">explore Flickr use Rainbow vomiting pandas</a>.</p>
 

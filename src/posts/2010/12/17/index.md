@@ -4,11 +4,7 @@ title: "Discovered on December 17, 2010"
 permalink: /archive/by_date/2010/12/17/
 ---
 
-[![Somewhere in Griffin, Georgia.
-
-Winnipeg city planners take notice. We need signs like this.
-
-There&#8217;s a similar sign in Sealy, Texas.](/archive/by_date/2010/12/17/tumblr_ldlgfr1y7i1qzoknmo1_500.jpg)](http://www.reddit.com/r/pics/comments/eng51/this_sign_is_actually_a_pretty_clever_idea/)
+[![Somewhere in Griffin, Georgia. Winnipeg city planners take notice. We need signs like this. There&#8217;s a similar sign in Sealy, Texas.](/archive/by_date/2010/12/17/tumblr_ldlgfr1y7i1qzoknmo1_500.jpg)](http://www.reddit.com/r/pics/comments/eng51/this_sign_is_actually_a_pretty_clever_idea/)
 
 <p>Somewhere in <a href="http://www.google.com/search?q=Griffin,+Georgia">Griffin, Georgia</a>.</p>
 
@@ -18,9 +14,7 @@ There&#8217;s a similar sign in Sealy, Texas.](/archive/by_date/2010/12/17/tumbl
 
 ---
 
-[![#heythat&#8217;smybike
-
-via&#160;: via](/archive/by_date/2010/12/17/tumblr_ldi036V9Gh1qbvpg9o1_500.jpg)](http://patrickjoust.tumblr.com/post/2330852213/new-york-ny-yashica-mat-124g-fujichrome-astia)
+![#heythat&#8217;smybike via&#160;: via](/archive/by_date/2010/12/17/tumblr_ldi036V9Gh1qbvpg9o1_500.jpg)
 
 <p>#heythat&#8217;smybike</p>
 

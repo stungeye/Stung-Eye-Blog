@@ -16,11 +16,11 @@ permalink: /archive/by_date/2013/02/10/
 
 <h3>Why I want my students to value self-assessment.</h3>
 
-<p>Each week I introduce my students to new coding techniques. They must practice these new skills to learn them. Since each new set of techniques builds on skills acquired in the weeks before, a student&#8217;s ability to assess what they know and what they don&#8217;t know is essential. Insert &#8220;house of cards&#8221; analogy here. ;)</p>
+<p>Each week I introduce my students to new coding techniques. They must practice these new skills to learn them. Since each new set of techniques builds on skills acquired in the weeks before, a student’s ability to assess what they know and what they don’t know is essential. Insert “house of cards” analogy here. ;)</p>
 
 <h3>Practice Makes Better</h3>
 
-<p>To integrate more practice time into my courses, I&#8217;ve split assignments into two types:</p>
+<p>To integrate more practice time into my courses, I’ve split assignments into two types:</p>
 
 <ul><li>Take Home Assignments. Five or six a term. Individual work. Assessed by me and self-assessed. </li>
 <li>In Class Coding Challenges. One a week. Students can work together. Self-assessed only, but no formalized rubric.</li>

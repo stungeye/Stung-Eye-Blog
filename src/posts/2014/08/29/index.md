@@ -23,6 +23,6 @@ permalink: /archive/by_date/2014/08/29/
 
 ---
 
-[![The Photographs of  Kylli Sparre.](/archive/by_date/2014/08/29/tumblr_nb2leuzBjy1qzoknmo1_500.jpg)](http://www.sparrek.org/)
+[![The Photographs of Kylli Sparre.](/archive/by_date/2014/08/29/tumblr_nb2leuzBjy1qzoknmo1_500.jpg)](http://www.sparrek.org/)
 
 <p><a href="http://www.sparrek.org">The Photographs of  Kylli Sparre</a>.</p>

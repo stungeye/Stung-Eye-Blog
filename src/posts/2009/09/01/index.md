@@ -4,7 +4,7 @@ title: "Discovered on September 1, 2009"
 permalink: /archive/by_date/2009/09/01/
 ---
 
-[![Wanda Koop Untitled (Red) 2009 [via]](/archive/by_date/2009/09/01/tumblr_kpb6p185qF1qzoknmo1_500.jpg)](http://www.canadianart.ca/online/see-it/2009/05/14/koop1_1000.jpg)
+[![Wanda Koop Untitled (Red) 2009 via](/archive/by_date/2009/09/01/tumblr_kpb6p185qF1qzoknmo1_500.jpg)](http://www.canadianart.ca/online/see-it/2009/05/14/koop1_1000.jpg)
 
 <a href="http://www.canadianart.ca/online/see-it/2009/05/14/wanda-koop/">Wanda Koop Untitled</a> (Red) 2009 [<a href="http://www.canadianart.ca">via</a>]
 

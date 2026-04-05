@@ -6,16 +6,16 @@ permalink: /archive/by_date/2013/01/19/
 
 ## Philosophy, Physics, and Teaching
 
-<p>The audio lectures I&#8217;ve been enjoying this month.</p>
+<p>The audio lectures I’ve been enjoying this month.</p>
 
-<p><strong>Physics and Philosophy: Arguments, Experiments and a Few Things in Between</strong><br/>
+<p><strong>Physics and Philosophy: Arguments, Experiments and a Few Things in Between</strong><br>
 University of Oxford</p>
 
-<p>Exploring links between our scientific and philosophical understanding of the world. Six 10-25 minute discussions on &#8220;the nature of space and time, the unpredictable results of quantum mechanics and their surprising consequences and perhaps most fundamentally, the nature of the mind and how far science can go towards explaining and understanding it.&#8221;</p>
+<p>Exploring links between our scientific and philosophical understanding of the world. Six 10-25 minute discussions on “the nature of space and time, the unpredictable results of quantum mechanics and their surprising consequences and perhaps most fundamentally, the nature of the mind and how far science can go towards explaining and understanding it.”</p>
 
 <p><a href="http://podcasts.ox.ac.uk/series/physics-and-philosophy-arguments-experiments-and-few-things-between">Audio Files</a> or <a href="https://itunes.apple.com/us/itunes-u/physics-philosophy-arguments/id549117621">iTunes</a></p>
 
-<p><strong>General Philosophy</strong><br/>
+<p><strong>General Philosophy</strong><br>
 University of Oxford</p>
 
 <p>An eight-week chronological view of the history of western philosophy delivered by Peter Millican to first-year philosophy students. Thirty-three 10-20 minute lectures.</p>

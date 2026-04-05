@@ -4,11 +4,7 @@ title: "Discovered on February 19, 2009"
 permalink: /archive/by_date/2009/02/19/
 ---
 
-[![Oh brother, a surveillance camera project for Winnipeg.
-
-&#8220;The Winnipeg Police Association said earlier the $460,000 cost of a proposed year-long camera project might be better spent on improving police response times and increasing the number of officers downtown.&#8221; &#8212;source
-
-Last week I saw two cops riding down Princess St. on horses. Let&#8217;s trade in the camera project for more horse-back popo. :)](/archive/by_date/2009/02/19/02MycoI69k5scxfx2mxSebvvo1_500.jpg)](http://www.winnipegfreepress.com/breakingnews/Surveillance-cameras-to-be-installed-39842022.html)
+[![Oh brother, a surveillance camera project for Winnipeg. &#8220;The Winnipeg Police Association said earlier the $460,000 cost of a proposed year-long camera project might be better spent on improving police response times and increasing the number of officers downtown.&#8221; &#8212;source Last week I saw two cops riding down Princess St. on horses. Let&#8217;s trade in the camera project for more horse-back popo. :)](/archive/by_date/2009/02/19/02MycoI69k5scxfx2mxSebvvo1_500.jpg)](http://www.winnipegfreepress.com/breakingnews/Surveillance-cameras-to-be-installed-39842022.html)
 
 <p>Oh brother, a surveillance camera project for Winnipeg.</p>
 

@@ -6,6 +6,8 @@
   "scripts": {
     "migrate": "node tools/migrate.js",
     "scan-media": "node tools/scan-media.js",
+    "download-hires": "node tools/download-hires.js",
+    "resize-images": "node tools/resize-images.js",
     "dev": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy"
   },
@@ -14,6 +16,7 @@
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
-    "cheerio": "^1.0.0"
+    "cheerio": "^1.0.0",
+    "sharp": "^0.34.5"
   }
 }

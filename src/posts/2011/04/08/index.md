@@ -4,11 +4,7 @@ title: "Discovered on April 8, 2011"
 permalink: /archive/by_date/2011/04/08/
 ---
 
-![There are two reasons to wear sunglasses.
-
-From: The paintings of Michael Dumontier and Neil Farber
-
-Also: PERSONAL MESSAGE](/archive/by_date/2011/04/08/tumblr_ljcrkftKvC1qzoknmo1_500.jpg)
+![There are two reasons to wear sunglasses. From: The paintings of Michael Dumontier and Neil Farber Also: PERSONAL MESSAGE](/archive/by_date/2011/04/08/tumblr_ljcrkftKvC1qzoknmo1_500.jpg)
 
 <p><a href="http://www.royalartlodge.com/blackonwhite.html">There are two reasons to wear sunglasses</a>.</p>
 

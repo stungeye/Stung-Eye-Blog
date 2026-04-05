@@ -4,9 +4,7 @@ title: "Discovered on March 12, 2009"
 permalink: /archive/by_date/2009/03/12/
 ---
 
-[![This form (seen in the Pittsburgh Center for the Arts) was constructed using a 3d printer. The piracy of physical objects is around the bend.
-
-The rest of my Pittsburgh pix.](/archive/by_date/2009/03/12/02MycoI69kzr3hf3RabLSkMpo1_500.jpg)](http://farm4.static.flickr.com/3464/3350527450_81b47bed59_b.jpg)
+[![This form (seen in the Pittsburgh Center for the Arts) was constructed using a 3d printer. The piracy of physical objects is around the bend. The rest of my Pittsburgh pix.](/archive/by_date/2009/03/12/02MycoI69kzr3hf3RabLSkMpo1_500.jpg)](http://farm4.static.flickr.com/3464/3350527450_81b47bed59_b.jpg)
 
 <p>This form (seen in the Pittsburgh Center for the Arts) was constructed using a 3d printer. The piracy of physical objects is around the bend.</p>
 

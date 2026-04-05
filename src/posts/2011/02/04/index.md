@@ -18,9 +18,7 @@ permalink: /archive/by_date/2011/02/04/
 
 ---
 
-[![Reorganized Cities
-
-via](/archive/by_date/2011/02/04/tumblr_lg3s52FcA61qz6f9yo1_500.jpg)](http://www.cmybacon.com/2011/02/reorganized-cities)
+[![Reorganized Cities via](/archive/by_date/2011/02/04/tumblr_lg3s52FcA61qz6f9yo1_500.jpg)](http://www.cmybacon.com/2011/02/reorganized-cities)
 
 <p><a href="http://www.cmybacon.com/2011/02/reorganized-cities">Reorganized Cities</a></p>
 

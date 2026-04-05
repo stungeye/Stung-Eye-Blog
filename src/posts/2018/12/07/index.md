@@ -16,9 +16,7 @@ permalink: /archive/by_date/2018/12/07/
 
 ---
 
-[![Property values of single detached homes in Winnipeg centered on where I grew up (Lord Roberts / Riverview).
-
-Dark blue is sub-$225K. Dark red is $420K+.](/archive/by_date/2018/12/07/tumblr_pjdjrinBr51qzoknmo1_500.png)](http://stungeye.tumblr.com/image/180893664300)
+![Property values of single detached homes in Winnipeg centered on where I grew up (Lord Roberts / Riverview). Dark blue is sub-$225K. Dark red is $420K+.](/archive/by_date/2018/12/07/tumblr_pjdjrinBr51qzoknmo1_500.png)
 
 <p>Property values of single detached homes in Winnipeg centered on where I grew up (Lord Roberts / Riverview).</p>
 
@@ -26,9 +24,7 @@ Dark blue is sub-$225K. Dark red is $420K+.](/archive/by_date/2018/12/07/tumblr_
 
 ---
 
-[![Density of single detached homes in Winnipeg.
-
-Green is less dense. Red is more dense.](/archive/by_date/2018/12/07/tumblr_pjdjphcS2T1qzoknmo1_500.png)](http://stungeye.tumblr.com/image/180893639080)
+![Density of single detached homes in Winnipeg. Green is less dense. Red is more dense.](/archive/by_date/2018/12/07/tumblr_pjdjphcS2T1qzoknmo1_500.png)
 
 <p>Density of single detached homes in Winnipeg.</p>
 

@@ -10,7 +10,7 @@ permalink: /archive/by_date/2011/05/19/
 
 ---
 
-[![Do Not via](/archive/by_date/2011/05/19/tumblr_lijwgfEnot1qzcwzbo1_500.jpg)](http://to-young.tumblr.com/post/4060001195)
+![Do Not via](/archive/by_date/2011/05/19/tumblr_lijwgfEnot1qzcwzbo1_500.jpg)
 
 <p>Do Not <a href="http://to-young.tumblr.com">via</a></p>
 

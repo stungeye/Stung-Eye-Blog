@@ -4,14 +4,7 @@ title: "Discovered on November 4, 2014"
 permalink: /archive/by_date/2014/11/04/
 ---
 
-[![The Four Stages of Learning.
-
-Don&#8217;t know; Don&#8217;t care.
-Don&#8217;t know; Do care.
-Do Know; Do care.
-Do Know; Don&#8217;t Care.
-
-via: Trivium](/archive/by_date/2014/11/04/tumblr_neiyu1jCVt1qzoknmo1_500.jpg)](http://stungeye.tumblr.com/image/101768762365)
+![The Four Stages of Learning. Don&#8217;t know; Don&#8217;t care. Don&#8217;t know; Do care. Do Know; Do care. Do Know; Don&#8217;t Care. via: Trivium](/archive/by_date/2014/11/04/tumblr_neiyu1jCVt1qzoknmo1_500.jpg)
 
 <p><a href="http://thisisindexed.com/2014/10/four-stages-competence/">The Four Stages of Learning</a>.</p>
 

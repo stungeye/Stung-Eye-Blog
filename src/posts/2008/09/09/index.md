@@ -10,9 +10,7 @@ A mathematician&#8217;s guide to mating
 
 ---
 
-[![Robert Heinlein&#8217;s fan mail solution. Grok grok grok.
-
-[Larger Image]](/archive/by_date/2008/09/09/02MycoI69do68f5zQnAWFOsu_500.jpg)](http://kk.org/ct2/2008/09/heinleins-fan-mail-solution.php)
+[![Robert Heinlein&#8217;s fan mail solution. Grok grok grok. Larger Image](/archive/by_date/2008/09/09/02MycoI69do68f5zQnAWFOsu_500.jpg)](http://kk.org/ct2/2008/09/heinleins-fan-mail-solution.php)
 
 <p><a href="http://en.wikipedia.org/wiki/Heinlein">Robert Heinlein</a>&#8217;s fan mail solution. Grok <a href="http://en.wikipedia.org/wiki/Grok">grok</a> grok.</p>
 

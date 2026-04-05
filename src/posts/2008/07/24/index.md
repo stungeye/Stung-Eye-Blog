@@ -40,7 +40,7 @@ The <a href="http://www.juliusvonbismarck.com/fulgurator/idee.html">Image Fulgur
 
 ---
 
-[![&#8220;Arabic singing bounced around the world in several directions creating what we call popular music, and [&#8230;] the British Isles were central to this.&#8221; &#8212; Brian Eno, part of the Bye bye blackboard exhibit (2005) at the Oxford Museum of the History of Science.](/archive/by_date/2008/07/24/02MycoI69bt8ieu9FtBJ2uLs_500.jpg)](http://www.mhs.ox.ac.uk/blackboard/eno-l.htm)
+[![&#8220;Arabic singing bounced around the world in several directions creating what we call popular music, and &#8230; the British Isles were central to this.&#8221; &#8212; Brian Eno, part of the Bye bye blackboard exhibit (2005) at the Oxford Museum of the History of Science.](/archive/by_date/2008/07/24/02MycoI69bt8ieu9FtBJ2uLs_500.jpg)](http://www.mhs.ox.ac.uk/blackboard/eno-l.htm)
 
 &#8220;Arabic singing bounced around the world in several directions creating what we call popular music, and [&#8230;] the British Isles were central to this.&#8221; &#8212;<a href="http://en.wikipedia.org/wiki/Brian_Eno"> Brian Eno</a>, part of the <a href="http://www.mhs.ox.ac.uk/blackboard/introduction.htm">Bye bye blackboard</a> exhibit (2005) at the <a href="http://www.mhs.ox.ac.uk/">Oxford Museum of the History of Science</a>.
 

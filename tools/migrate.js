@@ -81,6 +81,14 @@ function stripScriptTags(html) {
 function normalizeHtml(html) {
   if (!html) return "";
   const $ = cheerioLoad(html, { xml: false, decodeEntities: false });
+  // Unwrap Tumblr NPF layout wrappers, keeping inner content
+  $("div.npf_row").each((_, el) => $(el).replaceWith($(el).html()));
+  $("figure.tmblr-full").each((_, el) => $(el).replaceWith($(el).html()));
+  // Strip Tumblr-specific data attributes from img tags
+  $("img").each((_, el) => {
+    $(el).removeAttr("data-orig-height");
+    $(el).removeAttr("data-orig-width");
+  });
   // cheerio serializes with lowercase tags and quoted attributes
   return $("body").html() || "";
 }
@@ -330,7 +338,11 @@ async function renderPhotoItem(item, dateStr) {
   const r = item.rendered;
   const filename = r.image;
   const captionHtml = r.caption_html || "";
-  const altText = stripHtml(captionHtml) || "Photo";
+  const altText =
+    stripHtml(captionHtml)
+      .replace(/[\[\]]/g, "")
+      .replace(/\s+/g, " ")
+      .trim() || "Photo";
   const clickUrl = r.photo_click_url || null;
 
   let imagePath = null;
@@ -364,9 +376,9 @@ async function renderPhotoItem(item, dateStr) {
 
   const lines = [];
 
-  // Image with optional link
+  // Image with optional link — skip Tumblr click-through URLs
   const imgMarkdown = `![${altText}](${imagePath})`;
-  if (clickUrl) {
+  if (clickUrl && !clickUrl.includes("tumblr.com")) {
     lines.push(`[${imgMarkdown}](${clickUrl})`);
   } else {
     lines.push(imgMarkdown);
@@ -438,6 +450,7 @@ async function renderRegularItem(item, dateStr) {
   const r = item.rendered;
   let body = r.body_html_without_h1 || r.body_html || "";
 
+  body = normalizeHtml(body);
   // Process HTML for Tumblr/stungeye images
   body = await processHtmlImages(body, dateStr, item.id);
 
@@ -449,6 +462,7 @@ async function renderBlogItem(item, dateStr) {
   const title = r.title || "";
   let body = r.body_html || "";
 
+  body = normalizeHtml(body);
   // Process HTML for Tumblr/stungeye images
   body = await processHtmlImages(body, dateStr, item.id);
 

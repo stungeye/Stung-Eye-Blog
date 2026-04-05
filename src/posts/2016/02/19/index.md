@@ -8,7 +8,7 @@ permalink: /archive/by_date/2016/02/19/
 
 <p>I read fifteen books this past year. Ten less than <a href="http://stungeye.com/archive/by_date/2015/01/22">2014</a>, four less than in <a href="http://stungeye.com/archive/by_date/2014/01/11">2013</a>, three less than in <a href="http://stungeye.com/archive/by_date/2012/12/31">2012</a>, and one less than in <a href="http://stungeye.com/archive/by_date/2011/12/18">2011</a>. All fifteen books were read in deadtree format. Fourteen of them were fiction. One was non-fiction.</p>
 
-<p>As you&rsquo;ll see at the end of this post, my drop in book consumption can be attributed to my new found love of podcasts.</p>
+<p>As you’ll see at the end of this post, my drop in book consumption can be attributed to my new found love of podcasts.</p>
 
 <h3>Books Read in 2015</h3>
 
@@ -34,25 +34,25 @@ permalink: /archive/by_date/2016/02/19/
 <p><strong><a href="https://en.wikipedia.org/wiki/Dune_(novel)">Dune</a></strong></p>
 
 <blockquote>
-  <p>&ldquo;I must not fear.
+  <p>“I must not fear.
   Fear is the mind-killer.
   Fear is the little-death that brings total obliteration.
   I will face my fear.
   I will permit it to pass over me and through me.
   And when it has gone past I will turn the inner eye to see its path.
-  Where the fear has gone there will be nothing. Only I will remain.&rdquo;</p>
+  Where the fear has gone there will be nothing. Only I will remain.”</p>
 </blockquote>
 
 <p>Publish 50 years ago, this sci-fi novel set 21,000 years in the future, has aged incredibly well.</p>
 
-<p>Politics, religion, ecology, philosophy&hellip; Dune has it all. Forget top books of 2015, I&rsquo;d say this would be one of my favourite books of all time. If forced to find fault, I&rsquo;d point to sexism: The Bene Gesserit, a matriarchal order, develop a breeding program to produce the Kwisatz Haderach, a male Bene Gesserit who, being male, can do what they cannot do, can see what they cannot see.</p>
+<p>Politics, religion, ecology, philosophy… Dune has it all. Forget top books of 2015, I’d say this would be one of my favourite books of all time. If forced to find fault, I’d point to sexism: The Bene Gesserit, a matriarchal order, develop a breeding program to produce the Kwisatz Haderach, a male Bene Gesserit who, being male, can do what they cannot do, can see what they cannot see.</p>
 
 <p><a href="https://en.wikipedia.org/wiki/Dune_Messiah">Dune Messiah</a> proved to be a solid follow up, and there were interesting similarities to the other far-future novel read in 2015, <a href="https://en.wikipedia.org/wiki/The_Player_of_Games">The Player of Games</a>.</p>
 
 <p><strong><a href="https://en.wikipedia.org/wiki/East_of_Eden_(novel)">East of Eden</a></strong></p>
 
 <blockquote>
-  <p>&ldquo;The American Standard translation orders men to triumph over sin, and you can call sin ignorance. The King James translation makes a promise in &lsquo;Thou shalt,&rsquo; meaning that men will surely triumph over sin. But the Hebrew word, the word <em>timshel</em> —'Thou mayest'— that gives a choice. It might be the most important word in the world. That says the way is open. That throws it right back on a man. For if 'Thou mayest&rsquo; — it is also true that 'Thou mayest not.&rsquo;&rdquo;</p>
+  <p>“The American Standard translation orders men to triumph over sin, and you can call sin ignorance. The King James translation makes a promise in ‘Thou shalt,’ meaning that men will surely triumph over sin. But the Hebrew word, the word <em>timshel</em> —'Thou mayest'— that gives a choice. It might be the most important word in the world. That says the way is open. That throws it right back on a man. For if 'Thou mayest’ — it is also true that 'Thou mayest not.’”</p>
 </blockquote>
 
 <p>This book came highly recommend by <a href="https://redlibrarian.github.io/">Sam</a> and it did not disappoint. The characters (even the minor ones) felt so real, their struggles so familiar.</p>
@@ -62,18 +62,18 @@ permalink: /archive/by_date/2016/02/19/
 <p><strong><a href="https://en.wikipedia.org/wiki/Never_Let_Me_Go_(novel)">Never Let Me Go</a></strong></p>
 
 <blockquote>
-  <p>&ldquo;All children have to be deceived if they are to grow up without trauma.&rdquo;</p>
+  <p>“All children have to be deceived if they are to grow up without trauma.”</p>
 </blockquote>
 
-<p>What would you do to preserve the innocence of a group of children shuned by the rest of society? A melancholy story about purpose, love and mortality. Like Ishiguro&rsquo;s The Remains of the Day (one of my <a href="http://stungeye.com/archive/by_date/2015/01/22">top three from 2014</a>) it&rsquo;s also about memory and denial.</p>
+<p>What would you do to preserve the innocence of a group of children shuned by the rest of society? A melancholy story about purpose, love and mortality. Like Ishiguro’s The Remains of the Day (one of my <a href="http://stungeye.com/archive/by_date/2015/01/22">top three from 2014</a>) it’s also about memory and denial.</p>
 
-<p>This book left me feeling sad and protective. Protective of my children but also of the entire human race. And that&rsquo;s a weird feeling.</p>
+<p>This book left me feeling sad and protective. Protective of my children but also of the entire human race. And that’s a weird feeling.</p>
 
-<p>I don&rsquo;t want to say much more, because spoilers, but I really enjoyed how well the author captured the way children see and interpret the adult world.</p>
+<p>I don’t want to say much more, because spoilers, but I really enjoyed how well the author captured the way children see and interpret the adult world.</p>
 
 <h3>Podcasts in 2015</h3>
 
-<p>2015 was the year I discovered podcasts, which is why I read far fewer books this year. I listened to hundreds of hours worth of podcasts throughout the year. The podcasts I&rsquo;ve been listening to, in alphabetical order, split into non-techical and coding categories:</p>
+<p>2015 was the year I discovered podcasts, which is why I read far fewer books this year. I listened to hundreds of hours worth of podcasts throughout the year. The podcasts I’ve been listening to, in alphabetical order, split into non-techical and coding categories:</p>
 
 <h4>General Interest Podcasts</h4>
 
@@ -87,14 +87,14 @@ permalink: /archive/by_date/2016/02/19/
 <li><a href="https://gimletmedia.com/show/reply-all/">Reply All</a> - A show about the internet.</li>
 <li><a href="http://songexploder.net">Song Exploder</a> - Musicians take apart their songs, and piece by piece, tell the story of how they were made.</li>
 <li><a href="https://gimletmedia.com/show/startup/">Start Up</a> -  what it’s really like to get a business off the ground.</li>
-<li><a href="http://bigthink.com/articles?blog=think-again-nil-a-big-think-podcast">Think Again</a> - Surprising the smartest people you know with ideas they&rsquo;re not prepared to discuss.</li>
+<li><a href="http://bigthink.com/articles?blog=think-again-nil-a-big-think-podcast">Think Again</a> - Surprising the smartest people you know with ideas they’re not prepared to discuss.</li>
 <li><a href="http://www.thisamericanlife.org/podcast">This American Life</a> - Themed story-driven journalism.</li>
 </ul><h4>Programming Related Podcasts</h4>
 
 <ul><li><a href="http://bikeshed.fm">The Bike Shed</a> - Programming chat about Ruby, Javascript, Rust and more from <a href="https://thoughtbot.com/">Thoughtbot</a>.</li>
 <li><a href="http://giantrobots.fm">Giant Robots Smashing into other Giant Robots</a> - Another thoughtbot podcast, this one is being less technical and lately more about product management / product marketing. </li>
 <li><a href="https://devchat.tv/ruby-rogues/">Ruby Rogues</a> - My favourite programming podcast. Panel discussions and interviews about coding in Ruby and beyond. </li>
-<li><a href="http://thisdeveloperslife.com">This Developer&rsquo;s Life</a> - What&rsquo;s it like to be a developer? This is the podcast that got me into podcasts!</li>
+<li><a href="http://thisdeveloperslife.com">This Developer’s Life</a> - What’s it like to be a developer? This is the podcast that got me into podcasts!</li>
 <li><a href="http://turing.cool">Turing Incomplete</a> - How I keep up with the ever changing Javascript world.</li>
 </ul><h3>Top Three Podcast Episodes</h3>
 
@@ -106,7 +106,7 @@ permalink: /archive/by_date/2016/02/19/
 
 <p>A young boy finds an enchanting object in the street.</p>
 
-<p><strong><a href="https://gimletmedia.com/show/reply-all/">Reply All</a></strong> - #36 Today&rsquo;s The Day.</p>
+<p><strong><a href="https://gimletmedia.com/show/reply-all/">Reply All</a></strong> - #36 Today’s The Day.</p>
 
 <p>PJ and Alex go outside. I highly recommend listening to episodes 1 through 35 first for context.</p>
 

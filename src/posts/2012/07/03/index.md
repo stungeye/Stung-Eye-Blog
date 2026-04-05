@@ -4,9 +4,7 @@ title: "Discovered on July 3, 2012"
 permalink: /archive/by_date/2012/07/03/
 ---
 
-[![We&#8217;re in Greece now on the island of Lesbos near the city of Molyvos.
-
-The rest of my photos of this island are on Flickr. My Amsterdam photos are online too.](/archive/by_date/2012/07/03/tumblr_m6kxqkpG4T1qzoknmo1_500.jpg)](http://24.media.tumblr.com/tumblr_m6kxqkpG4T1qzoknmo1_1280.jpg)
+![We&#8217;re in Greece now on the island of Lesbos near the city of Molyvos. The rest of my photos of this island are on Flickr. My Amsterdam photos are online too.](/archive/by_date/2012/07/03/tumblr_m6kxqkpG4T1qzoknmo1_500.jpg)
 
 <p>We&#8217;re in Greece now on the island of Lesbos near the city of <a href="http://en.wikipedia.org/wiki/Molyvos">Molyvos</a>.</p>
 

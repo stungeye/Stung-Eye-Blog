@@ -4,15 +4,7 @@ title: "Discovered on September 2, 2008"
 permalink: /archive/by_date/2008/09/02/
 ---
 
-[![A mathematician named Klein 
-  Thought the Möbius band was divine. 
-  Said he: &#8220;If you glue 
-  The edges of two, 
-  You&#8217;ll get a weird bottle like mine.
-  &#8212;anonymous
-
-
-A Klein bottle is a surface which has no edges, no outside or inside. Unlike a Möbius band band, you cannot properly construct a Klein bottle in three-dimensional Euclidian space.](/archive/by_date/2008/09/02/02MycoI69dewlmv7bK9ZXoPR_500.jpg)](http://www.sciencemuseum.org.uk/images/I046/10314758.aspx)
+[![A mathematician named Klein Thought the Möbius band was divine. Said he: &#8220;If you glue The edges of two, You&#8217;ll get a weird bottle like mine. &#8212;anonymous A Klein bottle is a surface which has no edges, no outside or inside. Unlike a Möbius band band, you cannot properly construct a Klein bottle in three-dimensional Euclidian space.](/archive/by_date/2008/09/02/02MycoI69dewlmv7bK9ZXoPR_500.jpg)](http://www.sciencemuseum.org.uk/images/I046/10314758.aspx)
 
 <blockquote>
   <p>A mathematician named <a href="http://en.wikipedia.org/wiki/Felix_Klein">Klein</a> <br/>

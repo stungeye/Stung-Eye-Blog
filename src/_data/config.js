@@ -3,4 +3,5 @@ export default {
   siteUrl: "https://www.stungeye.com",
   daysPerPage: 10,
   daysPerFeed: 20,
+  imageMaxWidth: 800,
 };

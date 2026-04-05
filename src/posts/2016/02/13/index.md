@@ -4,9 +4,7 @@ title: "Discovered on February 13, 2016"
 permalink: /archive/by_date/2016/02/13/
 ---
 
-[![Coded with Love
-
-[source code]](/archive/by_date/2016/02/13/tumblr_o2hn2oDb2F1qzoknmo1_500.gif)](http://stungeye.tumblr.com/image/139228860170)
+![Coded with Love source code](/archive/by_date/2016/02/13/tumblr_o2hn2oDb2F1qzoknmo1_500.gif)
 
 <p><a href="https://www.madewithcode.com/projects/codedwithlove">Coded with Love</a></p>
 

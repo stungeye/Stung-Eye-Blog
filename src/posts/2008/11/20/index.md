@@ -4,9 +4,7 @@ title: "Discovered on November 20, 2008"
 permalink: /archive/by_date/2008/11/20/
 ---
 
-[![424 River Ave, Winnipeg. via aggie @ some life
-
-Then as Victoria Hospital. Now as River Manor Apartments.](/archive/by_date/2008/11/20/WbibpnuKPgieos5wrqTg1iyro1_500.jpg)](http://flickr.com/photos/christiansphotos/2703333812/)
+[![424 River Ave, Winnipeg. via aggie @ some life Then as Victoria Hospital. Now as River Manor Apartments.](/archive/by_date/2008/11/20/WbibpnuKPgieos5wrqTg1iyro1_500.jpg)](http://flickr.com/photos/christiansphotos/2703333812/)
 
 <p>424 River Ave, Winnipeg. via <a href="http://aggiecore1984.tumblr.com">aggie @ some life</a></p>
 

@@ -4,9 +4,7 @@ title: "Discovered on December 27, 2009"
 permalink: /archive/by_date/2009/12/27/
 ---
 
-![Darko - Missing You
-
-via&#160;: via](/archive/by_date/2009/12/27/tumblr_kvaxxw5NXp1qz6f9yo1_500.jpg)
+![Darko - Missing You via&#160;: via](/archive/by_date/2009/12/27/tumblr_kvaxxw5NXp1qz6f9yo1_500.jpg)
 
 <p>Darko - Missing <strong>You</strong></p>
 
@@ -20,6 +18,6 @@ via&#160;: via](/archive/by_date/2009/12/27/tumblr_kvaxxw5NXp1qz6f9yo1_500.jpg)
 
 ---
 
-[![Go³, the exact metamorphosis of two-dimensional Go to three-dimensional Go. [via]](/archive/by_date/2009/12/27/tumblr_kvbszoucqq1qzoknmo1_500.png)](http://www.go3d.eu/eng/projekt1g.JPG)
+[![Go³, the exact metamorphosis of two-dimensional Go to three-dimensional Go. via](/archive/by_date/2009/12/27/tumblr_kvbszoucqq1qzoknmo1_500.png)](http://www.go3d.eu/eng/projekt1g.JPG)
 
 <p><a href="http://www.go3d.eu/eng/goprojekt.html">Go³</a>, the exact metamorphosis of <a href="http://en.wikipedia.org/wiki/Go_%28game%29">two-dimensional Go</a> to three-dimensional Go. [<a href="http://chneukirchen.org/trivium/2009-12-27">via</a>]</p>

@@ -4,9 +4,7 @@ title: "Discovered on May 28, 2009"
 permalink: /archive/by_date/2009/05/28/
 ---
 
-![Floating Through Space and Don&#8217;t Forget it
-
-via: laureola &#8230; willzone](/archive/by_date/2009/05/28/DybEEF9Cvnzsznf0itWFdog3o1_500.jpg)
+![Floating Through Space and Don&#8217;t Forget it via: laureola &#8230; willzone](/archive/by_date/2009/05/28/DybEEF9Cvnzsznf0itWFdog3o1_500.jpg)
 
 <p>Floating Through Space and Don&#8217;t Forget it</p>
 

@@ -4,11 +4,7 @@ title: "Discovered on February 3, 2011"
 permalink: /archive/by_date/2011/02/03/
 ---
 
-[![Portage Avenue looking West. Winnipeg.
-
-Via: Old Winnipeg Postcards
-
-Also: Unusual Manitoba, 70s Manitoba, 1950 Flood, Manitoba Heritage Sites](/archive/by_date/2011/02/03/tumblr_lg2hd44W3z1qzoknmo1_500.jpg)](http://www.manitobaphotos.com/Postcards/p203.jpg)
+[![Portage Avenue looking West. Winnipeg. Via: Old Winnipeg Postcards Also: Unusual Manitoba, 70s Manitoba, 1950 Flood, Manitoba Heritage Sites](/archive/by_date/2011/02/03/tumblr_lg2hd44W3z1qzoknmo1_500.jpg)](http://www.manitobaphotos.com/Postcards/p203.jpg)
 
 <p>Portage Avenue looking West. Winnipeg.</p>
 

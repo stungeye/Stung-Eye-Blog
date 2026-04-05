@@ -20,15 +20,15 @@ permalink: /archive/by_date/2010/09/19/
 
 <ol>
 <li><em>To warm up, put your hands out in front of you and grab at the air as fast as you can 20 times. Then shake your hands, then rotate your wrists 10 times one direction and 10 times another.</em></li>
-<li><em>Start with the video exercise you&#8217;re best at and do 5-10 of them at a medium speed.</em></li>
+<li><em>Start with the video exercise you’re best at and do 5-10 of them at a medium speed.</em></li>
 <li><em>Continue through each exercise. After each one shake your hands and arms and rotate your wrists to realign them. These exercises move the bones in your wrist, shaking them settles them back in to place.</em></li>
 </ol>
-<p><em>Do just enough stretching to get your wrists feeling supple and relaxed. Don&#8217;t strain yourself, the motto &#8220;no pain no gain&#8221; will only damage you. Instead of forcing your joint to a certain position, bring it to that position and then think about relaxing it or &#8220;letting&#8221; it move a bit further.</em></p>
+<p><em>Do just enough stretching to get your wrists feeling supple and relaxed. Don’t strain yourself, the motto “no pain no gain” will only damage you. Instead of forcing your joint to a certain position, bring it to that position and then think about relaxing it or “letting” it move a bit further.</em></p>
 
 <p>I also like the <a href="http://www.ergocise.com/wrists.html">ergocise wrist stretches</a>.</p>
 
 ---
 
-[![Searching for Paradise [via]](/archive/by_date/2010/09/19/tumblr_l90apm3Xym1qz6f9yo1_500.jpg)](http://pinktentacle.com/2010/09/japanese-cityscapes-with-monster-sized-wildlife/)
+[![Searching for Paradise via](/archive/by_date/2010/09/19/tumblr_l90apm3Xym1qz6f9yo1_500.jpg)](http://pinktentacle.com/2010/09/japanese-cityscapes-with-monster-sized-wildlife/)
 
 <p><a href="http://pinktentacle.com/2010/09/japanese-cityscapes-with-monster-sized-wildlife/">Searching for Paradise</a> [<a href="http://thisisnthappiness.com/post/1151109458/searching-for-paradise">via</a>]</p>

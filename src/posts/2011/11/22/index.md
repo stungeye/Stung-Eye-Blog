@@ -4,7 +4,7 @@ title: "Discovered on November 22, 2011"
 permalink: /archive/by_date/2011/11/22/
 ---
 
-[![Translated items from Leonardo da Vinci&#8217;s to-do list from the 1490s.](/archive/by_date/2011/11/22/tumblr_lv2vt5mbGE1qzoknmo1_500.jpg)](http://www.tumblr.com/photo/1280/13167631532/1/tumblr_lv2vt5mbGE1qzoknm)
+![Translated items from Leonardo da Vinci&#8217;s to-do list from the 1490s.](/archive/by_date/2011/11/22/tumblr_lv2vt5mbGE1qzoknmo1_500.jpg)
 
 <p>Translated items from <a href="http://www.npr.org/blogs/krulwich/2011/11/18/142467882/leonardos-to-do-list">Leonardo da Vinci&#8217;s to-do list</a> from the 1490s.</p>
 

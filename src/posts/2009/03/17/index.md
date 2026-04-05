@@ -6,7 +6,7 @@ permalink: /archive/by_date/2009/03/17/
 
 ## Art and Code - Overview Part I
 
-<p>It&#8217;s about time I wrote an overview of my <a href="http://artandcode.ning.com/">Art and Code</a> experience.</p>
+<p>It’s about time I wrote an overview of my <a href="http://artandcode.ning.com/">Art and Code</a> experience.</p>
 
 <h3>Saturday - Workshops and Church Brews</h3>
 
@@ -16,9 +16,9 @@ permalink: /archive/by_date/2009/03/17/
 
 <h4>Information Visualization - Ben Fry</h4>
 
-<p><a href="http://benfry.com/">Ben Fry</a> along with <a href="http://reas.com/">Casey Reas</a> created the <a href="http://processing.org">Processing language</a> &#8220;for people who want to program images, animation, and interactions.&#8221; I first discovered Processing (aka p5) in January of 2004. <a href="http://stungeye.com/processing/0304/index.html">One of my first sketches</a> stitched together MRI brain-scan images into an interactive animation. (See: <a href="http://stungeye.com/programs/">my early p5 sketches</a> and <a href="http://stungeye.com/processing/1007/">a more recent sketch</a>.)</p>
+<p><a href="http://benfry.com/">Ben Fry</a> along with <a href="http://reas.com/">Casey Reas</a> created the <a href="http://processing.org">Processing language</a> “for people who want to program images, animation, and interactions.” I first discovered Processing (aka p5) in January of 2004. <a href="http://stungeye.com/processing/0304/index.html">One of my first sketches</a> stitched together MRI brain-scan images into an interactive animation. (See: <a href="http://stungeye.com/programs/">my early p5 sketches</a> and <a href="http://stungeye.com/processing/1007/">a more recent sketch</a>.)</p>
 
-<p>Ben&#8217;s lecture focused on using visuals to effectively communicate complex information. Shout outs to <a href="http://en.wikipedia.org/wiki/Edward_Tufte">Edward Tufte</a> and <a href="http://en.wikipedia.org/wiki/Mark_Lombardi">Mark Lombardi</a> (See: <a href="http://www.albany.edu/museum/wwwmuseum/work/lombardi/images/lombardi1.jpg">Lombardi 1</a> &amp; <a href="http://www.pumpitout.com/pictures/marklombardi.jpg">Lombardi 2</a>)</p>
+<p>Ben’s lecture focused on using visuals to effectively communicate complex information. Shout outs to <a href="http://en.wikipedia.org/wiki/Edward_Tufte">Edward Tufte</a> and <a href="http://en.wikipedia.org/wiki/Mark_Lombardi">Mark Lombardi</a> (See: <a href="http://www.albany.edu/museum/wwwmuseum/work/lombardi/images/lombardi1.jpg">Lombardi 1</a> &amp; <a href="http://www.pumpitout.com/pictures/marklombardi.jpg">Lombardi 2</a>)</p>
 
 <p>Info Viz Workflow:</p>
 
@@ -35,11 +35,11 @@ permalink: /archive/by_date/2009/03/17/
 
 <ul>
 <li><a href="http://chart.apis.google.com/chart?cht=p3&amp;chs=640x255&amp;chd=t:82,18&amp;chl=Looks%20like%20Pac-man%7CDoes%20not%20look%20like%20Pac-man&amp;chco=FFFF00,000000&amp;chtt=Percentage%20of%20chart%20which%20looks%20like%20Pac-man">An Important Visualization</a></li>
-<li>It&#8217;s easy to <a href="http://faculty.maxwell.syr.edu/mon2ier/e_reprints/StatSci%20Aug2005%20(Lying%20with%20Maps).pdf">lie with statistics and maps</a> [pdf].</li>
+<li>It’s easy to <a href="http://faculty.maxwell.syr.edu/mon2ier/e_reprints/StatSci%20Aug2005%20(Lying%20with%20Maps).pdf">lie with statistics and maps</a> [pdf].</li>
 <li>
 <a href="http://kspark.kaist.ac.kr/Human%20Engineering.files/Chernoff/Chernoff%20Faces.htm">Using Cartoon Faces to Represent Multi-dimensional Datasets</a> (More: <a href="http://en.wikipedia.org/wiki/Chernoff_face">Chernoff Faces</a> and <a href="http://www.hesketh.com/schampeo/projects/Faces/FaceSaver.html">Face Saver</a>)</li>
 </ul>
-<p>During the experimentation part of this workshop I began working on the <a href="http://stungeye.com/archive/by_date/2009/03/16">Marvel &#8220;Social Network&#8221; visualization</a>.</p>
+<p>During the experimentation part of this workshop I began working on the <a href="http://stungeye.com/archive/by_date/2009/03/16">Marvel “Social Network” visualization</a>.</p>
 
 <p><a href="http://www.flickr.com/photos/ecin/3346633173/">Lunch</a> was tabbouleh salad, hummus, pitas and an apple.</p>
 
@@ -66,7 +66,7 @@ sleep 1 while !b.stopped?
 <li>Integrated mail client for sharing code.</li>
 <li>A <a href="http://en.wikipedia.org/wiki/Dingbat">Dingbat</a> sprite library for <a href="http://www.flickr.com/photos/konklone/3350076941/">game creation</a>.</li>
 <li>
-<a href="http://en.wikipedia.org/wiki/Internet_Relay_Chat">IRC</a>-like chat channels for human or programmatic communication. (For example, we wrote &#8220;chat&#8221; apps that allowed us to communicate by colour. Each rectangle in <a href="http://www.flickr.com/photos/konklone/3350076765/in/set-72157615169614994/">this image</a> represents someone in the room.).</li>
+<a href="http://en.wikipedia.org/wiki/Internet_Relay_Chat">IRC</a>-like chat channels for human or programmatic communication. (For example, we wrote “chat” apps that allowed us to communicate by colour. Each rectangle in <a href="http://www.flickr.com/photos/konklone/3350076765/in/set-72157615169614994/">this image</a> represents someone in the room.).</li>
 <li>Embedded <a href="http://tryruby.hobix.com/">Try Ruby</a>
 </li>
 </ul>

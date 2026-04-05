@@ -10,9 +10,7 @@ permalink: /archive/by_date/2011/10/22/
 
 ---
 
-[![Ergo - A Logical Card Game
-
-via](/archive/by_date/2011/10/22/tumblr_ltheroHkd21qzoknmo1_500.png)](http://www.tumblr.com/photo/1280/11783743797/1/tumblr_ltheroHkd21qzoknm)
+![Ergo - A Logical Card Game via](/archive/by_date/2011/10/22/tumblr_ltheroHkd21qzoknmo1_500.png)
 
 <p><a href="http://catalystgamelabs.com/pdfs/Ergo_Rules_LO.pdf">Ergo - A Logical Card Game</a></p>
 
@@ -20,6 +18,6 @@ via](/archive/by_date/2011/10/22/tumblr_ltheroHkd21qzoknmo1_500.png)](http://www
 
 ---
 
-[![via](/archive/by_date/2011/10/22/tumblr_lppz0euvxT1r0wnsho1_500.jpg)](http://xote.tumblr.com/post/8736173713)
+![via](/archive/by_date/2011/10/22/tumblr_lppz0euvxT1r0wnsho1_500.jpg)
 
 <p><a href="http://laureola.tumblr.com/post/11783181468">via</a></p>
