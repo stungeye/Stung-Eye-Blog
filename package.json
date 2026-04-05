@@ -10,10 +10,10 @@
     "build": "npx @11ty/eleventy"
   },
   "dependencies": {
-    "cheerio": "^1.0.0",
     "luxon": "^3.7.2"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^3.0.0"
+    "@11ty/eleventy": "^3.0.0",
+    "cheerio": "^1.0.0"
   }
 }

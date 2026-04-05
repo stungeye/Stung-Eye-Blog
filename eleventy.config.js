@@ -22,18 +22,19 @@ export default function (eleventyConfig) {
   );
 
   // --- Collections ---
+  const POSTS_GLOB = "src/posts/**/index.md";
 
   // All day pages sorted newest first
   eleventyConfig.addCollection("days", (collectionApi) => {
     return collectionApi
-      .getFilteredByGlob("src/posts/**/index.md")
+      .getFilteredByGlob(POSTS_GLOB)
       .sort((a, b) => b.date - a.date);
   });
 
   // Days grouped by year (for archive pages) — returns array of [year, days[]]
   eleventyConfig.addCollection("daysByYear", (collectionApi) => {
     const days = collectionApi
-      .getFilteredByGlob("src/posts/**/index.md")
+      .getFilteredByGlob(POSTS_GLOB)
       .sort((a, b) => b.date - a.date);
 
     const byYear = {};
@@ -49,7 +50,7 @@ export default function (eleventyConfig) {
   // Days grouped by year-month (for month pages) — returns array of [yearMonth, days[]]
   eleventyConfig.addCollection("daysByMonth", (collectionApi) => {
     const days = collectionApi
-      .getFilteredByGlob("src/posts/**/index.md")
+      .getFilteredByGlob(POSTS_GLOB)
       .sort((a, b) => b.date - a.date);
 
     const byMonth = {};
@@ -88,6 +89,11 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addFilter("monthFromDate", (dateObj) => {
     return (dateObj.getMonth() + 1).toString().padStart(2, "0");
+  });
+
+  eleventyConfig.addFilter("uniqueMonths", (days) => {
+    const months = [...new Set(days.map((day) => (day.date.getMonth() + 1).toString().padStart(2, "0")))];
+    return months.sort();
   });
 
   eleventyConfig.addFilter("monthName", (monthNum) => {

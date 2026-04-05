@@ -8,13 +8,7 @@ title: Archive
 {% for yearEntry in collections.daysByYear %}
   {% set year = yearEntry[0] %}
   {% set days = yearEntry[1] %}
-  {% set months = [] %}
-  {% for day in days %}
-    {% set m = day.date | monthFromDate %}
-    {% if m not in months %}
-      {% set months = (months.push(m), months) %}
-    {% endif %}
-  {% endfor %}
+  {% set months = days | uniqueMonths %}
   <p>
     <strong><a href="/archive/by_date/{{ year }}/">{{ year }}</a></strong> :
     {% for m in months | sort %}

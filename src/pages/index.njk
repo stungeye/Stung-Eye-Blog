@@ -1,11 +1,13 @@
 ---
-layout: layouts/archive.njk
+layout: layouts/base.njk
 pagination:
   data: collections.days
+  # Must match config.daysPerPage — Eleventy requires a literal here
   size: 10
   alias: days
-  reverse: false
+  # collection is pre-sorted newest-first, no reversal needed
 permalink: "{% if pagination.pageNumber == 0 %}/{% else %}/page/{{ pagination.pageNumber + 1 }}/{% endif %}"
+# Empty title: homepage renders as just "Stung Eye" in <title> tag
 title: ""
 ---
 {% for day in days %}

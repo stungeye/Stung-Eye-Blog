@@ -13,13 +13,7 @@ eleventyComputed:
 
 <h1>{{ year }}</h1>
 
-{% set months = [] %}
-{% for day in days %}
-  {% set m = day.date | monthFromDate %}
-  {% if m not in months %}
-    {% set months = (months.push(m), months) %}
-  {% endif %}
-{% endfor %}
+{% set months = days | uniqueMonths %}
 
 {% for m in months | sort %}
 <h2><a href="/archive/by_date/{{ year }}/{{ m }}/">{{ m | monthName }} {{ year }}</a></h2>
