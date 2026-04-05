@@ -11,7 +11,13 @@
  * Safe to re-run — skips images already downloaded.
  */
 
-import { readFileSync, writeFileSync, mkdirSync, existsSync, statSync } from "node:fs";
+import {
+  readFileSync,
+  writeFileSync,
+  mkdirSync,
+  existsSync,
+  statSync,
+} from "node:fs";
 import { join, dirname, extname } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -40,7 +46,10 @@ function buildHiresUrl(url500) {
   const parsed = new URL(url500);
 
   // New-style path with s500x750 or s640x960
-  if (parsed.pathname.includes("/s500x750/") || parsed.pathname.includes("/s640x960/")) {
+  if (
+    parsed.pathname.includes("/s500x750/") ||
+    parsed.pathname.includes("/s640x960/")
+  ) {
     const newPath = parsed.pathname
       .replace("/s500x750/", "/s1280x1920/")
       .replace("/s640x960/", "/s1280x1920/");
@@ -104,13 +113,20 @@ async function main() {
     }
 
     const hiresUrl = buildHiresUrl(entry.url500);
-    process.stdout.write(`[${i + 1}/${entries.length}] ${entry.date} ${hiresName}...`);
+    process.stdout.write(
+      `[${i + 1}/${entries.length}] ${entry.date} ${hiresName}...`,
+    );
 
     const ok = await downloadImage(hiresUrl, destPath);
     if (!ok) {
       process.stdout.write(" FAILED\n");
       failed++;
-      failures.push({ date: entry.date, itemId: entry.itemId, filename: entry.filename, url: hiresUrl });
+      failures.push({
+        date: entry.date,
+        itemId: entry.itemId,
+        filename: entry.filename,
+        url: hiresUrl,
+      });
       continue;
     }
 

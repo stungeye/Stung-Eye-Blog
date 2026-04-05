@@ -55,7 +55,9 @@ function dayOutputDir(dateStr) {
 
 async function main() {
   if (!existsSync(HIRES_DIR)) {
-    console.error("export/images-hires/ not found. Run `npm run download-hires` first.");
+    console.error(
+      "export/images-hires/ not found. Run `npm run download-hires` first.",
+    );
     process.exit(1);
   }
 
@@ -69,7 +71,11 @@ async function main() {
       const orig = item.rendered.image;
       // Derive hires filename (same transform as download-hires.js)
       const hires = orig.replace(/_(?:500|400)\./, "_1280.");
-      entries.push({ date: day.date, origFilename: orig, hiresFilename: hires });
+      entries.push({
+        date: day.date,
+        origFilename: orig,
+        hiresFilename: hires,
+      });
     }
   }
 
