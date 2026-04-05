@@ -145,38 +145,25 @@ size: 10
 
 ---
 
-## 7. Normalize Symmetries: Nearly identical archive layouts
+## 7. Dead Code: Unused `archive.njk` layout and `.archive-page` CSS class
 
-**Rule:** Normalize Symmetries — Pick one form and apply it consistently.
+**Rule:** Dead Code — Delete unreachable or unused code entirely.
 
-**Location:** `src/_includes/layouts/archive.njk` and `src/_includes/layouts/archive-index.njk`.
+**Location:** `src/_includes/layouts/archive.njk`, used by `src/pages/index.njk` and `src/pages/month.njk`.
 
-**Issue:** These two layouts are 5-line files that differ only in their wrapper CSS class:
+**Issue:** `layouts/archive.njk` wraps content in `<div class="archive-page">`, but `.archive-page` has **zero CSS rules** in `main.css` — the wrapper div does nothing. Meanwhile `layouts/archive-index.njk` wraps in `<div class="archive-index">`, which has real styling (custom `h1`, `p`, `ul`, `li` spacing).
+
+The two layouts are otherwise identical 5-line files extending `base.njk`:
 
 ```njk
-{# archive.njk #}
+{# archive.njk — wrapper class has no CSS rules #}
 <div class="archive-page">{{ content | safe }}</div>
 
-{# archive-index.njk #}
+{# archive-index.njk — wrapper class has real CSS rules #}
 <div class="archive-index">{{ content | safe }}</div>
 ```
 
-Both extend `base.njk`. Two nearly identical files means updating the wrapper structure requires touching both.
-
-**Action:** Merge into a single layout that reads the wrapper class from frontmatter:
-
-```njk
----
-layout: layouts/base.njk
----
-<div class="{{ wrapperClass | default('archive-page') }}">
-  {{ content | safe }}
-</div>
-```
-
-Pages would set `wrapperClass: archive-index` in frontmatter where needed. This is a borderline change — two tiny files is also perfectly clear. Only worth doing if the layout structure is expected to grow beyond a single wrapper div.
-
-**Caveat:** If the simplicity of "one layout per page type" is valued over DRY, this is fine to skip. The current approach has zero indirection cost.
+**Action:** Delete `src/_includes/layouts/archive.njk`. Update `src/pages/index.njk` and `src/pages/month.njk` to use `layout: layouts/base.njk` directly, since the `archive-page` wrapper adds no styling or semantic value.
 
 ---
 
@@ -244,6 +231,6 @@ title: ""
 | 4   | Explaining Comments  | `archive.njk`, `year.njk` | Resolved by item 3, or add comment        |
 | 5   | Dead Code            | `index.njk`               | Remove no-op config line                  |
 | 6   | Explaining Comments  | `index.njk`               | Prevents future sync bug                  |
-| 7   | Normalize Symmetries | `layouts/archive*.njk`    | Borderline — two tiny files is also fine  |
+| 7   | Dead Code            | `layouts/archive.njk`     | Delete unused layout + wrapper class      |
 | 8   | Cohesion             | `package.json`            | Minor — correct dependency classification |
 | 9   | Explaining Comments  | `index.njk`               | Clarifies non-obvious intent              |
