@@ -9,18 +9,20 @@
   <link rel="stylesheet" href="/assets/css/main.css">
 </head>
 <body>
-  <header class="site-header">
-    <nav class="site-nav">
-      <a href="/" class="site-title">{{ config.siteTitle }}</a>
-      <a href="/archive/">Archive</a>
-    </nav>
+  <header>
+    <h1><a href="/">{{ config.siteTitle }}</a></h1>
+    <h4>The eye of the bee holder.</h4>
+    <a href="/feed.xml" class="rss">RSS</a>
   </header>
 
   <main>
     {{ content | safe }}
   </main>
 
-  <footer class="site-footer">
+  <footer>
+    <nav class="navigation">
+      <a href="/archive/">Archive</a>
+    </nav>
     <p>&copy; {{ config.siteTitle }}</p>
   </footer>
 </body>
