@@ -4,8 +4,6 @@ title: Probability of Dice Rolls in Settlers of Catan
 permalink: /archive/by_date/2013/12/17/
 ---
 
-## Probability of Dice Rolls in Settlers of Catan
-
 <p><img src="https://stungeye.com/images/others/1213/settlers.jpg" alt="Settlers of Catan Board"></p>
 
 <p><strong>A few weeks back I played a game of <a href="https://en.wikipedia.org/wiki/The_Settlers_of_Catan">Settler of Catan</a> where an 8 was only rolled once.</strong> This is <em>a pretty big deal</em> if you know how the game is played.</p>

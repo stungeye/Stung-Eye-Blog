@@ -4,7 +4,7 @@ title: "Discovered on November 6, 2010"
 permalink: /archive/by_date/2010/11/06/
 ---
 
-<iframe src="https://www.youtube.com/embed/cFVlzUAZkHY?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/cFVlzUAZkHY?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="http://www.youtube.com/watch?v=cFVlzUAZkHY">Replicants scare me</a>. How long before robots like this <a href="http://singularityhub.com/2010/10/31/actroid-f-female-telepresence-robot-looks-super-real-creepy-video/">Actroid F</a> learn to pass the <a href="http://en.wikipedia.org/wiki/Voight-Kampff_machine">Voight-Kampff</a> empathy test?</p>
 

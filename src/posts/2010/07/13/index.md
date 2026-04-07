@@ -4,7 +4,7 @@ title: "Discovered on July 13, 2010"
 permalink: /archive/by_date/2010/07/13/
 ---
 
-<iframe src="https://www.youtube.com/embed/gEmLc4gA2SQ?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/gEmLc4gA2SQ?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="http://www.youtube.com/watch?v=gEmLc4gA2SQ">Video</a> from <a href="http://www.playsuperme.com/">SuperMe</a> a multi-player resilience and happiness game from <a href="http://www.guardian.co.uk/media/pda/2010/jul/12/channel4-education-superme">Channel 4&#8217;s education department</a>.</p>
 
@@ -14,6 +14,6 @@ permalink: /archive/by_date/2010/07/13/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/i5Btw95bJoY?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/i5Btw95bJoY?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="http://www.youtube.com/watch?v=i5Btw95bJoY&amp;feature=player_embedded">Man Enough</a> - <a href="http://www.nomoresweden.com/2010/07/available-jam-games-part-one/">Download game from No More Sweden</a>.</p>

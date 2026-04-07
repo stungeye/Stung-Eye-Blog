@@ -4,8 +4,6 @@ title: Coding is Two Things
 permalink: /archive/by_date/2015/07/11/
 ---
 
-## Coding is Two Things
-
 <p>Coding is hard because it’s two things:</p>
 
 <ol><li>Expressing ideas in the rigid syntax &amp; grammar of a formal language.</li>

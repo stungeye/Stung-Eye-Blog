@@ -4,8 +4,6 @@ title: Reading and Listening in 2015
 permalink: /archive/by_date/2016/02/19/
 ---
 
-## Reading and Listening in 2015
-
 <p>I read fifteen books this past year. Ten less than <a href="http://stungeye.com/archive/by_date/2015/01/22">2014</a>, four less than in <a href="http://stungeye.com/archive/by_date/2014/01/11">2013</a>, three less than in <a href="http://stungeye.com/archive/by_date/2012/12/31">2012</a>, and one less than in <a href="http://stungeye.com/archive/by_date/2011/12/18">2011</a>. All fifteen books were read in deadtree format. Fourteen of them were fiction. One was non-fiction.</p>
 
 <p>As you’ll see at the end of this post, my drop in book consumption can be attributed to my new found love of podcasts.</p>

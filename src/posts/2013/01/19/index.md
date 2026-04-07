@@ -4,8 +4,6 @@ title: "Philosophy, Physics, and Teaching"
 permalink: /archive/by_date/2013/01/19/
 ---
 
-## Philosophy, Physics, and Teaching
-
 <p>The audio lectures I’ve been enjoying this month.</p>
 
 <p><strong>Physics and Philosophy: Arguments, Experiments and a Few Things in Between</strong><br>

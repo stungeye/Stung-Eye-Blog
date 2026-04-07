@@ -18,7 +18,7 @@ permalink: /archive/by_date/2011/05/13/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/-bg82UH7IQY?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/-bg82UH7IQY?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="http://www.youtube.com/watch?v=-bg82UH7IQY">This is How You Turn the Soil</a></p>
 
@@ -26,6 +26,6 @@ permalink: /archive/by_date/2011/05/13/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/qLrnkK2YEcE?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/qLrnkK2YEcE?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="http://www.youtube.com/watch?v=qLrnkK2YEcE">Frontier Psychiatrist - The Avalanches</a> [<a href="http://suddenly.tumblr.com">via</a>]</p>

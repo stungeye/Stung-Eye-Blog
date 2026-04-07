@@ -4,8 +4,6 @@ title: Mobile Development
 permalink: /archive/by_date/2010/03/06/
 ---
 
-## Mobile Development
-
 <p>This weekend I’ll be exploring:</p>
 
 <ul>

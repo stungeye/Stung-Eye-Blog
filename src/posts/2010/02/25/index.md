@@ -4,7 +4,7 @@ title: "Discovered on February 25, 2010"
 permalink: /archive/by_date/2010/02/25/
 ---
 
-<iframe src="https://www.youtube.com/embed/lm435icmFSQ?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/lm435icmFSQ?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p>One human, three machines, rhythm.   Also: <a href="http://www.youtube.com/watch?v=0b-tWK6AeLY">How it works</a>.</p>
 

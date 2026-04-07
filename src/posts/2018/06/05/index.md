@@ -4,8 +4,6 @@ title: Meow Reader Ex Machina
 permalink: /archive/by_date/2018/06/05/
 ---
 
-## Meow Reader Ex Machina
-
 <p>9 years, 4 months, 19 days ago I posted my first image to <a href="http://meow-reader-blog.tumblr.com/">Meow Reader</a>, a Tumblr dedicated to images of cats reading and cats learning how to read.</p>
 
 <p>A few weeks back I mentioned the (then abadoned) site to my department chair and he (jokingly?) suggested I use <a href="https://en.wikipedia.org/wiki/Machine_learning">Machine Learning</a> to automate the discovery of new Meow Reader images.</p>

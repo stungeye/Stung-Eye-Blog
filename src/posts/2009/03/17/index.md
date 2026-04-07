@@ -4,8 +4,6 @@ title: Art and Code - Overview Part I
 permalink: /archive/by_date/2009/03/17/
 ---
 
-## Art and Code - Overview Part I
-
 <p>It’s about time I wrote an overview of my <a href="http://artandcode.ning.com/">Art and Code</a> experience.</p>
 
 <h3>Saturday - Workshops and Church Brews</h3>

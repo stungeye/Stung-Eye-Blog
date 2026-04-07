@@ -4,8 +4,6 @@ title: "Request for Feedback: WinnipegElection.ca"
 permalink: /archive/by_date/2010/07/21/
 ---
 
-## Request for Feedback: WinnipegElection.ca
-
 <p>Hi folks,</p>
 
 <p>On October 27 of this year the citizens of Winnipeg go to the polls to elect their Mayor, their City Councillors and their School Trustees.</p>

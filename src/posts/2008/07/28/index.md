@@ -4,8 +4,6 @@ title: An Inch of Rope
 permalink: /archive/by_date/2008/07/28/
 ---
 
-## An Inch of Rope
-
 <p>Stung Eye is born again. This is version 3, a lifestream.</p>
 
 <p>This site is now continually (and automatically) generated as I interact with various web services.</p>

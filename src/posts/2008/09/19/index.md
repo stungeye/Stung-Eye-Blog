@@ -4,8 +4,6 @@ title: "Exit the Loop, but When?"
 permalink: /archive/by_date/2008/09/19/
 ---
 
-## Exit the Loop, but When?
-
 <p>There is a problem-solving strategy in computer science called <a href="http://en.wikipedia.org/wiki/Recursion">recursion</a>. It amounts to programming sets of instructions that are defined in terms of themselves (<a href="http://en.wikipedia.org/wiki/Self-referential">self-referential</a>, <a href="http://en.wikipedia.org/wiki/Meta">meta</a>).</p>
 
 <p><a href="http://en.wikipedia.org/wiki/Douglas_Hofstadter">Douglas Hofstadter</a>’s academic pursuits centre on the connection between recursion and <a href="http://en.wikipedia.org/wiki/Consciousness">consciousness</a>. Hofstadter maintains that our brains are recursive in nature, our consciousness born amongst the <a href="http://en.wikipedia.org/wiki/Strange_loops">strange loops</a> of our thoughts about thinking.</p>

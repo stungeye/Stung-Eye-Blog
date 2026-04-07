@@ -8,8 +8,6 @@ permalink: /archive/by_date/2016/05/01/
 
 ---
 
-## Thinking in Tic Tac Toe
-
 <p>Thirty one years ago I typed <a href="https://en.wikipedia.org/wiki/Tic-tac-toe">tic tac toe</a> code, found at the back of a computer magazine, into my <a href="https://en.wikipedia.org/wiki/Commodore_VIC-20">VIC 20</a>. I didn’t understand the code but I felt wizardly when the game popped up on the living room TV. Thirteen years later I would code my own tic tac toe game for the first time while learning to build Microsoft Access apps during my coding internship at <a href="https://www.mts.ca/residential">MTS</a>. I added the game as an <a href="https://en.wikipedia.org/wiki/Easter_egg_(media)">easter egg</a> to the time tracking app I built for the MTS Solutions Group.</p>
 
 <p>The first two were written in flavours of <a href="https://en.wikipedia.org/wiki/BASIC">BASIC</a>. I’ve since coded tic tac toe in <a href="https://en.wikipedia.org/wiki/Pascal_(programming_language)">Pascal</a>, <a href="https://www.perl.org/">Perl</a>, <a href="https://www.ruby-lang.org">Ruby</a> and <a href="https://clojure.org/about/clojurescript">Clojurescript</a>. The Pascal one was <a href="http://mathworld.wolfram.com/Connect-Four.html">Connect Four</a>, a 4-run tic tac toe with gravity.</p>
@@ -36,7 +34,7 @@ permalink: /archive/by_date/2016/05/01/
 
 ---
 
-<iframe width="400" height="225"  id="youtube_iframe" src="https://www.youtube.com/embed/28_58XMjg_A?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/28_58XMjg_A?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="https://www.youtube.com/watch?v=28_58XMjg_A">Sam Popowich - Coding and Humanism</a><br/>
 August 2015 - <a href="https://www.utsc.utoronto.ca/conferences/dpi/">UTSC Digital Pedagogy Institute</a></p>

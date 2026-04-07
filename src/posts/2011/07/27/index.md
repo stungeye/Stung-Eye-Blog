@@ -10,7 +10,7 @@ permalink: /archive/by_date/2011/07/27/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/TDaFwnOiKVE?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/TDaFwnOiKVE?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p>Kevin Slavin: <a href="http://www.youtube.com/watch?v=TDaFwnOiKVE">How Algorithms Shape our World</a></p>
 

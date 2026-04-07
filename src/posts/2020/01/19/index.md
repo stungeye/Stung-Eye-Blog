@@ -4,8 +4,6 @@ title: Reading and Listening in 2019
 permalink: /archive/by_date/2020/01/19/
 ---
 
-## Reading and Listening in 2019
-
 <p>I read 20 books last year. All twenty books were deadtree format. Fourteen of them were fiction. Six were non-fiction. I continued to read to the girls almost every night. Together we read an additional 9 chapter books and oodles of picture books. I managed to drop a few shows from my podcatcher. Our family listened to 700 hours of music.</p>
 
 <p>2019 was a year of re-reading favourites from my youth as well as more recent favourites. A year of nostalgia and retrospection! I enjoyed the journey and am planning on re-reading one book a year from here out.</p>

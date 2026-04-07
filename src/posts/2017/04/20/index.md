@@ -4,7 +4,7 @@ title: "Discovered on April 20, 2017"
 permalink: /archive/by_date/2017/04/20/
 ---
 
-<iframe width="400" height="225"  id="youtube_iframe" src="https://www.youtube.com/embed/PMdN3N9LhB0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/PMdN3N9LhB0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p>My talk about <a href="https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf">Alan Turing’s 1936 paper on computable numbers</a>. Recorded in May of 2016 at <a href="http://skullspace.ca/">Skullspace</a> for <a href="http://pwlwpg.ca">Papers We Love Winnipeg</a>.</p>
 

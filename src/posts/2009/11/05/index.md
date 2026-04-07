@@ -4,8 +4,6 @@ title: A Catch
 permalink: /archive/by_date/2009/11/05/
 ---
 
-## A Catch
-
 <p>How’s life? I’m reading <a href="http://en.wikipedia.org/wiki/Catch-22">Catch-22</a>. I laugh out loud on the bus. You know? Real life lols. It’s a little dated, but luckily I know who <a href="http://images.google.ca/images?q=henry+fonda">Henry Fonda</a> is.</p>
 
 <p><em>“You’re inches away from death every time you go on a mission. How much older can you be at your age?”</em></p>

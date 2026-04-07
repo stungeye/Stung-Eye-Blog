@@ -4,8 +4,6 @@ title: Daceybassyrappyhappy - Glutton Mix
 permalink: /archive/by_date/2009/02/13/
 ---
 
-## Daceybassyrappyhappy - Glutton Mix
-
 <p><a href="http://www.divshare.com/download/6547767-eeb">Daceybassyrappyhappy</a> - Choons from 2007/2008 that made me smile and dance around.</p>
 
 <h3>Track List</h3>

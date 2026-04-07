@@ -4,8 +4,6 @@ title: Reading and Listening in 2020
 permalink: /archive/by_date/2021/02/13/
 ---
 
-## Reading and Listening in 2020
-
 <p>I read 22 books last year. Three were read on <a href="https://us.kobobooks.com/products/kobo-clara-hd">my new e-reader</a>, the rest were deadtree format. Fourteen of them were fiction. Eight were non-fiction. I continued to read to the girls almost every night. Normally my bus commute allows for my reading and podcast habit. In 2020 my reading shifted into bed before sleep. Podcasts shifted to running and cooking. 2020 was also the year the fam truely took over my Spotify account. The algorithms are confused.</p>
 
 <p>Where 2019 was all re-reads, 2020 included one re-read, a bunch of sci-fi (as per usual), and a number of math and coding tomes.</p>

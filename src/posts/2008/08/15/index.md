@@ -18,8 +18,6 @@ permalink: /archive/by_date/2008/08/15/
 
 ---
 
-## Wikiabet
-
 <p><a href="http://en.wikipedia.org/wiki/A">A</a> 
 <a href="http://en.wikipedia.org/wiki/B">B</a> 
 <a href="http://en.wikipedia.org/wiki/C">C</a> 

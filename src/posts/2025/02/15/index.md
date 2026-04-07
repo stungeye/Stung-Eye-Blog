@@ -8,10 +8,8 @@ permalink: /archive/by_date/2025/02/15/
 
 ---
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/videoseries?si=O4DDMzXzdJUyocl1&amp;list=PLHwGpEAs-3LMaQfbRQXyoU_dW5q-eSKSK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+<iframe src="https://www.youtube.com/embed/videoseries?si=O4DDMzXzdJUyocl1&amp;list=PLHwGpEAs-3LMaQfbRQXyoU_dW5q-eSKSK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
   </iframe>
-</div>
 
 ---
 

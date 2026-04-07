@@ -4,7 +4,7 @@ title: "Discovered on May 10, 2011"
 permalink: /archive/by_date/2011/05/10/
 ---
 
-<iframe src="https://www.youtube.com/embed/uT4y4xb2UYI?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/uT4y4xb2UYI?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="http://www.youtube.com/watch?v=uT4y4xb2UYI">Human Powered Quad-blade Helicopter</a></p>
 

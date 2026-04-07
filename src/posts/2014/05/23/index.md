@@ -4,8 +4,6 @@ title: Pecha Kucha Winnipeg Vol. 18
 permalink: /archive/by_date/2014/05/23/
 ---
 
-## Pecha Kucha Winnipeg Vol. 18
-
 <blockquote>
   <p><strong><a href="http://www.pechakucha.org">PechaKucha</a> 20x20</strong> is a simple presentation format where you show 20 images, each for 20 seconds. The images advance automatically and you talk along to the images.</p>
 </blockquote>

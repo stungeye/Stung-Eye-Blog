@@ -4,8 +4,6 @@ title: Reading and Listening in 2021
 permalink: /archive/by_date/2022/02/14/
 ---
 
-## Reading and Listening in 2021
-
 <p>I read 12 books last year. Three were read on my Kobo e-reader and the rest were deadtree format. Six of them were fiction. Six were non-fiction. Nightly reading with the girls continues. I’m mising my weekday 1.5 hours bus commute reading sessions. It’s just too easy to fall asleep with a book across your face. :)</p>
 
 <h3>Fiction in 2021</h3>

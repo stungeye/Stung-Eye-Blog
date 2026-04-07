@@ -10,6 +10,4 @@ For <a href="http://allangeske.ca">dad</a>.
 
 ---
 
-## Act Entr'act
-
 For my <a href="http://stungeye.com">stungeye.com</a> readers I’ve enabled comments. The comment links are found on the left below the date markers. For the <a href="http://tumblr.com">Tumblrs</a> it’s business as usual.

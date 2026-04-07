@@ -4,8 +4,6 @@ title: Music and Fractal Landscapes
 permalink: /archive/by_date/2013/10/18/
 ---
 
-## Music and Fractal Landscapes
-
 <p>Yesterday <a href="http://twitter.com/chefquix">@chefquix</a> and I had a fairly involved discussion about consciousness and artificial intelligence. Our conversation centred on my loss of faith in strong AI due to my new-found belief that our consciousness (what ever it is) is not discreet, computational, or algorithmic. In other words, we don’t brute force our awareness of self or our awareness of the world around us. We intuit.</p>
 
 <p>This morning while taking the bus to work, much to the surprise of my fellow passengers, I stood up abruptly, struck by what I was reading. (I then look around and awkwardly sat back down.) I had been reading Douglas Adams’ <a href="https://en.wikipedia.org/wiki/Dirk_Gently's_Holistic_Detective_Agency">Dirk Gently’s Holistic Detective Agency</a>, specifically a fictional article written by the story’s main character Richard MacDuff. This article, replicated below, solidified my understanding of yesterday’s conversation with Andrew.</p>

@@ -4,8 +4,6 @@ title: Switched On
 permalink: /archive/by_date/2019/07/08/
 ---
 
-## Switched On
-
 <p>Total network nerd out! I switched my internet provider from Bell MTS to <a href="https://teksavvy.com/">TekSavvy</a> and it was quite the ride.</p>
 
 <p>Why the switch? Half the monthly cost and total control of my home network. Oh, and I love tech puzzle and the challenge of the build. ;)</p>

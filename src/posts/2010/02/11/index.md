@@ -10,6 +10,6 @@ permalink: /archive/by_date/2010/02/11/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/tENliJSMEB8?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/tENliJSMEB8?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="http://luckybite.com/iprocessing/">iProcessing</a> is an open programming framework for native iPhone applications using the <a href="http://processing.org">Processing language</a>. It is an integration of the <a href="http://processingjs.org/">Processing.js library</a> and a Javascript application framework for the iPhone.</p>

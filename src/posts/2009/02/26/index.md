@@ -4,8 +4,6 @@ title: You Are Beyond the Edge of Forever
 permalink: /archive/by_date/2009/02/26/
 ---
 
-## You Are Beyond the Edge of Forever
-
 <p>…</p>
 
 <pre><code>  (sleeping) Enter command: inventory

@@ -10,8 +10,6 @@ I&#8217;m currently trying to figure out what kind of data I wish to play-with /
 
 ---
 
-## Art and Code - Day 1 - Morning
-
 <p>I arrived in Pittsburgh last night. The <a href="http://en.wikipedia.org/wiki/Cathedral_of_Learning">Cathedral of Learning</a> is just outside my hotel. (Check out the <a href="http://en.wikipedia.org/wiki/File:Cathedral_of_Learning_Pittsburgh_by_Jennifer_Yang.jpg">commons room</a>.)</p>
 
 <p>Last week I read <a href="http://en.wikipedia.org/wiki/Michael_Chabon">Michael Chabon</a>’s <a href="http://en.wikipedia.org/wiki/The_Mysteries_of_Pittsburgh">The Mysteries of Pittsburgh</a> (thanks Jeff!). I walked by <a href="http://en.wikipedia.org/wiki/Cloud_Factory">the Cloud Factory</a> on the way to registration this morning.</p>

@@ -4,8 +4,6 @@ title: A Process That Resonates
 permalink: /archive/by_date/2008/11/25/
 ---
 
-## A Process That Resonates
-
 <p><a href="http://processing.org/">Processing</a> is a free open-source programming language for people who want to program images, animation, and interactions. It was created with artists, designers and hobbyists in mind.</p>
 
 <p>After seven years of alpha and beta testing <a href="http://reas.com/blog/archives/57">version 1.0 of Processing was launched yesterday</a>.</p>

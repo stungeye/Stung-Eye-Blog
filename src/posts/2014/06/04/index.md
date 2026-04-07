@@ -4,8 +4,6 @@ title: Sweat Lodge Ceremony
 permalink: /archive/by_date/2014/06/04/
 ---
 
-## Sweat Lodge Ceremony
-
 <p>On Monday I participated in a <a href="http://www.barefootsworld.net/sweatlodge.html">sweat lodge ceremony</a> organized by Red River College Aboriginal Student Support &amp; Community Relations. This took place near Libau Manitoba at the site of a yearly <a href="https://www.nfb.ca/film/circle-of-the-sun">Sun Dance</a>. The ceremony was a teaching lodge led by Bundle carrier, Sun dancer, and Spiritual Advisor for Corrections Services Canada, <a href="http://www.strongheartconsultations.com/contact.html">Brian McLeod</a>.</p>
 
 <p>A sweat lodge is an Aboriginal ceremony of purification, thankfulness, healing, and discovery. The lodge itself is built of saplings lashed together and hung with heavy cloth tarp. A dome maybe 10 feet (3 metres) in diameter, the shape of a great turtle shell.</p>

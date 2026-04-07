@@ -4,8 +4,6 @@ title: TEDxManitoba Analogies
 permalink: /archive/by_date/2011/03/15/
 ---
 
-## TEDxManitoba Analogies
-
 <p>Last month I had the opportunity to attend <a href="http://tedxmanitoba.com">TEDxManitoba</a>, an independently organized <a href="http://www.ted.com/">TED</a> event at the <a href="http://www.parktheatervideo.com/cafe">Park Theatre</a>. It was a day of inspiration drawn from the various speakers and the conversations with fellow attendees.</p>
 
 <p>During each of the seventeen talks I scribbled down my thoughts in a notepad. During the week that followed, I tried to distill each talk down to one compelling analogy. These seventeen analogies are presented below (<em>in italics</em>), along with links to each video (follow the arrows).</p>

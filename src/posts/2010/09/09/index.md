@@ -4,7 +4,7 @@ title: "Discovered on September 9, 2010"
 permalink: /archive/by_date/2010/09/09/
 ---
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/HtHpuTLIuBo?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/HtHpuTLIuBo?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="https://www.youtube.com/watch?v=HtHpuTLIuBo">Cache Rules Everything Around Me</a></p>
 

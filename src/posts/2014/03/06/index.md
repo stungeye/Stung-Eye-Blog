@@ -4,8 +4,6 @@ title: Has Anyone Ever Flipped Heads 76 Times in a Row?
 permalink: /archive/by_date/2014/03/06/
 ---
 
-## Has Anyone Ever Flipped Heads 76 Times in a Row?
-
 <p><a href="http://blogs.scientificamerican.com/roots-of-unity/2014/01/27/rosencrantz-and-guildenstern-flip-coins/">This article</a> makes for a good companion piece to <a href="http://stungeye.com/archive/by_date/2013/12/17">my post on dice probabilities</a>.</p>
 
 <blockquote>

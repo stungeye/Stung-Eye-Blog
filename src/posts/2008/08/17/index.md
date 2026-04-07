@@ -4,8 +4,6 @@ title: Canadian Tories Continue to Cut Federal Arts Funding
 permalink: /archive/by_date/2008/08/17/
 ---
 
-## Canadian Tories Continue to Cut Federal Arts Funding
-
 <p>Contributions cut this week by the conservative government:</p>
 
 <ul>

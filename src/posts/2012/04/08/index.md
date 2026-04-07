@@ -4,8 +4,6 @@ title: Eulogy for Craig Sisk
 permalink: /archive/by_date/2012/04/08/
 ---
 
-## Eulogy for Craig Sisk
-
 <div style="overflow:auto;">
 <p><img style="float:right; margin: 0 0 0.5em 1em;" src="https://stungeye.com/images/craig_sisk/hawaii-craig-200.jpg" alt="Craig and Shannon with Turtle">Yesterday we held a memorial to celebrate the life of my brother-in-law Craig Sisk. Craig passed away on March 29th, 2012 at the age of 34. Here is the eulogy I wrote for Craig.</p>
 
@@ -49,7 +47,7 @@ Recently Craig moved back home to Winnipeg. I’ve been told that Craig took tha
 
 ---
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/fiwtDoxHT2Y?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/fiwtDoxHT2Y?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
 
 <p><strong>For Craig:</strong> Jimmy Scott - Sycamore Trees</p>
 

@@ -10,8 +10,6 @@ Hearrings [<a href="http://coilhouse.net/">via</a>]
 
 ---
 
-## Pirates of the Amazon Abandon Ship
-
 <p>Dutch students “release <a href="http://pirates-of-the-amazon.com/">a Firefox extension</a> that made it easy for people who were browsing books, music and movies on <a href="http://amazon.com">Amazon</a> to download the same products free through <a href="http://thepiratebay.org/">the Pirate Bay</a>, the illicit <a href="http://en.wikipedia.org/wiki/BitTorrent">BitTorrent</a> site.”</p>
 
 <p>Amazon serves a take-down notice. Students comply.</p>

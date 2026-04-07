@@ -4,8 +4,6 @@ title: Learning in Public
 permalink: /archive/by_date/2020/01/11/
 ---
 
-## Learning in Public
-
 <p>I teach coding at <a href="https://www.rrc.ca/informationsystems/">Red River College</a>. I’ve been at the college for almost 12.5. Although I’ve learned <strong>a lot</strong> over this time, this learning has been almost exclusivly related to teaching and web development (and outside of work, parenting and <a href="http://opendemocracymanitoba.ca">open government</a>).</p>
 
 <p>It’s time to step a bit of my comfort zone: <strong>I’m going to learn modern game development.</strong></p>

@@ -4,8 +4,6 @@ title: Manitoba Election dot Ca
 permalink: /archive/by_date/2011/07/15/
 ---
 
-## Manitoba Election dot Ca
-
 <p>On October 4th of this year the people of Manitoba go to the polls to elect their next Legislative Assembly and Premier.</p>
 
 <p>Making an informed choice for your vote requires that you know the candidates, their platforms and the issues they discuss.</p>

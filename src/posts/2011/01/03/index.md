@@ -4,8 +4,6 @@ title: Stung Eye Year in Review
 permalink: /archive/by_date/2011/01/03/
 ---
 
-## Stung Eye Year in Review
-
 <p>This weekend was nice. I have a new year’s tradition of re-reading my <a href="http://stungeye.com/archive/by_date/2010">StungEye post from the previous year</a>. I also re-read and update my resolutions. Here’s a recap of my 2010.</p>
 
 <h3>Doing Is Real; Being Is A Social Fiction<sup><a href="http://gilesbowkett.blogspot.com/2010/01/doing-is-real-being-is-social-fiction.html">*</a></sup>

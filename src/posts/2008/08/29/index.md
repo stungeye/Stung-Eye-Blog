@@ -4,7 +4,7 @@ title: "Discovered on August 29, 2008"
 permalink: /archive/by_date/2008/08/29/
 ---
 
-<iframe src="https://www.youtube.com/embed/suvDQoXA-TA?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/suvDQoXA-TA?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 Mushrooms and Mold
 

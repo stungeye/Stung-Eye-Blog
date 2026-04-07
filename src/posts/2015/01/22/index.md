@@ -4,8 +4,6 @@ title: Reading and Listening in 2014
 permalink: /archive/by_date/2015/01/22/
 ---
 
-## Reading and Listening in 2014
-
 <p>I read twenty-five books this past year. Six more than <a href="http://stungeye.com/archive/by_date/2014/01/11">2013</a>, seven more than in <a href="http://stungeye.com/archive/by_date/2012/12/31">2012</a>, and nine more than in <a href="http://stungeye.com/archive/by_date/2011/12/18">2011</a>.  Only one of the books was read on my Kobo, the rest were deadtree. Nine of them were non-fiction and sixteen of them were fiction.</p>
 
 <h3>Fiction Read in 2014</h3>

@@ -4,8 +4,6 @@ title: BabyLolly Featured In Winnipeg Free Press
 permalink: /archive/by_date/2009/02/27/
 ---
 
-## BabyLolly Featured In Winnipeg Free Press
-
 <p>I’m very excited to announce the launch of our new website, <a href="http://www.babylolly.com">BabyLolly.com</a>. For the past year I’ve been working along with my friend Andrew Burton, my sister Colleen Geske, and her husband Moses Faleafaga, on this online babybook and social network for families.</p>
 
 <p>Today we were <a href="http://www.winnipegfreepress.com/business/the_big_idea-40411182.html">featured in the business section Winnipeg Free Press</a>.</p>

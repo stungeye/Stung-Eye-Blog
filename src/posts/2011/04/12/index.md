@@ -4,8 +4,6 @@ title: Chemical Etching For Artists and Hackers
 permalink: /archive/by_date/2011/04/12/
 ---
 
-## Chemical Etching For Artists and Hackers
-
 <p>This Saturday (April 16th) I’ll be giving a talk on <strong>chemical etching</strong> at the <a href="http://www.skullspace.ca/wiki/index.php/Hack-a-thon_5">5th Skullspace Hack-a-thon</a>.</p>
 
 <p><em>Etching is the process of using corrosive chemicals to cut into the unprotected parts of an object’s surface.</em></p>

@@ -4,8 +4,6 @@ title: Stretching Your Wrists
 permalink: /archive/by_date/2010/09/19/
 ---
 
-## Stretching Your Wrists
-
 <p>These <a href="http://en.wikipedia.org/wiki/Aikido">Aikido</a> wrist stretches are for anyone who types a lot.</p>
 
 <ul>

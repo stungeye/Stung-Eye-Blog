@@ -14,7 +14,7 @@ permalink: /archive/by_date/2010/02/07/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/4BZ06Kwbi5s?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/4BZ06Kwbi5s?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p>The Evolution of Remix Culture - How Remix is becoming a platform for collective expression by, and conversations between, social groups.</p>
 

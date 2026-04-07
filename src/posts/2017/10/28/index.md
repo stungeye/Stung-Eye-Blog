@@ -4,8 +4,6 @@ title: Types as Concretions
 permalink: /archive/by_date/2017/10/28/
 ---
 
-## Types as Concretions
-
 <p>I love <a href="http://www.lispcast.com/clojure-and-types">that space where coding and philosophy collide</a>.</p>
 
 <blockquote>

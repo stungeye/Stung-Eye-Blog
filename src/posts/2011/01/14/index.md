@@ -18,7 +18,7 @@ permalink: /archive/by_date/2011/01/14/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/lVPLIuBy9CY?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/lVPLIuBy9CY?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="http://www.youtube.com/watch?v=lVPLIuBy9CY">There Is No Movement Without Rhythm</a></p>
 
@@ -26,6 +26,6 @@ permalink: /archive/by_date/2011/01/14/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/4PKjF7OumYo?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/4PKjF7OumYo?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="http://www.youtube.com/watch?v=4PKjF7OumYo">This is happening right now</a> inside every one of your trillions of cells. The replication and transcription of DNA/RNA reminds me of a <a href="http://en.wikipedia.org/wiki/Turing_machine">Turning Machine</a> with the DNA/RNA as the tape.</p>

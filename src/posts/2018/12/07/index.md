@@ -4,8 +4,6 @@ title: Maps and Clouds
 permalink: /archive/by_date/2018/12/07/
 ---
 
-## Maps and Clouds
-
 <p>On Wednesday I <a href="https://www.instagram.com/p/BrB5k2jA7PiMtpWqlaIqZHcM3QOOTELGrz4VPU0/">spent the day at the Google Cloud Civic Tech Hackathon</a>. It was fun day of teamwork, fancy food, data and technology. There was even an improv comedy workshop with some of the members of <a href="https://www.outsidejokeimprov.com/">Outside Joke</a>.</p>
 
 <p>The Google Cloud Relay took place in 8 cities across Canada. The challenge was to build a web application to paint a picture of your city and how it is changing, evolving and adapting.</p>

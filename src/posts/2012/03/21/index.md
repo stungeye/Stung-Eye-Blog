@@ -38,7 +38,7 @@ permalink: /archive/by_date/2012/03/21/
 
 ---
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/LdLu-IP9bnU?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/LdLu-IP9bnU?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="http://www.youtube.com/watch?v=LdLu-IP9bnU">How to fool Facial Recognition with cunning &amp; crochet</a></p>
 

@@ -10,7 +10,7 @@ via <a href="http://ataraxic.tumblr.com/post/74555635/heyitswil">ataraxic</a> vi
 
 ---
 
-<iframe src="https://www.youtube.com/embed/REL5R-Ls3oU?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/REL5R-Ls3oU?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="http://ca.youtube.com/profile?user=jaaaaaaa&amp;view=videos&amp;sort=v">Julia Nunes</a> - All My Loving, The Beatles</p>
 

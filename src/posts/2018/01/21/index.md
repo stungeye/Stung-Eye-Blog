@@ -4,8 +4,6 @@ title: Reading and Listening in 2017
 permalink: /archive/by_date/2018/01/21/
 ---
 
-## Reading and Listening in 2017
-
 <p>I read 20 books last year. <a href="http://stungeye.com/archive/by_date/2017/03/25">In 2016 I read 17</a>. <a href="http://stungeye.com/archive/by_date/2016/02/19">In 2015 I read 15</a>. <a href="http://stungeye.com/archive/by_date/2015/01/22">In 2014 I read 25</a>. <a href="http://stungeye.com/archive/by_date/2014/01/11">In 2013 I read 19</a>. <a href="http://stungeye.com/archive/by_date/2012/12/31">In 2012 I read 18</a>. And <a href="http://stungeye.com/archive/by_date/2011/12/18">in 2011, when I first started tracking, I read 16</a>. All twenty books were deadtree format. Eleven of them were fiction. Nine were non-fiction.</p>
 
 <p>I also read to the girls almost every night and, for the first time this year, Acelyn started reading bedtime stories aloud as well.</p>

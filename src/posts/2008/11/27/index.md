@@ -20,6 +20,6 @@ permalink: /archive/by_date/2008/11/27/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/Si_2Kupo13c?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Si_2Kupo13c?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 The Worse Day of His Life

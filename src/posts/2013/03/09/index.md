@@ -4,8 +4,6 @@ title: A Scientific Approach to Debugging
 permalink: /archive/by_date/2013/03/09/
 ---
 
-## A Scientific Approach to Debugging
-
 <p>This list, taken from John Regehr’s <a href="http://blog.regehr.org/archives/199">How to Debug</a> (<a href="http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2013-03.html#e2013-03-08T15_50_37.htm">via</a>), aligns nicely with my process for debugging software.</p>
 
 <ol><li>Verify the Bug and Determine Correct Behaviour.</li>

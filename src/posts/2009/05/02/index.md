@@ -4,7 +4,7 @@ title: "Discovered on May 2, 2009"
 permalink: /archive/by_date/2009/05/02/
 ---
 
-<iframe src="https://www.youtube.com/embed/-d2-PtK4F6Y?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/-d2-PtK4F6Y?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="http://www.shamusyoung.com/twentysidedtale/?p=3220">Procedural City</a></p>
 

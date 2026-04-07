@@ -4,15 +4,13 @@ title: Music for the Eyes
 permalink: /archive/by_date/2013/05/29/
 ---
 
-## Music for the Eyes
-
 <p>Three distinct takes on the visualization of <a href="http://en.wikipedia.org/wiki/MIDI">MIDI</a>-based music.</p>
 
 <p>I imagine videos of this sort would be a helpful addition to music lessons, helping students explore the structure and melody of the songs they are learning to play.</p>
 
 ---
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/SscLwofQJHo?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/SscLwofQJHo?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
 
 <p><strong>Music Visualization #1</strong></p>
 
@@ -22,7 +20,7 @@ permalink: /archive/by_date/2013/05/29/
 
 ---
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/XlyCLbt3Thk?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/XlyCLbt3Thk?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
 
 <p><strong>Music Visualization #2</strong></p>
 
@@ -32,7 +30,7 @@ permalink: /archive/by_date/2013/05/29/
 
 ---
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/p1XD1MSES_8?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/p1XD1MSES_8?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
 
 <p><strong>Music Visualization #3</strong></p>
 

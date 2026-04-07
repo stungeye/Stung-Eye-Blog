@@ -4,8 +4,6 @@ title: Glutton LastFM
 permalink: /archive/by_date/2010/05/11/
 ---
 
-## Glutton LastFM
-
 <p>Two days ago I released <a href="http://rubygems.org/gems/glutton_lastfm">my first Ruby gem</a>. In coding parlance <a href="http://en.wikipedia.org/wiki/RubyGems">gems</a> are software libraries created to enhance the <a href="http://www.ruby-lang.org">Ruby programming language</a>.</p>
 
 <p>My gem is call <strong>glutton_lastfm</strong>. It’s a wrapper library for version 2.0 of the <a href="http://www.last.fm/">last.fm</a> <a href="http://www.last.fm/api">API</a>. The source code and documentation is available on <a href="http://github.com/stungeye/glutton_lastfm">my github account</a>.</p>

@@ -4,8 +4,6 @@ title: The Loss of Parker Forest
 permalink: /archive/by_date/2009/07/25/
 ---
 
-## The Loss of Parker Forest
-
 <p>Winnipeg city council has approved a city land-swap with developer Andrew Marquess of <a href="http://www.gemequities.ca/">GEM equities</a>. 59 acres of unserviced city land in the <a href="http://www.wayfaring.com/waypts/show/53399">Parker neighbourhood</a> will be traded for nine acres of serviced land in the Fort Rouge Yards. The city wants the Fort Rouge land for a future rapid transit corridor. Marquess wishes to build 3500 townhouses on the Parker land.</p>
 
 <p>Nearly half of the Parker land being given to Marquess is forested. I spent a few afternoons in the summer of 2006&nbsp;<a href="http://www.flickr.com/photos/stungeye/tags/parkerforest/">exploring the Parker Forest</a> and I have returned to it often since. Here’s <a href="http://stungeye.com/archives/2006/10/urban_forest_ex.php">how I described it back then</a>:</p>

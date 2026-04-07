@@ -4,8 +4,6 @@ title: Reading and Listening in 2016
 permalink: /archive/by_date/2017/03/25/
 ---
 
-## Reading and Listening in 2016
-
 <p>I read 17 books last year. Two more than <a href="http://stungeye.com/archive/by_date/2016/02/19">2015</a>. Eight less than <a href="http://stungeye.com/archive/by_date/2015/01/22">2014</a>, Two less than in <a href="http://stungeye.com/archive/by_date/2014/01/11">2013</a>, one less than in <a href="http://stungeye.com/archive/by_date/2012/12/31">2012</a>, and one more than in <a href="http://stungeye.com/archive/by_date/2011/12/18">2011</a>. All seventeen books were deadtree format. Thirteen of them were fiction. Four were non-fiction.</p>
 
 <p>If we also count the books I’ve read to my girls before bed, the number would larger. This was the first year I started reading chapter books with the girls. We finished four chapter books together.</p>

@@ -4,8 +4,6 @@ title: Reading and Listening in 2011
 permalink: /archive/by_date/2011/12/18/
 ---
 
-## Reading and Listening in 2011
-
 <p>This is what I read and heard over the past year. I beat my goal of one book per month. Maybe I should try for 24+ in 2012.</p>
 
 <h3>Fiction</h3>
@@ -49,6 +47,6 @@ permalink: /archive/by_date/2011/12/18/
 
 ---
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/LpROaNue9GM?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/LpROaNue9GM?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="https://www.youtube.com/watch?v=LpROaNue9GM">Shea Hembrey: How I became 100 artists</a></p>

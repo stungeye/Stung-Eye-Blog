@@ -4,8 +4,6 @@ title: Email to Friends From This Morning
 permalink: /archive/by_date/2020/12/13/
 ---
 
-## Email to Friends From This Morning
-
 <p>I’m here today to spread the gospel of <a href="https://www.youtube.com/c/Lemellotron/playlists">the Mellotron</a>.</p>
 
 <blockquote>

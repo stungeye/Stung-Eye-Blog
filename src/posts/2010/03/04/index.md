@@ -1,10 +1,8 @@
 ---
 date: 2010-03-04 22:48:22
-title: "You Know Who \"Gets it\"?"
+title: 'You Know Who "Gets it"?'
 permalink: /archive/by_date/2010/03/04/
 ---
-
-## You Know Who "Gets it"?
 
 <p>The <a href="http://hypem.com/">Hypemachine</a>, <a href="http://listen.grooveshark.com/">Groveshark</a> and <a href="http://soundcloud.com/">SoundCloud</a> understand that the future will be streamed.</p>
 

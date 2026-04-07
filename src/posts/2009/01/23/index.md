@@ -4,7 +4,7 @@ title: "Discovered on January 23, 2009"
 permalink: /archive/by_date/2009/01/23/
 ---
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/iG9CE55wbtY?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/iG9CE55wbtY?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="http://en.wikipedia.org/wiki/Ken_Robinson_%28British_author%29">Sir Ken Robinson</a>: Do schools kill creativity?</p>
 

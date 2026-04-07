@@ -4,8 +4,6 @@ title: Perils of Internet Voting
 permalink: /archive/by_date/2010/11/12/
 ---
 
-## Perils of Internet Voting
-
 <p>The following is an expanded version of <a href="http://www.winnipegfreepress.com/opinion/letters_to_the_editor/perils-of-internet-voting-letter-of-the-day-107428958.html">my letter to the editor</a> featured in the November 12th edition of the <a href="http://www.winnipegfreepress.com">Winnipeg Free Press</a>.</p>
 
 <p>In their editorial <a href="http://www.winnipegfreepress.com/opinion/editorials/modern-times-ancient-system-106943398.html">Modern times, ancient system</a>, the Winnipeg Free Press recommends internet voting as a means of increasing voter turnout. Senior city hall elections official <a href="http://www.winnipegfreepress.com/local/so-so-turnout-brings-mixed-result-105989088.html">Marc Lemoine has also expressed an interest in online voting</a>. As a computer engineer who teaches web programming courses I would urge them to reconsider.</p>

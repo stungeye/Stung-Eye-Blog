@@ -4,8 +4,6 @@ title: "SHE, HE, THEY"
 permalink: /archive/by_date/2014/03/28/
 ---
 
-## SHE, HE, THEY
-
 <p>THEY had just met.</p>
 
 <p>HE, wearing suit, tie; briefcase in hand.<br>

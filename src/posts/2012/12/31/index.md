@@ -4,8 +4,6 @@ title: Reading and Listening in 2012
 permalink: /archive/by_date/2012/12/31/
 ---
 
-## Reading and Listening in 2012
-
 <p>I read eighteen books this year, two more than <a href="http://stungeye.com/archive/by_date/2011/12">in 2011</a>. This was a comfortable number of reads. For the most part I bought the books second hand or they were given to me. Two of the books were read on my Kobo, the rest were deadtree.</p>
 
 <h3>Books Read in 2012.</h3>

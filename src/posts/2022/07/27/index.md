@@ -4,8 +4,6 @@ title: Sound + Code = Jam (Vol 1)
 permalink: /archive/by_date/2022/07/27/
 ---
 
-## Sound + Code = Jam (Vol 1)
-
 <p>This past Saturday (July 23, 2022) marked the first in a series of in-person events focused on experimenting with sound and code. That’s right, we spent the day <em>hacking music</em> at <a href="https://newmediamanitoba.com/">New Media Manitoba</a> in the beautiful <a href="http://www.mhs.mb.ca/docs/sites/dingwallbuilding.shtml">Dingwall Building</a>!</p>
 
 <p>We had 18 folks at our peak, which is an amazing turnout for a niche event. The day went by in a flash. Like a good party, I was left feeling energized and inspired, but also with a melancholic sense that there wasn’t nearly enough time to get to know / catch-up with all those in attendance.</p>
@@ -34,7 +32,7 @@ permalink: /archive/by_date/2022/07/27/
 
 ---
 
-<iframe width="400" height="225"  id="youtube_iframe" src="https://www.youtube.com/embed/YvsoWehBbec?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="DJ_Dave - Easy Live Coded for Oatly"></iframe>
+<iframe src="https://www.youtube.com/embed/YvsoWehBbec?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="DJ_Dave - Easy Live Coded for Oatly"></iframe>
 
 <p><a href="https://www.youtube.com/watch?v=YvsoWehBbec">DJ_Dave live-codes her track Easy</a> over the course of 13 minutes.</p>
 
@@ -44,7 +42,7 @@ permalink: /archive/by_date/2022/07/27/
 
 ---
 
-<iframe width="400" height="225"  id="youtube_iframe" src="https://www.youtube.com/embed/Tjf-NJNfOP4?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="DOMMUNE Tokyo - live coding performances - algorave tokyo x yorkshire"></iframe>
+<iframe src="https://www.youtube.com/embed/Tjf-NJNfOP4?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="DOMMUNE Tokyo - live coding performances - algorave tokyo x yorkshire"></iframe>
 
 <p><a href="https://www.youtube.com/watch?v=Tjf-NJNfOP4">Yorkshire vs. Tokyo Live Coding Showdown</a> - 2.5 hours of live coding from various performers.</p>
 

@@ -4,7 +4,7 @@ title: "Discovered on May 28, 2010"
 permalink: /archive/by_date/2010/05/28/
 ---
 
-<iframe src="https://www.youtube.com/embed/A3oIiH7BLmg?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/A3oIiH7BLmg?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="http://www.youtube.com/watch?v=A3oIiH7BLmg">The Secret Powers of Time</a> by <a href="http://en.wikipedia.org/wiki/Philip_Zimbardo">Philip Zimbardo</a>.</p>
 

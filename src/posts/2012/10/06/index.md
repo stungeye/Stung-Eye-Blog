@@ -4,8 +4,6 @@ title: Happiness in a Broken Reality
 permalink: /archive/by_date/2012/10/06/
 ---
 
-## Happiness in a Broken Reality
-
 <p>I picked up Jane McGonigal’s <a href="http://realityisbroken.org/">Reality is Broken</a> from the library last week. I’m about halfway through it. It’s a book about harnessing “the power of games to solve real-world problems and boost global happiness.” In 2010 when I watched Jane’s TED talk <a href="http://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world.html">Gaming Can Make a Better World</a> I was sceptical, but the arguments she makes in the book are compelling. I won’t get into those here. Instead, I want to highlight her thoughts on fuelling your own happiness:</p>
 
 <blockquote>

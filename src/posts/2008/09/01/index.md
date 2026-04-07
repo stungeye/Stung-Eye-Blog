@@ -4,8 +4,6 @@ title: Two New Wally Glutton Mixes
 permalink: /archive/by_date/2008/09/01/
 ---
 
-## Two New Wally Glutton Mixes
-
 <ul>
 <li>
 <a href="https://www.mixcloud.com/stungeye/youre-my-ghost-2008/">You’re My Ghost</a> -  Indie-tude from 2007-2008ish</li>

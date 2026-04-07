@@ -4,8 +4,6 @@ title: Reading and Listening in 2018
 permalink: /archive/by_date/2019/02/03/
 ---
 
-## Reading and Listening in 2018
-
 <p>I read 20 books last year. All twenty books were deadtree format. Fourteen of them were fiction. Six were non-fiction. I continued to read to the girls almost every night. Podcasts still loom large in terms of time invested.</p>
 
 <p>There’s a chart below showing books read by year since 2011.</p>

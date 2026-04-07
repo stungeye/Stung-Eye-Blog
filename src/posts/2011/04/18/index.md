@@ -14,7 +14,7 @@ permalink: /archive/by_date/2011/04/18/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/SNKn4PORGBI?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/SNKn4PORGBI?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="http://www.youtube.com/watch?v=SNKn4PORGBI">The Intaglio Printmaking Process</a></p>
 
@@ -22,6 +22,6 @@ permalink: /archive/by_date/2011/04/18/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/nY3ahfgj_wU?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/nY3ahfgj_wU?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="http://www.youtube.com/watch?v=nY3ahfgj_wU">How to Etch a Single-Sided Printed Circuit Board</a></p>

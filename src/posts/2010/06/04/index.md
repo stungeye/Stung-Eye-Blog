@@ -4,8 +4,6 @@ title: Canadian Copyright - Bill C32
 permalink: /archive/by_date/2010/06/04/
 ---
 
-## Canadian Copyright - Bill C32
-
 <p>On Thursday the Canadian government introduced the Copyright Modernization Act (or <a href="http://www2.parl.gc.ca/HousePublications/Publication.aspx?Docid=4580265&amp;file=4">Bill C-32</a>).</p>
 
 <p>The CBC does a good job of outlining <a href="http://www.cbc.ca/technology/story/2010/06/02/copyright-bill-clement-montreal.html">the proposed changes to Canadian copyright law</a>.</p>

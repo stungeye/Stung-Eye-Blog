@@ -4,7 +4,7 @@ title: "Discovered on September 25, 2013"
 permalink: /archive/by_date/2013/09/25/
 ---
 
-<iframe width="400" height="299" src="https://www.youtube.com/embed/lX6JcybgDFo?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/lX6JcybgDFo?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="https://www.youtube.com/watch?v=lX6JcybgDFo">Beautiful projection-mapping</a> on moving objects. The graphics you see were not added in post-processing but were projected onto the two moving screens in real-time. What you see in this video is exactly what you would have seen had you been present in the room during the filming.</p>
 

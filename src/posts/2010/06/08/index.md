@@ -20,7 +20,7 @@ permalink: /archive/by_date/2010/06/08/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/vlFsAq2qVO4?feature=oembed&enablejsapi=1&wmode=opaque" width="400" height="231" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/vlFsAq2qVO4?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
 
 <p>Object-Oriented Modeling, <a href="http://www.youtube.com/watch?v=vlFsAq2qVO4">when discussed separate from computer-programming</a>, becomes very philosophical.</p>
 

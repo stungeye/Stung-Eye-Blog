@@ -28,8 +28,6 @@ Fan Out
 
 ---
 
-## Capitalism and Schizophrenia
-
 <p>Capitalism and Schizophrenia is a two-volume theoretical work by the French authors <a href="http://en.wikipedia.org/wiki/Deleuze">Deleuze</a> and <a href="http://en.wikipedia.org/wiki/Guattari">Guattari</a>. Its two volumes, published eight years apart, are <a href="http://en.wikipedia.org/wiki/Anti-%C5%92dipus">Anti-Œdipus</a> and <a href="http://en.wikipedia.org/wiki/A_Thousand_Plateaus">A Thousand Plateaus</a>.</p>
 
 <p>Translators note from A Thousand Plateaus:</p>

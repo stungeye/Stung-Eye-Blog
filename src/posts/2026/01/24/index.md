@@ -6,10 +6,8 @@ permalink: /archive/by_date/2026/01/24/
 
 <p><b>Party music for party people. Twenty rock and pop tunes with some dancey music at the end.</b></p><p>Rock this playlist at your next kitchen party! All songs were released by Manitoba musicians in 2025. This is the third and final MB 2025 “mixtape” I put together over the holidays. These tunes were discovered by way of the curated selections of <a href="https://www.manitobamusic.com/songoftheweek">Manitoba Music</a>, our not-for-profit music industry association.</p><p>Half of these groups were completely new to me. It was a joy to discover them and poke around in their back catalogs. Both <a href="https://leithross.com/">Leith Ross</a> and <a href="https://bluebloods.bandcamp.com/music">Bluebloods</a> were also included on my <a href="https://www.stungeye.com/archive/by_date/2026/01/18">other</a> <a href="https://www.stungeye.com/archive/by_date/2026/01/10">two</a> 2025 mixtapes.</p><p>Without further delay, here are twenty of my favourite Manitoban party tunes from 2025. Enjoy! Listen here or in the embedded players below:</p><ul><li><a href="https://www.youtube.com/watch?v=yBfVvL6drhk&amp;list=PLHwGpEAs-3LO6k5oeqv5gAZIUONm8KYuK">Good Times 2025 Playlist on YouTube</a></li><li><a href="https://open.spotify.com/playlist/3G7cPowFY8TqxSrDr7LIvS?si=6f4575d11b40475d">Good Times 2025 Playlist on Spotify</a></li></ul>
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/videoseries?si=YYd4I_K99KTczmhL&amp;list=PLHwGpEAs-3LO6k5oeqv5gAZIUONm8KYuK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+<iframe src="https://www.youtube.com/embed/videoseries?si=YYd4I_K99KTczmhL&amp;list=PLHwGpEAs-3LO6k5oeqv5gAZIUONm8KYuK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
   </iframe>
-</div>
 
 <iframe class="spotify_audio_player" src="https://open.spotify.com/embed/playlist/3G7cPowFY8TqxSrDr7LIvS" frameborder="0" allowtransparency="true" width="100%" height="500"></iframe>
 

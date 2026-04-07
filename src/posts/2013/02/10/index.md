@@ -4,8 +4,6 @@ title: Self-Assessment While Learning to Code
 permalink: /archive/by_date/2013/02/10/
 ---
 
-## Self-Assessment While Learning to Code
-
 <p>I teach computer programming in the <a href="http://me.rrc.mb.ca/Catalogue/ProgramInfo.aspx?ProgCode=INTUF-CT&amp;DescriptionType=19&amp;RegionCode=WPG">Business Information Technology</a> program at Red River College. Following the lead of <a href="https://twitter.com/jody_gillis">Jody Gillis</a>, another BIT instructor, I have added self-assessments to my student assignments.</p>
 
 <h3>What is self-assessment?</h3>

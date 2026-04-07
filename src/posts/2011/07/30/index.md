@@ -10,8 +10,6 @@ permalink: /archive/by_date/2011/07/30/
 
 ---
 
-## Brains, Consciousness, and Thinking Machines
-
 <p>I am enjoying <a href="http://www.pgrim.org/">Patrick Grim</a>’s <a href="http://www.thegreatcourses.com/tgc/courses/course_detail.aspx?cid=4278">lectures on the Philosophy of Mind</a>.</p>
 
 <p>Grim starts the series with a historical look at the <a href="http://en.wikipedia.org/wiki/Philosophy_of_mind#The_mind-body_problem">mind-body problem</a>. He then introduces the major themes in the study of artificial intelligence, while exploring human intelligence, perception, behaviour and finally the <em>hard problem</em> of <a href="http://plato.stanford.edu/entries/consciousness/">consciousness</a>. Throughout this complex web of ideas Grim remains eloquent and engaging. Highly recommended.</p>

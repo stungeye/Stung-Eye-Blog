@@ -4,8 +4,6 @@ title: Reading and Listening in 2022
 permalink: /archive/by_date/2023/02/12/
 ---
 
-## Reading and Listening in 2022
-
 <p>I read 12 books last year. Two on my Kobo e-reader and the rest were deadtree format. Eight of them were fiction. Four were non-fiction. Nightly reading with the girls continues. My commute to work is back (after a nearly three year work-from-home pause) so I expect 2023 to see an increase in books.</p>
 
 <p>Two of the books read this year were written by close friends, which was a treat.</p>
