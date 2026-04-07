@@ -72,7 +72,7 @@ body > header h4 {
   font-weight: normal;
 }
 
-body > header .rss {
+body > header .links {
   position: absolute;
   top: 1.5rem;
   right: 2rem;
@@ -98,6 +98,34 @@ body > footer {
 
 body > footer .navigation {
   font-size: 0.9rem;
+  padding: 0.75rem 0;
+}
+
+.footer-about,
+.footer-archives {
+  margin-top: 1.5rem;
+}
+
+.footer-about {
+  font-size: 1.15rem;
+}
+
+.footer-archives {
+  font-size: 0.95rem;
+}
+
+.footer-about h3,
+.footer-archives h3 {
+  font-size: 2rem;
+  margin: 0 0 1rem;
+}
+
+.footer-about p {
+  margin: 0.4rem 0;
+}
+
+.footer-archives p {
+  margin: 0.3rem 0;
 }
 
 /* --- Typography --- */
@@ -431,9 +459,11 @@ iframe[src*="vimeo.com"] {
   }
 }
 
-@media only screen and (max-width: 400px) {
-  body > header .rss {
-    display: none;
+@media only screen and (max-width: 525px) {
+  body > header .links {
+    position: inherit;
+    top: 0;
+    right: 0;
   }
 }
 

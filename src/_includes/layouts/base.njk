@@ -12,7 +12,11 @@
   <header>
     <h1><a href="/">{{ config.siteTitle }}</a></h1>
     <h4>The eye of the bee holder.</h4>
-    <a href="/feed.xml" class="rss">RSS</a>
+    <div class="links">
+      <a href="#about">About</a> | 
+      <a href="/archive">Archive</a> | 
+      <a href="/feed.xml">RSS</a>
+    </div>
   </header>
 
   <main>
@@ -20,10 +24,41 @@
   </main>
 
   <footer>
-    <nav class="navigation">
-      <a href="/archive/">Archive</a>
-    </nav>
-    <p>&copy; {{ config.siteTitle }}</p>
+
+    <div class="footer-about" id="about">
+      <h3>About This Website</h3>
+      <p>Stung Eye is an exploration of perspective and wonder that began in 2002.</p>
+      <p>It is a blog written by Kyle Geske, an educator, coder, artist, and father from
+      Treaty 1 Territory in Winnipeg, Manitoba, Canada. He is also the executive
+      director and lead programmer of <a href="https://opendemocracymanitoba.ca/">Open Democracy Manitoba</a>,
+      a non-profit organization that builds tools to strengthen your local democratic
+      infrastructure. He is an open-source contributor, a champion of open government
+      ideas, and a purveyor of open data best-practices. As a coding and math instructor
+      at <a href="https://rrc.ca/">Red River College Polytechnic</a>, Kyle challenges and inspires
+      the next generation of Manitoban game dev innovators.</p>
+      <p><strong>Follow Kyle on
+        <a href="https://bsky.app/profile/stungeye.com">Bluesky</a>,
+        <a href="https://mastodon.gamedev.place/@stungeye">Mastodon</a>, and
+        <a href="https://www.linkedin.com/in/kyle-geske-stung-eye/">LinkedIn</a>.
+        </strong>
+      </p>
+      <p><em>Learn to Question. Question to Learn.</em></p>
+    </div>
+
+    <div class="footer-archives">
+      <h3>Archives</h3>
+      {% for yearEntry in collections.daysByYear %}
+        {% set year = yearEntry[0] %}
+        {% set days = yearEntry[1] %}
+        {% set months = days | uniqueMonths %}
+        <p>
+          <strong><a href="/archive/by_date/{{ year }}/">{{ year }}</a></strong> :
+          {% for m in months | sort %}
+            <a href="/archive/by_date/{{ year }}/{{ m }}/">{{ m | monthName }}</a>{% if not loop.last %} {% endif %}
+          {% endfor %}
+        </p>
+      {% endfor %}
+    </div>
   </footer>
 </body>
 </html>
