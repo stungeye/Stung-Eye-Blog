@@ -12,14 +12,14 @@ eleventyExcludeFromCollections: true
     <language>en</language>
     {%- set feedDays = collections.days | batch(config.daysPerFeed) | first %}
     {%- if feedDays | length %}
-    <lastBuildDate>{{ feedDays[0].date | isoDate }}</lastBuildDate>
+    <lastBuildDate>{{ feedDays[0].date | rssDate }}</lastBuildDate>
     {%- endif %}
     {%- for day in feedDays %}
     <item>
       <title>{{ day.data.title }}</title>
       <link>{{ config.siteUrl }}{{ day.url }}</link>
       <guid>{{ config.siteUrl }}{{ day.url }}</guid>
-      <pubDate>{{ day.date | isoDate }}</pubDate>
+      <pubDate>{{ day.date | rssDate }}</pubDate>
       <description>{{ day.content | striptags | truncate(500) }}</description>
     </item>
     {%- endfor %}

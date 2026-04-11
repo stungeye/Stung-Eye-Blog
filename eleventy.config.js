@@ -83,6 +83,10 @@ export default function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toISO();
   });
 
+  eleventyConfig.addFilter("rssDate", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toRFC2822();
+  });
+
   eleventyConfig.addFilter("yearFromDate", (dateObj) => {
     return dateObj.getFullYear().toString();
   });
