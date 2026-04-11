@@ -45,6 +45,7 @@
       <p><em>Learn to Question. Question to Learn.</em></p>
     </div>
 
+    {% if not hideArchiveLinks %}
     <div class="footer-archives">
       <h3>Archives</h3>
       {% for yearEntry in collections.daysByYear %}
@@ -59,6 +60,7 @@
         </p>
       {% endfor %}
     </div>
+    {% endif %}
   </footer>
 </body>
 </html>
