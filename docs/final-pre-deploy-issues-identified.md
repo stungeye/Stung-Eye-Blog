@@ -29,7 +29,7 @@ Review date: 2026-04-12
 
 ### 1. Medium: Multi-entry MT day heading dedup creates orphaned sections
 
-**What:** On multi-entry MT-only days, the page h1 title comes from the chronologically earliest entry (`mtEntries[0]`), but content renders newest-first (descending timestamp sort). The title dedup logic then strips the `##` heading from the earliest entry (since its title matches the page h1), but that entry's content appears at the *bottom* of the page—below other entries that have their own `##` headings.
+**What:** On multi-entry MT-only days, the page h1 title comes from the chronologically earliest entry (`mtEntries[0]`), but content renders newest-first (descending timestamp sort). The title dedup logic then strips the `##` heading from the earliest entry (since its title matches the page h1), but that entry's content appears at the _bottom_ of the page—below other entries that have their own `##` headings.
 
 **Result:** The earliest entry's content appears as a headless section at the bottom of the page. The reader sees:
 
@@ -53,7 +53,7 @@ Earliest entry's content...          ← NO heading, appears orphaned
 
 ### 2. Low: Archive nav link missing trailing slash
 
-**What:** In [src/_includes/layouts/base.njk](../src/_includes/layouts/base.njk) line 17, the archive link is `<a href="/archive">Archive</a>` instead of `<a href="/archive/">Archive</a>`.
+**What:** In [src/\_includes/layouts/base.njk](../src/_includes/layouts/base.njk) line 17, the archive link is `<a href="/archive">Archive</a>` instead of `<a href="/archive/">Archive</a>`.
 
 **Impact:** Nginx (or any standards-compliant server) will 301 redirect `/archive` → `/archive/` when `index.html` exists at that path. This causes an unnecessary redirect hop on every click. All other internal links use trailing slashes correctly (e.g. year.njk uses `/archive/`).
 
@@ -62,6 +62,7 @@ Earliest entry's content...          ← NO heading, appears orphaned
 **What:** 7 MT-era posts contain `<h1>` tags in their body HTML. Since the day.njk layout already renders a page-level `<h1>` from the frontmatter title, these pages have multiple `<h1>` elements.
 
 **Affected posts:**
+
 - [src/posts/2004/08/17/index.md](../src/posts/2004/08/17/index.md) — `<h1>Music:</h1>`, `<h1>Language:</h1>`, `<h1>Misc:</h1>`
 - [src/posts/2004/08/28/index.md](../src/posts/2004/08/28/index.md) — `<h1>Language</h1>`, `<h1>Writing</h1>`, `<h1>Misc</h1>`
 - [src/posts/2004/08/31/index.md](../src/posts/2004/08/31/index.md) — `<h1>Playlist</h1>` (from `entry_text_more`)
@@ -76,7 +77,7 @@ Earliest entry's content...          ← NO heading, appears orphaned
 
 **What:** One feed item ("Reading in 2023") contains `&amp;amp;` in its `<description>`. The source content has a literal `&amp;` HTML entity, and the Nunjucks `{{ ... }}` auto-escaping encodes it again when rendering the feed.
 
-**Location:** [_site/feed.xml](_site/feed.xml) line 85.
+**Location:** [\_site/feed.xml](_site/feed.xml) line 85.
 
 **Impact:** Most RSS readers handle double-encoded entities correctly. Strict readers may display a literal `&amp;` instead of `&`. Only 1 item affected out of 20. The issue could potentially affect more items as older content rotates into the feed (if it contains HTML entities that survive `striptags`).
 
@@ -88,12 +89,12 @@ Earliest entry's content...          ← NO heading, appears orphaned
 
 **All 4 affected day pages (verified against export data):**
 
-| Day page | Frontmatter timestamp | Should appear in | Actually grouped into |
-|---|---|---|---|
-| 2005-02-01 | `05:43:03 UTC` → Jan 31 CST | February 2005 | January 2005 |
-| 2005-04-01 | `01:04:26 UTC` → Mar 31 CDT | April 2005 | March 2005 |
-| 2005-10-01 | `02:20:18 UTC` → Sep 30 CDT | October 2005 | September 2005 ← confirmed |
-| 2009-02-01 | `03:20:13 UTC` → Jan 31 CDT | February 2009 | January 2009 |
+| Day page   | Frontmatter timestamp       | Should appear in | Actually grouped into      |
+| ---------- | --------------------------- | ---------------- | -------------------------- |
+| 2005-02-01 | `05:43:03 UTC` → Jan 31 CST | February 2005    | January 2005               |
+| 2005-04-01 | `01:04:26 UTC` → Mar 31 CDT | April 2005       | March 2005                 |
+| 2005-10-01 | `02:20:18 UTC` → Sep 30 CDT | October 2005     | September 2005 ← confirmed |
+| 2009-02-01 | `03:20:13 UTC` → Jan 31 CDT | February 2009    | January 2009               |
 
 **Root cause:** `getFullYear()`/`getMonth()` are local-timezone methods. The display filters (`readableDate`, `isoDate`, `rssDate`) all use Luxon with `zone: "utc"`, so they are unaffected. Only the collection grouping logic is broken.
 
@@ -108,16 +109,20 @@ Earliest entry's content...          ← NO heading, appears orphaned
 **Two viable conventions for new posts:**
 
 **Option A — Explicit offset (recommended for accurate RSS times):**
+
 ```yaml
 date: 2026-04-12T14:30:00-05:00  # CDT (mid-March to early November)
 date: 2027-01-08T14:30:00-06:00  # CST (early November to mid-March)
 ```
+
 js-yaml understands YAML 1.1 ISO 8601 timestamps with offsets and converts to a UTC Date correctly. Display, archive grouping (after fix), and RSS pubDates all work correctly. RSS readers in Winnipeg show the right local time. The friction is remembering the current offset when writing a post.
 
 **Option B — Date-only (simplest, avoids time-of-day issues entirely):**
+
 ```yaml
 date: 2026-04-12
 ```
+
 js-yaml parses as `2026-04-12T00:00:00Z` (UTC midnight). Archive grouping is always correct (midnight UTC is safe for `getUTCMonth()`). RSS pubDate shows `00:00:00 +0000`, which RSS readers display as the previous evening in Winnipeg — a minor cosmetic issue.
 
 **Pages CMS note:** If Pages CMS is integrated in the future, its `datetime` field type can inject the Winnipeg local time with the correct offset automatically from the browser timezone, eliminating manual offset selection entirely. Verify that Pages CMS writes YAML 1.1 ISO 8601 format with offset (not a plain string) so js-yaml parses it as a Date object rather than a string, which would break the date filters.
@@ -126,13 +131,13 @@ js-yaml parses as `2026-04-12T00:00:00Z` (UTC midnight). Archive grouping is alw
 
 ## Summary
 
-| # | Severity | Category | Description |
-|---|----------|----------|-------------|
-| 1 | Medium | Migration logic | Multi-entry MT heading dedup orphans 22 day pages |
-| 2 | Low | Template | Archive nav link missing trailing slash |
-| 3 | Low | Content | 7 MT posts have `<h1>` in body (multiple h1 per page) |
-| 4 | Low | Feed | One double-encoded `&amp;amp;` entity in RSS |
-| 5 | High | Build config | `getMonth()`/`getFullYear()` misgroups 4 pages into wrong month archives |
-| 6 | Medium | Authoring | No documented timezone convention for new post frontmatter dates |
+| #   | Severity | Category        | Description                                                              |
+| --- | -------- | --------------- | ------------------------------------------------------------------------ |
+| 1   | Medium   | Migration logic | Multi-entry MT heading dedup orphans 22 day pages                        |
+| 2   | Low      | Template        | Archive nav link missing trailing slash                                  |
+| 3   | Low      | Content         | 7 MT posts have `<h1>` in body (multiple h1 per page)                    |
+| 4   | Low      | Feed            | One double-encoded `&amp;amp;` entity in RSS                             |
+| 5   | High     | Build config    | `getMonth()`/`getFullYear()` misgroups 4 pages into wrong month archives |
+| 6   | Medium   | Authoring       | No documented timezone convention for new post frontmatter dates         |
 
 No data loss or incorrectly migrated entries were found. All 1,252 items across 970 day pages are present and accounted for.
