@@ -35,6 +35,10 @@ const mediaReport = {
   missingLocalFiles: [],
   failedDownloads: [],
   stungeyeRemoteRefs: [],
+  stungeyeMediaRefs: [],
+  stungeyePageRefs: [],
+  displayFnUsage: [],
+  inlineJsUsage: [],
 };
 
 // ---------------------------------------------------------------------------
@@ -144,6 +148,71 @@ function padArchiveUrls(text) {
     (_, y, m, d) =>
       `/archive/by_date/${y}/${m.padStart(2, "0")}/${d.padStart(2, "0")}/`,
   );
+}
+
+// Media file extensions for classifying stungeye.com URLs
+const MEDIA_EXTENSIONS = new Set([
+  ".jpg", ".jpeg", ".png", ".gif", ".bmp", ".svg", ".webp",
+  ".swf", ".fla",
+  ".mp3", ".wav", ".ogg",
+  ".avi", ".mov", ".mp4",
+  ".pde",
+]);
+
+/**
+ * Scan rendered day page content for self-hosted references and legacy JS.
+ * Called once per day page on the final assembled body.
+ */
+function scanContent(dateStr, body) {
+  // --- stungeye.com URLs ---
+  const stungeyeUrlRe = /https?:\/\/(?:www\.)?stungeye\.com\/[^\s"'<>)]+/gi;
+  const seen = new Set();
+  for (const match of body.matchAll(stungeyeUrlRe)) {
+    const url = match[0].replace(/[.,;]+$/, ""); // trim trailing punctuation
+    if (seen.has(url)) continue;
+    seen.add(url);
+
+    // Skip archive/by_date links — those are internal post links, not legacy media
+    if (/\/archive\/by_date\//.test(url)) continue;
+    // Skip legacy /archives/*.php links — handled by nginx redirects
+    if (/\/archives\/.*\.php/.test(url)) continue;
+
+    const pathname = new URL(url).pathname;
+    const ext = extname(pathname).toLowerCase();
+
+    if (MEDIA_EXTENSIONS.has(ext)) {
+      mediaReport.stungeyeMediaRefs.push({ date: dateStr, url, type: ext });
+    } else {
+      mediaReport.stungeyePageRefs.push({ date: dateStr, url });
+    }
+  }
+
+  // --- display_*() function calls ---
+  const displayRe = /display_(image_mult|image|flash|processing)\(/g;
+  const displayFns = new Set();
+  for (const match of body.matchAll(displayRe)) {
+    displayFns.add(match[1]);
+  }
+  if (displayFns.size > 0) {
+    mediaReport.displayFnUsage.push({
+      date: dateStr,
+      functions: [...displayFns].sort(),
+    });
+  }
+
+  // --- Other inline JS (onclick/onmouseover not part of display_*) ---
+  if (/\bon\w+\s*=/.test(body) && !displayRe.test(body)) {
+    // Has inline handlers but no display_* — flag separately
+    const handlers = [...body.matchAll(/\b(on\w+)\s*=/g)]
+      .map((m) => m[1])
+      .filter((h) => h !== "onversation"); // false positive from "conversation"
+    if (handlers.length > 0) {
+      mediaReport.inlineJsUsage.push({
+        date: dateStr,
+        handlers: [...new Set(handlers)].sort(),
+      });
+    }
+  }
 }
 
 // ---------------------------------------------------------------------------
@@ -692,6 +761,9 @@ async function generateDayPage(dateStr, ciDay, mtEntries) {
   // Zero-pad any unpadded /archive/by_date/ URLs in post content
   const paddedBody = padArchiveUrls(body);
 
+  // Scan for self-hosted references and legacy JS
+  scanContent(dateStr, paddedBody);
+
   return frontmatter + "\n\n" + paddedBody + "\n";
 }
 
@@ -866,9 +938,9 @@ function generateMediaReport() {
   }
   lines.push("");
 
-  // stungeye.com remote references
+  // stungeye.com remote image references (from processHtmlImages CI scanning)
   lines.push(
-    `## stungeye.com Remote Image References (${mediaReport.stungeyeRemoteRefs.length})`,
+    `## stungeye.com Remote Image References — CI Items (${mediaReport.stungeyeRemoteRefs.length})`,
   );
   lines.push("");
   if (mediaReport.stungeyeRemoteRefs.length > 0) {
@@ -878,6 +950,93 @@ function generateMediaReport() {
     lines.push("");
     for (const item of mediaReport.stungeyeRemoteRefs) {
       lines.push(`- ${item.date} (item ${item.itemId}): ${item.url}`);
+    }
+  } else {
+    lines.push("None.");
+  }
+  lines.push("");
+
+  // stungeye.com media references (full-content scan)
+  const mediaByType = {};
+  for (const ref of mediaReport.stungeyeMediaRefs) {
+    if (!mediaByType[ref.type]) mediaByType[ref.type] = [];
+    mediaByType[ref.type].push(ref);
+  }
+  lines.push(
+    `## stungeye.com Self-Hosted Media References (${mediaReport.stungeyeMediaRefs.length} across ${new Set(mediaReport.stungeyeMediaRefs.map((r) => r.date)).size} days)`,
+  );
+  lines.push("");
+  if (mediaReport.stungeyeMediaRefs.length > 0) {
+    lines.push(
+      "These URLs reference media files on stungeye.com that are not included in the static site output.",
+      "If deployment replaces the old site root, these will 404.",
+    );
+    lines.push("");
+    for (const [ext, refs] of Object.entries(mediaByType).sort()) {
+      lines.push(`### ${ext} files (${refs.length})`);
+      lines.push("");
+      for (const ref of refs) {
+        lines.push(`- ${ref.date}: ${ref.url}`);
+      }
+      lines.push("");
+    }
+  } else {
+    lines.push("None.");
+  }
+  lines.push("");
+
+  // stungeye.com page/directory references
+  lines.push(
+    `## stungeye.com Self-Hosted Page/Directory Links (${mediaReport.stungeyePageRefs.length} across ${new Set(mediaReport.stungeyePageRefs.map((r) => r.date)).size} days)`,
+  );
+  lines.push("");
+  if (mediaReport.stungeyePageRefs.length > 0) {
+    lines.push(
+      "These link to HTML pages, directories, or other non-media resources on stungeye.com.",
+      "Includes pages that may auto-load index.html.",
+    );
+    lines.push("");
+    for (const ref of mediaReport.stungeyePageRefs) {
+      lines.push(`- ${ref.date}: ${ref.url}`);
+    }
+  } else {
+    lines.push("None.");
+  }
+  lines.push("");
+
+  // display_*() function usage
+  lines.push(
+    `## Legacy display_*() JavaScript Usage (${mediaReport.displayFnUsage.length} days)`,
+  );
+  lines.push("");
+  if (mediaReport.displayFnUsage.length > 0) {
+    lines.push(
+      "These posts depend on `display_image()`, `display_image_mult()`, `display_flash()`, or",
+      "`display_processing()` JavaScript functions that are not shipped in the static site.",
+      "Clicking these links currently does nothing.",
+    );
+    lines.push("");
+    for (const item of mediaReport.displayFnUsage) {
+      const fns = item.functions.map((f) => `display_${f}()`).join(", ");
+      lines.push(`- ${item.date}: ${fns}`);
+    }
+  } else {
+    lines.push("None.");
+  }
+  lines.push("");
+
+  // Other inline JS
+  lines.push(
+    `## Other Inline JavaScript (${mediaReport.inlineJsUsage.length} days)`,
+  );
+  lines.push("");
+  if (mediaReport.inlineJsUsage.length > 0) {
+    lines.push(
+      "Posts with inline event handlers (onclick, onmouseover, etc.) not related to display_*() functions.",
+    );
+    lines.push("");
+    for (const item of mediaReport.inlineJsUsage) {
+      lines.push(`- ${item.date}: ${item.handlers.join(", ")}`);
     }
   } else {
     lines.push("None.");
@@ -1017,6 +1176,18 @@ async function main() {
   console.log(`  Failed downloads: ${mediaReport.failedDownloads.length}`);
   console.log(
     `  stungeye.com remote refs: ${mediaReport.stungeyeRemoteRefs.length}`,
+  );
+  console.log(
+    `  stungeye.com media refs: ${mediaReport.stungeyeMediaRefs.length}`,
+  );
+  console.log(
+    `  stungeye.com page refs: ${mediaReport.stungeyePageRefs.length}`,
+  );
+  console.log(
+    `  display_*() usage: ${mediaReport.displayFnUsage.length} days`,
+  );
+  console.log(
+    `  Other inline JS: ${mediaReport.inlineJsUsage.length} days`,
   );
   console.log("");
 

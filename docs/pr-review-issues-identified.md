@@ -42,50 +42,26 @@ Impact:
 
 This is a real regression in the MT archive experience, especially for the 2003-2004 art/programming posts where the linked media is the main content.
 
-### 3. High: The build artifact is not cleaned, so stale `/pages/*` routes remain in `_site`
+### 3. ~~High~~ Fixed: The build artifact is not cleaned, so stale `/pages/*` routes remain in `_site`
 
-The build script in [package.json](../package.json) line 12 is just `npx @11ty/eleventy`. It does not remove the existing output directory first.
+**Resolution:** The `build` script in [package.json](../package.json) now runs `rm -rf _site` before invoking Eleventy, ensuring a clean output directory on every build. Stale files can no longer accumulate.
 
-After running a fresh build, `_site` still contains a stale `_site/pages/**` tree alongside the current `_site/page/**` pagination tree, even though current source templates only generate `/page/{{ n }}/` routes. Examples that still exist in the artifact:
+### 4. ~~High~~ Fixed: Several internal archive links 404 because old unpadded day URLs were preserved verbatim
 
-- [\_site/pages/index.html](../_site/pages/index.html)
-- [\_site/pages/1/index.html](../_site/pages/1/index.html)
-- [\_site/pages/96/index.html](../_site/pages/96/index.html)
+**Resolution:** Added `padArchiveUrls()` in [tools/migrate.js](../tools/migrate.js) which zero-pads single-digit month/day segments and ensures a trailing slash on all `/archive/by_date/` URLs in post content. After re-running the migration, all 9 previously broken archive targets are now correct canonical URLs. No nginx workaround is needed.
 
-The current `_site` contains 1676 files. The most recent build reported 1279 written files plus 300 copied files, leaving 97 residual files in the output directory.
+### 5. ~~Medium~~ Fixed: `feed.xml` uses ISO 8601 dates instead of RSS date format
 
-If deployment syncs `_site` as-is, the server will publish outdated duplicate content under `/pages/`, which creates SEO noise and makes link validation results misleading.
+**Resolution:** Added an `rssDate` filter in [eleventy.config.js](../eleventy.config.js) using Luxon's `toRFC2822()`. Updated [src/pages/feed.njk](../src/pages/feed.njk) to use `rssDate` for `<lastBuildDate>` and `<pubDate>`. Dates now render in RFC 822 format (e.g. `Sun, 22 Feb 2026 09:39:24 +0000`).
 
-### 4. High: Several internal archive links 404 because old unpadded day URLs were preserved verbatim
+### 6. Additional: Responsive iframe sizing
 
-The new Eleventy site only emits zero-padded day URLs such as `/archive/by_date/2019/02/03/`, but some post bodies still link to unpadded variants from the legacy app.
+During the fix for issues 3–5, iframe `width`, `height`, and `frameborder` attributes were stripped from all iframes by `normalizeHtml()` in [tools/migrate.js](../tools/migrate.js) (including video embeds via `renderVideoItem()`). Responsive sizing is now handled entirely in CSS in [assets/css/main.css](../assets/css/main.css):
 
-Representative source examples:
-
-- [src/posts/2026/02/22/index.md](../src/posts/2026/02/22/index.md) line 15
-- [src/posts/2011/01/03/index.md](../src/posts/2011/01/03/index.md) lines 18, 30, and 72
-- [src/posts/2009/03/17/index.md](../src/posts/2009/03/17/index.md) line 11
-
-A built-site audit found 9 unique missing archive targets, repeated 64 times in rendered HTML across `http`, `https`, and relative-link variants:
-
-- `/archive/by_date/2009/03/7`
-- `/archive/by_date/2010/03/1`
-- `/archive/by_date/2010/03/2`
-- `/archive/by_date/2010/06/4`
-- `/archive/by_date/2012/01/4`
-- `/archive/by_date/2012/10/6`
-- `/archive/by_date/2013/03/9`
-- `/archive/by_date/2019/02/3`
-- `/archive/by_date/2025/02/1`
-
-The existing [nginx/redirects.conf](../nginx/redirects.conf) only covers legacy MT `/archives/YYYY/MM/*.php` URLs, not malformed `/archive/by_date/...` links, so these currently remain broken.
-
-### 5. Medium: `feed.xml` uses ISO 8601 dates instead of RSS date format
-
-The RSS template in [src/pages/feed.njk](../src/pages/feed.njk) uses `isoDate` for both `<lastBuildDate>` and `<pubDate>` on lines 15 and 22.
-
-The generated feed therefore emits values like:
-
-- `2026-02-22T09:39:24.000Z`
-
-That is valid XML, but it is not the normal RSS 2.0 date format. Some validators and feed readers are tolerant, but others expect RFC 822 style values and may sort or parse the feed incorrectly.
+- Base `iframe` rule: `width: 100%; aspect-ratio: 16/9; border: none` (sane default for unmatched providers)
+- YouTube, Vimeo, NFB, Kickstarter: 16:9
+- Spotify: 5:4
+- SoundCloud: 3:1
+- Mixcloud: 3.5:1
+- Google Maps: 2:1
+- SlideShare, OpenProcessing: 4:3

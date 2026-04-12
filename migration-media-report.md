@@ -1,0 +1,781 @@
+# Migration Media Report
+
+Generated: 2026-04-12T18:18:11.446Z
+
+## Local Images Copied (295)
+
+- 2008-07-23: 02MycoI69bs2l3r8WFaqFQ9y_500.jpg
+- 2008-07-23: 02MycoI69bs13495NoWr7wWt_500.jpg
+- 2008-07-23: 02MycoI69brxa7htF7PL4LCH_500.jpg
+- 2008-07-24: 02MycoI69btem3o4QBCz1A5M_500.jpg
+- 2008-07-24: 02MycoI69bt9zvoqwEjD2uCf_500.jpg
+- 2008-07-24: 02MycoI69bt93rztA7FVNrXe_500.jpg
+- 2008-07-24: 02MycoI69bt8xtxxfQAfgxdP_500.jpg
+- 2008-07-24: 02MycoI69bt8ieu9FtBJ2uLs_500.jpg
+- 2008-07-29: 02MycoI69c0vmesn0VsrtPsM_500.jpg
+- 2008-07-29: 02MycoI69c0igqnjnAFmyoZG_500.jpg
+- 2008-08-02: 02MycoI69c64b259lPl7UHFG_500.jpg
+- 2008-08-06: 02MycoI69cbui8v5O3NvHCqS_r2_500.png
+- 2008-08-06: 02MycoI69cbu8x9yCuKdacRT_500.jpg
+- 2008-08-06: 02MycoI69cbrlp2aKUvOUNop_500.gif
+- 2008-08-10: 02MycoI69choc045j9Ai9z4P_500.gif
+- 2008-08-10: 02MycoI69chm5qe7Cr17mv4f_500.jpg
+- 2008-08-11: 02MycoI69ciunrdc8Lv4XIWR_500.jpg
+- 2008-08-12: 02MycoI69ckf2ag6GKFXIkeO_500.jpg
+- 2008-08-13: 02MycoI69cm0qhkanTlYBalZ_500.jpg
+- 2008-08-15: 02MycoI69con3n9rQoRgZuy1_500.jpg
+- 2008-08-16: 02MycoI69cqhle24jRUpO3HJ_500.png
+- 2008-08-18: 02MycoI69ct41f7qyw5h1y5Z_500.jpg
+- 2008-08-18: 02MycoI69ct41b6h8MGzayhQ_500.jpg
+- 2008-08-18: 02MycoI69csx4gpzF7tRBvO0_500.jpg
+- 2008-08-23: 02MycoI69d03cevpbYxnChKi_500.jpg
+- 2008-08-26: 02MycoI69d48jj8gzse6vVF5_500.jpg
+- 2008-08-27: 02MycoI69d5p2ukbokFKvDDW_500.jpg
+- 2008-08-27: 02MycoI69d5rbb8xayCmPcx1_500.jpg
+- 2008-08-29: 02MycoI69d90wtciL4G7CA56_500.jpg
+- 2008-08-30: 02MycoI69daijdsj7vk46Yua_500.jpg
+- 2008-08-31: 02MycoI69dbmnbvfm5X1ccLS_500.jpg
+- 2008-09-02: 02MycoI69dewlmv7bK9ZXoPR_500.jpg
+- 2008-09-05: 02MycoI69dj2em2hmsYIIsu5_500.jpg
+- 2008-09-05: 02MycoI69dj27iqr5pSLakWc_500.jpg
+- 2008-09-07: 02MycoI69dls0qixt8CYLz7L_500.jpg
+- 2008-09-07: 02MycoI69dlrxbm2lxVPzx61_500.jpg
+- 2008-09-09: 02MycoI69do68f5zQnAWFOsu_500.jpg
+- 2008-09-12: 02MycoI69dsj27f5kn2T58dB_500.gif
+- 2008-09-14: 02MycoI69dvln8b80Clk1vH1o1_500.jpg
+- 2008-09-19: 02MycoI69e32qf06Yp14Tx8yo1_500.jpg
+- 2008-09-19: 02MycoI69e1wuyxc2QAnSfnlo1_500.jpg
+- 2008-09-29: 02MycoI69ehcvpux9YMPStaqo1_500.jpg
+- 2008-10-01: 02MycoI69ejp63ct0xH1jMsmo1_500.jpg
+- 2008-10-02: 02MycoI69elbihr3REVnw2jWo1_500.jpg
+- 2008-10-04: 02MycoI69eodp3f9YVth4rtQo1_500.jpg
+- 2008-10-04: 02MycoI69eo33e4mwJGihbvKo1_500.jpg
+- 2008-10-09: 02MycoI69eva1plzusbCvhFFo1_500.jpg
+- 2008-10-13: 02MycoI69f0s27749B9sIeTVo1_500.png
+- 2008-10-17: 02MycoI69f6leqim9n3XArVNo1_500.png
+- 2008-10-18: 02MycoI69f85ee5nkNUyS3r2o1_500.jpg
+- 2008-10-18: 02MycoI69f827u70T1nhYfIIo1_500.jpg
+- 2008-10-19: 02MycoI69fa41b6tDoSU8RCLo1_500.jpg
+- 2008-10-21: 02MycoI69fcvjtx8brcFQZRBo1_500.jpg
+- 2008-10-23: 02MycoI69ffnv07hzLxwNA5so1_500.jpg
+- 2008-10-23: 02MycoI69ffn5hjfjnhQm0G9o1_500.jpg
+- 2008-10-26: 02MycoI69fjb6dzyvlGEsTzoo1_500.jpg
+- 2008-10-30: 02MycoI69fof1r9dJDM0tN14o1_500.jpg
+- 2008-11-02: 02MycoI69fu6gdk4GKx6xmMuo1_500.jpg
+- 2008-11-04: 02MycoI69fwcnftrLf9v7IpFo1_500.png
+- 2008-11-18: 02MycoI69ggbdv806Yw2xjd6o1_500.jpg
+- 2008-11-20: WbibpnuKPgieos5wrqTg1iyro1_500.jpg
+- 2008-11-25: 02MycoI69gqmj8xkjtiktjgOo1_500.png
+- 2008-11-26: DJH3cv6Qtgposmlu8kZpWQqHo1_500.jpg
+- 2008-11-27: 5ylglO2OXgt9q4nouHa5XJu8o1_500.jpg
+- 2008-11-30: 02MycoI69gxko2g7aVhYKFKYo1_500.jpg
+- 2008-12-02: 02MycoI69h0kkd7hVww4i2yho1_500.jpg
+- 2008-12-04: 02MycoI69h3q0ughuiFSJ0Ljo1_500.png
+- 2008-12-05: 02MycoI69h5bo6ztEBjCBzFro1_500.jpg
+- 2008-12-07: 02MycoI69h829ca2SiGeMLGDo1_500.jpg
+- 2008-12-11: 02MycoI69hdo41i4Lf15125No1_500.jpg
+- 2008-12-12: 02MycoI69hesl2a69JRk4o3Ro1_500.jpg
+- 2008-12-18: KwJmGA1oShllqwje54tdoS18o1_500.jpg
+- 2008-12-20: 2WiKtGF9Shh67cluqF0geP9fo1_500.jpg
+- 2008-12-29: 02MycoI69i3akvtw4p10AsdLo1_500.jpg
+- 2008-12-31: 02MycoI69i62kvdbsa8h8GMmo1_400.jpg
+- 2009-01-03: UU8sftjMci8nvp2rREWtJbWIo1_500.jpg
+- 2009-01-08: 02MycoI69ih9v5hcapr32z8ro1_500.jpg
+- 2009-01-29: 02MycoI69jajast9W5mOf2CGo1_500.jpg
+- 2009-01-31: eqJANagwGj6zku7dRGsOV8Vgo1_400.jpg
+- 2009-02-07: 02MycoI69jo764icTRif496Eo1_500.jpg
+- 2009-02-10: 02MycoI69jsaa5h3bFNF5SWyo1_500.jpg
+- 2009-02-19: 02MycoI69k5scxfx2mxSebvvo1_500.jpg
+- 2009-02-20: 02MycoI69k6sf5kajJyxMW7io1_500.jpg
+- 2009-02-26: 02MycoI69kfqzrrzCeoN1sIMo1_500.jpg
+- 2009-02-26: 02MycoI69kelbf8tW0oXwDLEo1_500.jpg
+- 2009-03-05: 02MycoI69kppznngaaTcG2y2o1_500.png
+- 2009-03-05: 5ylglO2OXkpiwi4sANrJlf7go1_500.jpg
+- 2009-03-05: 2m8BXUfrikpiwv5bY7pgCTwbo1_500.jpg
+- 2009-03-12: 02MycoI69kzr3hf3RabLSkMpo1_500.jpg
+- 2009-03-16: 02MycoI69l4ykzqcsxFr9V8Co1_500.png
+- 2009-03-17: 02MycoI69l688zaexINwVLivo1_500.gif
+- 2009-04-13: 02MycoI69m9hisppI1lLbS1oo1_500.gif
+- 2009-04-20: 02MycoI69miwga5oTQ3IpFnoo1_500.jpg
+- 2009-04-30: 2m8BXUfrimxi1uj2wVkXcjtvo1_500.gif
+- 2009-05-09: 02MycoI69na3mmx56G13F7UVo1_500.jpg
+- 2009-05-16: 02MycoI69nk5qro1DueOPu1no1_500.jpg
+- 2009-05-21: 02MycoI69nr7l11t4vHmuwAEo1_500.jpg
+- 2009-05-28: DybEEF9Cvnzsznf0itWFdog3o1_500.jpg
+- 2009-06-15: 02MycoI69or5o1gzVmg7JVfHo1_500.jpg
+- 2009-06-15: 02MycoI69oqvpds6D4EZKQ8jo1_500.jpg
+- 2009-06-22: jHt93UwO3p0z2gsmBsAm1n8go1_500.jpg
+- 2009-06-23: 02MycoI69p2cwhuqtm1FSnRfo1_500.jpg
+- 2009-07-05: 02MycoI69pk63u7jvTqqmBy6o1_500.jpg
+- 2009-07-15: 02MycoI69pxvh7ujz13fNreZo1_500.jpg
+- 2009-07-18: 02MycoI69pzzm8dpWJyzyo6Bo1_500.jpg
+- 2009-07-18: 02MycoI69q2cacy7TdsXgidAo1_500.jpg
+- 2009-08-07: 02MycoI69qus28t88k4hX662o1_500.png
+- 2009-08-07: 02MycoI69qus1uck91LWCexno1_500.png
+- 2009-09-01: tumblr_kpb6p185qF1qzoknmo1_500.jpg
+- 2009-09-02: tumblr_kpd97pA8lZ1qzoknmo1_500.png
+- 2009-09-07: tumblr_kpm1thLrBl1qzoknmo1_500.jpg
+- 2009-09-15: tumblr_kq1g2u2t2E1qzoknmo1_500.jpg
+- 2009-10-01: tumblr_kquien58zl1qzoknmo1_500.gif
+- 2009-11-01: tumblr_ksg687JcaK1qzoknmo1_500.jpg
+- 2009-11-04: tumblr_ksm96pkX6q1qzoknmo1_500.jpg
+- 2009-11-15: tumblr_kt5u9q4b2o1qzn6jzo1_400.jpg
+- 2009-11-26: tumblr_ktqwyjAluE1qzoknmo1_500.jpg
+- 2009-11-28: tumblr_ktuoazHzqE1qzoknmo1_500.jpg
+- 2009-12-27: tumblr_kvaxxw5NXp1qz6f9yo1_500.jpg
+- 2009-12-27: tumblr_kvbszoucqq1qzoknmo1_500.png
+- 2009-12-28: tumblr_kvdi1wYoOf1qzoknmo1_400.png
+- 2010-01-03: tumblr_kvorsjnYnx1qzoknmo1_500.jpg
+- 2010-01-03: tumblr_kvorq8pMtx1qzoknmo1_500.jpg
+- 2010-02-04: tumblr_kxcetf2WDr1qzoknmo1_400.gif
+- 2010-02-07: tumblr_kxhtbnRY331qzoknmo1_500.png
+- 2010-02-11: tumblr_kxpg57g8tF1qzoknmo1_500.png
+- 2010-02-17: tumblr_kxzup85RBR1qzoknmo1_500.jpg
+- 2010-02-20: tumblr_ky5kaftHl11qzoknmo1_500.jpg
+- 2010-03-11: tumblr_kz5bgsPTeT1qzoknmo1_500.jpg
+- 2010-04-08: tumblr_l0jlf3s05t1qzoknmo1_500.jpg
+- 2010-04-17: tumblr_l11kc7wJkI1qzoknmo1_500.png
+- 2010-04-21: tumblr_l196j3YFJ91qzoknmo1_500.jpg
+- 2010-05-03: tumblr_l1v4xpvqVN1qzoknmo1_500.jpg
+- 2010-05-22: tumblr_l2u1wjSVRi1qzoknmo1_500.jpg
+- 2010-06-08: tumblr_l3pgxhhFpj1qz6f9yo1_500.png
+- 2010-06-08: tumblr_l3piq4gpZm1qzoknmo1_500.jpg
+- 2010-06-17: tumblr_l46xy5QU281qzoknmo1_500.png
+- 2010-06-20: tumblr_l4bt7wtUEi1qzoknmo1_500.jpg
+- 2010-06-23: tumblr_l4hbj5Q2an1qzoknmo1_500.png
+- 2010-07-12: tumblr_l5gmrmZXQa1qzoknmo1_500.jpg
+- 2010-07-15: tumblr_l5lt8hD0Kf1qzoknmo1_500.png
+- 2010-07-16: tumblr_l5nlaekn7Q1qzoknmo1_500.jpg
+- 2010-07-20: tumblr_l5uxfowZxV1qzoknmo1_500.jpg
+- 2010-07-22: tumblr_l5ymzdW9tA1qzoknmo1_500.jpg
+- 2010-07-25: tumblr_l64gxcP6IZ1qzoknmo1_500.jpg
+- 2010-07-29: tumblr_l6bt4baqTJ1qzoknmo1_500.jpg
+- 2010-08-20: tumblr_l7fp9zFDak1qzsrwzo1_400.jpg
+- 2010-09-19: tumblr_l90apm3Xym1qz6f9yo1_500.jpg
+- 2010-09-24: tumblr_l99qp75Dhe1qzoknmo1_500.jpg
+- 2010-10-23: tumblr_larc5t5y441qz6f9yo1_500.jpg
+- 2010-11-07: tumblr_lbij16AhGn1qe0eclo1_r3_500.gif
+- 2010-11-11: tumblr_lbqzt5MhQl1qzoknmo1_500.jpg
+- 2010-11-18: tumblr_lc2gtxBdkt1qzoknmo1_500.jpg
+- 2010-11-22: tumblr_lcauv98x4K1qzoknmo1_500.jpg
+- 2010-11-27: tumblr_lcjyp9Rf851qzoknmo1_400.jpg
+- 2010-12-07: tumblr_ld2t1gKmHt1qzoknmo1_500.png
+- 2010-12-07: tumblr_ld2snoVO701qzoknmo1_500.png
+- 2010-12-13: tumblr_ldcs6pGMGy1qzoknmo1_500.jpg
+- 2010-12-16: tumblr_ldigw1DZzU1qzoknmo1_500.jpg
+- 2010-12-17: tumblr_ldlgfr1y7i1qzoknmo1_500.jpg
+- 2010-12-17: tumblr_ldi036V9Gh1qbvpg9o1_500.jpg
+- 2010-12-28: tumblr_le5kabU6X21qzoknmo1_500.png
+- 2011-01-19: tumblr_lfa5bbGTnU1qzoknmo1_500.jpg
+- 2011-01-27: tumblr_lfpdi8AFeJ1qa70yqo1_500.jpg
+- 2011-02-02: tumblr_lg0f52snwM1qzoknmo1_500.jpg
+- 2011-02-03: tumblr_lg2hd44W3z1qzoknmo1_500.jpg
+- 2011-02-04: tumblr_lg3s52FcA61qz6f9yo1_500.jpg
+- 2011-02-11: tumblr_lgag7qOYzW1qaruxco1_500.jpg
+- 2011-03-08: tumblr_lhr0otmiWw1qzoknmo1_500.png
+- 2011-03-10: tumblr_lhtjbckFZE1qfmczdo1_500.jpg
+- 2011-03-14: tumblr_li1z8a0siZ1qzoknmo1_500.jpg
+- 2011-03-18: tumblr_li9slbg5Pk1qzoknmo1_400.png
+- 2011-03-20: tumblr_lidehkJFvb1qzoknmo1_500.jpg
+- 2011-03-26: tumblr_liodtn01lO1qzoknmo1_500.jpg
+- 2011-03-28: tumblr_lisszckUUf1qzoknmo1_500.jpg
+- 2011-04-08: tumblr_ljcrkftKvC1qzoknmo1_500.jpg
+- 2011-04-15: tumblr_ljofwiROT01qzoknmo1_500.jpg
+- 2011-04-24: tumblr_lk5zy3XxHW1qzoknmo1_500.jpg
+- 2011-04-25: tumblr_lk4aitHde91qz6f9yo1_500.jpg
+- 2011-04-25: tumblr_lk7rq1KPHK1qzoknmo1_500.gif
+- 2011-05-13: tumblr_ll52f8avxj1qzoknmo1_400.jpg
+- 2011-05-15: tumblr_ll5b0hsOUj1qz6f9yo1_500.jpg
+- 2011-05-15: tumblr_ll935i4jYf1qzoknmo1_500.jpg
+- 2011-05-19: tumblr_llfj1uYlUh1qz6f9yo1_500.jpg
+- 2011-05-19: tumblr_lijwgfEnot1qzcwzbo1_500.jpg
+- 2011-06-04: tumblr_lmapgukbj31qzoknmo1_500.jpg
+- 2011-06-06: tumblr_lmdn3fkgTL1qzoknmo1_500.png
+- 2011-06-09: tumblr_lmj663joA01qz6f9yo1_500.jpg
+- 2011-06-09: tumblr_lftweyN4fn1qbcqmwo1_500.gif
+- 2011-06-18: tumblr_lmyyhrkpRx1qzoknmo1_500.jpg
+- 2011-06-23: tumblr_ln9fcsUlKx1qzoknmo1_500.png
+- 2011-06-27: tumblr_lngh1pdZpQ1qzoknmo1_500.jpg
+- 2011-06-28: tumblr_lnct3oe4tt1qz6f9yo1_500.jpg
+- 2011-07-11: tumblr_lo6zsupfNn1qzoknmo1_500.jpg
+- 2011-07-21: tumblr_lop9mcCkip1qzoknmo1_500.jpg
+- 2011-07-21: tumblr_lop0lbISCP1qzoknmo1_500.jpg
+- 2011-07-27: tumblr_lp0kcr4Xkk1qzoknmo1_500.jpg
+- 2011-07-28: tumblr_lp0qx663Dp1qzn6jzo1_500.jpg
+- 2011-07-30: tumblr_lp5ygewPPY1qzoknmo1_500.jpg
+- 2011-08-30: tumblr_lqr9xxW8Zy1qzoknmo1_500.jpg
+- 2011-09-15: tumblr_lrjsetCSKQ1qzoknmo1_500.jpg
+- 2011-09-23: tumblr_lrzqkhEa3K1qzoknmo1_500.jpg
+- 2011-09-27: tumblr_ls61twoObm1qzoknmo1_500.jpg
+- 2011-10-07: tumblr_lspegqvAdl1qzoknmo1_500.jpg
+- 2011-10-14: tumblr_lt2dpv3TBQ1qz6f9yo1_500.jpg
+- 2011-10-18: tumblr_lt9tqcqvlh1qzoknmo1_500.png
+- 2011-10-22: tumblr_ltheroHkd21qzoknmo1_500.png
+- 2011-10-22: tumblr_lppz0euvxT1r0wnsho1_500.jpg
+- 2011-10-26: tumblr_ltpc55qbVu1qzoknmo1_r1_500.gif
+- 2011-10-28: tumblr_lts9fiyDrR1qzoknmo1_500.jpg
+- 2011-10-28: tumblr_ltojascscO1qzv3i2o1_500.jpg
+- 2011-11-22: tumblr_lv2vt5mbGE1qzoknmo1_500.jpg
+- 2011-11-25: tumblr_lv84vrbbl81qzoknmo1_500.jpg
+- 2011-12-03: tumblr_lvnveovnPs1qzoknmo1_500.jpg
+- 2011-12-03: tumblr_lvnoc6mumU1qzoknmo1_500.jpg
+- 2012-01-04: tumblr_lxav3dRI0o1qzoknmo1_500.png
+- 2012-01-08: tumblr_lxhpfxmjaX1qzoknmo1_500.jpg
+- 2012-01-13: tumblr_lxqztuthDj1qzoknmo1_500.gif
+- 2012-01-23: tumblr_ly8kn8fAOp1qzoknmo1_500.png
+- 2012-01-27: tumblr_lygts2uGPx1qzoknmo1_500.jpg
+- 2012-01-29: tumblr_lylarxysWN1qzoknmo1_500.jpg
+- 2012-02-15: tumblr_lzgf4ezysf1qzoknmo1_500.gif
+- 2012-02-17: tumblr_lzkclyNVse1qzoknmo1_500.jpg
+- 2012-03-10: tumblr_m0pb5t3rxW1qzoknmo1_500.jpg
+- 2012-03-11: tumblr_m0qpb37quu1qzoknmo1_500.jpg
+- 2012-03-18: tumblr_m0nj8lkycF1r2q0z9o1_500.gif
+- 2012-04-06: tumblr_m21iqlHTim1qzoknmo1_500.jpg
+- 2012-04-12: tumblr_m2dmfmtkWT1qzoknmo1_500.png
+- 2012-04-15: tumblr_m2jz5gZbZA1qzoknmo1_500.jpg
+- 2012-04-20: tumblr_m2smzpUG6J1qzoknmo1_500.jpg
+- 2012-04-26: tumblr_m33wsufwOT1qzoknmo1_500.jpg
+- 2012-05-22: tumblr_m4gchzsdLh1qzoknmo1_500.jpg
+- 2012-05-24: tumblr_m4jhd4M8DD1qzoknmo1_500.jpg
+- 2012-05-25: tumblr_m4lzazQfzi1qzoknmo1_500.jpg
+- 2012-06-04: tumblr_m52xqbn1f31qzoknmo1_500.jpg
+- 2012-06-14: tumblr_m5mgmjmaa01qzoknmo1_500.jpg
+- 2012-07-03: tumblr_m6kxqkpG4T1qzoknmo1_500.jpg
+- 2012-07-13: tumblr_m7454bsVu31qzoknmo1_500.jpg
+- 2012-07-26: tumblr_m7s9lytHZY1qzoknmo1_500.png
+- 2012-08-16: tumblr_m8vnuieBqI1qzoknmo1_500.jpg
+- 2012-08-29: tumblr_m9jqroUdQi1qzoknmo1_500.jpg
+- 2012-10-04: tumblr_mbdj2lY1211qzoknmo1_500.jpg
+- 2012-10-04: tumblr_mbdgqnHa531qzoknmo1_500.gif
+- 2012-10-27: tumblr_mckx0cOhOY1qzoknmo1_500.jpg
+- 2013-01-10: tumblr_mgedfzof3a1qzoknmo1_500.jpg
+- 2013-02-08: tumblr_mhw2hzyQB21qzoknmo1_500.jpg
+- 2013-02-26: tumblr_miu8j5iK9W1qz6f9yo1_500.jpg
+- 2013-03-09: tumblr_mjei6raCcF1qzoknmo1_500.jpg
+- 2013-03-14: tumblr_mjnpleuUDE1qzoknmo1_500.jpg
+- 2013-04-26: tumblr_mlvka1CYZm1qzoknmo1_500.jpg
+- 2013-05-22: tumblr_mn89jjcwhu1qzoknmo1_500.jpg
+- 2013-06-06: tumblr_mnz3zqX5t41qzoknmo1_500.jpg
+- 2013-06-23: tumblr_mouykt0RTW1qzoknmo1_500.jpg
+- 2013-08-10: tumblr_mrc61wq73t1qzoknmo1_500.jpg
+- 2013-09-13: tumblr_mt2zoc6kRY1qzoknmo1_500.png
+- 2013-10-03: tumblr_mu3zvfObHW1qzoknmo1_500.jpg
+- 2013-11-08: tumblr_mvym5q54gP1qzoknmo1_500.png
+- 2013-12-06: tumblr_mxexz33naw1qzoknmo1_500.jpg
+- 2013-12-24: tumblr_myc5bhBzOz1qzoknmo1_500.jpg
+- 2014-01-05: tumblr_myynue8svQ1qzoknmo1_500.jpg
+- 2014-02-27: tumblr_n1od12s01i1qzoknmo1_500.jpg
+- 2014-04-14: tumblr_n4077qqbut1qzoknmo1_500.jpg
+- 2014-08-29: tumblr_nb2leuzBjy1qzoknmo1_500.jpg
+- 2014-10-01: tumblr_ncs2r300Rv1qzoknmo1_500.png
+- 2014-11-04: tumblr_neiyu1jCVt1qzoknmo1_500.jpg
+- 2014-12-20: tumblr_ngw29qrss71qzoknmo1_500.jpg
+- 2015-03-05: tumblr_nk8qnmrRxo1unlgyro1_500.jpg
+- 2015-05-13: tumblr_noanjpT5tg1qzoknmo1_500.jpg
+- 2015-05-16: tumblr_nogmh3MJzh1qzoknmo1_500.jpg
+- 2015-06-19: tumblr_nq76r0mwvQ1qzoknmo1_500.jpg
+- 2015-07-28: tumblr_nr2569nqX01qze3hdo1_r2_500.gif
+- 2015-09-20: tumblr_nuz7seq9Uz1qzoknmo1_500.jpg
+- 2015-10-03: tumblr_nvnbp2oUaq1qzoknmo1_500.jpg
+- 2016-01-16: tumblr_o11tq2w47M1qzoknmo1_500.png
+- 2016-02-13: tumblr_o2hn2oDb2F1qzoknmo1_500.gif
+- 2016-04-30: tumblr_o6eqa4xYB51qz6f9yo1_500.jpg
+- 2016-05-01: tumblr_o6i2oqiwsZ1qzoknmo1_500.png
+- 2016-05-08: tumblr_o6uybv8qsg1qzoknmo1_500.gif
+- 2016-05-24: tumblr_o7ok5pndoI1qzoknmo1_500.jpg
+- 2016-11-23: tumblr_oh3xp9KJ5E1qzoknmo1_500.jpg
+- 2017-06-28: tumblr_osa7synjse1qzoknmo1_500.jpg
+- 2017-11-09: tumblr_oz67sv9Uqz1qzoknmo1_500.jpg
+- 2018-06-05: tumblr_p9v9mwnaCo1qzoknmo1_500.png
+- 2018-12-07: tumblr_pjdjrinBr51qzoknmo1_500.png
+- 2018-12-07: tumblr_pjdjphcS2T1qzoknmo1_500.png
+- 2018-12-26: tumblr_pkd43zvcEr1qzoknmo1_500.jpg
+- 2019-02-02: tumblr_pmb4qdVEGl1qzoknmo1_500.png
+- 2019-02-03: tumblr_pmd2aaiuea1qzoknmo1_500.png
+- 2019-07-08: tumblr_pubpdj0xOR1qzoknmo1_500.jpg
+- 2020-01-19: 5bcc3324d4220adfbfff9bfeea4712f9899f839e.png
+- 2021-02-13: 7ca18ccb9de941a5382fc876d9e5cde0883f5cdb.png
+- 2022-02-14: f728291cadbe7f0b9f088cf417df13c36c42ae24.png
+- 2022-02-14: 60eedfd2465d37721f05269ee33363a374a7fea1.jpg
+- 2022-07-27: ffd872c6a87c41ef1c3cb49152ddf981f885c376.jpg
+- 2023-02-12: d86b6d777cb7617b1cced7e4557ea74e013585ae.png
+
+## Tumblr Images Downloaded and Localized (3)
+
+- 2024-02-11 (item 802): https://64.media.tumblr.com/fd9226df4e6c613a9ba9acd6283aaded/f9ef57b50c031afe-fe/s1280x1920/6f0c4fcb72c59d72ea0e78d4bd21363e5f3dc37c.png → 6f0c4fcb72c59d72ea0e78d4bd21363e5f3dc37c.png
+- 2025-02-01 (item 806): https://64.media.tumblr.com/1a8df73e43e173e98159ac2edd848ac5/e38f066a919ff57a-ec/s1280x1920/a47a4bf491a14e256b872b8c2fd12f9d9fe80517.png → a47a4bf491a14e256b872b8c2fd12f9d9fe80517.png
+- 2026-02-22 (item 821): https://64.media.tumblr.com/0951dd4fbff89ee9d87204dac237a50a/d1a2a99a06909d40-44/s1280x1920/ab8e01cbab0a4a8f91303dc969464217c7dc4128.png → ab8e01cbab0a4a8f91303dc969464217c7dc4128.png
+
+## Unresolved Remote Tumblr References (0)
+
+None.
+
+## Missing Local Image Files (0)
+
+None.
+
+## Failed Image Downloads (0)
+
+None.
+
+## stungeye.com Remote Image References — CI Items (10)
+
+These are left as remote references for future manual localization.
+
+- 2012-04-08 (item 639): https://stungeye.com/images/craig_sisk/hawaii-craig-200.jpg
+- 2012-04-08 (item 639): https://stungeye.com/images/craig_sisk/byodo-in-temple-bell.jpg
+- 2012-04-08 (item 639): https://stungeye.com/images/craig_sisk/craig-shannon-turtle.jpg
+- 2012-04-08 (item 639): https://stungeye.com/images/craig_sisk/beach-waves.jpg
+- 2012-04-08 (item 639): https://stungeye.com/images/craig_sisk/kyle-craig-kayaks.jpg
+- 2012-04-08 (item 639): https://stungeye.com/images/craig_sisk/dj-sisk-200.jpg
+- 2012-04-08 (item 639): https://stungeye.com/images/craig_sisk/beach-sun.jpg
+- 2013-10-30 (item 710): https://stungeye.com/public/images/item_images/bananaflower.gif
+- 2013-12-17 (item 715): https://stungeye.com/images/others/1213/settlers.jpg
+- 2013-12-17 (item 715): https://stungeye.com/images/others/1213/dice_sum_probabilities.jpg
+
+## stungeye.com Self-Hosted Media References (187 across 72 days)
+
+These URLs reference media files on stungeye.com that are not included in the static site output.
+If deployment replaces the old site root, these will 404.
+
+### .avi files (2)
+
+- 2003-03-23: http://www.stungeye.com/images/ABC.avi
+- 2004-03-09: http://www.stungeye.com/images/photos/wally/0304/mrE.avi
+
+### .fla files (1)
+
+- 2004-01-09: http://www.stungeye.com/flash/0104/bee_play.fla
+
+### .gif files (1)
+
+- 2013-10-30: https://stungeye.com/public/images/item_images/bananaflower.gif
+
+### .jpg files (125)
+
+- 2003-07-29: http://www.stungeye.com/images/booth.jpg
+- 2003-09-30: http://www.stungeye.com/images/photos/wally/mag.jpg
+- 2003-09-30: http://www.stungeye.com/images/photos/wally/fingers.jpg
+- 2003-10-13: http://www.stungeye.com/images/photos/wally/1003/13/climbingpaintbrush.jpg
+- 2003-10-13: http://www.stungeye.com/images/photos/wally/1003/13/leavepaint.jpg
+- 2003-10-13: http://www.stungeye.com/images/photos/wally/1003/13/wallsky.jpg
+- 2003-10-13: http://www.stungeye.com/images/photos/wally/1003/13/willthiswork.jpg
+- 2003-10-13: http://www.stungeye.com/images/photos/wally/1003/13/work.jpg
+- 2003-10-13: http://www.stungeye.com/images/photos/wally/1003/13/leavesky.jpg
+- 2003-10-16: http://www.stungeye.com/images/photos/wally/1003/16/saga.jpg
+- 2003-10-16: http://www.stungeye.com/images/photos/wally/1003/16/searchcontinues.jpg
+- 2003-10-18: http://www.stungeye.com/images/photos/wally/1003/18/nothingcommon.jpg
+- 2003-10-18: http://www.stungeye.com/images/photos/wally/1003/18/roadtonowhere.jpg
+- 2003-10-19: http://www.stungeye.com/images/photos/wally/1003/19/sculpted.jpg
+- 2003-10-19: http://www.stungeye.com/images/photos/wally/1003/19/ceilingangles.jpg
+- 2003-10-20: http://www.stungeye.com/images/photos/wally/1003/20/lovers.jpg
+- 2003-10-20: http://www.stungeye.com/images/photos/wally/1003/20/tiles.jpg
+- 2003-10-21: http://www.stungeye.com/images/photos/wally/1003/21/flowerchild.jpg
+- 2003-10-26: http://www.stungeye.com/images/photos/wally/1003/26/vwall.jpg
+- 2003-10-26: http://www.stungeye.com/images/photos/wally/1003/26/hwall.jpg
+- 2003-10-26: http://www.stungeye.com/images/photos/wally/1003/26/mom1.jpg
+- 2003-10-26: http://www.stungeye.com/images/photos/wally/1003/26/mom1s.jpg
+- 2003-10-26: http://www.stungeye.com/images/photos/wally/1003/26/mom2.jpg
+- 2003-10-26: http://www.stungeye.com/images/photos/wally/1003/26/mom2s.jpg
+- 2003-10-26: http://www.stungeye.com/images/photos/wally/1003/26/mom3.jpg
+- 2003-10-26: http://www.stungeye.com/images/photos/wally/1003/26/mom3s.jpg
+- 2003-10-27: http://www.stungeye.com/images/photos/wally/1003/27/dino.jpg
+- 2003-10-27: http://www.stungeye.com/images/photos/wally/1003/27/dinos.jpg
+- 2003-10-28: http://www.stungeye.com/images/others/1003/uncommon.jpg
+- 2003-10-28: http://www.stungeye.com/images/others/1003/dp.jpg
+- 2003-10-28: http://www.stungeye.com/images/others/1003/duncancumming.jpg
+- 2003-10-29: http://www.stungeye.com/images/photos/wally/1003/29/colourslines.jpg
+- 2003-10-29: http://www.stungeye.com/images/photos/wally/1003/29/colourshapes.jpg
+- 2003-11-03: http://www.stungeye.com/images/photos/wally/1103/03/reddoor_T.jpg
+- 2003-11-03: http://www.stungeye.com/images/photos/wally/1103/03/reddoor_M.jpg
+- 2003-11-03: http://www.stungeye.com/images/photos/wally/1103/03/reddoor_L.jpg
+- 2003-11-03: http://www.stungeye.com/images/photos/wally/1103/03/halloween.jpg
+- 2003-11-03: http://www.stungeye.com/images/photos/wally/1103/03/punkdj.jpg
+- 2003-11-04: http://www.stungeye.com/images/photos/wally/1103/04/triplethreat.jpg
+- 2003-11-04: http://www.stungeye.com/images/photos/wally/1103/04/triplethreat_T.jpg
+- 2003-11-05: http://www.stungeye.com/images/photos/wally/1103/05/snowylines.jpg
+- 2003-11-05: http://www.stungeye.com/images/photos/wally/1103/05/snowylines_T.jpg
+- 2003-11-05: http://www.stungeye.com/images/photos/wally/1103/05/winter.jpg
+- 2003-11-05: http://www.stungeye.com/images/photos/wally/1103/05/winter_T.jpg
+- 2003-11-05: http://www.stungeye.com/images/photos/wally/1103/05/snow.jpg
+- 2003-11-06: http://www.stungeye.com/images/photos/wally/1103/06/texture.jpg
+- 2003-11-06: http://www.stungeye.com/images/photos/wally/1103/06/moderncastle.jpg
+- 2003-11-06: http://www.stungeye.com/images/others/1103/thomson_morning_cloud.jpg
+- 2003-11-06: http://www.stungeye.com/images/others/1103/thomson_morning_cloud_T.jpg
+- 2003-11-06: http://www.stungeye.com/images/others/1103/thomson_path_behind_mowat_lodge.jpg
+- 2003-11-06: http://www.stungeye.com/images/others/1103/thomson_path_behind_mowat_lodge_T.jpg
+- 2003-11-06: http://www.stungeye.com/images/others/1103/thomson_round_lake_mud_bay.jpg
+- 2003-11-06: http://www.stungeye.com/images/others/1103/thomson_round_lake_mud_bay_T.jpg
+- 2003-11-15: http://www.stungeye.com/images/photos/wally/1103/15/beer.jpg
+- 2003-11-15: http://www.stungeye.com/images/photos/wally/1103/15/beer_T.jpg
+- 2003-11-16: http://www.stungeye.com/images/stickers/wally/lost_at_sea_T.jpg
+- 2003-11-16: http://www.stungeye.com/images/stickers/wally/lost_at_sea_small.jpg
+- 2003-11-16: http://www.stungeye.com/images/stickers/wally/lost_at_sea.jpg
+- 2003-11-16: http://www.stungeye.com/images/photos/wally/1103/16/stickersinwaiting.jpg
+- 2003-11-16: http://www.stungeye.com/images/photos/wally/1103/16/stickersinwaiting_T.jpg
+- 2003-11-18: http://www.stungeye.com/images/photos/djmose/1103/ocadA_T.jpg
+- 2003-11-18: http://www.stungeye.com/images/photos/djmose/1103/ocadB_T.jpg
+- 2003-11-18: http://www.stungeye.com/images/photos/chen/1103/kenA_T.jpg
+- 2003-11-18: http://www.stungeye.com/images/photos/chen/1103/kenB_T.jpg
+- 2003-11-19: http://www.stungeye.com/images/photos/wally/1103/19/dance_L.jpg
+- 2003-11-19: http://www.stungeye.com/images/photos/wally/1103/19/dance_T.jpg
+- 2003-11-19: http://www.stungeye.com/images/photos/wally/1103/19/wabbits.jpg
+- 2003-11-19: http://www.stungeye.com/images/photos/wally/1103/19/wabbits_T.jpg
+- 2003-11-19: http://www.stungeye.com/images/photos/wally/1103/19/pray_T.jpg
+- 2003-11-26: http://www.stungeye.com/images/photos/wally/1103/26/junkvert_T.jpg
+- 2003-11-26: http://www.stungeye.com/images/photos/wally/1103/26/junkhorz_T.jpg
+- 2003-11-26: http://www.stungeye.com/images/others/1103/terracon.jpg
+- 2003-11-26: http://www.stungeye.com/images/others/1103/terracon_T.jpg
+- 2003-12-08: http://www.stungeye.com/images/others/1203/kandinsky_L.jpg
+- 2003-12-08: http://www.stungeye.com/images/others/1203/kandinsky_T.jpg
+- 2003-12-12: http://www.stungeye.com/images/photos/wally/1203/12/scans_T.jpg
+- 2003-12-12: http://www.stungeye.com/images/photos/wally/1203/12/hiding_T.jpg
+- 2003-12-12: http://www.stungeye.com/images/photos/wally/1203/12/publicart_T.jpg
+- 2003-12-12: http://www.stungeye.com/images/photos/wally/1203/12/framedwinter_T.jpg
+- 2004-01-09: http://www.stungeye.com/images/others/0104/acidface.jpg
+- 2004-01-14: http://www.stungeye.com/images/sketches/wally/0104/brushes.jpg
+- 2004-01-14: http://www.stungeye.com/images/sketches/wally/0104/brushes_T.jpg
+- 2004-01-14: http://www.stungeye.com/images/photos/wally/0104/flakes_T.jpg
+- 2004-01-14: http://www.stungeye.com/images/photos/wally/0104/legs_T.jpg
+- 2004-02-05: http://www.stungeye.com/images/photos/wally/0204/5/movementoflight.jpg
+- 2004-02-05: http://www.stungeye.com/images/photos/wally/0204/5/movementoflight_T.jpg
+- 2004-02-05: http://www.stungeye.com/images/photos/wally/0204/5/innerlight_T.jpg
+- 2004-02-05: http://www.stungeye.com/images/photos/wally/0204/5/mex.jpg
+- 2004-02-05: http://www.stungeye.com/images/photos/wally/0204/5/mex_T.jpg
+- 2004-02-05: http://www.stungeye.com/images/photos/wally/0204/5/signs_T.jpg
+- 2004-02-05: http://www.stungeye.com/images/photos/wally/0204/5/shavedwall_T.jpg
+- 2004-02-09: http://www.stungeye.com/images/photos/wally/0204/9/mandel_T.jpg
+- 2004-02-09: http://www.stungeye.com/images/photos/wally/0204/9/scaledToAlpha.jpg
+- 2004-02-09: http://www.stungeye.com/images/photos/wally/0204/9/scaledToAlphaHigh.jpg
+- 2004-02-09: http://www.stungeye.com/images/photos/wally/0204/9/randomPixelScale.jpg
+- 2004-02-09: http://www.stungeye.com/images/photos/wally/0204/9/randomPixelScaleHigh.jpg
+- 2004-02-09: http://www.stungeye.com/images/photos/wally/0204/9/circularScale.jpg
+- 2004-02-09: http://www.stungeye.com/images/photos/wally/0204/9/circularScaleHigh.jpg
+- 2004-02-09: http://www.stungeye.com/images/photos/wally/0204/9/circularScaleColourHigh.jpg
+- 2004-02-09: http://www.stungeye.com/images/photos/wally/0204/9/gluttonbrots.jpg
+- 2004-02-27: http://www.stungeye.com/images/others/0204/stormcastle.jpg
+- 2004-03-03: http://www.stungeye.com/images/sketches/wally/0204/deco8.jpg
+- 2004-03-03: http://www.stungeye.com/images/sketches/wally/0204/deco8_T.jpg
+- 2004-04-15: http://www.stungeye.com/images/photos/wally/0404/15/leg_T.jpg
+- 2004-04-15: http://www.stungeye.com/images/photos/wally/0404/15/snow_T.jpg
+- 2004-04-15: http://www.stungeye.com/images/photos/wally/0404/15/misc_T.jpg
+- 2004-05-11: http://www.stungeye.com/images/photos/wally/0504/rewinter_T.jpg
+- 2004-06-16: http://www.stungeye.com/images/others/0604/redesign.jpg
+- 2004-06-16: http://www.stungeye.com/images/others/0604/redesign_T.jpg
+- 2004-08-10: http://www.stungeye.com/images/patterns.jpg
+- 2006-02-03: http://stungeye.com/images/photos/wally/against.jpg
+- 2006-09-27: http://stungeye.com/images/statsSept2006.jpg
+- 2006-09-29: http://stungeye.com/images/capt4.jpg
+- 2006-10-15: http://stungeye.com/images/others/1006/pill_buddha.jpg
+- 2007-08-31: http://stungeye.com/images/others/0807/geske-atlas-vignette.jpg
+- 2007-09-12: http://stungeye.com/images/others/0907/bspearsmtv.jpg
+- 2012-04-08: https://stungeye.com/images/craig_sisk/hawaii-craig-200.jpg
+- 2012-04-08: https://stungeye.com/images/craig_sisk/byodo-in-temple-bell.jpg
+- 2012-04-08: https://stungeye.com/images/craig_sisk/craig-shannon-turtle.jpg
+- 2012-04-08: https://stungeye.com/images/craig_sisk/beach-waves.jpg
+- 2012-04-08: https://stungeye.com/images/craig_sisk/kyle-craig-kayaks.jpg
+- 2012-04-08: https://stungeye.com/images/craig_sisk/dj-sisk-200.jpg
+- 2012-04-08: https://stungeye.com/images/craig_sisk/beach-sun.jpg
+- 2013-12-17: https://stungeye.com/images/others/1213/settlers.jpg
+- 2013-12-17: https://stungeye.com/images/others/1213/dice_sum_probabilities.jpg
+
+### .mp3 files (36)
+
+- 2003-01-12: http://www.stungeye.com/buck_65-attack_of_the_nerds_remix.mp3
+- 2003-01-30: http://www.stungeye.com/A3-U_Dont_Dans_2_Tekno_Anymore.mp3
+- 2003-02-07: http://www.stungeye.com/Black_Box_Recorder-The_Facts_Of_Life.mp3
+- 2003-03-06: http://www.stungeye.com/sounds/steve_reich-electric_counterpoint.mp3
+- 2003-03-12: http://www.stungeye.com/sounds/Lord_Buckley-HBomb.mp3
+- 2003-04-08: http://www.stungeye.com/sounds/gary_jules-mad_world.mp3
+- 2003-05-27: http://www.stungeye.com/sounds/Shirley_Ellis-The_Clapping_Song.mp3
+- 2003-06-13: http://www.stungeye.com/sounds/The_Dining_Rooms-Anima_Per_Amarti.mp3
+- 2003-07-24: http://www.stungeye.com/sounds/Kleenex_Girl_Wonder-why_i_write_such_good_songs.mp3
+- 2003-09-14: http://www.stungeye.com/sounds/Wally_Glutton-In_A_Way.mp3
+- 2003-10-20: http://www.stungeye.com/sounds/beatles-im_so_tired.mp3
+- 2003-10-28: http://www.stungeye.com/sounds/songweek/1003/The_Beatles-I_Want_To_Hold_Your_Hand.mp3
+- 2003-10-28: http://www.stungeye.com/sounds/songweek/1003/The_Beatles-Tomorrow_Never_Knows.mp3
+- 2003-11-07: http://www.stungeye.com/sounds/songweek/1103/the_goods-lessons_in_time.mp3
+- 2003-11-07: http://www.stungeye.com/sounds/songweek/1103/pretty_girls_make_graves-the_teeth_collector.mp3
+- 2003-11-07: http://www.stungeye.com/sounds/songweek/1103/pretty_girls_make_graves-this_is_our_emergency.mp3
+- 2003-11-07: http://www.stungeye.com/sounds/songweek/1103/the_decemberists-the_bachelor_and_the_bride.mp3
+- 2003-11-07: http://www.stungeye.com/sounds/songweek/1103/the_long_winters-blue_diamonds.mp3
+- 2003-11-07: http://www.stungeye.com/sounds/songweek/1103/the_long_winters-blanket_hog.mp3
+- 2003-11-07: http://www.stungeye.com/sounds/songweek/1103/the_weakerthans-one_great_city.mp3
+- 2003-11-18: http://www.stungeye.com/sounds/Wally_Glutton-Lennon_vs_mcenroe-Imagine_Billys_Vision.mp3
+- 2003-11-28: http://www.stungeye.com/sounds/songweek/1103/epic-8_30_in_newfoundland-live_from_the_saskatoon_club.mp3
+- 2003-12-04: http://www.stungeye.com/sounds/mcd-3_in_1_wally_glutton_jitter_dub_mix.mp3
+- 2003-12-08: http://www.stungeye.com/sounds/pong/bassy.mp3
+- 2003-12-08: http://www.stungeye.com/sounds/pong/blip_blop.mp3
+- 2003-12-15: http://www.stungeye.com/sounds/pong/wally_glutton_and_chef_quix-4.mp3
+- 2004-01-02: http://www.stungeye.com/sounds/songweek/1203/viktor_vaughn-let_me_watch_feat._apani_b_as_nikki.mp3
+- 2004-01-02: http://www.stungeye.com/sounds/songweek/0104/buck_65-craftsmanship.mp3
+- 2004-01-02: http://www.stungeye.com/sounds/songweek/0104/people_under_the_stairs-outrun.mp3
+- 2004-01-19: http://www.stungeye.com/sounds/wally_glutton-cam_slam.mp3
+- 2004-02-03: http://www.stungeye.com/sounds/songweek/0204/semisonic-secret_smile.mp3
+- 2004-03-05: http://www.stungeye.com/sounds/songweek/0304/the_weakerthans-plea_from_a_cat_named_virtute.mp3
+- 2006-01-06: http://stungeye.com/sounds/songweek/0106/fire.mp3
+- 2006-03-26: http://stungeye.com/sounds/songweek/0306/The_Kamkars-Chant_of_Drums.mp3
+- 2006-04-15: http://www.stungeye.com/sounds/Wally_Glutton-In_A_Way.mp3
+- 2008-02-10: http://stungeye.com/sounds/songweek/0208/billie_hollyday-summertime-from_porgy_and_bess.mp3
+
+### .png files (1)
+
+- 2006-10-15: http://stungeye.com/images/others/1006/nihilism.png
+
+### .swf files (21)
+
+- 2003-11-14: http://www.stungeye.com/flash/1103/pray.swf
+- 2003-11-15: http://www.stungeye.com/flash/1103/360.swf
+- 2003-11-17: http://www.stungeye.com/flash/1103/lost.swf
+- 2003-11-18: http://www.stungeye.com/flash/1103/imagine_billys_vision.swf
+- 2003-11-24: http://www.stungeye.com/flash/1103/collective.swf
+- 2003-12-03: http://www.stungeye.com/flash/1203/snake.swf
+- 2003-12-04: http://www.stungeye.com/flash/1203/seek.swf
+- 2003-12-04: http://www.stungeye.com/flash/1203/counting.swf
+- 2003-12-15: http://www.stungeye.com/flash/1203/newsnake.swf
+- 2004-01-09: http://www.stungeye.com/flash/0104/bee_play.swf
+- 2004-02-09: http://www.stungeye.com/flash/0204/9/scaledToAlpha.swf
+- 2004-02-09: http://www.stungeye.com/flash/0204/9/scaledToAlphaHigh.swf
+- 2004-02-09: http://www.stungeye.com/flash/0204/9/randomPixelScale.swf
+- 2004-02-09: http://www.stungeye.com/flash/0204/9/randomPixelScaleHigh.swf
+- 2004-02-09: http://www.stungeye.com/flash/0204/9/circularScale.swf
+- 2004-02-09: http://www.stungeye.com/flash/0204/9/circularScaleHigh.swf
+- 2004-02-09: http://www.stungeye.com/flash/0204/9/circularScaleColourHigh.swf
+- 2006-02-24: http://www.stungeye.com/flash/1103/collective.swf
+- 2007-01-30: http://www.stungeye.com/flash/1203/seek.swf
+- 2007-01-30: http://www.stungeye.com/flash/1103/360.swf
+- 2007-01-30: http://www.stungeye.com/flash/1203/newsnake.swf
+
+
+## stungeye.com Self-Hosted Page/Directory Links (160 across 104 days)
+
+These link to HTML pages, directories, or other non-media resources on stungeye.com.
+Includes pages that may auto-load index.html.
+
+- 2002-08-21: http://www.stungeye.com/sounds.htm
+- 2002-08-21: http://www.stungeye.com/words.htm
+- 2002-09-09: http://www.stungeye.com/sounds.htm
+- 2002-09-11: http://www.stungeye.com/events.htm
+- 2002-09-16: http://www.stungeye.com/images.htm
+- 2002-09-16: http://www.stungeye.com/events.htm
+- 2002-09-18: http://www.stungeye.com/images.htm
+- 2002-09-30: http://www.stungeye.com/projects.htm
+- 2002-10-09: http://www.stungeye.com/events.htm
+- 2002-10-18: http://www.stungeye.com/projects.htm
+- 2002-10-29: http://www.stungeye.com/events.htm
+- 2002-12-01: http://www.stungeye.com/events.htm
+- 2002-12-02: http://www.stungeye.com/links.htm
+- 2002-12-07: http://www.stungeye.com/cams.htm
+- 2002-12-17: http://www.stungeye.com/images.htm
+- 2002-12-21: http://www.stungeye.com/cams.htm
+- 2002-12-27: http://www.stungeye.com/sounds.htm
+- 2003-01-12: http://www.stungeye.com/images.htm
+- 2003-01-21: http://www.stungeye.com/images.htm
+- 2003-01-26: http://www.stungeye.com/Coldcut_Steinski-It
+- 2003-02-12: http://www.stungeye.com/images.htm
+- 2003-02-17: http://www.stungeye.com/sounds.htm
+- 2003-02-21: http://www.stungeye.com/images.htm
+- 2003-03-02: http://www.stungeye.com/images/winner_takes_all.zip
+- 2003-03-06: http://www.stungeye.com/sounds.htm
+- 2003-03-12: http://www.stungeye.com/sounds.htm
+- 2003-03-12: http://www.stungeye.com/words.htm
+- 2003-03-12: http://www.stungeye.com/images.htm
+- 2003-04-20: http://www.stungeye.com/sounds/The_Dining_Rooms-(Guilty
+- 2003-04-21: http://www.stungeye.com/words.htm
+- 2003-04-27: http://www.stungeye.com/images.htm
+- 2003-05-15: http://www.stungeye.com/images.htm
+- 2003-05-27: http://www.stungeye.com/images/photos/wally/rowlf/rowlf.htm
+- 2003-05-31: http://www.stungeye.com/images.htm
+- 2003-06-02: http://www.stungeye.com/links.htm
+- 2003-06-26: http://www.stungeye.com/images.htm
+- 2003-06-26: http://www.stungeye.com/archive.htm
+- 2003-07-03: http://www.stungeye.com/images.htm
+- 2003-08-21: http://www.stungeye.com/sounds/Shirley_Bassey-Fly_me_to_the_moon
+- 2003-08-25: http://www.stungeye.com/images.htm
+- 2003-08-27: http://www.stungeye.com/cams.htm
+- 2003-08-29: http://www.stungeye.com/images.htm
+- 2003-09-14: http://www.stungeye.com/words.htm
+- 2003-09-16: http://www.stungeye.com/sounds/phoebe_snow-there
+- 2003-09-16: http://www.stungeye.com/images.htm
+- 2003-10-13: http://www.stungeye.com/images/photos/wally/1003/13/wallsky
+- 2003-10-13: http://www.stungeye.com/images/photos/wally/1003/13/leavesky
+- 2003-10-13: http://www.stungeye.com/images.htm
+- 2003-10-16: http://www.stungeye.com/images/photos/wally/1003/16/saga
+- 2003-10-16: http://www.stungeye.com/images/photos/wally/1003/16/searchcontinues
+- 2003-10-18: http://www.stungeye.com/images/photos/wally/1003/18/nothingcommon
+- 2003-10-18: http://www.stungeye.com/images/photos/wally/1003/18/roadtonowhere
+- 2003-10-19: http://www.stungeye.com/images/photos/wally/1003/19/sculpted
+- 2003-10-19: http://www.stungeye.com/images/photos/wally/1003/19/ceilingangles
+- 2003-10-20: http://www.stungeye.com/images/photos/wally/1003/20/lovers
+- 2003-10-20: http://www.stungeye.com/images/photos/wally/1003/20/tiles
+- 2003-10-21: http://www.stungeye.com/images/photos/wally/1003/21/flowerchild
+- 2003-10-26: http://www.stungeye.com/images/photos/wally/1003/26/vwall
+- 2003-10-26: http://www.stungeye.com/images/photos/wally/1003/26/hwall
+- 2003-10-27: http://www.stungeye.com/images/photos/wally/1003/27/dino
+- 2003-10-27: http://www.stungeye.com/images/photos/wally/1003/27/dinos
+- 2003-10-29: http://www.stungeye.com/images/photos/wally/1003/29/colourslines
+- 2003-10-29: http://www.stungeye.com/images/photos/wally/1003/29/colourshapes
+- 2003-11-05: http://www.stungeye.com/images/photos/wally/1103/05/snow
+- 2003-11-06: http://www.stungeye.com/images/photos/wally/1103/06/texture
+- 2003-11-06: http://www.stungeye.com/images/photos/wally/1103/06/moderncastle
+- 2003-11-16: http://www.stungeye.com/images.htm
+- 2003-11-18: http://www.stungeye.com/images/photos/djmose/1103/ocadA
+- 2003-11-18: http://www.stungeye.com/images/photos/djmose/1103/ocadB
+- 2003-11-18: http://www.stungeye.com/images/photos/chen/1103/kenA
+- 2003-11-18: http://www.stungeye.com/images/photos/chen/1103/kenB
+- 2003-11-19: http://www.stungeye.com/images/photos/wally/1103/19/pray
+- 2003-11-26: http://www.stungeye.com/images/photos/wally/1103/26/junkvert
+- 2003-11-26: http://www.stungeye.com/images/photos/wally/1103/26/junkhorz
+- 2003-12-12: http://www.stungeye.com/images/photos/wally/1203/12/scans
+- 2003-12-12: http://www.stungeye.com/images/photos/wally/1203/12/hiding
+- 2003-12-12: http://www.stungeye.com/images/photos/wally/1203/12/publicart
+- 2003-12-12: http://www.stungeye.com/images/photos/wally/1203/12/framedwinter
+- 2003-12-19: http://stungeye.com/index.rdf
+- 2004-01-14: http://www.stungeye.com/images/photos/wally/0104/flakes
+- 2004-01-14: http://www.stungeye.com/images/photos/wally/0104/legs
+- 2004-02-05: http://www.stungeye.com/images/photos/wally/0204/5/innerlight
+- 2004-02-05: http://www.stungeye.com/images/photos/wally/0204/5/signs
+- 2004-02-05: http://www.stungeye.com/images/photos/wally/0204/5/shavedwall
+- 2004-02-12: http://www.stungeye.com/processing/0204/
+- 2004-02-16: http://www.stungeye.com/processing/0204/
+- 2004-02-20: http://www.stungeye.com/processing/0204/
+- 2004-02-24: http://www.stungeye.com/sounds/songweek/0204/Grey_Album.torrent
+- 2004-03-16: http://www.stungeye.com/spurl.htm
+- 2004-03-16: http://stungeye.com/archives/
+- 2004-03-16: http://stungeye.com/programs/
+- 2004-03-16: http://www.stungeye.com/words/
+- 2004-03-16: http://www.stungeye.com/sounds/
+- 2004-03-16: http://stungeye.com/design/
+- 2004-04-05: http://www.stungeye.com/spurl.htm
+- 2004-04-11: http://www.stungeye.com/processing/0404/2.0/
+- 2004-04-11: http://www.stungeye.com/flashtest.htm
+- 2004-04-15: http://www.stungeye.com/images/photos/wally/0404/15/leg
+- 2004-04-15: http://www.stungeye.com/images/photos/wally/0404/15/snow
+- 2004-04-15: http://www.stungeye.com/images/photos/wally/0404/15/misc
+- 2004-04-28: http://www.stungeye.com/sketch.php?sketch=The%20Seekers%202.0&amp;path=processing/0404/2.0/&amp;filename=theSeekers2&amp;w=600&amp;h=400
+- 2004-05-08: http://www.stungeye.com/processing/0404/GAwords/
+- 2004-05-08: http://www.stungeye.com/sketch.php?sketch=GA%20Words&amp;path=processing/0404/GAwords/&amp;filename=Hello_GA&amp;w=300&amp;h=40
+- 2004-05-08: http://www.stungeye.com/processing/0404/GAPic/
+- 2004-05-08: http://www.stungeye.com/sketch.php?sketch=GA%20Images&amp;path=processing/0404/GAPic/&amp;filename=Pic_GA&amp;w=200&amp;h=200
+- 2004-05-08: http://www.stungeye.com/sketch.php?sketch=GA%20Images%20Large&amp;path=processing/0404/GAPic/&amp;filename=Pic_GA2&amp;w=400&amp;h=400
+- 2004-05-11: http://www.stungeye.com/images/photos/wally/0504/rewinter
+- 2004-06-10: http://www.stungeye.com/images/flyer/0604/poster
+- 2004-06-16: http://www.stungeye.com/temp/draft/
+- 2004-06-20: http://www.stungeye.com/temp/draft/
+- 2004-07-07: http://www.stungeye.com/sounds/songweek/0704/Jack
+- 2004-08-10: http://stungeye.com/about/
+- 2004-08-10: http://stungeye.com/design/photos.htm
+- 2004-08-10: http://stungeye.com/programs/
+- 2004-08-10: http://stungeye.com/words/
+- 2004-11-25: http://stungeye.com/structured/
+- 2005-01-20: http://stungeye.com/drtech/
+- 2005-02-01: http://www.stungeye.com/drtech/special.php
+- 2005-02-01: http://stungeye.com/structured/2005/01/all-out-of-order.html
+- 2005-02-01: http://stungeye.com/structured/
+- 2005-03-03: http://stungeye.com/structured/2005/01/all-out-of-order.html
+- 2005-03-03: http://stungeye.com/structured/2005/02/all-out-of-order-comments.html
+- 2005-04-29: http://stungeye.com/structured/2005/04/heed.html
+- 2005-05-05: http://stungeye.com/programs/
+- 2005-05-08: http://stungeye.com/structured/2005/05/full.html
+- 2005-06-01: http://stungeye.com/structured/
+- 2005-06-01: http://stungeye.com/programs/
+- 2005-06-12: http://stungeye.com/structured/
+- 2005-08-06: http://stungeye.com/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=entry&amp;blog_id=1
+- 2005-09-16: http://stungeye.com/beebytes/
+- 2005-11-29: http://stungeye.com/cv/
+- 2006-01-14: http://stungeye.com/programs/greasemonkey/radioblogclub.user.js
+- 2006-02-09: http://stungeye.com/programs
+- 2006-04-07: http://stungeye.com/about/
+- 2006-07-18: http://www.stungeye.com/sketch.php?sketch=Dancing%20Ideas&amp;path=programs/dancing/&amp;filename=dancing_ideas_handles_simplify2&amp;w=400&amp;h=400
+- 2006-09-27: http://stungeye.com/archives/
+- 2007-07-01: http://www.stungeye.com/sketch.php?sketch=The%20Seekers%202.0&amp;path=processing/0404/2.0/&amp;filename=theSeekers2&amp;w=600&amp;h=400
+- 2007-09-16: http://stungeye.com/images/lakeshore/
+- 2007-10-20: http://stungeye.com/processing/1007/
+- 2008-07-28: http://stungeye.com/feed
+- 2008-07-28: http://stungeye.com/feed/blog
+- 2008-07-28: http://stungeye.com/feed/photo
+- 2008-07-28: http://stungeye.com/feed/link
+- 2008-07-28: http://stungeye.com/archives/
+- 2008-07-28: http://stungeye.com/sounds/
+- 2008-07-28: http://stungeye.com/design/
+- 2008-07-28: http://stungeye.com/programs/
+- 2008-07-28: http://stungeye.com/words/
+- 2008-09-19: http://stungeye.com/structured/#Recursion
+- 2008-11-25: http://stungeye.com/programs/
+- 2008-11-25: http://stungeye.com/processing/1007/
+- 2009-03-17: http://stungeye.com/processing/0304/index.html
+- 2009-03-17: http://stungeye.com/programs/
+- 2009-03-17: http://stungeye.com/processing/1007/
+- 2011-05-26: http://stungeye.com/school/coding_challenges/
+- 2011-11-01: http://stungeye.com/programs/
+- 2014-11-25: http://stungeye.com/twitterbots2013/
+- 2015-07-11: http://stungeye.com/school/coding_challenges/
+- 2016-05-01: http://stungeye.com/school/coding_challenges/
+- 2018-06-05: http://stungeye.com/MeowML/reading-animals.html
+
+## Legacy display_*() JavaScript Usage (43 days)
+
+These posts depend on `display_image()`, `display_image_mult()`, `display_flash()`, or
+`display_processing()` JavaScript functions that are not shipped in the static site.
+Clicking these links currently does nothing.
+
+- 2003-09-30: display_image()
+- 2003-10-13: display_image(), display_image_mult()
+- 2003-10-16: display_image_mult()
+- 2003-10-18: display_image_mult()
+- 2003-10-19: display_image_mult()
+- 2003-10-20: display_image_mult()
+- 2003-10-21: display_image_mult()
+- 2003-10-26: display_image(), display_image_mult()
+- 2003-10-27: display_image_mult()
+- 2003-10-29: display_image_mult()
+- 2003-11-03: display_image()
+- 2003-11-04: display_image()
+- 2003-11-05: display_image(), display_image_mult()
+- 2003-11-06: display_image(), display_image_mult()
+- 2003-11-14: display_flash()
+- 2003-11-15: display_flash(), display_image()
+- 2003-11-16: display_image()
+- 2003-11-17: display_flash()
+- 2003-11-18: display_flash(), display_image_mult()
+- 2003-11-19: display_image(), display_image_mult()
+- 2003-11-24: display_flash()
+- 2003-11-26: display_image(), display_image_mult()
+- 2003-12-03: display_flash()
+- 2003-12-04: display_flash()
+- 2003-12-08: display_image()
+- 2003-12-12: display_image_mult()
+- 2003-12-15: display_flash()
+- 2004-01-09: display_flash()
+- 2004-01-14: display_image(), display_image_mult()
+- 2004-02-05: display_image(), display_image_mult()
+- 2004-02-09: display_flash(), display_image()
+- 2004-02-12: display_processing()
+- 2004-02-16: display_processing()
+- 2004-02-20: display_processing()
+- 2004-03-03: display_image()
+- 2004-03-10: display_processing()
+- 2004-04-11: display_processing()
+- 2004-04-15: display_image_mult()
+- 2004-05-08: display_processing()
+- 2004-05-11: display_image_mult()
+- 2004-06-10: display_image_mult()
+- 2004-06-16: display_image()
+- 2004-08-10: display_image()
+
+## Other Inline JavaScript (12 days)
+
+Posts with inline event handlers (onclick, onmouseover, etc.) not related to display_*() functions.
+
+- 2002-09-04: onmouseout, onmouseover
+- 2002-09-19: onmouseout, onmouseover
+- 2002-09-27: onmouseout, onmouseover
+- 2002-09-30: onmouseout, onmouseover
+- 2002-10-04: onmouseout, onmouseover
+- 2002-10-15: onmouseout, onmouseover
+- 2002-11-27: onmouseout, onmouseover
+- 2002-12-01: onmouseout, onmouseover
+- 2003-01-15: onmouseout, onmouseover
+- 2003-04-10: onmouseout, onmouseover
+- 2003-08-21: onmouseout, onmouseover
+- 2003-09-16: onmouseout, onmouseover
