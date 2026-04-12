@@ -152,10 +152,21 @@ function padArchiveUrls(text) {
 
 // Media file extensions for classifying stungeye.com URLs
 const MEDIA_EXTENSIONS = new Set([
-  ".jpg", ".jpeg", ".png", ".gif", ".bmp", ".svg", ".webp",
-  ".swf", ".fla",
-  ".mp3", ".wav", ".ogg",
-  ".avi", ".mov", ".mp4",
+  ".jpg",
+  ".jpeg",
+  ".png",
+  ".gif",
+  ".bmp",
+  ".svg",
+  ".webp",
+  ".swf",
+  ".fla",
+  ".mp3",
+  ".wav",
+  ".ogg",
+  ".avi",
+  ".mov",
+  ".mp4",
   ".pde",
 ]);
 
@@ -1183,12 +1194,8 @@ async function main() {
   console.log(
     `  stungeye.com page refs: ${mediaReport.stungeyePageRefs.length}`,
   );
-  console.log(
-    `  display_*() usage: ${mediaReport.displayFnUsage.length} days`,
-  );
-  console.log(
-    `  Other inline JS: ${mediaReport.inlineJsUsage.length} days`,
-  );
+  console.log(`  display_*() usage: ${mediaReport.displayFnUsage.length} days`);
+  console.log(`  Other inline JS: ${mediaReport.inlineJsUsage.length} days`);
   console.log("");
 
   console.log("Migration complete!");

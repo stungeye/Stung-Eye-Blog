@@ -11,7 +11,7 @@ Review date: 2026-04-11
 
 ## Confirmed Issues
 
-### 1. High: MT-era self-hosted media was not migrated into the static output
+### 1. ~~High~~ Fixed: MT-era self-hosted media was not migrated into the static output
 
 The migration code only scans CI/Tumblr `regular` and `blog` HTML with `processHtmlImages()` in [tools/migrate.js](../tools/migrate.js) around lines 272-330 and 449-467. MT entries are rendered separately in `renderMtEntry()` starting at line 505, and that path never localizes or even inventories legacy `stungeye.com` media URLs.
 
@@ -28,7 +28,9 @@ Representative examples:
 
 The generated `_site` tree does not include legacy top-level `/images/`, `/flash/`, `/processing/`, or `/public/images/` directories. If deployment replaces the old site root with the Eleventy output alone, those historical assets will 404 and the affected posts will lose visible content.
 
-### 2. High: Legacy `display_*` viewer/app links are still rendered, but the new site ships no implementation
+**Resolution:** Dealt with this by expanding the migration-media-report.md to include all self-hosted media. Also searched for and logged links to self hosted html pages, including folders that will auto-load index.html pages.
+
+### 2. ~~High~~ Fixed: Legacy `display_*` viewer/app links are still rendered, but the new site ships no implementation
 
 Many MT-era posts still rely on inline handlers such as `display_image()`, `display_image_mult()`, `display_flash()`, and `display_processing()`. Example source content is visible in [src/posts/2003/10/26/index.md](../src/posts/2003/10/26/index.md) lines 9-15, and the built page still contains those handlers verbatim in [\_site/archive/by_date/2003/10/26/index.html](../_site/archive/by_date/2003/10/26/index.html).
 
@@ -41,6 +43,8 @@ Impact:
 - Legacy Flash and Processing applet launch links are non-functional even before considering whether the underlying media files still exist
 
 This is a real regression in the MT archive experience, especially for the 2003-2004 art/programming posts where the linked media is the main content.
+
+**Resolution:** Generated a new section in the migration-media-report.md on which day pages make use of these display\_\*() javascript functions. Also look for and logged any other use of custom javascript in the posts.
 
 ### 3. ~~High~~ Fixed: The build artifact is not cleaned, so stale `/pages/*` routes remain in `_site`
 
