@@ -4,7 +4,7 @@ title: "Discovered on October 22, 2011"
 permalink: /archive/by_date/2011/10/22/
 ---
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fstungeye%2Fgoddess-of-knowledge-a-sleepytime-mix-2008%2F" frameborder="0" ></iframe>
+<iframe src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;light=1&amp;feed=%2Fstungeye%2Fgoddess-of-knowledge-a-sleepytime-mix-2008%2F"></iframe>
 
 <p><a href="https://www.mixcloud.com/stungeye/goddess-of-knowledge-a-sleepytime-mix-2008/">Sending Zzzzzs Across the Pond</a> - A wally glutton sleepytime mix I made in <a href="http://stungeye.com/archives/2008/02/sending_zzzzzs.php">early 2008</a>.</p>
 

@@ -10,6 +10,6 @@ permalink: /archive/by_date/2009/11/04/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/DFM140rju4k?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/DFM140rju4k?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" allowfullscreen=""></iframe>
 
 <p>Six or seven years ago I had the idea to &#8220;write&#8221; a book where every sentence was copied from another work of fiction. This video is the movie equivalent in the form of a music video.</p>

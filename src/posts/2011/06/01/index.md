@@ -4,7 +4,7 @@ title: "Discovered on June 1, 2011"
 permalink: /archive/by_date/2011/06/01/
 ---
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/14972935&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe scrolling="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/14972935&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <p><a href="http://soundcloud.com/stungeye/steak-and-glutton-relax-beat">Relax - Glutton and Steak Beat Generation Edit</a></p>
 

@@ -4,7 +4,7 @@ title: Lines Allude a Circle
 permalink: /archive/by_date/2014/02/27/
 ---
 
-<iframe width="498" height="680" scrolling="no" frameborder="0" src="https://www.openprocessing.org/sketch/136697/embed/?width=470&amp;height=600&amp;border=true"></iframe>
+<iframe scrolling="no" src="https://www.openprocessing.org/sketch/136697/embed/?width=470&amp;height=600&amp;border=true"></iframe>
 
 <p>Lines, lines, lines. Over the past week or so I’ve been working on a computer program (see above) that can generate images similar to my dad’s engravings (see below).*</p>
 

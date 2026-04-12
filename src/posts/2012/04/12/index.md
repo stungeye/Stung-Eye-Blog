@@ -4,7 +4,7 @@ title: "Discovered on April 12, 2012"
 permalink: /archive/by_date/2012/04/12/
 ---
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/gsfc/7009056027/" title="Perpetual Ocean [hd video]"><img src="https://live.staticflickr.com/7223/7009056027_b4d5c22cb3_b.jpg" width="500" height="281" alt="Perpetual Ocean [hd video]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/gsfc/7009056027/" title="Perpetual Ocean [hd video]"><img src="https://live.staticflickr.com/7223/7009056027_b4d5c22cb3_b.jpg" width="500" height="281" alt="Perpetual Ocean [hd video]"></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <p><a href="http://www.flickr.com/photos/gsfc/7009056027/">Perpetual Ocean</a> from NASA</p>
 

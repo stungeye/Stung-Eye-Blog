@@ -4,7 +4,7 @@ title: "Discovered on February 9, 2010"
 permalink: /archive/by_date/2010/02/09/
 ---
 
-<iframe src="https://www.youtube.com/embed/mwDKMiAfxFE?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/mwDKMiAfxFE?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" allowfullscreen=""></iframe>
 
 <p><a href="http://www.youtube.com/watch?v=mwDKMiAfxFE">This video</a> shows two AI players battling it out for <a href="http://en.wikipedia.org/wiki/Tron_%28arcade_game%29">Tron</a> supremacy as part of the <a href="http://csclub.uwaterloo.ca/contest/index.php">Google AI Challenge</a>.</p>
 

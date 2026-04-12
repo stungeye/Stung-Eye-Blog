@@ -4,7 +4,7 @@ title: "Discovered on May 5, 2011"
 permalink: /archive/by_date/2011/05/05/
 ---
 
-<iframe src="https://www.youtube.com/embed/juo9-kzXxk0?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/juo9-kzXxk0?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" allowfullscreen=""></iframe>
 
 <p>Early Winnipeg Rap Videos - Part 2</p>
 
@@ -12,7 +12,7 @@ permalink: /archive/by_date/2011/05/05/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/g56wrFBtZXM?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/g56wrFBtZXM?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" allowfullscreen=""></iframe>
 
 <p>Early Winnipeg Rap Videos - Part 1</p>
 

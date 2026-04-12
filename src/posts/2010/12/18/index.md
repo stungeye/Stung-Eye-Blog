@@ -4,7 +4,7 @@ title: "Discovered on December 18, 2010"
 permalink: /archive/by_date/2010/12/18/
 ---
 
-<iframe src="https://player.vimeo.com/video/16064308" width="400" height="225" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/16064308"></iframe>
 
 <p>What if we could touch our music again?</p>
 

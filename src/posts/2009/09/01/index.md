@@ -14,7 +14,7 @@ permalink: /archive/by_date/2009/09/01/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/0JL04JJjocc?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/0JL04JJjocc?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" allowfullscreen=""></iframe>
 
 <p><a href="http://heli.stanford.edu/">AI Helicopter Control Airshow</a></p>
 

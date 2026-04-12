@@ -4,7 +4,7 @@ title: Reading and Listening in 2015
 permalink: /archive/by_date/2016/02/19/
 ---
 
-<p>I read fifteen books this past year. Ten less than <a href="http://stungeye.com/archive/by_date/2015/01/22">2014</a>, four less than in <a href="http://stungeye.com/archive/by_date/2014/01/11">2013</a>, three less than in <a href="http://stungeye.com/archive/by_date/2012/12/31">2012</a>, and one less than in <a href="http://stungeye.com/archive/by_date/2011/12/18">2011</a>. All fifteen books were read in deadtree format. Fourteen of them were fiction. One was non-fiction.</p>
+<p>I read fifteen books this past year. Ten less than <a href="http://stungeye.com/archive/by_date/2015/01/22/">2014</a>, four less than in <a href="http://stungeye.com/archive/by_date/2014/01/11/">2013</a>, three less than in <a href="http://stungeye.com/archive/by_date/2012/12/31/">2012</a>, and one less than in <a href="http://stungeye.com/archive/by_date/2011/12/18/">2011</a>. All fifteen books were read in deadtree format. Fourteen of them were fiction. One was non-fiction.</p>
 
 <p>As you’ll see at the end of this post, my drop in book consumption can be attributed to my new found love of podcasts.</p>
 
@@ -63,7 +63,7 @@ permalink: /archive/by_date/2016/02/19/
   <p>“All children have to be deceived if they are to grow up without trauma.”</p>
 </blockquote>
 
-<p>What would you do to preserve the innocence of a group of children shuned by the rest of society? A melancholy story about purpose, love and mortality. Like Ishiguro’s The Remains of the Day (one of my <a href="http://stungeye.com/archive/by_date/2015/01/22">top three from 2014</a>) it’s also about memory and denial.</p>
+<p>What would you do to preserve the innocence of a group of children shuned by the rest of society? A melancholy story about purpose, love and mortality. Like Ishiguro’s The Remains of the Day (one of my <a href="http://stungeye.com/archive/by_date/2015/01/22/">top three from 2014</a>) it’s also about memory and denial.</p>
 
 <p>This book left me feeling sad and protective. Protective of my children but also of the entire human race. And that’s a weird feeling.</p>
 

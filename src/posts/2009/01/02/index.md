@@ -4,7 +4,7 @@ title: "Discovered on January 2, 2009"
 permalink: /archive/by_date/2009/01/02/
 ---
 
-<iframe src="https://www.youtube.com/embed/7SfQVoMGxfw?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/7SfQVoMGxfw?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" allowfullscreen=""></iframe>
 
 <p>Dream A Little Dream</p>
 

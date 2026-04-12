@@ -4,7 +4,7 @@ title: "Discovered on March 5, 2012"
 permalink: /archive/by_date/2012/03/05/
 ---
 
-<iframe src="https://player.vimeo.com/video/34719005" width="400" height="225" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/34719005"></iframe>
 
 <p><a href="http://www.djbrace.com/Synesthasia/">Synesthasia</a> is the second album from <a href="http://www.djbrace.com/">DJ Brace</a>’s Electric Nosehair Orchestra Project.</p>
 

@@ -4,7 +4,7 @@ title: "Discovered on August 9, 2011"
 permalink: /archive/by_date/2011/08/09/
 ---
 
-<iframe src="https://player.vimeo.com/video/9790850" width="400" height="300" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/9790850"></iframe>
 
 <p><strong>Algorithms are Thoughts, Chainsaws are Tools</strong></p>
 

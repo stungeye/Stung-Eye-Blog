@@ -10,6 +10,6 @@ permalink: /archive/by_date/2011/11/22/
 
 ---
 
-<iframe src="https://player.vimeo.com/video/24464538?title=0&amp;byline=0&amp;portrait=0" width="400" height="225" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/24464538?title=0&amp;byline=0&amp;portrait=0"></iframe>
 
 <p><a href="http://vimeo.com/24464538">Pas de Deux</a> by <a href="http://www.danielwurtzel.com/">Daniel Wurtzel</a></p>

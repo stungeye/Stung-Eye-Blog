@@ -10,7 +10,7 @@ permalink: /archive/by_date/2011/07/28/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/Fg_JcKSHUtQ?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Fg_JcKSHUtQ?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" allowfullscreen=""></iframe>
 
 <p><a href="http://www.youtube.com/watch?v=Fg_JcKSHUtQ">Flying Bird Robot</a>.</p>
 

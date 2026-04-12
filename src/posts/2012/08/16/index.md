@@ -10,6 +10,6 @@ permalink: /archive/by_date/2012/08/16/
 
 ---
 
-<iframe src="https://player.vimeo.com/video/36579366" width="400" height="225" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/36579366"></iframe>
 
 <p><a href="http://vimeo.com/36579366">Bret Victor - Inventing on Principle</a> - A talk about invention, creativity, feedback, programming, electronics, design, and activism, oh my! <strong>This talk blew my mind.</strong></p>

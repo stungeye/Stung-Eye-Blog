@@ -1,6 +1,6 @@
 ---
 date: 2010-03-04 22:48:22
-title: 'You Know Who "Gets it"?'
+title: "You Know Who \"Gets it\"?"
 permalink: /archive/by_date/2010/03/04/
 ---
 

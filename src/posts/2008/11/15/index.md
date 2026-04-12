@@ -4,7 +4,7 @@ title: "Discovered on November 15, 2008"
 permalink: /archive/by_date/2008/11/15/
 ---
 
-<iframe src="https://www.youtube.com/embed/v1VdJU7scps?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/v1VdJU7scps?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" allowfullscreen=""></iframe>
 
 Violinist and DJ bring the noise.
 

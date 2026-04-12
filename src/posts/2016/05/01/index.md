@@ -34,7 +34,7 @@ permalink: /archive/by_date/2016/05/01/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/28_58XMjg_A?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe id="youtube_iframe" src="https://www.youtube.com/embed/28_58XMjg_A?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" allowfullscreen=""></iframe>
 
 <p><a href="https://www.youtube.com/watch?v=28_58XMjg_A">Sam Popowich - Coding and Humanism</a><br/>
 August 2015 - <a href="https://www.utsc.utoronto.ca/conferences/dpi/">UTSC Digital Pedagogy Institute</a></p>

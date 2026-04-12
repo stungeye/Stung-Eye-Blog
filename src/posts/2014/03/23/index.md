@@ -4,7 +4,7 @@ title: "Discovered on March 23, 2014"
 permalink: /archive/by_date/2014/03/23/
 ---
 
-<iframe src="https://www.youtube.com/embed/yJZgCAUOd80?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/yJZgCAUOd80?wmode=transparent&amp;autohide=1&amp;egm=0&amp;hd=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;showsearch=0" allowfullscreen=""></iframe>
 
 <p>Circus performer <a href="http://www.angelicacirque.com/">Angelica Bongiovonni</a> dances with a <a href="https://en.wikipedia.org/wiki/Cyr_wheel">Cyr wheel</a> in <a href="http://www.cirque-eloize.com/">Cirque Éloize</a>. [via: <a href="http://thekidshouldseethis.com/">thekidshouldseethis</a>]</p>
 

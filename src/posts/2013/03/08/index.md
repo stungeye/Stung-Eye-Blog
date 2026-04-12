@@ -4,7 +4,7 @@ title: "Discovered on March 8, 2013"
 permalink: /archive/by_date/2013/03/08/
 ---
 
-<iframe src="https://player.vimeo.com/video/57704719" width="400" height="225" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/57704719"></iframe>
 
 <p><a href="http://vimeo.com/57704719">Bike!</a> - A short film about biking in Winnipeg.</p>
 

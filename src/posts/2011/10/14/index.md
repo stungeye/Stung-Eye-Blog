@@ -10,6 +10,6 @@ permalink: /archive/by_date/2011/10/14/
 
 ---
 
-<iframe src="https://player.vimeo.com/video/29987934" width="400" height="225" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/29987934"></iframe>
 
 <p><a href="http://vimeo.com/29987934">Whale Fall</a> (after life of a whale)</p>

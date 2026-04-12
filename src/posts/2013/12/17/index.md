@@ -36,7 +36,7 @@ permalink: /archive/by_date/2013/12/17/
 
 <p>I coded the following visualization to demonstrates these dice-sum probabilities. In this program virtual 6-sided dice-throws are simulated using a <a href="https://en.wikipedia.org/wiki/Pseudorandomness">pseudorandom</a> number generator. In total over 3000 virtual dice are thrown before the programs resets.</p>
 
-<iframe width="428" height="370" scrolling="no" frameborder="0" src="https://www.openprocessing.org/sketch/124236/embed/?width=400&amp;height=300&amp;border=true"></iframe>
+<iframe scrolling="no" src="https://www.openprocessing.org/sketch/124236/embed/?width=400&amp;height=300&amp;border=true"></iframe>
 
 <p>The <span style="color:#eee; background-color:#008789; padding: 0 3px;">left-hand graph</span> above shows how often each virtual die lands on a specific side, 1 through 6. Since there is an equal probability of each side appearing, the columns in this graph should all be approximately the same height. This is the uniform distribution I mentioned earlier.</p>
 
@@ -50,7 +50,7 @@ permalink: /archive/by_date/2013/12/17/
 
 <p>The next visualization demonstrates just this effect. Each refresh of the graphs represents another possible 72-roll game of Settlers. <em>With a sample size of 72 pairs of dice the graphs are often far from ideal.</em> In some games <span style="color:#eee; background-color:#008789; padding: 0 3px;">dice-sides</span> are far from uniform, and the <span style="color:#eee; background-color:#FC4349; padding: 0 3px;">dice sums</span> do not always follow the expected triangular probability distribution.</p>
 
-<iframe width="428" height="370" scrolling="no" frameborder="0" src="https://www.openprocessing.org/sketch/124261/embed/?width=400&amp;height=300&amp;border=true"></iframe>
+<iframe scrolling="no" src="https://www.openprocessing.org/sketch/124261/embed/?width=400&amp;height=300&amp;border=true"></iframe>
 
 <h3>Our Crazy Game</h3>
 

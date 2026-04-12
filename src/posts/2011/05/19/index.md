@@ -16,6 +16,6 @@ permalink: /archive/by_date/2011/05/19/
 
 ---
 
-<iframe src="https://player.vimeo.com/video/23920610" width="400" height="225" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/23920610"></iframe>
 
 <p><a href="http://vimeo.com/23920610">Winnipeg produced video game trailer</a> for <a href="http://messhof.com/nidhogg/">Nidhogg</a>. Also: <a href="http://blog.isotropy.ca/2011/05/making-the-nidhogg-trailer/">Making this trailer</a>.</p>

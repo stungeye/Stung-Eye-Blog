@@ -16,6 +16,6 @@ permalink: /archive/by_date/2011/02/02/
 
 ---
 
-<iframe src="https://player.vimeo.com/video/14912890" width="400" height="225" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/14912890"></iframe>
 
 <p>Everything is a Remix: <a href="http://www.everythingisaremix.info/?p=20">Part One</a>, <a href="http://www.everythingisaremix.info/?p=58">Part Two</a></p>

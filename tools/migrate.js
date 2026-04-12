@@ -89,6 +89,12 @@ function normalizeHtml(html) {
     $(el).removeAttr("data-orig-height");
     $(el).removeAttr("data-orig-width");
   });
+  // Strip width, height, and frameborder from iframes (handled by CSS)
+  $("iframe").each((_, el) => {
+    $(el).removeAttr("width");
+    $(el).removeAttr("height");
+    $(el).removeAttr("frameborder");
+  });
   // cheerio serializes with lowercase tags and quoted attributes
   return $("body").html() || "";
 }
@@ -129,6 +135,15 @@ function monthName(dateStr) {
 /** Parse a timestamp to extract an ordering key (for descending sort). */
 function timestampKey(ts) {
   return ts; // ISO-ish strings sort lexicographically
+}
+
+/** Zero-pad month and day and ensure trailing slash in /archive/by_date/ URLs. */
+function padArchiveUrls(text) {
+  return text.replace(
+    /\/archive\/by_date\/(\d{4})\/(\d{1,2})\/(\d{1,2})\/?(?=[)"'\s<]|$)/g,
+    (_, y, m, d) =>
+      `/archive/by_date/${y}/${m.padStart(2, "0")}/${d.padStart(2, "0")}/`,
+  );
 }
 
 // ---------------------------------------------------------------------------
@@ -430,7 +445,7 @@ function renderLinkItem(item) {
 
 function renderVideoItem(item) {
   const r = item.rendered;
-  const player = r.video_player || "";
+  const player = normalizeHtml(r.video_player || "");
   const caption = r.video_caption || "";
 
   const lines = [];
@@ -457,7 +472,7 @@ async function renderRegularItem(item, dateStr) {
   return body;
 }
 
-async function renderBlogItem(item, dateStr) {
+async function renderBlogItem(item, dateStr, { includeTitle = true } = {}) {
   const r = item.rendered;
   const title = r.title || "";
   let body = r.body_html || "";
@@ -467,7 +482,7 @@ async function renderBlogItem(item, dateStr) {
   body = await processHtmlImages(body, dateStr, item.id);
 
   const lines = [];
-  if (title) {
+  if (includeTitle && title) {
     lines.push(`## ${title}`);
     lines.push("");
   }
@@ -476,7 +491,7 @@ async function renderBlogItem(item, dateStr) {
   return lines.join("\n");
 }
 
-async function renderItem(item, dateStr) {
+async function renderItem(item, dateStr, { includeTitle = true } = {}) {
   switch (item.type) {
     case "photo":
       return renderPhotoItem(item, dateStr);
@@ -489,7 +504,7 @@ async function renderItem(item, dateStr) {
     case "regular":
       return renderRegularItem(item, dateStr);
     case "blog":
-      return renderBlogItem(item, dateStr);
+      return renderBlogItem(item, dateStr, { includeTitle });
     default:
       // Unknown type — raw HTML with TODO comment
       const body =
@@ -645,7 +660,15 @@ async function generateDayPage(dateStr, ciDay, mtEntries) {
   for (const entry of dayEntries) {
     let rendered;
     if (entry.source === "ci") {
-      rendered = await renderItem(entry.item, dateStr);
+      // Skip ## title for the blog item whose title matches the page title (already in h1)
+      const skipTitle =
+        !titleUsedInHeader &&
+        entry.item.type === "blog" &&
+        entry.item.rendered?.title === title;
+      if (skipTitle) titleUsedInHeader = true;
+      rendered = await renderItem(entry.item, dateStr, {
+        includeTitle: !skipTitle,
+      });
     } else {
       // Skip ## title for the MT entry whose title matches the page title (already in h1)
       const skipTitle = !titleUsedInHeader && entry.entry.entry_title === title;
@@ -666,7 +689,10 @@ async function generateDayPage(dateStr, ciDay, mtEntries) {
 
   const body = renderedParts.join("\n\n---\n\n");
 
-  return frontmatter + "\n\n" + body + "\n";
+  // Zero-pad any unpadded /archive/by_date/ URLs in post content
+  const paddedBody = padArchiveUrls(body);
+
+  return frontmatter + "\n\n" + paddedBody + "\n";
 }
 
 // ---------------------------------------------------------------------------

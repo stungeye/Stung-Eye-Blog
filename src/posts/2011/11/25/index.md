@@ -29,4 +29,4 @@ permalink: /archive/by_date/2011/11/25/
 
 <p><br/></p>
 
-<p><strong>Related:</strong> <a href="http://stungeye.com/archive/by_date/2011/09/14">On the Marionette Theater.</a> In search of grace in adulthood, the burden of self-aware.</p>
+<p><strong>Related:</strong> <a href="http://stungeye.com/archive/by_date/2011/09/14/">On the Marionette Theater.</a> In search of grace in adulthood, the burden of self-aware.</p>

@@ -8,9 +8,11 @@ permalink: /archive/by_date/2025/02/15/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/videoseries?si=O4DDMzXzdJUyocl1&amp;list=PLHwGpEAs-3LMaQfbRQXyoU_dW5q-eSKSK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/videoseries?si=O4DDMzXzdJUyocl1&amp;list=PLHwGpEAs-3LMaQfbRQXyoU_dW5q-eSKSK" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
   </iframe>
+</div>
 
 ---
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4cB2SOnYWhkv4GaOpdE2cd?utm_source=generator" width="100%" height="500" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4cB2SOnYWhkv4GaOpdE2cd?utm_source=generator" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

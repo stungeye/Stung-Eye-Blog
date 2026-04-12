@@ -4,7 +4,7 @@ title: "Discovered on September 20, 2008"
 permalink: /archive/by_date/2008/09/20/
 ---
 
-<iframe src="https://player.vimeo.com/video/1593564?portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen width="400" height="225"></iframe>
+<iframe src="https://player.vimeo.com/video/1593564?portrait=0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 <p>Music Is Math — The <a href="http://vimeo.com/1593564?hd=1">hi-def version</a> is recommended.</p>
 

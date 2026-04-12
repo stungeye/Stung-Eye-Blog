@@ -96,7 +96,13 @@ export default function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("uniqueMonths", (days) => {
-    const months = [...new Set(days.map((day) => (day.date.getMonth() + 1).toString().padStart(2, "0")))];
+    const months = [
+      ...new Set(
+        days.map((day) =>
+          (day.date.getMonth() + 1).toString().padStart(2, "0"),
+        ),
+      ),
+    ];
     return months.sort();
   });
 

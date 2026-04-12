@@ -4,7 +4,7 @@ title: Art and Code - Overview Part III
 permalink: /archive/by_date/2009/04/04/
 ---
 
-<p>My Art and Code overview continues… (See: <a href="http://stungeye.com/archive/by_date/2009/03/17">Part I</a> &amp; <a href="http://stungeye.com/archive/by_date/2009/03/23">Part II</a>)</p>
+<p>My Art and Code overview continues… (See: <a href="http://stungeye.com/archive/by_date/2009/03/17/">Part I</a> &amp; <a href="http://stungeye.com/archive/by_date/2009/03/23/">Part II</a>)</p>
 
 <h3>Sunday Continued</h3>
 
@@ -13,7 +13,7 @@ permalink: /archive/by_date/2009/04/04/
 <h4>Processing - Presented by co-creators <a href="http://benfry.com/">Ben Fry</a> and <a href="http://www.reas.com/">Casey Reas</a>
 </h4>
 
-<p>I’ve written about <a href="http://processing.org">Processing</a> here <a href="http://stungeye.com/archive/by_date/2008/11/25">before</a>. It is still my goto tool for visual coding.</p>
+<p>I’ve written about <a href="http://processing.org">Processing</a> here <a href="http://stungeye.com/archive/by_date/2008/11/25/">before</a>. It is still my goto tool for visual coding.</p>
 
 <p><em>Jotted Down:</em></p>
 

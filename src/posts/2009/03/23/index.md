@@ -4,7 +4,7 @@ title: Art and Code - Overview Part II
 permalink: /archive/by_date/2009/03/23/
 ---
 
-<p>My Art and Code overview continues… (See: <a href="http://stungeye.com/archive/by_date/2009/03/17">Part I</a>)</p>
+<p>My Art and Code overview continues… (See: <a href="http://stungeye.com/archive/by_date/2009/03/17/">Part I</a>)</p>
 
 <h3>Sunday - Toolkit Overviews and Dorkbot @ Brillobox</h3>
 

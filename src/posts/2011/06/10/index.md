@@ -4,7 +4,7 @@ title: "Discovered on June 10, 2011"
 permalink: /archive/by_date/2011/06/10/
 ---
 
-<iframe src="https://www.youtube.com/embed/Hyi4hjG6kDM?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Hyi4hjG6kDM?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" allowfullscreen=""></iframe>
 
 <p><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=Hyi4hjG6kDM">Explosion on Surface of the Sun. June 7th, 2011</a></p>
 

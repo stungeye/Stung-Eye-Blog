@@ -10,7 +10,7 @@ permalink: /archive/by_date/2013/05/29/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/SscLwofQJHo?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/SscLwofQJHo?wmode=transparent&amp;autohide=1&amp;egm=0&amp;hd=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;showsearch=0" allowfullscreen=""></iframe>
 
 <p><strong>Music Visualization #1</strong></p>
 
@@ -20,7 +20,7 @@ permalink: /archive/by_date/2013/05/29/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/XlyCLbt3Thk?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/XlyCLbt3Thk?wmode=transparent&amp;autohide=1&amp;egm=0&amp;hd=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;showsearch=0" allowfullscreen=""></iframe>
 
 <p><strong>Music Visualization #2</strong></p>
 
@@ -30,7 +30,7 @@ permalink: /archive/by_date/2013/05/29/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/p1XD1MSES_8?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/p1XD1MSES_8?wmode=transparent&amp;autohide=1&amp;egm=0&amp;hd=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;showsearch=0" allowfullscreen=""></iframe>
 
 <p><strong>Music Visualization #3</strong></p>
 

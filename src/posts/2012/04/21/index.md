@@ -4,7 +4,7 @@ title: "Discovered on April 21, 2012"
 permalink: /archive/by_date/2012/04/21/
 ---
 
-<iframe src="https://player.vimeo.com/video/39677781" width="400" height="300" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/39677781"></iframe>
 
 <p><a href="http://vimeo.com/39677781">Life in AdWords</a> by <a href="http://www.ericascourti.com/">Erica Scourti</a></p>
 

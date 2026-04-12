@@ -4,7 +4,7 @@ title: "Discovered on November 25, 2014"
 permalink: /archive/by_date/2014/11/25/
 ---
 
-<iframe src="https://www.youtube.com/embed/B_Rp0FWJOD8?feature=oembed" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/B_Rp0FWJOD8?feature=oembed" allowfullscreen=""></iframe>
 
 <p><strong>Internet Bots for Fun &amp; No Profit</strong></p>
 

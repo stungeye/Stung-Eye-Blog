@@ -4,7 +4,7 @@ title: "Discovered on March 1, 2010"
 permalink: /archive/by_date/2010/03/01/
 ---
 
-<iframe src="https://www.youtube.com/embed/nG_PbHVW5cQ?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/nG_PbHVW5cQ?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" allowfullscreen=""></iframe>
 
 <p><a href="https://www.youtube.com/watch?v=nG_PbHVW5cQ">The future of games</a>, a talk by <a href="http://www.schellgames.com/">Jesse Schell</a>. [28 minutes]</p>
 

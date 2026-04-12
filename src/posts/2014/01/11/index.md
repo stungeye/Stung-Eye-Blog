@@ -4,7 +4,7 @@ title: Reading and Listening in 2013
 permalink: /archive/by_date/2014/01/11/
 ---
 
-<p>I read nineteen books this past year, one more than in <a href="http://stungeye.com/archive/by_date/2012/12/31">2012</a>, and three more than <a href="http://stungeye.com/archive/by_date/2011/12/18">2011</a>.  Only one of the books was read on my Kobo, the rest were deadtree.</p>
+<p>I read nineteen books this past year, one more than in <a href="http://stungeye.com/archive/by_date/2012/12/31/">2012</a>, and three more than <a href="http://stungeye.com/archive/by_date/2011/12/18/">2011</a>.  Only one of the books was read on my Kobo, the rest were deadtree.</p>
 
 <h3>Books Read in 2013</h3>
 

@@ -58,7 +58,7 @@ Ask Einstein.</p>
 
 ---
 
-<iframe src="https://player.vimeo.com/video/65040155" width="400" height="166" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/65040155"></iframe>
 
 <p><a href="https://vimeo.com/65040155">Music &amp; Fractal Landscapes</a></p>
 

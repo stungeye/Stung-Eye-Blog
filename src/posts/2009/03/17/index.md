@@ -8,7 +8,7 @@ permalink: /archive/by_date/2009/03/17/
 
 <h3>Saturday - Workshops and Church Brews</h3>
 
-<p>The day began with <a href="http://stungeye.com/archive/by_date/2009/03/7">a walk by the Cloud Factory</a> followed by two programming workshops with lunch between them. There were 9 simultaneous morning and afternoon workshops. Choosing just two was frustrating. Another day of workshops would have been delightful.</p>
+<p>The day began with <a href="http://stungeye.com/archive/by_date/2009/03/07/">a walk by the Cloud Factory</a> followed by two programming workshops with lunch between them. There were 9 simultaneous morning and afternoon workshops. Choosing just two was frustrating. Another day of workshops would have been delightful.</p>
 
 <p>I attended <a href="http://artandcode.ning.com/events/information-visualization-with">Information Visualization</a> and <a href="http://artandcode.ning.com/events/make-games-with-hackety-hack">Play Games with Hackety Hack</a>.</p>
 
@@ -37,7 +37,7 @@ permalink: /archive/by_date/2009/03/17/
 <li>
 <a href="http://kspark.kaist.ac.kr/Human%20Engineering.files/Chernoff/Chernoff%20Faces.htm">Using Cartoon Faces to Represent Multi-dimensional Datasets</a> (More: <a href="http://en.wikipedia.org/wiki/Chernoff_face">Chernoff Faces</a> and <a href="http://www.hesketh.com/schampeo/projects/Faces/FaceSaver.html">Face Saver</a>)</li>
 </ul>
-<p>During the experimentation part of this workshop I began working on the <a href="http://stungeye.com/archive/by_date/2009/03/16">Marvel “Social Network” visualization</a>.</p>
+<p>During the experimentation part of this workshop I began working on the <a href="http://stungeye.com/archive/by_date/2009/03/16/">Marvel “Social Network” visualization</a>.</p>
 
 <p><a href="http://www.flickr.com/photos/ecin/3346633173/">Lunch</a> was tabbouleh salad, hummus, pitas and an apple.</p>
 

@@ -4,7 +4,7 @@ title: "Discovered on April 18, 2011"
 permalink: /archive/by_date/2011/04/18/
 ---
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/7659375" width="400" height="331" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/7659375" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 <p><a href="http://www.slideshare.net/stungeye/etching-for-artists-and-hackers-printmaking-circuitboards">Etching for Artists and Hackers: Printmaking &amp; Circuit Boards</a></p>
 
@@ -14,7 +14,7 @@ permalink: /archive/by_date/2011/04/18/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/SNKn4PORGBI?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/SNKn4PORGBI?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" allowfullscreen=""></iframe>
 
 <p><a href="http://www.youtube.com/watch?v=SNKn4PORGBI">The Intaglio Printmaking Process</a></p>
 
@@ -22,6 +22,6 @@ permalink: /archive/by_date/2011/04/18/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/nY3ahfgj_wU?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/nY3ahfgj_wU?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" allowfullscreen=""></iframe>
 
 <p><a href="http://www.youtube.com/watch?v=nY3ahfgj_wU">How to Etch a Single-Sided Printed Circuit Board</a></p>

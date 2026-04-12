@@ -4,7 +4,7 @@ title: Has Anyone Ever Flipped Heads 76 Times in a Row?
 permalink: /archive/by_date/2014/03/06/
 ---
 
-<p><a href="http://blogs.scientificamerican.com/roots-of-unity/2014/01/27/rosencrantz-and-guildenstern-flip-coins/">This article</a> makes for a good companion piece to <a href="http://stungeye.com/archive/by_date/2013/12/17">my post on dice probabilities</a>.</p>
+<p><a href="http://blogs.scientificamerican.com/roots-of-unity/2014/01/27/rosencrantz-and-guildenstern-flip-coins/">This article</a> makes for a good companion piece to <a href="http://stungeye.com/archive/by_date/2013/12/17/">my post on dice probabilities</a>.</p>
 
 <blockquote>
   <p><em>Soon we find out that Guildenstern [in the play Rosencrantz and Guildenstern are dead] has flipped 76 coins, and all of them have come up heads. “A weaker man,” he remarks, “might be moved to re-examine his faith, if in nothing else at least in the law of probability.”</em></p>

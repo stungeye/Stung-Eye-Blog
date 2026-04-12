@@ -150,6 +150,6 @@ permalink: /archive/by_date/2019/02/03/
 
 <p>2015 was the year I discovered podcasts. I&rsquo;m recovering.</p>
 
-<p>Past yearly overviews: <a href="http://stungeye.com/archive/by_date/2018/01/21">2017</a>, <a href="http://stungeye.com/archive/by_date/2017/03/25">2016</a>, <a href="http://stungeye.com/archive/by_date/2016/02/19">2015</a>, <a href="http://stungeye.com/archive/by_date/2015/01/22">2014</a>, <a href="http://stungeye.com/archive/by_date/2014/01/11">2013</a>, <a href="http://stungeye.com/archive/by_date/2012/12/31">2012</a>, <a href="http://stungeye.com/archive/by_date/2011/12/18">2011</a>.</p>
+<p>Past yearly overviews: <a href="http://stungeye.com/archive/by_date/2018/01/21/">2017</a>, <a href="http://stungeye.com/archive/by_date/2017/03/25/">2016</a>, <a href="http://stungeye.com/archive/by_date/2016/02/19/">2015</a>, <a href="http://stungeye.com/archive/by_date/2015/01/22/">2014</a>, <a href="http://stungeye.com/archive/by_date/2014/01/11/">2013</a>, <a href="http://stungeye.com/archive/by_date/2012/12/31/">2012</a>, <a href="http://stungeye.com/archive/by_date/2011/12/18/">2011</a>.</p>
 
 <p>I&rsquo;m planning on 2019 being the year of the re-read.</p>

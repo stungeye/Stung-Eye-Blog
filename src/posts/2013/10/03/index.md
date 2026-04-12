@@ -8,7 +8,7 @@ permalink: /archive/by_date/2013/10/03/
 
 <p>A 3D printed bust made last night at our local maker-space, <a href="http://assentworks.ca/">AssentWorks</a>.</p>
 
-<p>I stand by <a href="http://stungeye.com/archive/by_date/2009/01/26">my prediction</a> that the wide-scale piracy of physical objects is just around the corner. Especially considering that Fuji Film is already capable of <a href="http://www.fujifilm.eu/eu/news/article/news/premium-three-dimensional-replicas-of-van-gogh-masterpieces/">printing near-flawless reproductions of Van Gogh&#8217;s paintings</a>.</p>
+<p>I stand by <a href="http://stungeye.com/archive/by_date/2009/01/26/">my prediction</a> that the wide-scale piracy of physical objects is just around the corner. Especially considering that Fuji Film is already capable of <a href="http://www.fujifilm.eu/eu/news/article/news/premium-three-dimensional-replicas-of-van-gogh-masterpieces/">printing near-flawless reproductions of Van Gogh&#8217;s paintings</a>.</p>
 
 <p><strong>Related:</strong> <a href="http://vimeo.com/74350367">Digital Grotesque</a>, a 3D printed room designed by programming algorithms. &#8220;A fully immersive, solid, human-scale, enclosed structure that is entirely 3D printed out of sand.&#8221;</p>
 

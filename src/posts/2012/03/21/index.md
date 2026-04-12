@@ -38,10 +38,10 @@ permalink: /archive/by_date/2012/03/21/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/LdLu-IP9bnU?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/LdLu-IP9bnU?wmode=transparent&amp;autohide=1&amp;egm=0&amp;hd=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;showsearch=0" allowfullscreen=""></iframe>
 
 <p><a href="http://www.youtube.com/watch?v=LdLu-IP9bnU">How to fool Facial Recognition with cunning &amp; crochet</a></p>
 
 <p><a href="http://woowork.blogspot.ca/2012/03/in-yo-face-facial-recognition.html">More details and photos</a>.</p>
 
-<p>Previously on StungEye: <a href="http://stungeye.com/archive/by_date/2012/01/4">CV Dazzle, camouflage from computer vision.</a></p>
+<p>Previously on StungEye: <a href="http://stungeye.com/archive/by_date/2012/01/04/">CV Dazzle, camouflage from computer vision.</a></p>

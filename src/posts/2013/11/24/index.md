@@ -4,7 +4,7 @@ title: "Discovered on November 24, 2013"
 permalink: /archive/by_date/2013/11/24/
 ---
 
-<iframe src="https://player.vimeo.com/video/67249020" width="400" height="225" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/67249020"></iframe>
 
 <p><a href="https://vimeo.com/67249020">I met a robot at a ballet once</a> by <a href="http://www.beladossantos.blogspot.ca/">Isabela Dos Santos</a>.</p>
 

@@ -4,7 +4,7 @@ title: Reading and Listening in 2016
 permalink: /archive/by_date/2017/03/25/
 ---
 
-<p>I read 17 books last year. Two more than <a href="http://stungeye.com/archive/by_date/2016/02/19">2015</a>. Eight less than <a href="http://stungeye.com/archive/by_date/2015/01/22">2014</a>, Two less than in <a href="http://stungeye.com/archive/by_date/2014/01/11">2013</a>, one less than in <a href="http://stungeye.com/archive/by_date/2012/12/31">2012</a>, and one more than in <a href="http://stungeye.com/archive/by_date/2011/12/18">2011</a>. All seventeen books were deadtree format. Thirteen of them were fiction. Four were non-fiction.</p>
+<p>I read 17 books last year. Two more than <a href="http://stungeye.com/archive/by_date/2016/02/19/">2015</a>. Eight less than <a href="http://stungeye.com/archive/by_date/2015/01/22/">2014</a>, Two less than in <a href="http://stungeye.com/archive/by_date/2014/01/11/">2013</a>, one less than in <a href="http://stungeye.com/archive/by_date/2012/12/31/">2012</a>, and one more than in <a href="http://stungeye.com/archive/by_date/2011/12/18/">2011</a>. All seventeen books were deadtree format. Thirteen of them were fiction. Four were non-fiction.</p>
 
 <p>If we also count the books I’ve read to my girls before bed, the number would larger. This was the first year I started reading chapter books with the girls. We finished four chapter books together.</p>
 
@@ -80,7 +80,7 @@ permalink: /archive/by_date/2017/03/25/
 <li><a href="https://en.wikipedia.org/wiki/The_4-Hour_Chef">The 4-Hour Chef</a> - Tim Ferriss</li>
 <li>How to Sit - <a href="https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh">Thích Nhất Hạnh</a></li>
 <li><a href="https://www.goodreads.com/book/show/1573329.How_to_Behave_So_Your_Children_Will_Too_">How to Behave So Your Children Will, Too!</a> - Sal Severe</li>
-</ul><p>I first attempted to read the Annotated Turing in <a href="http://stungeye.com/archive/by_date/2014/01/11">2013</a>. In 2016 I forced myself to persevere by promising to give a “Papers we Love” talk on Alan Turing’s 1936 paper on computable numbers. Charles Petzold’s book is an heavily annotated version of Turing’s paper. I enjoyed the process of reading the book, grokking Turing’s Universal Machines, and giving the talk. I also got to reconnect with my year 2000 engineering thesis advisor, Bob McLeod, who attended the talk and asked some tough questions at the end. <a href="https://question.stungeye.com/s5/show/51">The slides for the talk can be seen here</a>.</p>
+</ul><p>I first attempted to read the Annotated Turing in <a href="http://stungeye.com/archive/by_date/2014/01/11/">2013</a>. In 2016 I forced myself to persevere by promising to give a “Papers we Love” talk on Alan Turing’s 1936 paper on computable numbers. Charles Petzold’s book is an heavily annotated version of Turing’s paper. I enjoyed the process of reading the book, grokking Turing’s Universal Machines, and giving the talk. I also got to reconnect with my year 2000 engineering thesis advisor, Bob McLeod, who attended the talk and asked some tough questions at the end. <a href="https://question.stungeye.com/s5/show/51">The slides for the talk can be seen here</a>.</p>
 
 <h3>Podcasts in 2016</h3>
 

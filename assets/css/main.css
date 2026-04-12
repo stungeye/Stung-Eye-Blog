@@ -372,13 +372,47 @@ cite {
 
 iframe {
   margin-top: 1rem;
-  max-width: 100%;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: none;
 }
 
 iframe[src*="youtube.com"],
-iframe[src*="vimeo.com"] {
+iframe[src*="vimeo.com"],
+iframe[src*="nfb.ca"],
+iframe[src*="kickstarter.com"] {
   width: 100%;
   aspect-ratio: 16 / 9;
+}
+
+iframe[src*="spotify.com"] {
+  width: 100%;
+  aspect-ratio: 5 / 4;
+}
+
+iframe[src*="soundcloud.com"] {
+  width: 100%;
+  aspect-ratio: 3 / 1;
+}
+
+iframe[src*="mixcloud.com"] {
+  width: 100%;
+  aspect-ratio: 3.5 / 1;
+}
+
+iframe[src*="maps.google.com"] {
+  width: 100%;
+  aspect-ratio: 2 / 1;
+}
+
+iframe[src*="slideshare.net"] {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+}
+
+iframe[src*="openprocessing.org"] {
+  width: 100%;
+  aspect-ratio: 4 / 3;
 }
 
 /* --- Day page --- */

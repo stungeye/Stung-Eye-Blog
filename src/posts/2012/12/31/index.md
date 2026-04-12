@@ -32,7 +32,7 @@ permalink: /archive/by_date/2012/12/31/
 <li><a href="http://en.wikipedia.org/wiki/The_Naked_Sun">The Naked Sun</a> - Isaac Asimov <strong>[Value Village]</strong></li>
 <li><a href="http://en.wikipedia.org/wiki/Lives_of_Girls_and_Women">Lives of Girls and Women</a> - Alice Munro <strong>[Value Village]</strong></li>
 <li><a href="http://en.wikipedia.org/wiki/Wake_(Robert_J._Sawyer_novel)">Wake</a> - Robert J. Sawyer <strong>[Grace Hospital Sale]</strong></li>
-<li><a href="http://stungeye.com/archive/by_date/2012/10/6">Reality is Broken</a> - Jane McGonigal <strong>[Library]</strong></li>
+<li><a href="http://stungeye.com/archive/by_date/2012/10/06/">Reality is Broken</a> - Jane McGonigal <strong>[Library]</strong></li>
 <li><a href="http://en.wikipedia.org/wiki/The_Skull_Beneath_the_Skin">The Skull Beneath the Skin</a> - P.D. James  <strong>[Value Village]</strong></li>
 </ul><p>No duds again this year. I am especially thankful to Arthur C. Clarke for introducing me to <a href="http://en.wikipedia.org/wiki/Pentomino">Pentominos</a>.</p>
 
@@ -43,7 +43,7 @@ permalink: /archive/by_date/2012/12/31/
 <li><a href="http://eloquentruby.com/">Eloquent Ruby</a> - Russ Olsen (Re-Reading) <strong>[RRC Desk Copy]</strong></li>
 </ul><h3>Audio Lectures</h3>
 
-<p>In 2012 I listened to 23 hours of lectures across two courses. Most of these lectures were heard while running or walking with Acelyn in her stroller in various parks around <a href="http://stungeye.com/archive/by_date/2012/06/14">Amsterdam</a>.</p>
+<p>In 2012 I listened to 23 hours of lectures across two courses. Most of these lectures were heard while running or walking with Acelyn in her stroller in various parks around <a href="http://stungeye.com/archive/by_date/2012/06/14/">Amsterdam</a>.</p>
 
 <ul><li><a href="http://www.justiceharvard.org">Justice with Michael Sandel</a></li>
 <li><a href="http://oyc.yale.edu/philosophy/phil-176">Philosophy of Death with Shelly Kagan</a></li>

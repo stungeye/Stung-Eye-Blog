@@ -26,13 +26,13 @@ University of Oxford</p>
 <li><a href="http://www.youtube.com/watch?v=G8wNyqPUYtU">Teaching for Learning</a> - Jennifer Summit - Stanford - <a href="https://itunes.apple.com/us/itunes-u/center-for-teaching-learning/id385634612">iTunes</a> (track 37)</li>
 </ul><p>Other audio lectures I have enjoyed:</p>
 
-<ul><li><a href="http://stungeye.com/archive/by_date/2012/12/31">Reading and listening in 2012</a></li>
-<li><a href="http://stungeye.com/archive/by_date/2011/12/18">Reading and listening in 2011</a></li>
+<ul><li><a href="http://stungeye.com/archive/by_date/2012/12/31/">Reading and listening in 2012</a></li>
+<li><a href="http://stungeye.com/archive/by_date/2011/12/18/">Reading and listening in 2011</a></li>
 </ul>
 
 ---
 
-<iframe src="https://player.vimeo.com/video/29498902" width="400" height="225" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/29498902"></iframe>
 
 <p><a href="http://vimeo.com/29498902">Ashes and Snow</a> by <a href="https://gregorycolbert.com/">Gregory Colbert</a>.</p>
 

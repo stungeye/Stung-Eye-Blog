@@ -4,7 +4,7 @@ title: "Discovered on June 20, 2011"
 permalink: /archive/by_date/2011/06/20/
 ---
 
-<iframe frameborder="0" height="410px" src="https://www.kickstarter.com/projects/1461914303/the-funklet/widget/video.html" width="480px"></iframe>
+<iframe src="https://www.kickstarter.com/projects/1461914303/the-funklet/widget/video.html"></iframe>
 
 <p><a href="http://www.kickstarter.com/projects/1461914303/the-funklet">The Funklet</a> a KickStarter project by <a href="http://www.djparadiddle.com/">Jack Stratton</a>.</p>
 

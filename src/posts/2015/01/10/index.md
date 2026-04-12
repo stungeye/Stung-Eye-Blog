@@ -4,7 +4,7 @@ title: "Discovered on January 10, 2015"
 permalink: /archive/by_date/2015/01/10/
 ---
 
-<iframe src="https://www.youtube.com/embed/0HJPilemNns?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe id="youtube_iframe" src="https://www.youtube.com/embed/0HJPilemNns?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" allowfullscreen=""></iframe>
 
 <p><a href="https://twitter.com/simon_swain">Simon Swain</a> &#8212; <a href="http://stungeye.com/archives/2003/10/tsop_wen.php">Emergence</a> as a game mechanic.</p>
 

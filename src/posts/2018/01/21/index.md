@@ -4,7 +4,7 @@ title: Reading and Listening in 2017
 permalink: /archive/by_date/2018/01/21/
 ---
 
-<p>I read 20 books last year. <a href="http://stungeye.com/archive/by_date/2017/03/25">In 2016 I read 17</a>. <a href="http://stungeye.com/archive/by_date/2016/02/19">In 2015 I read 15</a>. <a href="http://stungeye.com/archive/by_date/2015/01/22">In 2014 I read 25</a>. <a href="http://stungeye.com/archive/by_date/2014/01/11">In 2013 I read 19</a>. <a href="http://stungeye.com/archive/by_date/2012/12/31">In 2012 I read 18</a>. And <a href="http://stungeye.com/archive/by_date/2011/12/18">in 2011, when I first started tracking, I read 16</a>. All twenty books were deadtree format. Eleven of them were fiction. Nine were non-fiction.</p>
+<p>I read 20 books last year. <a href="http://stungeye.com/archive/by_date/2017/03/25/">In 2016 I read 17</a>. <a href="http://stungeye.com/archive/by_date/2016/02/19/">In 2015 I read 15</a>. <a href="http://stungeye.com/archive/by_date/2015/01/22/">In 2014 I read 25</a>. <a href="http://stungeye.com/archive/by_date/2014/01/11/">In 2013 I read 19</a>. <a href="http://stungeye.com/archive/by_date/2012/12/31/">In 2012 I read 18</a>. And <a href="http://stungeye.com/archive/by_date/2011/12/18/">in 2011, when I first started tracking, I read 16</a>. All twenty books were deadtree format. Eleven of them were fiction. Nine were non-fiction.</p>
 
 <p>I also read to the girls almost every night and, for the first time this year, Acelyn started reading bedtime stories aloud as well.</p>
 
@@ -23,9 +23,9 @@ permalink: /archive/by_date/2018/01/21/
 <li><a href="https://en.wikipedia.org/wiki/And_Then_There_Were_None">And Then There Were None</a> - Agatha Christie - U.N. Owen’s game of guilt and punishment.</li>
 <li><a href="https://en.wikipedia.org/wiki/Too_Like_the_Lightning">Too Like The Lightning</a> - Ada Palmer - A far-future 18th century treatise.</li>
 <li><a href="https://en.wikipedia.org/wiki/You_Shall_Know_Our_Velocity">You Shall Know Our Velocity</a> - Dave Eggers - Friendship as an antidote for perceived trauma.</li>
-</ul><p>Read in that order. Not as many stand-outs as <a href="http://stungeye.com/archive/by_date/2017/03/25">2016</a> but no major duds.</p>
+</ul><p>Read in that order. Not as many stand-outs as <a href="http://stungeye.com/archive/by_date/2017/03/25/">2016</a> but no major duds.</p>
 
-<p>Got halfway through <a href="https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude">One Hundred Years of Solitude</a> by Gabriel García Márquez. I started off loving it, but grew frustrated by the dense, fanciful plot. Reminded me of my experience with Ishiguro’s <a href="https://en.wikipedia.org/wiki/The_Unconsoled">The Unconsoled</a> in <a href="http://stungeye.com/archive/by_date/2014/01/11">2013</a>. Maybe I don’t have the patience for stream of consciousness magical realism.</p>
+<p>Got halfway through <a href="https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude">One Hundred Years of Solitude</a> by Gabriel García Márquez. I started off loving it, but grew frustrated by the dense, fanciful plot. Reminded me of my experience with Ishiguro’s <a href="https://en.wikipedia.org/wiki/The_Unconsoled">The Unconsoled</a> in <a href="http://stungeye.com/archive/by_date/2014/01/11/">2013</a>. Maybe I don’t have the patience for stream of consciousness magical realism.</p>
 
 <p>Nearly half of this year’s fiction was science fiction. Seven of the eleven were found at Value Village. Three (Walkaway, Morel, Lightning) were from the library. One (Goldfinch) was from my sister.</p>
 
@@ -106,7 +106,7 @@ permalink: /archive/by_date/2018/01/21/
 
 <p>I discovered podcasts in 2015 and continued to listen to hundreds of hours worth of them this past year. Looking over the length of this list, it’s no wonder I’ve got a Beyondpod queue of 19 unlistened podcasts.</p>
 
-<p>I’ve continued to listen to most of <a href="http://stungeye.com/archive/by_date/2017/03/25">the podcast I listened to last year</a>.</p>
+<p>I’ve continued to listen to most of <a href="http://stungeye.com/archive/by_date/2017/03/25/">the podcast I listened to last year</a>.</p>
 
 <p>New this year:</p>
 

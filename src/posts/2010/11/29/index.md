@@ -14,6 +14,6 @@ permalink: /archive/by_date/2010/11/29/
 
 ---
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/7521554&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe scrolling="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/7521554&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <p>In November 2003 I recorded myself playing John Lennon’s Imagine and <a href="http://www.peanutsandcorn.com/artists/mcenroe.html">mcenroe</a>’s <a href="http://www.dunlopartgallery.org/exhibitions/archives2000_04.html">Billy’s Vision</a>… <a href="http://stungeye.com/archives/2003/11/can_you_imagine.php">at the same time!</a></p>

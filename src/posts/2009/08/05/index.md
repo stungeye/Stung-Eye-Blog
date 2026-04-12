@@ -10,7 +10,7 @@ Build the best Mario playing AI. The organizers are &#8220;hoping to get submiss
 
 ---
 
-<iframe src="https://www.youtube.com/embed/0s3d1LfjWCI?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/0s3d1LfjWCI?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" allowfullscreen=""></iframe>
 
 <p><a href="http://youtube.com/user/robinba2342364">Infinite Mario AI</a></p>
 

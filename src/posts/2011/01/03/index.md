@@ -14,8 +14,8 @@ permalink: /archive/by_date/2011/01/03/
 <p>As such, I:</p>
 
 <ul>
-<li>Presented <a href="http://stungeye.com/archive/by_date/2010/01/27">a talk on Internet start-ups</a> at the RRC Directions conference.</li>
-<li>Participated in the <a href="http://stungeye.com/archive/by_date/2010/03/2">Google AI Tron Challenge</a>.</li>
+<li>Presented <a href="http://stungeye.com/archive/by_date/2010/01/27/">a talk on Internet start-ups</a> at the RRC Directions conference.</li>
+<li>Participated in the <a href="http://stungeye.com/archive/by_date/2010/03/02/">Google AI Tron Challenge</a>.</li>
 <li>Completed three courses for my <a href="http://me.rrc.mb.ca/Catalogue/ProgramInfo.aspx?ProgCode=CERAP-CT&amp;RegionCode=WPG">Certificate in Adult Education</a>.</li>
 <li>Spent the summer working on various home renos.</li>
 <li>Helped create <a href="http://winnipegelection.ca">WinnipegElection.ca</a>.</li>
@@ -27,8 +27,8 @@ permalink: /archive/by_date/2011/01/03/
 
 <ul>
 <li><a href="http://www.sleepoversf.com/metagames-and-containers/">Metagame and Containers</a></li>
-<li><a href="http://stungeye.com/archive/by_date/2010/03/1">Future of Games</a></li>
-<li><a href="http://stungeye.com/archive/by_date/2010/03/11">Ribbon Hero</a></li>
+<li><a href="http://stungeye.com/archive/by_date/2010/03/01/">Future of Games</a></li>
+<li><a href="http://stungeye.com/archive/by_date/2010/03/11/">Ribbon Hero</a></li>
 <li><a href="http://www.rexbox.co.uk/epicwin/">EpicWin</a></li>
 <li><a href="http://www.youtube.com/watch?v=gEmLc4gA2SQ">SuperMe</a></li>
 </ul>
@@ -54,7 +54,7 @@ permalink: /archive/by_date/2011/01/03/
 
 <ul>
 <li><a href="http://www.openprocessing.org/portal/?userID=4474">Three Processing Sketches</a></li>
-<li><a href="http://stungeye.com/archive/by_date/2010/05/11">glutton_lastfm</a></li>
+<li><a href="http://stungeye.com/archive/by_date/2010/05/11/">glutton_lastfm</a></li>
 <li><a href="https://github.com/stungeye/glutton_ratelimit#readme">glutton_ratelimit</a></li>
 <li>
 <a href="https://github.com/stungeye/winnipegelection">WinnipegElection.ca</a> + <a href="http://winnipegelection.ca/open_data_2010">2010 Open Data</a>
@@ -69,5 +69,5 @@ permalink: /archive/by_date/2011/01/03/
 <li>
 <a href="http://www2.parl.gc.ca/HousePublications/Publication.aspx?DocId=4580265&amp;Mode=1&amp;Language=E">Bill C32</a>, the Canadian Copyright Moderization act is <a href="http://www2.parl.gc.ca/Sites/LOP/LEGISINFO/index.asp?Language=E&amp;Chamber=N&amp;StartList=A&amp;EndList=Z&amp;Session=23&amp;Type=0&amp;Scope=I&amp;query=7026&amp;List=stat">working it’s way</a> through the House of Commons. </li>
 <li>
-<a href="http://stungeye.com/archive/by_date/2010/06/4">My thoughts on Bill C32</a>.</li>
+<a href="http://stungeye.com/archive/by_date/2010/06/04/">My thoughts on Bill C32</a>.</li>
 </ul>

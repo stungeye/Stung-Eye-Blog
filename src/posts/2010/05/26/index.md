@@ -4,7 +4,7 @@ title: "Discovered on May 26, 2010"
 permalink: /archive/by_date/2010/05/26/
 ---
 
-<iframe src="https://www.youtube.com/embed/zL2FOrx41N0?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/zL2FOrx41N0?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" allowfullscreen=""></iframe>
 
 <p><a href="http://www.youtube.com/watch?v=zL2FOrx41N0">Lessons from fashion&#8217;s free culture</a> a TED talk by <a href="http://www-rcf.usc.edu/~blakley/index.html">Johanna Blakely</a> of <a href="http://readytoshare.org/">Ready to Share</a>.</p>
 

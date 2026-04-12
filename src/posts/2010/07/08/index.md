@@ -4,7 +4,7 @@ title: "Discovered on July 8, 2010"
 permalink: /archive/by_date/2010/07/08/
 ---
 
-<iframe src="https://player.vimeo.com/video/13118504?portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen width="400" height="225"></iframe>
+<iframe src="https://player.vimeo.com/video/13118504?portrait=0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 <p><a href="https://vimeo.com/13118504">Super Mario “Speed Run” Augmented Reality</a>.</p>
 

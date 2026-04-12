@@ -147,6 +147,6 @@ permalink: /archive/by_date/2020/01/19/
 
 <p>Number of books read each year from 2011 to 2019. Flatlining.</p>
 
-<p>Past yearly overviews: <a href="http://stungeye.com/archive/by_date/2019/02/3">2018</a>, <a href="http://stungeye.com/archive/by_date/2018/01/21">2017</a>, <a href="http://stungeye.com/archive/by_date/2017/03/25">2016</a>, <a href="http://stungeye.com/archive/by_date/2016/02/19">2015</a>, <a href="http://stungeye.com/archive/by_date/2015/01/22">2014</a>, <a href="http://stungeye.com/archive/by_date/2014/01/11">2013</a>, <a href="http://stungeye.com/archive/by_date/2012/12/31">2012</a>, <a href="http://stungeye.com/archive/by_date/2011/12/18">2011</a>.</p>
+<p>Past yearly overviews: <a href="http://stungeye.com/archive/by_date/2019/02/03/">2018</a>, <a href="http://stungeye.com/archive/by_date/2018/01/21/">2017</a>, <a href="http://stungeye.com/archive/by_date/2017/03/25/">2016</a>, <a href="http://stungeye.com/archive/by_date/2016/02/19/">2015</a>, <a href="http://stungeye.com/archive/by_date/2015/01/22/">2014</a>, <a href="http://stungeye.com/archive/by_date/2014/01/11/">2013</a>, <a href="http://stungeye.com/archive/by_date/2012/12/31/">2012</a>, <a href="http://stungeye.com/archive/by_date/2011/12/18/">2011</a>.</p>
 
-<p>2019 was a year of re-reading. 2020 is <a href="http://stungeye.com/archive/by_date/2020/01/11">looking to be</a> heavy on non-fiction.</p>
+<p>2019 was a year of re-reading. 2020 is <a href="http://stungeye.com/archive/by_date/2020/01/11/">looking to be</a> heavy on non-fiction.</p>

@@ -4,6 +4,6 @@ title: "Discovered on September 13, 2012"
 permalink: /archive/by_date/2012/09/13/
 ---
 
-<iframe src="https://player.vimeo.com/video/42818843" width="400" height="226" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/42818843"></iframe>
 
 <p>This is not a fancy projection. Also: <a href="https://vimeo.com/48285842">The making of</a>.</p>

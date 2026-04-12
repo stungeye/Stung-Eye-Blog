@@ -53,7 +53,7 @@ permalink: /archive/by_date/2015/07/11/
 
 <h4>Related Posts on StungEye:</h4>
 
-<ul><li><a href="http://stungeye.com/archive/by_date/2013/03/9">A Scientific Approach to Debugging</a> - March 2013</li>
-<li><a href="http://stungeye.com/archive/by_date/2013/02/10">Self-Assessment While Learning to Code</a> - February 2013</li>
+<ul><li><a href="http://stungeye.com/archive/by_date/2013/03/09/">A Scientific Approach to Debugging</a> - March 2013</li>
+<li><a href="http://stungeye.com/archive/by_date/2013/02/10/">Self-Assessment While Learning to Code</a> - February 2013</li>
 <li><a href="http://stungeye.com/school/coding_challenges/">Coding Challenges in the Classroom</a> - May 2011</li>
 </ul>

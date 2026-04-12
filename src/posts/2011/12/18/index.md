@@ -37,7 +37,7 @@ permalink: /archive/by_date/2011/12/18/
 
 <p>This was the year I discovered audio lectures. Most of these were heard while running in Assiniboine park.</p>
 
-<ul><li><a href="http://stungeye.com/archive/by_date/2011/07/30">Brains, Consciousness, and Thinking Machines</a></li>
+<ul><li><a href="http://stungeye.com/archive/by_date/2011/07/30/">Brains, Consciousness, and Thinking Machines</a></li>
 <li><a href="http://www.thegreatcourses.com/tgc/courses/course_detail.aspx?cid=437">No Excuses: Existentialism and the Meaning of Life</a></li>
 <li><a href="http://www.thegreatcourses.com/tgc/courses/course_detail.aspx?cid=2044">Art of Teaching: Best Practices from a Master Educator</a></li>
 <li>Science Fiction - The Literature of Technological Imagination (Out of Print)</li>
@@ -47,6 +47,6 @@ permalink: /archive/by_date/2011/12/18/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/LpROaNue9GM?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/LpROaNue9GM?wmode=transparent&amp;autohide=1&amp;egm=0&amp;hd=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;showsearch=0" allowfullscreen=""></iframe>
 
 <p><a href="https://www.youtube.com/watch?v=LpROaNue9GM">Shea Hembrey: How I became 100 artists</a></p>

@@ -32,7 +32,7 @@ permalink: /archive/by_date/2022/07/27/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/YvsoWehBbec?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="DJ_Dave - Easy Live Coded for Oatly"></iframe>
+<iframe id="youtube_iframe" src="https://www.youtube.com/embed/YvsoWehBbec?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="DJ_Dave - Easy Live Coded for Oatly"></iframe>
 
 <p><a href="https://www.youtube.com/watch?v=YvsoWehBbec">DJ_Dave live-codes her track Easy</a> over the course of 13 minutes.</p>
 
@@ -42,7 +42,7 @@ permalink: /archive/by_date/2022/07/27/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/Tjf-NJNfOP4?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="DOMMUNE Tokyo - live coding performances - algorave tokyo x yorkshire"></iframe>
+<iframe id="youtube_iframe" src="https://www.youtube.com/embed/Tjf-NJNfOP4?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="DOMMUNE Tokyo - live coding performances - algorave tokyo x yorkshire"></iframe>
 
 <p><a href="https://www.youtube.com/watch?v=Tjf-NJNfOP4">Yorkshire vs. Tokyo Live Coding Showdown</a> - 2.5 hours of live coding from various performers.</p>
 

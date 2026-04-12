@@ -4,7 +4,7 @@ title: "Discovered on February 25, 2012"
 permalink: /archive/by_date/2012/02/25/
 ---
 
-<iframe src="https://player.vimeo.com/video/36881035" width="400" height="225" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/36881035"></iframe>
 
 <p><a href="http://vimeo.com/36881035">Everything is a Remix - Part 4</a> - <a href="http://www.everythingisaremix.info/everything-is-a-remix-part-4-transcript/">The Transcript</a></p>
 

@@ -12,7 +12,7 @@ permalink: /archive/by_date/2009/12/27/
 
 ---
 
-<iframe src="https://www.youtube.com/embed/Qa6k1ZF90E8?feature=oembed&enablejsapi=1&wmode=opaque" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Qa6k1ZF90E8?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" allowfullscreen=""></iframe>
 
 <p><a href="http://robinsloan.com/annabel-scheme">Annabel Scheme</a>, a <a href="http://www.kickstarter.com/projects/robinsloan/robin-writes-a-book-and-you-get-a-copy">crowd-funded</a> novella about quantum computing and the digital occult. <a href="http://creativecommons.org/licenses/by-nc/3.0/us/">CC licensed</a>. Funded by a 570-strong &#8220;posse of patrons&#8221; ($13,942).  [<a href="http://waxy.org/links/">via</a>]</p>
 
