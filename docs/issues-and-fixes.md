@@ -129,6 +129,16 @@ js-yaml parses as `2026-04-12T00:00:00Z` (UTC midnight). Archive grouping is alw
 
 **Action required before authoring any new posts:** Choose Option A or B and document it in `MIGRATION-NOTES.md` or a new `AUTHORING.md`.
 
+### 7. Low: Migration reruns can leave stale `src/posts/` content
+
+**What:** The build script correctly removes `_site` before running Eleventy, so stale built pages are not a concern during normal `npm run build`. The migration script is different: [tools/migrate.js](../tools/migrate.js) writes generated markdown and co-located media into `src/posts/`, but it does not clear `src/posts/` before regenerating content.
+
+**Impact:** If `tools/migrate.js` is rerun after export data changes, any day folder or media file that no longer exists in the export can remain in `src/posts/`. A later clean Eleventy build would still discover that stale markdown file or copied asset and include it in `_site`, even though it is no longer present in the source export.
+
+**Scope:** This is only a risk if the migration is rerun against changed export data before deploy. If the export is frozen and `src/posts/` is treated as the canonical post corpus from this point onward, this is not a current content-loss issue.
+
+**Fix:** Make the migration script explicitly clean only its generated output area before writing, or document that `src/posts/` must be removed before rerunning `npm run migrate`.
+
 ## Summary
 
 | #   | Severity | Category        | Description                                                              |
@@ -139,5 +149,6 @@ js-yaml parses as `2026-04-12T00:00:00Z` (UTC midnight). Archive grouping is alw
 | 4   | Low      | Feed            | One double-encoded `&amp;amp;` entity in RSS                             |
 | 5   | High     | Build config    | `getMonth()`/`getFullYear()` misgroups 4 pages into wrong month archives |
 | 6   | Medium   | Authoring       | No documented timezone convention for new post frontmatter dates         |
+| 7   | Low      | Migration logic | Migration reruns can leave stale `src/posts/` content                    |
 
 No data loss or incorrectly migrated entries were found. All 1,252 items across 970 day pages are present and accounted for.
