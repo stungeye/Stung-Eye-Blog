@@ -201,8 +201,8 @@ manual documented cleanup for one-time migration reruns.
 
 ## Current Priority Order
 
-| Priority | Issue                          | Why                                                               |
-| -------- | ------------------------------ | ----------------------------------------------------------------- |
+| Priority | Issue                          | Why                                                  |
+| -------- | ------------------------------ | ---------------------------------------------------- |
 | 1        | #1 MT heading dedup            | Real readability issue on 22 legacy pages            |
 | 2        | #6 Future authoring date model | Needs a decision before regular manual/CMS authoring |
 | 3        | #2 Archive trailing slash      | Tiny polish fix                                      |
