@@ -61,34 +61,13 @@ v24.14.1.
 
 ## Active Issues
 
-### 3. Low: Legacy MT body content contains section-level `<h1>` tags
-
-**Status:** Confirmed, but lower practical risk than originally implied.
-
-**What:** 7 MT-era markdown files contain body `<h1>` tags that are being used as
-sub-section headings:
-
-- [src/posts/2004/08/17/index.md](../src/posts/2004/08/17/index.md)
-- [src/posts/2004/08/28/index.md](../src/posts/2004/08/28/index.md)
-- [src/posts/2004/08/31/index.md](../src/posts/2004/08/31/index.md)
-- [src/posts/2005/02/23/index.md](../src/posts/2005/02/23/index.md)
-- [src/posts/2005/07/18/index.md](../src/posts/2005/07/18/index.md)
-- [src/posts/2005/12/16/index.md](../src/posts/2005/12/16/index.md)
-- [src/posts/2007/12/29/index.md](../src/posts/2007/12/29/index.md)
-
-**Additional context:** The site header in `base.njk` already uses an `<h1>` for
-the site title and the day layout uses another `<h1>` for the post title, so the
-issue is not simply "more than one h1 exists." The real concern is that legacy
-body subheadings are semantically too high in the article hierarchy.
-
-**Triage:** Low/defer candidate. Convert to `<h2>` during a broader semantic HTML
-pass, or leave alone if preserving legacy markup is preferred.
+No active pre-deploy issues remain.
 
 ## Current Priority Order
 
-| Priority | Issue                    | Why                                     |
-| -------- | ------------------------ | --------------------------------------- |
-| 1        | #3 Body `<h1>` tags      | Legacy semantics polish/defer candidate |
+| Priority | Issue | Why |
+| -------- | ----- | --- |
+| —        | None  | All pre-deploy issues have been repaired or archived |
 
 No data loss or incorrectly migrated entries were found. The main pre-deploy
 date handling repair has been completed and archived.

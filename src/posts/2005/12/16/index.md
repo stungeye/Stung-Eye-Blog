@@ -11,7 +11,7 @@ We are energy.
 
 We are capable of much more.
 
-<h1>A Video Reminder:</h1>
+<h2>A Video Reminder:</h2>
 
 &nbsp;&nbsp;**Warning; what you are about to see may kick-start your sense of wonder.**
 

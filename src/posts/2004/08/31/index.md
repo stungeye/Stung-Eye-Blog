@@ -11,7 +11,7 @@ I made this mix for some friends. It's life, love, hills, and valleys.
 
 <i>Mirrored-distribution provided by <a href="http://www.scs.cs.nyu.edu/coral/">Coral</a>.</i>
 
-<h1>Playlist</h1>
+<h2>Playlist</h2>
 
 <ul>
 <li>Unkle - Back and Forth</li>

@@ -70,8 +70,9 @@ Each MT entry from `mt_entries.json` becomes (or merges into) a day page. Only e
 3. **Haloscan link removal**: Dead comment service links (`haloscan.com/comments.php`) stripped from body.
 4. **BR conversion**: `<BR><BR>` → paragraph break (`\n\n`), single `<BR>` → newline. Applied before HTML normalization to preserve semantic line breaks.
 5. **HTML normalization**: Body run through cheerio to lowercase all tags and quote all attributes (e.g., `<A HREF=url target=_blank>` → `<a href="url" target="_blank">`).
-6. **Trailing dash stripping**: Legacy `--------` separators removed (these would otherwise be parsed as setext h2 underlines by markdown).
-7. **Title rendering**: `## entry_title` heading, but skipped when the entry title matches the page h1 title (prevents duplication on single-entry days).
+6. **Body heading demotion**: Legacy body `<h1>` tags used as section headings are rendered as `<h2>` so they sit below the day page title.
+7. **Trailing dash stripping**: Legacy `--------` separators removed (these would otherwise be parsed as setext h2 underlines by markdown).
+8. **Title rendering**: `## entry_title` heading, but skipped when the entry title matches the page h1 title (prevents duplication on single-entry days).
 
 ### MT-Only Days
 

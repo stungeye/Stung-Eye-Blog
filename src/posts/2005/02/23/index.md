@@ -9,7 +9,7 @@ To learn is to fuel wonder. I was late to learn to read, or so I am told. Perhap
 
 Although I am still drawn to books and libraries, the Internet now provides much of the fuel for my sense of wonder. The following is a description of how I search and discover on the Net.
 
-<h1>Simple Definitions</h1>
+<h2>Simple Definitions</h2>
 
 <a href="http://www.answers.com" target="_blank">Answers.com</a> provides a dictionary definition for single words, thesaurus listings, along with encyclopedic information (if available) gathered from various Internet sources, (including <a href="http://en.wikipedia.org/" target="_blank">Wikipedia</a>).
 
@@ -21,19 +21,19 @@ Google allows you to search for definitions from around the Web. Enter the follo
 
 The returned definitions may vary greatly, but the results are often enlightening.
 
-<h1>Encyclopedic Information</h1>
+<h2>Encyclopedic Information</h2>
 
 Taken from a <a href="http://stungeye.com/archives/2003/10/tsop_wen.php">previous post</a>: <a href="http://">Wikipedia</a> is a "free encyclopedia made for and by the collective intelligence of the citizens of the Internet."
 
 I've recently started using the <a href="http://simple.wikipedia.org/" target="_blank">Simple English Wikipedia</a> in conjunction with the standard version. "[The] Simple English [Wikipidea] uses <a href="http://simple.wikipedia.org/wiki/Basic_English" target="_blank">fewer words and easier grammar</a> than the original English Wikipedia." The entries and clear, concise and written in <a href="http://en.wikipedia.org/wiki/Deptford_Trilogy" target="_blank">Dunstan Ramsay</a>'s "Plain Style". ;)
 
-<h1>Broad Topic Net Searches</h1>
+<h2>Broad Topic Net Searches</h2>
 
 <a href="http://google.com" target="_blank">Google</a> is still king when it comes to general Internet searching. Reference the <a href="http://www.google.com/help/cheatsheet.html" target="_blank">Google Cheat Sheet</a> for more precise results. I rely on a mix of quotations and + and - symbols to narrow down my searches. Try to imagine the page you wish to find. Then, search for words and quotations present on this imagined page.
 
 If you are looking for a specific category of information, try exploring <a href="http://www.dmoz.com/" target="_blank">DMOZ, the open directory project</a>. It's reminiscent of an older yahoo, but like Wikipedia it's maintained by volunteers from around the world.
 
-<h1>Noosphere Snapshots</h1>
+<h2>Noosphere Snapshots</h2>
 
 The Internet is forever in a state of flux. Anyone familiar with the concept of <a href="http://www.answers.com/meme" target="_blank">Memes</a> will be aware of the impact the Net has had on the transmission of cultural information. The Internet is a digital extension of the <a href="http://www.answers.com/noosphere" target="_blank">Noosphere</a> [<a href="http://perceptionalism.com/archives/000103.html" target="_blank">ChefQuix's thoughts on the Noosphere</a>]. Much like the toughts processed by our brains, information and ideas on the Internet can be forgotten, <a href="http://www.archive.org/" target="_blank">archived</a>, or reinforced through conscious use/retrival. 
 

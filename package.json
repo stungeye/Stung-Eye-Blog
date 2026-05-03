@@ -9,6 +9,7 @@
     "download-hires": "node tools/download-hires.js",
     "resize-images": "node tools/resize-images.js",
     "verify:dates": "node tools/verify-date-time-usage.js",
+    "verify:issue3": "node tools/verify-issue-3.js",
     "verify:issue4": "node tools/verify-issue-4.js",
     "verify:issue5": "npm run verify:dates",
     "verify:issue7": "node tools/verify-issue-7.js",

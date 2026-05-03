@@ -5,4 +5,4 @@ title: "Favourite Drug:"
 permalink: /archive/by_date/2005/07/18/
 ---
 
-<h1>Anticipation</h1>
+<h2>Anticipation</h2>

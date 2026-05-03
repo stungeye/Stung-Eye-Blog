@@ -149,6 +149,27 @@ function normalizeHtml(html) {
   return $("body").html() || "";
 }
 
+/** Demote legacy body h1 tags that were used as article subheadings. */
+function demoteBodyH1Headings(html) {
+  if (!html) return "";
+
+  const $ = cheerioLoad(html, { xml: false, decodeEntities: false });
+
+  $("h1").each((_, el) => {
+    const heading = $("<h2></h2>");
+    const attrs = $(el).attr() || {};
+
+    for (const [name, value] of Object.entries(attrs)) {
+      heading.attr(name, value);
+    }
+
+    heading.html($(el).html() || "");
+    $(el).replaceWith(heading);
+  });
+
+  return $("body").html() || "";
+}
+
 /** Escape YAML string value (wrap in quotes if needed). */
 function yamlString(str) {
   if (!str) return '""';
@@ -680,6 +701,7 @@ function renderMtEntry(entry, { includeTitle = false } = {}) {
 
   // Normalize legacy HTML (lowercase tags, quote attributes) via cheerio
   body = normalizeHtml(body);
+  body = demoteBodyH1Headings(body);
 
   // Strip trailing separator dashes (legacy MT formatting)
   body = body.replace(/\n?-{4,}\s*$/g, "");
