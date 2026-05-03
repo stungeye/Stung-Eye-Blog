@@ -1,5 +1,6 @@
 ---
 date: 2003-01-12T17:44:46.000-06:00
+generatedBy: tools/migrate.js
 title: Fly Paper
 permalink: /archive/by_date/2003/01/12/
 ---

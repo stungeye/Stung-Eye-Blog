@@ -1,5 +1,6 @@
 ---
 date: 2003-09-23T00:02:16.000-05:00
+generatedBy: tools/migrate.js
 title: Half Way Through
 permalink: /archive/by_date/2003/09/23/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2004-06-22T16:48:27.000-05:00
+generatedBy: tools/migrate.js
 title: You stood out from the crowd
 permalink: /archive/by_date/2004/06/22/
 ---

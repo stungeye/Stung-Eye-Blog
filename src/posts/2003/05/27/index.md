@@ -1,5 +1,6 @@
 ---
 date: 2003-05-27T16:37:44.000-05:00
+generatedBy: tools/migrate.js
 title: Beat Trip
 permalink: /archive/by_date/2003/05/27/
 ---

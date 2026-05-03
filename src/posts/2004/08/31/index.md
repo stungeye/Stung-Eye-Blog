@@ -1,5 +1,6 @@
 ---
 date: 2004-08-31T02:14:32.000-05:00
+generatedBy: tools/migrate.js
 title: Banana moon
 permalink: /archive/by_date/2004/08/31/
 ---

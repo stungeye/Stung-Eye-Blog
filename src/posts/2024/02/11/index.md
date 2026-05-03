@@ -1,5 +1,6 @@
 ---
 date: 2024-02-11T11:46:00.000-06:00
+generatedBy: tools/migrate.js
 title: Reading in 2023
 permalink: /archive/by_date/2024/02/11/
 ---

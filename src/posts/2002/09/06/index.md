@@ -1,5 +1,6 @@
 ---
 date: 2002-09-06T10:53:58.000-05:00
+generatedBy: tools/migrate.js
 title: "Andre!"
 permalink: /archive/by_date/2002/09/06/
 ---

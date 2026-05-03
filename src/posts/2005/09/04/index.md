@@ -1,5 +1,6 @@
 ---
 date: 2005-09-04T17:51:24.000-05:00
+generatedBy: tools/migrate.js
 title: Time for Travel
 permalink: /archive/by_date/2005/09/04/
 ---

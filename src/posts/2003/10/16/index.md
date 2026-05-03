@@ -1,5 +1,6 @@
 ---
 date: 2003-10-16T23:34:39.000-05:00
+generatedBy: tools/migrate.js
 title: Borrowing account
 permalink: /archive/by_date/2003/10/16/
 ---

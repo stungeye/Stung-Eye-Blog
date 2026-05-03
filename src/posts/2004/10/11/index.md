@@ -1,5 +1,6 @@
 ---
 date: 2004-10-11T12:10:51.000-05:00
+generatedBy: tools/migrate.js
 title: No place like home?
 permalink: /archive/by_date/2004/10/11/
 ---

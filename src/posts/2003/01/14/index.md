@@ -1,5 +1,6 @@
 ---
 date: 2003-01-14T18:51:52.000-06:00
+generatedBy: tools/migrate.js
 title: Puppeteer
 permalink: /archive/by_date/2003/01/14/
 ---

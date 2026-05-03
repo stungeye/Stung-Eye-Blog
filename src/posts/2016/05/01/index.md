@@ -1,5 +1,6 @@
 ---
 date: 2016-05-01T09:30:48.000-05:00
+generatedBy: tools/migrate.js
 title: Thinking in Tic Tac Toe
 permalink: /archive/by_date/2016/05/01/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2004-09-25T23:07:12.000-05:00
+generatedBy: tools/migrate.js
 title: Daisy Rainbow
 permalink: /archive/by_date/2004/09/25/
 ---

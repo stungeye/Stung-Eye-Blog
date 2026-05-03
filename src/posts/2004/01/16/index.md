@@ -1,5 +1,6 @@
 ---
 date: 2004-01-16T12:14:20.000-06:00
+generatedBy: tools/migrate.js
 title: no-thing
 permalink: /archive/by_date/2004/01/16/
 ---

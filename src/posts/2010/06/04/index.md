@@ -1,5 +1,6 @@
 ---
 date: 2010-06-04T16:59:00.000-05:00
+generatedBy: tools/migrate.js
 title: Canadian Copyright - Bill C32
 permalink: /archive/by_date/2010/06/04/
 ---

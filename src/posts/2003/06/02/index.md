@@ -1,5 +1,6 @@
 ---
 date: 2003-06-02T14:12:36.000-05:00
+generatedBy: tools/migrate.js
 title: "You Can't Get There From Here"
 permalink: /archive/by_date/2003/06/02/
 ---

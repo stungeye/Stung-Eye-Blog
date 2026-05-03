@@ -1,5 +1,6 @@
 ---
 date: 2003-04-10T20:49:59.000-05:00
+generatedBy: tools/migrate.js
 title: CNN?
 permalink: /archive/by_date/2003/04/10/
 ---

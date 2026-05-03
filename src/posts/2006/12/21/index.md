@@ -1,5 +1,6 @@
 ---
 date: 2006-12-21T18:15:58.000-06:00
+generatedBy: tools/migrate.js
 title: Chills Bells
 permalink: /archive/by_date/2006/12/21/
 ---

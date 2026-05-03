@@ -1,5 +1,6 @@
 ---
 date: 2003-10-21T23:35:07.000-05:00
+generatedBy: tools/migrate.js
 title: Nothing self-inflicted hurts like an accident
 permalink: /archive/by_date/2003/10/21/
 ---

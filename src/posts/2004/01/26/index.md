@@ -1,5 +1,6 @@
 ---
 date: 2004-01-26T10:27:47.000-06:00
+generatedBy: tools/migrate.js
 title: Bisous
 permalink: /archive/by_date/2004/01/26/
 ---

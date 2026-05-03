@@ -1,5 +1,6 @@
 ---
 date: 2003-01-21T13:04:07.000-06:00
+generatedBy: tools/migrate.js
 title: On the disturbing side of beautiful
 permalink: /archive/by_date/2003/01/21/
 ---

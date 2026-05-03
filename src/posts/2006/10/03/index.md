@@ -1,5 +1,6 @@
 ---
 date: 2006-10-03T12:14:00.000-05:00
+generatedBy: tools/migrate.js
 title: Urban Forest Explored
 permalink: /archive/by_date/2006/10/03/
 ---

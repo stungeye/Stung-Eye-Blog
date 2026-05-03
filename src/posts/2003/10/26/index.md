@@ -1,5 +1,6 @@
 ---
 date: 2003-10-26T10:49:44.000-06:00
+generatedBy: tools/migrate.js
 title: A Blanket For Your Mind
 permalink: /archive/by_date/2003/10/26/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2003-01-29T14:03:03.000-06:00
+generatedBy: tools/migrate.js
 title: More on the SUA
 permalink: /archive/by_date/2003/01/29/
 ---

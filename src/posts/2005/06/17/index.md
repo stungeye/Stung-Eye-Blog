@@ -1,5 +1,6 @@
 ---
 date: 2005-06-17T09:42:50.000-05:00
+generatedBy: tools/migrate.js
 title: Tolerance?
 permalink: /archive/by_date/2005/06/17/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2007-05-04T14:35:01.000-05:00
+generatedBy: tools/migrate.js
 title: H Two Oh?
 permalink: /archive/by_date/2007/05/04/
 ---

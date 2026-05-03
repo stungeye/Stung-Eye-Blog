@@ -1,5 +1,6 @@
 ---
 date: 2006-03-10T15:58:12.000-06:00
+generatedBy: tools/migrate.js
 title: Soda Pop
 permalink: /archive/by_date/2006/03/10/
 ---

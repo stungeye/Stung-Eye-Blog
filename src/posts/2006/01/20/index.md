@@ -1,5 +1,6 @@
 ---
 date: 2006-01-20T00:25:33.000-06:00
+generatedBy: tools/migrate.js
 title: Transplanted
 permalink: /archive/by_date/2006/01/20/
 ---

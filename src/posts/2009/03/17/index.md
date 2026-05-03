@@ -1,5 +1,6 @@
 ---
 date: 2009-03-17T17:38:11.000-05:00
+generatedBy: tools/migrate.js
 title: Art and Code - Overview Part I
 permalink: /archive/by_date/2009/03/17/
 ---

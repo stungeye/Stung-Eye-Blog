@@ -1,5 +1,6 @@
 ---
 date: 2007-01-02T00:13:17.000-06:00
+generatedBy: tools/migrate.js
 title: pupwalks
 permalink: /archive/by_date/2007/01/02/
 ---

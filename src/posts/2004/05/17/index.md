@@ -1,5 +1,6 @@
 ---
 date: 2004-05-17T15:53:17.000-05:00
+generatedBy: tools/migrate.js
 title: Meta
 permalink: /archive/by_date/2004/05/17/
 ---

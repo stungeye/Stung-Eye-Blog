@@ -1,5 +1,6 @@
 ---
 date: 2005-04-01T01:04:26.000-06:00
+generatedBy: tools/migrate.js
 title: I am given
 permalink: /archive/by_date/2005/04/01/
 ---

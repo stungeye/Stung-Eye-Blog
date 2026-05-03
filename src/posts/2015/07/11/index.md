@@ -1,5 +1,6 @@
 ---
 date: 2015-07-11T09:43:45.000-05:00
+generatedBy: tools/migrate.js
 title: Coding is Two Things
 permalink: /archive/by_date/2015/07/11/
 ---

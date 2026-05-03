@@ -1,5 +1,6 @@
 ---
 date: 2007-12-10T14:28:41.000-06:00
+generatedBy: tools/migrate.js
 title: We Do Count
 permalink: /archive/by_date/2007/12/10/
 ---

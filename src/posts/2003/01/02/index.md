@@ -1,5 +1,6 @@
 ---
 date: 2003-01-02T17:25:18.000-06:00
+generatedBy: tools/migrate.js
 title: 1825
 permalink: /archive/by_date/2003/01/02/
 ---

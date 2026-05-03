@@ -1,5 +1,6 @@
 ---
 date: 2005-07-05T11:06:33.000-05:00
+generatedBy: tools/migrate.js
 title: Dad Will Dig
 permalink: /archive/by_date/2005/07/05/
 ---

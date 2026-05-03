@@ -1,5 +1,6 @@
 ---
 date: 2005-07-16T11:46:43.000-05:00
+generatedBy: tools/migrate.js
 title: Pieces of Eight
 permalink: /archive/by_date/2005/07/16/
 ---

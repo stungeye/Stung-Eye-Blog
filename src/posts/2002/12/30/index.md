@@ -1,5 +1,6 @@
 ---
 date: 2002-12-30T09:05:18.000-06:00
+generatedBy: tools/migrate.js
 title: Morning
 permalink: /archive/by_date/2002/12/30/
 ---

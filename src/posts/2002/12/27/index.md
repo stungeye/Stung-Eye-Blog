@@ -1,5 +1,6 @@
 ---
 date: 2002-12-27T16:56:03.000-06:00
+generatedBy: tools/migrate.js
 title: Holidaze
 permalink: /archive/by_date/2002/12/27/
 ---

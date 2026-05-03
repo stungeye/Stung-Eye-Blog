@@ -1,5 +1,6 @@
 ---
 date: 2006-12-22T16:37:01.000-06:00
+generatedBy: tools/migrate.js
 title: Astro Mix
 permalink: /archive/by_date/2006/12/22/
 ---

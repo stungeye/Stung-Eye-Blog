@@ -1,5 +1,6 @@
 ---
 date: 2003-01-28T22:31:26.000-06:00
+generatedBy: tools/migrate.js
 title: Wrong Address
 permalink: /archive/by_date/2003/01/28/
 ---

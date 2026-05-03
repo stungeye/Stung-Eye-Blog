@@ -1,5 +1,6 @@
 ---
 date: 2010-03-04T22:48:22.000-06:00
+generatedBy: tools/migrate.js
 title: "You Know Who \"Gets it\"?"
 permalink: /archive/by_date/2010/03/04/
 ---

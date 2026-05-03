@@ -1,5 +1,6 @@
 ---
 date: 2004-02-25T10:52:06.000-06:00
+generatedBy: tools/migrate.js
 title: behind her smiling eyes
 permalink: /archive/by_date/2004/02/25/
 ---

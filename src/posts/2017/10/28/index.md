@@ -1,5 +1,6 @@
 ---
 date: 2017-10-28T08:38:41.000-05:00
+generatedBy: tools/migrate.js
 title: Types as Concretions
 permalink: /archive/by_date/2017/10/28/
 ---

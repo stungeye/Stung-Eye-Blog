@@ -1,5 +1,6 @@
 ---
 date: 2003-11-18T18:02:42.000-06:00
+generatedBy: tools/migrate.js
 title: Can you imagine that?
 permalink: /archive/by_date/2003/11/18/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2006-08-11T14:09:19.000-05:00
+generatedBy: tools/migrate.js
 title: False Sense of Insecurity?
 permalink: /archive/by_date/2006/08/11/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2016-05-24T08:03:25.000-05:00
+generatedBy: tools/migrate.js
 title: "Discovered on May 24, 2016"
 permalink: /archive/by_date/2016/05/24/
 ---

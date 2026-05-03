@@ -1,5 +1,6 @@
 ---
 date: 2003-02-05T00:02:15.000-06:00
+generatedBy: tools/migrate.js
 title: Mashed Potatoes
 permalink: /archive/by_date/2003/02/05/
 ---

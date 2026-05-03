@@ -1,5 +1,6 @@
 ---
 date: 2004-02-05T13:26:26.000-06:00
+generatedBy: tools/migrate.js
 title: the tyranny of framing our attention
 permalink: /archive/by_date/2004/02/05/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2006-10-11T12:16:10.000-05:00
+generatedBy: tools/migrate.js
 title: Shaddai
 permalink: /archive/by_date/2006/10/11/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2005-03-03T01:36:36.000-06:00
+generatedBy: tools/migrate.js
 title: In the grips
 permalink: /archive/by_date/2005/03/03/
 ---

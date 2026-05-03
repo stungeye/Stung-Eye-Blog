@@ -1,5 +1,6 @@
 ---
 date: 2003-12-19T15:19:33.000-06:00
+generatedBy: tools/migrate.js
 title: The Blue Pill
 permalink: /archive/by_date/2003/12/19/
 ---

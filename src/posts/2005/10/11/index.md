@@ -1,5 +1,6 @@
 ---
 date: 2005-10-11T08:09:19.000-05:00
+generatedBy: tools/migrate.js
 title: A Return
 permalink: /archive/by_date/2005/10/11/
 ---

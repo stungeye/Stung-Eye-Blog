@@ -1,5 +1,6 @@
 ---
 date: 2003-11-07T09:41:07.000-06:00
+generatedBy: tools/migrate.js
 title: Let Me Introduce...
 permalink: /archive/by_date/2003/11/07/
 ---

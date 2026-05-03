@@ -1,5 +1,6 @@
 ---
 date: 2006-01-18T10:47:23.000-06:00
+generatedBy: tools/migrate.js
 title: no caps
 permalink: /archive/by_date/2006/01/18/
 ---

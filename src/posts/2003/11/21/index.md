@@ -1,5 +1,6 @@
 ---
 date: 2003-11-21T09:29:29.000-06:00
+generatedBy: tools/migrate.js
 title: Past
 permalink: /archive/by_date/2003/11/21/
 ---

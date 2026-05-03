@@ -1,5 +1,6 @@
 ---
 date: 2007-01-30T22:47:16.000-06:00
+generatedBy: tools/migrate.js
 title: Last is Past
 permalink: /archive/by_date/2007/01/30/
 ---

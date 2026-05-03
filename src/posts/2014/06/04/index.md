@@ -1,5 +1,6 @@
 ---
 date: 2014-06-04T13:16:00.000-05:00
+generatedBy: tools/migrate.js
 title: Sweat Lodge Ceremony
 permalink: /archive/by_date/2014/06/04/
 ---

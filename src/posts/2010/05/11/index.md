@@ -1,5 +1,6 @@
 ---
 date: 2010-05-11T23:20:00.000-05:00
+generatedBy: tools/migrate.js
 title: Glutton LastFM
 permalink: /archive/by_date/2010/05/11/
 ---

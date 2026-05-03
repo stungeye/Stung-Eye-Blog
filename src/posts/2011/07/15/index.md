@@ -1,5 +1,6 @@
 ---
 date: 2011-07-15T15:00:00.000-05:00
+generatedBy: tools/migrate.js
 title: Manitoba Election dot Ca
 permalink: /archive/by_date/2011/07/15/
 ---

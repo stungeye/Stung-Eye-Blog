@@ -1,5 +1,6 @@
 ---
 date: 2002-09-11T10:42:15.000-05:00
+generatedBy: tools/migrate.js
 title: "Who's Brother?"
 permalink: /archive/by_date/2002/09/11/
 ---

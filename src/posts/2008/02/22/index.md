@@ -1,5 +1,6 @@
 ---
 date: 2008-02-22T20:53:05.000-06:00
+generatedBy: tools/migrate.js
 title: Sending Zzzzzs Across the Pond
 permalink: /archive/by_date/2008/02/22/
 ---

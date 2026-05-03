@@ -1,5 +1,6 @@
 ---
 date: 2006-06-30T15:12:22.000-05:00
+generatedBy: tools/migrate.js
 title: Smarty Pants
 permalink: /archive/by_date/2006/06/30/
 ---

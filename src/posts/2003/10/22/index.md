@@ -1,5 +1,6 @@
 ---
 date: 2003-10-22T22:07:59.000-05:00
+generatedBy: tools/migrate.js
 title: The Mask Is On
 permalink: /archive/by_date/2003/10/22/
 ---

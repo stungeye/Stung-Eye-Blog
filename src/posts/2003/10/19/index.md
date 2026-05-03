@@ -1,5 +1,6 @@
 ---
 date: 2003-10-19T23:28:34.000-05:00
+generatedBy: tools/migrate.js
 title: Wake up call
 permalink: /archive/by_date/2003/10/19/
 ---

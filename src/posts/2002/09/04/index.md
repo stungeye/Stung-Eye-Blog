@@ -1,5 +1,6 @@
 ---
 date: 2002-09-04T20:40:39.000-05:00
+generatedBy: tools/migrate.js
 title: Fall is coming.  Fall is the Sunday of the seasons.
 permalink: /archive/by_date/2002/09/04/
 ---

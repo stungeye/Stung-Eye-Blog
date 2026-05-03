@@ -1,5 +1,6 @@
 ---
 date: 2006-05-27T00:44:42.000-05:00
+generatedBy: tools/migrate.js
 title: +/- ve
 permalink: /archive/by_date/2006/05/27/
 ---

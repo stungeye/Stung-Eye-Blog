@@ -1,5 +1,6 @@
 ---
 date: 2005-07-25T05:36:02.000-05:00
+generatedBy: tools/migrate.js
 title: Consume
 permalink: /archive/by_date/2005/07/25/
 ---

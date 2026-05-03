@@ -1,5 +1,6 @@
 ---
 date: 2003-05-16T16:05:10.000-05:00
+generatedBy: tools/migrate.js
 title: "How cute is that!"
 permalink: /archive/by_date/2003/05/16/
 ---

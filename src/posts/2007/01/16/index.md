@@ -1,5 +1,6 @@
 ---
 date: 2007-01-16T23:59:04.000-06:00
+generatedBy: tools/migrate.js
 title: Manufacturing Resent
 permalink: /archive/by_date/2007/01/16/
 ---

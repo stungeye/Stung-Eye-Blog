@@ -1,5 +1,6 @@
 ---
 date: 2013-05-29T13:10:00.000-05:00
+generatedBy: tools/migrate.js
 title: Music for the Eyes
 permalink: /archive/by_date/2013/05/29/
 ---

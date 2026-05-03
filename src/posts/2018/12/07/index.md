@@ -1,5 +1,6 @@
 ---
 date: 2018-12-07T11:26:08.000-06:00
+generatedBy: tools/migrate.js
 title: Maps and Clouds
 permalink: /archive/by_date/2018/12/07/
 ---

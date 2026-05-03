@@ -1,5 +1,6 @@
 ---
 date: 2004-04-05T10:19:43.000-05:00
+generatedBy: tools/migrate.js
 title: Back In Lack
 permalink: /archive/by_date/2004/04/05/
 ---

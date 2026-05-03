@@ -1,5 +1,6 @@
 ---
 date: 2004-08-28T16:26:20.000-05:00
+generatedBy: tools/migrate.js
 title: Cucumber Cool
 permalink: /archive/by_date/2004/08/28/
 ---

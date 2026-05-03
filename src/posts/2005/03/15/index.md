@@ -1,5 +1,6 @@
 ---
 date: 2005-03-15T13:39:44.000-06:00
+generatedBy: tools/migrate.js
 title: fou.nd
 permalink: /archive/by_date/2005/03/15/
 ---

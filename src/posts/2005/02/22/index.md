@@ -1,5 +1,6 @@
 ---
 date: 2005-02-22T01:04:15.000-06:00
+generatedBy: tools/migrate.js
 title: And Roll
 permalink: /archive/by_date/2005/02/22/
 ---

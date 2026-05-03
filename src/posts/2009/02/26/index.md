@@ -1,5 +1,6 @@
 ---
 date: 2009-02-26T20:59:00.000-06:00
+generatedBy: tools/migrate.js
 title: You Are Beyond the Edge of Forever
 permalink: /archive/by_date/2009/02/26/
 ---

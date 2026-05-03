@@ -1,5 +1,6 @@
 ---
 date: 2007-11-16T18:23:38.000-06:00
+generatedBy: tools/migrate.js
 title: "Greetings!"
 permalink: /archive/by_date/2007/11/16/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2005-06-30T05:16:41.000-05:00
+generatedBy: tools/migrate.js
 title: Devil of a lake
 permalink: /archive/by_date/2005/06/30/
 ---

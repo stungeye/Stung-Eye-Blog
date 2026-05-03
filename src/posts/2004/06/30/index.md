@@ -1,5 +1,6 @@
 ---
 date: 2004-06-30T11:59:08.000-05:00
+generatedBy: tools/migrate.js
 title: Transmission of Plans
 permalink: /archive/by_date/2004/06/30/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2006-08-01T23:51:44.000-05:00
+generatedBy: tools/migrate.js
 title: We Was Welcome
 permalink: /archive/by_date/2006/08/01/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2005-08-06T18:24:37.000-05:00
+generatedBy: tools/migrate.js
 title: There are signs everywhere
 permalink: /archive/by_date/2005/08/06/
 ---

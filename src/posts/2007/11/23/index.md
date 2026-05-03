@@ -1,5 +1,6 @@
 ---
 date: 2007-11-23T12:33:41.000-06:00
+generatedBy: tools/migrate.js
 title: You Are Therefore You Think
 permalink: /archive/by_date/2007/11/23/
 ---

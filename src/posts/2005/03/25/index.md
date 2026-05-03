@@ -1,5 +1,6 @@
 ---
 date: 2005-03-25T09:58:07.000-06:00
+generatedBy: tools/migrate.js
 title: Wheel of fortune
 permalink: /archive/by_date/2005/03/25/
 ---

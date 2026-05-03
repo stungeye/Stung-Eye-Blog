@@ -1,5 +1,6 @@
 ---
 date: 2004-09-23T14:21:04.000-05:00
+generatedBy: tools/migrate.js
 title: Maki
 permalink: /archive/by_date/2004/09/23/
 ---

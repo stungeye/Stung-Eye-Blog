@@ -1,5 +1,6 @@
 ---
 date: 2005-05-05T10:16:02.000-05:00
+generatedBy: tools/migrate.js
 title: Greymatter Exercise
 permalink: /archive/by_date/2005/05/05/
 ---

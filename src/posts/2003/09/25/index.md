@@ -1,5 +1,6 @@
 ---
 date: 2003-09-25T13:25:24.000-05:00
+generatedBy: tools/migrate.js
 title: LONGER IS BETTER
 permalink: /archive/by_date/2003/09/25/
 ---

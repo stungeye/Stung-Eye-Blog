@@ -1,5 +1,6 @@
 ---
 date: 2006-08-08T10:13:02.000-05:00
+generatedBy: tools/migrate.js
 title: Beat and Pieces
 permalink: /archive/by_date/2006/08/08/
 ---

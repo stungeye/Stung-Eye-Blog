@@ -1,5 +1,6 @@
 ---
 date: 2010-11-12T11:01:52.000-06:00
+generatedBy: tools/migrate.js
 title: Perils of Internet Voting
 permalink: /archive/by_date/2010/11/12/
 ---

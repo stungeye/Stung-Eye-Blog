@@ -1,5 +1,6 @@
 ---
 date: 2006-07-18T00:39:12.000-05:00
+generatedBy: tools/migrate.js
 title: A Waltz With Woman
 permalink: /archive/by_date/2006/07/18/
 ---

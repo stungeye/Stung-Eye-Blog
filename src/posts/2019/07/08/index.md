@@ -1,5 +1,6 @@
 ---
 date: 2019-07-08T08:21:22.000-05:00
+generatedBy: tools/migrate.js
 title: Switched On
 permalink: /archive/by_date/2019/07/08/
 ---

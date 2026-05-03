@@ -1,5 +1,6 @@
 ---
 date: 2011-03-15T11:24:51.000-05:00
+generatedBy: tools/migrate.js
 title: TEDxManitoba Analogies
 permalink: /archive/by_date/2011/03/15/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2005-11-01T15:26:30.000-06:00
+generatedBy: tools/migrate.js
 title: Mixture of Frailties
 permalink: /archive/by_date/2005/11/01/
 ---

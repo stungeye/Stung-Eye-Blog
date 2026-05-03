@@ -1,5 +1,6 @@
 ---
 date: 2007-09-12T15:21:32.000-05:00
+generatedBy: tools/migrate.js
 title: "The Druid's Tune"
 permalink: /archive/by_date/2007/09/12/
 ---

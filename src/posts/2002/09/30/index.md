@@ -1,5 +1,6 @@
 ---
 date: 2002-09-30T12:52:42.000-05:00
+generatedBy: tools/migrate.js
 title: "I've Been Pretending For So Long That I've Almost Forgotten"
 permalink: /archive/by_date/2002/09/30/
 ---

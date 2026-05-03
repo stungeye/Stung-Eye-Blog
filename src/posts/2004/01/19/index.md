@@ -1,5 +1,6 @@
 ---
 date: 2004-01-19T15:36:43.000-06:00
+generatedBy: tools/migrate.js
 title: "The play's the thing"
 permalink: /archive/by_date/2004/01/19/
 ---

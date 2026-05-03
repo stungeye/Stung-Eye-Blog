@@ -1,5 +1,6 @@
 ---
 date: 2006-04-30T22:40:47.000-05:00
+generatedBy: tools/migrate.js
 title: recipe
 permalink: /archive/by_date/2006/04/30/
 ---

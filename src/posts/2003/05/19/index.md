@@ -1,5 +1,6 @@
 ---
 date: 2003-05-19T22:06:28.000-05:00
+generatedBy: tools/migrate.js
 title: wonderin
 permalink: /archive/by_date/2003/05/19/
 ---

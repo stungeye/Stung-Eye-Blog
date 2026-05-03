@@ -1,5 +1,6 @@
 ---
 date: 2002-11-15T01:15:24.000-06:00
+generatedBy: tools/migrate.js
 title: Write... Right?
 permalink: /archive/by_date/2002/11/15/
 ---

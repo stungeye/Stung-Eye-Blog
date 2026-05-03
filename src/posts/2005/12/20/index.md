@@ -1,5 +1,6 @@
 ---
 date: 2005-12-20T16:49:15.000-06:00
+generatedBy: tools/migrate.js
 title: Part Apart
 permalink: /archive/by_date/2005/12/20/
 ---

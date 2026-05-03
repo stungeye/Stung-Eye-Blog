@@ -1,5 +1,6 @@
 ---
 date: 2006-02-02T17:10:56.000-06:00
+generatedBy: tools/migrate.js
 title: Twinkle
 permalink: /archive/by_date/2006/02/02/
 ---

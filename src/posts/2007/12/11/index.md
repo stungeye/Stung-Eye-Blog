@@ -1,5 +1,6 @@
 ---
 date: 2007-12-11T20:50:39.000-06:00
+generatedBy: tools/migrate.js
 title: You were such a P.Y.T.
 permalink: /archive/by_date/2007/12/11/
 ---

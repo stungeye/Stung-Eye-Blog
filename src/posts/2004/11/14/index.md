@@ -1,5 +1,6 @@
 ---
 date: 2004-11-14T13:40:36.000-06:00
+generatedBy: tools/migrate.js
 title: "Long time, no see"
 permalink: /archive/by_date/2004/11/14/
 ---

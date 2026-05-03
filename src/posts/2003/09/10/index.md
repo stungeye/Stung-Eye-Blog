@@ -1,5 +1,6 @@
 ---
 date: 2003-09-10T13:29:48.000-05:00
+generatedBy: tools/migrate.js
 title: All good things must come to an end
 permalink: /archive/by_date/2003/09/10/
 ---

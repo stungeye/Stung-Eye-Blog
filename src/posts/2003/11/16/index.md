@@ -1,5 +1,6 @@
 ---
 date: 2003-11-16T22:01:34.000-06:00
+generatedBy: tools/migrate.js
 title: Lost?
 permalink: /archive/by_date/2003/11/16/
 ---

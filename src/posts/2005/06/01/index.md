@@ -1,5 +1,6 @@
 ---
 date: 2005-06-01T10:50:05.000-05:00
+generatedBy: tools/migrate.js
 title: Who me?
 permalink: /archive/by_date/2005/06/01/
 ---

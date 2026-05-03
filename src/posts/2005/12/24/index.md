@@ -1,5 +1,6 @@
 ---
 date: 2005-12-24T14:43:14.000-06:00
+generatedBy: tools/migrate.js
 title: Gloria
 permalink: /archive/by_date/2005/12/24/
 ---

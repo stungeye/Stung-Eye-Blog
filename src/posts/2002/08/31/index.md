@@ -1,5 +1,6 @@
 ---
 date: 2002-08-31T14:17:25.000-05:00
+generatedBy: tools/migrate.js
 title: Peg City Holla
 permalink: /archive/by_date/2002/08/31/
 ---

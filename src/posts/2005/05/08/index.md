@@ -1,5 +1,6 @@
 ---
 date: 2005-05-08T06:28:14.000-05:00
+generatedBy: tools/migrate.js
 title: of the most dangerous
 permalink: /archive/by_date/2005/05/08/
 ---

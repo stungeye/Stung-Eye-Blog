@@ -1,5 +1,6 @@
 ---
 date: 2003-08-18T00:38:09.000-05:00
+generatedBy: tools/migrate.js
 title: Watch Out Now
 permalink: /archive/by_date/2003/08/18/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2008-01-11T14:54:32.000-06:00
+generatedBy: tools/migrate.js
 title: Big BaDa Boom - 1 to 100
 permalink: /archive/by_date/2008/01/11/
 ---

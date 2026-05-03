@@ -1,5 +1,6 @@
 ---
 date: 2003-01-30T23:36:58.000-06:00
+generatedBy: tools/migrate.js
 title: Got No Time For Sweet 909
 permalink: /archive/by_date/2003/01/30/
 ---

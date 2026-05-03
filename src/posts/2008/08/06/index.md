@@ -1,5 +1,6 @@
 ---
 date: 2008-08-06T14:56:00.000-05:00
+generatedBy: tools/migrate.js
 title: Capitalism and Schizophrenia
 permalink: /archive/by_date/2008/08/06/
 ---

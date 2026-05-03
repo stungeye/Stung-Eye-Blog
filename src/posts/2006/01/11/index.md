@@ -1,5 +1,6 @@
 ---
 date: 2006-01-11T16:39:20.000-06:00
+generatedBy: tools/migrate.js
 title: Bee Still (Simple Meditation)
 permalink: /archive/by_date/2006/01/11/
 ---

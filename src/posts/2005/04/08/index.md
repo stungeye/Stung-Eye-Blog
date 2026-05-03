@@ -1,5 +1,6 @@
 ---
 date: 2005-04-08T10:31:27.000-05:00
+generatedBy: tools/migrate.js
 title: 2^10 = nerd
 permalink: /archive/by_date/2005/04/08/
 ---

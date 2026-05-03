@@ -1,5 +1,6 @@
 ---
 date: 2011-07-30T16:33:46.000-05:00
+generatedBy: tools/migrate.js
 title: "Brains, Consciousness, and Thinking Machines"
 permalink: /archive/by_date/2011/07/30/
 ---

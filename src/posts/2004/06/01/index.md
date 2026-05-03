@@ -1,5 +1,6 @@
 ---
 date: 2004-06-01T23:03:17.000-05:00
+generatedBy: tools/migrate.js
 title: "Grammar for two, please."
 permalink: /archive/by_date/2004/06/01/
 ---

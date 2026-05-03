@@ -1,5 +1,6 @@
 ---
 date: 2008-07-28T17:30:00.000-05:00
+generatedBy: tools/migrate.js
 title: An Inch of Rope
 permalink: /archive/by_date/2008/07/28/
 ---

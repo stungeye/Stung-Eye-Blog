@@ -1,5 +1,6 @@
 ---
 date: 2004-02-09T23:06:55.000-06:00
+generatedBy: tools/migrate.js
 title: Ordered Chaos
 permalink: /archive/by_date/2004/02/09/
 ---

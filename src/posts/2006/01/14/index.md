@@ -1,5 +1,6 @@
 ---
 date: 2006-01-14T18:01:47.000-06:00
+generatedBy: tools/migrate.js
 title: "Greasemonkey'd Music Search"
 permalink: /archive/by_date/2006/01/14/
 ---

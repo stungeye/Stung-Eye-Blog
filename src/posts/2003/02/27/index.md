@@ -1,5 +1,6 @@
 ---
 date: 2003-02-27T20:30:45.000-06:00
+generatedBy: tools/migrate.js
 title: A Beautiful Day In The Neighborhood?
 permalink: /archive/by_date/2003/02/27/
 ---

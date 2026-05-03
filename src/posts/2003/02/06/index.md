@@ -1,5 +1,6 @@
 ---
 date: 2003-02-06T16:59:20.000-06:00
+generatedBy: tools/migrate.js
 title: The Same But Different
 permalink: /archive/by_date/2003/02/06/
 ---

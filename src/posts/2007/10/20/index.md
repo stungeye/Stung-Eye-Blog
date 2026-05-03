@@ -1,5 +1,6 @@
 ---
 date: 2007-10-20T13:39:01.000-05:00
+generatedBy: tools/migrate.js
 title: usually permanent form
 permalink: /archive/by_date/2007/10/20/
 ---

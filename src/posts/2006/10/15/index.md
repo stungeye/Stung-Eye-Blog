@@ -1,5 +1,6 @@
 ---
 date: 2006-10-15T23:24:25.000-05:00
+generatedBy: tools/migrate.js
 title: nihilism
 permalink: /archive/by_date/2006/10/15/
 ---

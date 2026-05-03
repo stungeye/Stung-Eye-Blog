@@ -1,5 +1,6 @@
 ---
 date: 2006-08-24T12:43:41.000-05:00
+generatedBy: tools/migrate.js
 title: Why We Fight
 permalink: /archive/by_date/2006/08/24/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2002-12-03T15:01:35.000-06:00
+generatedBy: tools/migrate.js
 title: "It's All Connected!"
 permalink: /archive/by_date/2002/12/03/
 ---

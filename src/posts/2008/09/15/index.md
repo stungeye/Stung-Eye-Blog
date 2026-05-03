@@ -1,5 +1,6 @@
 ---
 date: 2008-09-15T12:07:14.000-05:00
+generatedBy: tools/migrate.js
 title: Who Owns Ideas - Bill C61
 permalink: /archive/by_date/2008/09/15/
 ---

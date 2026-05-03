@@ -1,5 +1,6 @@
 ---
 date: 2013-12-17T23:27:00.000-06:00
+generatedBy: tools/migrate.js
 title: Probability of Dice Rolls in Settlers of Catan
 permalink: /archive/by_date/2013/12/17/
 ---

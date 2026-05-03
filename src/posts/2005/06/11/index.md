@@ -1,5 +1,6 @@
 ---
 date: 2005-06-11T09:41:00.000-05:00
+generatedBy: tools/migrate.js
 title: Climb Trees
 permalink: /archive/by_date/2005/06/11/
 ---

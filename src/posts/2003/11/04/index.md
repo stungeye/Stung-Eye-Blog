@@ -1,5 +1,6 @@
 ---
 date: 2003-11-04T10:51:55.000-06:00
+generatedBy: tools/migrate.js
 title: Trinity
 permalink: /archive/by_date/2003/11/04/
 ---

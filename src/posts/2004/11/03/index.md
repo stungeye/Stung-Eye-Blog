@@ -1,5 +1,6 @@
 ---
 date: 2004-11-03T09:43:17.000-06:00
+generatedBy: tools/migrate.js
 title: ... but sweet
 permalink: /archive/by_date/2004/11/03/
 ---

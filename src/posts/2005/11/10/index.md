@@ -1,5 +1,6 @@
 ---
 date: 2005-11-10T21:55:48.000-06:00
+generatedBy: tools/migrate.js
 title: Tapas for all
 permalink: /archive/by_date/2005/11/10/
 ---

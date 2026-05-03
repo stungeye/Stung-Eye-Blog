@@ -1,5 +1,6 @@
 ---
 date: 2003-11-24T17:55:05.000-06:00
+generatedBy: tools/migrate.js
 title: Mixed Nuts
 permalink: /archive/by_date/2003/11/24/
 ---

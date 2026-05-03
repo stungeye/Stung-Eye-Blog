@@ -1,5 +1,6 @@
 ---
 date: 2006-09-23T15:19:34.000-05:00
+generatedBy: tools/migrate.js
 title: "Flapp'n"
 permalink: /archive/by_date/2006/09/23/
 ---

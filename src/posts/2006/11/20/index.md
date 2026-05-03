@@ -1,5 +1,6 @@
 ---
 date: 2006-11-20T22:58:10.000-06:00
+generatedBy: tools/migrate.js
 title: Lost in the TimeSlice
 permalink: /archive/by_date/2006/11/20/
 ---

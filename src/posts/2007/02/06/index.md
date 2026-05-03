@@ -1,5 +1,6 @@
 ---
 date: 2007-02-06T17:46:09.000-06:00
+generatedBy: tools/migrate.js
 title: Potato Scheming
 permalink: /archive/by_date/2007/02/06/
 ---

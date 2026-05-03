@@ -1,5 +1,6 @@
 ---
 date: 2008-02-01T17:58:30.000-06:00
+generatedBy: tools/migrate.js
 title: Yo
 permalink: /archive/by_date/2008/02/01/
 ---

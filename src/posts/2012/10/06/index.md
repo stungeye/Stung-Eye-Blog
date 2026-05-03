@@ -1,5 +1,6 @@
 ---
 date: 2012-10-06T18:24:00.000-05:00
+generatedBy: tools/migrate.js
 title: Happiness in a Broken Reality
 permalink: /archive/by_date/2012/10/06/
 ---

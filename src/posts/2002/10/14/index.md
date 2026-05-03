@@ -1,5 +1,6 @@
 ---
 date: 2002-10-14T12:48:23.000-05:00
+generatedBy: tools/migrate.js
 title: An Implied Conclusion
 permalink: /archive/by_date/2002/10/14/
 ---

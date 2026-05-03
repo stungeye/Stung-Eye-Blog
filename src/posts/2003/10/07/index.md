@@ -1,5 +1,6 @@
 ---
 date: 2003-10-07T23:43:10.000-05:00
+generatedBy: tools/migrate.js
 title: Let my spirit carry me
 permalink: /archive/by_date/2003/10/07/
 ---

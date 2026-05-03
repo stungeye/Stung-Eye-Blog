@@ -1,5 +1,6 @@
 ---
 date: 2002-10-04T23:45:56.000-05:00
+generatedBy: tools/migrate.js
 title: Soul Doubt
 permalink: /archive/by_date/2002/10/04/
 ---

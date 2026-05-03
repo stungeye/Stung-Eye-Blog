@@ -1,5 +1,6 @@
 ---
 date: 2003-10-04T00:18:49.000-05:00
+generatedBy: tools/migrate.js
 title: 2 Less Than 4
 permalink: /archive/by_date/2003/10/04/
 ---

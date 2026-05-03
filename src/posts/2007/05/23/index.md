@@ -1,5 +1,6 @@
 ---
 date: 2007-05-23T00:57:15.000-05:00
+generatedBy: tools/migrate.js
 title: "Don't Sit Here"
 permalink: /archive/by_date/2007/05/23/
 ---

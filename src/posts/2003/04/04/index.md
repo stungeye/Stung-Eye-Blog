@@ -1,5 +1,6 @@
 ---
 date: 2003-04-04T15:50:35.000-06:00
+generatedBy: tools/migrate.js
 title: Think of the children
 permalink: /archive/by_date/2003/04/04/
 ---

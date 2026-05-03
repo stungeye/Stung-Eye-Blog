@@ -1,5 +1,6 @@
 ---
 date: 2003-12-05T17:59:47.000-06:00
+generatedBy: tools/migrate.js
 title: Pick Up Sticks
 permalink: /archive/by_date/2003/12/05/
 ---

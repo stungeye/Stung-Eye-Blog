@@ -1,5 +1,6 @@
 ---
 date: 2007-10-18T11:59:43.000-05:00
+generatedBy: tools/migrate.js
 title: Crystalized
 permalink: /archive/by_date/2007/10/18/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2006-03-02T01:44:16.000-06:00
+generatedBy: tools/migrate.js
 title: roller
 permalink: /archive/by_date/2006/03/02/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2004-05-11T11:43:46.000-05:00
+generatedBy: tools/migrate.js
 title: A Stitch In Time
 permalink: /archive/by_date/2004/05/11/
 ---

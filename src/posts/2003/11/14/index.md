@@ -1,5 +1,6 @@
 ---
 date: 2003-11-14T11:08:37.000-06:00
+generatedBy: tools/migrate.js
 title: A Flash In The Pan
 permalink: /archive/by_date/2003/11/14/
 ---

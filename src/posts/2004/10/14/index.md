@@ -1,5 +1,6 @@
 ---
 date: 2004-10-14T16:00:27.000-05:00
+generatedBy: tools/migrate.js
 title: Southward Bound
 permalink: /archive/by_date/2004/10/14/
 ---

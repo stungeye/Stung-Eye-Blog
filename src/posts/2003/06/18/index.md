@@ -1,5 +1,6 @@
 ---
 date: 2003-06-18T15:58:33.000-05:00
+generatedBy: tools/migrate.js
 title: "Ever Wish, Receive And Regret?"
 permalink: /archive/by_date/2003/06/18/
 ---

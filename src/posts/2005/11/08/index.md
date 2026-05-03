@@ -1,5 +1,6 @@
 ---
 date: 2005-11-08T02:11:27.000-06:00
+generatedBy: tools/migrate.js
 title: alabama
 permalink: /archive/by_date/2005/11/08/
 ---

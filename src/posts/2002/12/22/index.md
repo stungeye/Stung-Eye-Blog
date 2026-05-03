@@ -1,5 +1,6 @@
 ---
 date: 2002-12-22T16:48:57.000-06:00
+generatedBy: tools/migrate.js
 title: Silly Me
 permalink: /archive/by_date/2002/12/22/
 ---

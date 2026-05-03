@@ -1,5 +1,6 @@
 ---
 date: 2002-11-27T09:30:45.000-06:00
+generatedBy: tools/migrate.js
 title: Green Wednesday
 permalink: /archive/by_date/2002/11/27/
 ---

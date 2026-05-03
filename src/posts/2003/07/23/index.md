@@ -1,5 +1,6 @@
 ---
 date: 2003-07-23T00:06:26.000-05:00
+generatedBy: tools/migrate.js
 title: Find A Penny
 permalink: /archive/by_date/2003/07/23/
 ---

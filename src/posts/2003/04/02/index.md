@@ -1,5 +1,6 @@
 ---
 date: 2003-04-02T11:30:50.000-06:00
+generatedBy: tools/migrate.js
 title: "War: Everyone Wants It (Except Smart People and the U.N.)"
 permalink: /archive/by_date/2003/04/02/
 ---

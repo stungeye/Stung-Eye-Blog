@@ -1,5 +1,6 @@
 ---
 date: 2002-09-27T16:23:56.000-05:00
+generatedBy: tools/migrate.js
 title: Like Bubble Gum On A Celebrities Shoe
 permalink: /archive/by_date/2002/09/27/
 ---

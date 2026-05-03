@@ -1,5 +1,6 @@
 ---
 date: 2003-08-25T23:13:48.000-05:00
+generatedBy: tools/migrate.js
 title: Calculated Chaos
 permalink: /archive/by_date/2003/08/25/
 ---

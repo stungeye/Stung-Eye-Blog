@@ -1,5 +1,6 @@
 ---
 date: 2026-01-18T09:27:55.000-06:00
+generatedBy: tools/migrate.js
 title: Soulful Manitoba Music 2025
 permalink: /archive/by_date/2026/01/18/
 ---

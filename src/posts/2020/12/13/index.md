@@ -1,5 +1,6 @@
 ---
 date: 2020-12-13T08:56:34.000-06:00
+generatedBy: tools/migrate.js
 title: Email to Friends From This Morning
 permalink: /archive/by_date/2020/12/13/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2003-04-27T23:52:47.000-05:00
+generatedBy: tools/migrate.js
 title: Lucky What?
 permalink: /archive/by_date/2003/04/27/
 ---

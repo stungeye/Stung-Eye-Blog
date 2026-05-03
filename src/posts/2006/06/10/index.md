@@ -1,5 +1,6 @@
 ---
 date: 2006-06-10T11:25:44.000-05:00
+generatedBy: tools/migrate.js
 title: Freedom
 permalink: /archive/by_date/2006/06/10/
 ---

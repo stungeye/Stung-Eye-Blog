@@ -1,5 +1,6 @@
 ---
 date: 2002-12-19T23:56:38.000-06:00
+generatedBy: tools/migrate.js
 title: Lazy Eye
 permalink: /archive/by_date/2002/12/19/
 ---

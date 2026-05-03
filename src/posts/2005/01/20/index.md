@@ -1,5 +1,6 @@
 ---
 date: 2005-01-20T14:10:42.000-06:00
+generatedBy: tools/migrate.js
 title: Vampires and such
 permalink: /archive/by_date/2005/01/20/
 ---

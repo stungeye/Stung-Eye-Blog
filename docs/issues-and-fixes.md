@@ -100,30 +100,12 @@ a feed item includes literal HTML entities in content.
 **Fix direction:** Add or use an entity-decoding step for feed descriptions
 before XML escaping, with a focused feed regression check.
 
-### 7. Low: Migration reruns can leave stale `src/posts/` content
-
-**Status:** Confirmed, but conditional.
-
-**What:** `npm run build` removes `_site`, so stale output is not a normal build
-risk. `tools/migrate.js` writes into `src/posts/` without first clearing the
-generated post tree, so rerunning migration against changed export data can leave
-old markdown or media files behind.
-
-**Triage:** Low if the export is frozen and `src/posts/` is now the canonical
-corpus. More important if migration will be rerun before deploy.
-
-**Additional context:** A naive "delete `src/posts/` before migrate" fix becomes
-dangerous once manually authored or CMS-authored posts live there. If this is
-fixed, use an explicit regeneration boundary, a manifest of generated files, or
-manual documented cleanup for one-time migration reruns.
-
 ## Current Priority Order
 
 | Priority | Issue                    | Why                                     |
 | -------- | ------------------------ | --------------------------------------- |
 | 1        | #4 RSS double encoding   | Low current impact, likely easy to test |
-| 2        | #7 Migration stale files | Conditional on rerunning migration      |
-| 3        | #3 Body `<h1>` tags      | Legacy semantics polish/defer candidate |
+| 2        | #3 Body `<h1>` tags      | Legacy semantics polish/defer candidate |
 
 No data loss or incorrectly migrated entries were found. The main pre-deploy
 date handling repair has been completed and archived.

@@ -1,5 +1,6 @@
 ---
 date: 2003-12-08T15:23:14.000-06:00
+generatedBy: tools/migrate.js
 title: "Waving Snowmen, (melt quickly)"
 permalink: /archive/by_date/2003/12/08/
 ---

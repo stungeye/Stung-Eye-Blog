@@ -1,5 +1,6 @@
 ---
 date: 2026-01-24T09:01:24.000-06:00
+generatedBy: tools/migrate.js
 title: Manitoba Party Music 2025
 permalink: /archive/by_date/2026/01/24/
 ---

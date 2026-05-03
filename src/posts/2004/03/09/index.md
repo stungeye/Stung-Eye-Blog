@@ -1,5 +1,6 @@
 ---
 date: 2004-03-09T10:47:44.000-06:00
+generatedBy: tools/migrate.js
 title: Sublime
 permalink: /archive/by_date/2004/03/09/
 ---

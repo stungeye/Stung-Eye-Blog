@@ -1,5 +1,6 @@
 ---
 date: 2006-08-16T14:59:29.000-05:00
+generatedBy: tools/migrate.js
 title: Decorate Your Dignity
 permalink: /archive/by_date/2006/08/16/
 ---

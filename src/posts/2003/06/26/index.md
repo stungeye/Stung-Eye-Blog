@@ -1,5 +1,6 @@
 ---
 date: 2003-06-26T15:40:25.000-05:00
+generatedBy: tools/migrate.js
 title: Wishing Well
 permalink: /archive/by_date/2003/06/26/
 ---

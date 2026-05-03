@@ -1,5 +1,6 @@
 ---
 date: 2003-05-15T00:36:20.000-05:00
+generatedBy: tools/migrate.js
 title: Is it all going to fall?
 permalink: /archive/by_date/2003/05/15/
 ---

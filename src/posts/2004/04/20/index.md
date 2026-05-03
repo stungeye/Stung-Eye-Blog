@@ -1,5 +1,6 @@
 ---
 date: 2004-04-20T11:38:44.000-05:00
+generatedBy: tools/migrate.js
 title: Right Reality
 permalink: /archive/by_date/2004/04/20/
 ---

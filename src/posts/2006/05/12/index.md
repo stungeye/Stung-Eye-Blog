@@ -1,5 +1,6 @@
 ---
 date: 2006-05-12T16:21:22.000-05:00
+generatedBy: tools/migrate.js
 title: transparent
 permalink: /archive/by_date/2006/05/12/
 ---

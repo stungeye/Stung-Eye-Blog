@@ -1,5 +1,6 @@
 ---
 date: 2006-07-24T16:57:48.000-05:00
+generatedBy: tools/migrate.js
 title: South by South East
 permalink: /archive/by_date/2006/07/24/
 ---

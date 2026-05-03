@@ -1,5 +1,6 @@
 ---
 date: 2007-09-16T10:26:54.000-05:00
+generatedBy: tools/migrate.js
 title: Lakeshore
 permalink: /archive/by_date/2007/09/16/
 ---

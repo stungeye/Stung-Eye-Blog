@@ -1,5 +1,6 @@
 ---
 date: 2004-07-27T13:31:31.000-05:00
+generatedBy: tools/migrate.js
 title: forging order
 permalink: /archive/by_date/2004/07/27/
 ---

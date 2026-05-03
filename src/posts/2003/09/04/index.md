@@ -1,5 +1,6 @@
 ---
 date: 2003-09-04T22:49:28.000-05:00
+generatedBy: tools/migrate.js
 title: Outside In
 permalink: /archive/by_date/2003/09/04/
 ---

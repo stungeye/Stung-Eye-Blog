@@ -1,5 +1,6 @@
 ---
 date: 2004-07-07T23:52:26.000-05:00
+generatedBy: tools/migrate.js
 title: Deux
 permalink: /archive/by_date/2004/07/07/
 ---

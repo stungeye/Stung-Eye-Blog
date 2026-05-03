@@ -1,5 +1,6 @@
 ---
 date: 2006-04-27T16:18:09.000-05:00
+generatedBy: tools/migrate.js
 title: We Exist
 permalink: /archive/by_date/2006/04/27/
 ---

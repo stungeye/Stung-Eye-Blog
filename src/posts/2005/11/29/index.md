@@ -1,5 +1,6 @@
 ---
 date: 2005-11-29T11:29:14.000-06:00
+generatedBy: tools/migrate.js
 title: Losing Ground
 permalink: /archive/by_date/2005/11/29/
 ---

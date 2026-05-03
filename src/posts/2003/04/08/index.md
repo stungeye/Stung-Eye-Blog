@@ -1,5 +1,6 @@
 ---
 date: 2003-04-08T23:07:47.000-05:00
+generatedBy: tools/migrate.js
 title: "The dreams in which I'm dying are the best I've ever had..."
 permalink: /archive/by_date/2003/04/08/
 ---

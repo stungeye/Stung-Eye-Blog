@@ -1,5 +1,6 @@
 ---
 date: 2003-09-11T22:34:45.000-05:00
+generatedBy: tools/migrate.js
 title: On a ferry
 permalink: /archive/by_date/2003/09/11/
 ---

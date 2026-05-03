@@ -1,5 +1,6 @@
 ---
 date: 2004-08-17T12:28:35.000-05:00
+generatedBy: tools/migrate.js
 title: Beekind
 permalink: /archive/by_date/2004/08/17/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2003-09-14T13:06:12.000-05:00
+generatedBy: tools/migrate.js
 title: In A Way
 permalink: /archive/by_date/2003/09/14/
 ---

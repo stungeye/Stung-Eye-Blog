@@ -1,5 +1,6 @@
 ---
 date: 2006-11-18T20:59:12.000-06:00
+generatedBy: tools/migrate.js
 title: Prairie Fire Cover
 permalink: /archive/by_date/2006/11/18/
 ---

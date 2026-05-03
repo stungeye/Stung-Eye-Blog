@@ -1,5 +1,6 @@
 ---
 date: 2002-08-18T14:40:01.000-05:00
+generatedBy: tools/migrate.js
 title: "Open for business (who's??? None of yours)"
 permalink: /archive/by_date/2002/08/18/
 ---

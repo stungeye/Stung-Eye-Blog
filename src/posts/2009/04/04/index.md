@@ -1,5 +1,6 @@
 ---
 date: 2009-04-04T21:49:05.000-05:00
+generatedBy: tools/migrate.js
 title: Art and Code - Overview Part III
 permalink: /archive/by_date/2009/04/04/
 ---

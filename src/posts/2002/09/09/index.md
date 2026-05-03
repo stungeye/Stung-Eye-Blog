@@ -1,5 +1,6 @@
 ---
 date: 2002-09-09T10:53:47.000-05:00
+generatedBy: tools/migrate.js
 title: "Beard, Monocle and Cane"
 permalink: /archive/by_date/2002/09/09/
 ---

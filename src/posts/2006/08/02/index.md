@@ -1,5 +1,6 @@
 ---
 date: 2006-08-02T19:59:07.000-05:00
+generatedBy: tools/migrate.js
 title: shoe repair
 permalink: /archive/by_date/2006/08/02/
 ---

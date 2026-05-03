@@ -1,5 +1,6 @@
 ---
 date: 2004-04-11T23:38:34.000-05:00
+generatedBy: tools/migrate.js
 title: "I Can't Pick It Up"
 permalink: /archive/by_date/2004/04/11/
 ---

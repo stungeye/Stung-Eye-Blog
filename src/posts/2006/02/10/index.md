@@ -1,5 +1,6 @@
 ---
 date: 2006-02-10T10:42:17.000-06:00
+generatedBy: tools/migrate.js
 title: Pleasure vs. Pain
 permalink: /archive/by_date/2006/02/10/
 ---

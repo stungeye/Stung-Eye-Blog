@@ -1,5 +1,6 @@
 ---
 date: 2003-11-05T10:25:25.000-06:00
+generatedBy: tools/migrate.js
 title: Time
 permalink: /archive/by_date/2003/11/05/
 ---

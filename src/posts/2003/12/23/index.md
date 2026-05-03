@@ -1,5 +1,6 @@
 ---
 date: 2003-12-23T19:20:21.000-06:00
+generatedBy: tools/migrate.js
 title: Pretend to try
 permalink: /archive/by_date/2003/12/23/
 ---

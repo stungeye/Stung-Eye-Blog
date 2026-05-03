@@ -1,5 +1,6 @@
 ---
 date: 2003-12-10T13:36:31.000-06:00
+generatedBy: tools/migrate.js
 title: Copy and Paste
 permalink: /archive/by_date/2003/12/10/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2002-12-21T12:01:05.000-06:00
+generatedBy: tools/migrate.js
 title: Two Knight
 permalink: /archive/by_date/2002/12/21/
 ---

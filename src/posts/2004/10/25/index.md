@@ -1,5 +1,6 @@
 ---
 date: 2004-10-25T07:49:02.000-05:00
+generatedBy: tools/migrate.js
 title: Pardon me?
 permalink: /archive/by_date/2004/10/25/
 ---

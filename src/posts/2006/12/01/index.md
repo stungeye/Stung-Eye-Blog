@@ -1,5 +1,6 @@
 ---
 date: 2006-12-01T15:28:06.000-06:00
+generatedBy: tools/migrate.js
 title: "My God, it's Full of Stars"
 permalink: /archive/by_date/2006/12/01/
 ---

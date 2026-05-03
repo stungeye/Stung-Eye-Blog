@@ -1,5 +1,6 @@
 ---
 date: 2002-10-18T21:43:33.000-05:00
+generatedBy: tools/migrate.js
 title: Hop Along
 permalink: /archive/by_date/2002/10/18/
 ---

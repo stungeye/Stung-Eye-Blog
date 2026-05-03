@@ -1,5 +1,6 @@
 ---
 date: 2006-10-20T15:41:02.000-05:00
+generatedBy: tools/migrate.js
 title: People Before Profit
 permalink: /archive/by_date/2006/10/20/
 ---

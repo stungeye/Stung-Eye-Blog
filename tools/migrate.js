@@ -4,9 +4,11 @@ import {
   mkdirSync,
   copyFileSync,
   existsSync,
+  readdirSync,
+  rmSync,
 } from "node:fs";
 import { join, dirname, basename, extname } from "node:path";
-import { fileURLToPath } from "node:url";
+import { fileURLToPath, pathToFileURL } from "node:url";
 import { load as cheerioLoad } from "cheerio";
 import { DateTime } from "luxon";
 import config from "../src/_data/config.js";
@@ -26,6 +28,7 @@ const CI_DAYS_PATH = join(EXPORT_DIR, "ci_days.json");
 const MT_ENTRIES_PATH = join(EXPORT_DIR, "mt_entries.json");
 const REDIRECTS_CSV_PATH = join(EXPORT_DIR, "redirects.csv");
 const MEDIA_REPORT_PATH = join(ROOT, "migration-media-report.md");
+const GENERATED_BY = "tools/migrate.js";
 
 // ---------------------------------------------------------------------------
 // Media report accumulator
@@ -46,6 +49,47 @@ const mediaReport = {
 // ---------------------------------------------------------------------------
 // Helpers
 // ---------------------------------------------------------------------------
+
+/** Recursively collect generated day page candidates under src/posts/. */
+function collectIndexMarkdownPaths(dir, paths = []) {
+  if (!existsSync(dir)) return paths;
+
+  for (const entry of readdirSync(dir, { withFileTypes: true })) {
+    const entryPath = join(dir, entry.name);
+    if (entry.isDirectory()) {
+      collectIndexMarkdownPaths(entryPath, paths);
+    } else if (entry.name === "index.md") {
+      paths.push(entryPath);
+    }
+  }
+
+  return paths;
+}
+
+/** Return true when a markdown file's frontmatter carries our generated marker. */
+export function hasGeneratedMarker(markdown) {
+  const match = markdown.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/);
+  if (!match) return false;
+
+  return match[1]
+    .split(/\r?\n/)
+    .some((line) => line === `generatedBy: ${GENERATED_BY}`);
+}
+
+/** Remove previously generated day folders before regenerating the migration. */
+function removeGeneratedDayFolders() {
+  let removed = 0;
+
+  for (const indexPath of collectIndexMarkdownPaths(POSTS_DIR)) {
+    const markdown = readFileSync(indexPath, "utf-8");
+    if (!hasGeneratedMarker(markdown)) continue;
+
+    rmSync(dirname(indexPath), { recursive: true, force: true });
+    removed++;
+  }
+
+  return removed;
+}
 
 /** Build the absolute image path for a day page. */
 function dayImagePath(dateStr, filename) {
@@ -785,6 +829,7 @@ async function generateDayPage(dateStr, ciDay, mtEntries) {
   const frontmatter = [
     "---",
     `date: ${frontmatterDateTime(dateValue)}`,
+    `generatedBy: ${GENERATED_BY}`,
     `title: ${yamlString(title)}`,
     `permalink: ${permalink}`,
     "---",
@@ -1123,6 +1168,9 @@ async function main() {
   // Generate day pages
   console.log("Generating day pages...");
   mkdirSync(POSTS_DIR, { recursive: true });
+  const removedGeneratedDays = removeGeneratedDayFolders();
+  console.log(`  Removed generated day folders: ${removedGeneratedDays}`);
+
   // Write directory data file for Eleventy layout
   writeFileSync(
     join(POSTS_DIR, "posts.json"),
@@ -1224,7 +1272,12 @@ async function main() {
   console.log("Migration complete!");
 }
 
-main().catch((err) => {
-  console.error("Migration failed:", err);
-  process.exit(1);
-});
+if (
+  process.argv[1] &&
+  import.meta.url === pathToFileURL(process.argv[1]).href
+) {
+  main().catch((err) => {
+    console.error("Migration failed:", err);
+    process.exit(1);
+  });
+}

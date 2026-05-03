@@ -1,5 +1,6 @@
 ---
 date: 2006-02-03T08:53:47.000-06:00
+generatedBy: tools/migrate.js
 title: Left behind
 permalink: /archive/by_date/2006/02/03/
 ---

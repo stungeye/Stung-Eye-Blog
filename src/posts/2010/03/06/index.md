@@ -1,5 +1,6 @@
 ---
 date: 2010-03-06T15:15:05.000-06:00
+generatedBy: tools/migrate.js
 title: Mobile Development
 permalink: /archive/by_date/2010/03/06/
 ---

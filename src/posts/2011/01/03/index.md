@@ -1,5 +1,6 @@
 ---
 date: 2011-01-03T17:05:00.000-06:00
+generatedBy: tools/migrate.js
 title: Stung Eye Year in Review
 permalink: /archive/by_date/2011/01/03/
 ---

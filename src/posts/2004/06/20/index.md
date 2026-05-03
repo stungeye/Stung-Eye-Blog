@@ -1,5 +1,6 @@
 ---
 date: 2004-06-20T22:38:31.000-05:00
+generatedBy: tools/migrate.js
 title: Clickclickclickclickclick...
 permalink: /archive/by_date/2004/06/20/
 ---

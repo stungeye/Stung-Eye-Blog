@@ -1,5 +1,6 @@
 ---
 date: 2004-03-10T10:48:01.000-06:00
+generatedBy: tools/migrate.js
 title: "Inside, it's all..."
 permalink: /archive/by_date/2004/03/10/
 ---

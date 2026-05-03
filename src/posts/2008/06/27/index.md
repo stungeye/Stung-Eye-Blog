@@ -1,5 +1,6 @@
 ---
 date: 2008-06-27T11:37:54.000-05:00
+generatedBy: tools/migrate.js
 title: Cornucopia
 permalink: /archive/by_date/2008/06/27/
 ---

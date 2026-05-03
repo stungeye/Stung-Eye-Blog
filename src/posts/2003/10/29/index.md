@@ -1,5 +1,6 @@
 ---
 date: 2003-10-29T23:28:47.000-06:00
+generatedBy: tools/migrate.js
 title: Binary Star
 permalink: /archive/by_date/2003/10/29/
 ---

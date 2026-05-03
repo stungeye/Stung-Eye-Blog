@@ -1,5 +1,6 @@
 ---
 date: 2025-01-18T09:45:00.000-06:00
+generatedBy: tools/migrate.js
 title: "Strength & Movement in 2024"
 permalink: /archive/by_date/2025/01/18/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2006-02-24T00:59:30.000-06:00
+generatedBy: tools/migrate.js
 title: clearly or darkly
 permalink: /archive/by_date/2006/02/24/
 ---

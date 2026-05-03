@@ -1,5 +1,6 @@
 ---
 date: 2006-01-27T16:15:40.000-06:00
+generatedBy: tools/migrate.js
 title: Torn
 permalink: /archive/by_date/2006/01/27/
 ---

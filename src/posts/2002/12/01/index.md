@@ -1,5 +1,6 @@
 ---
 date: 2002-12-01T10:39:24.000-06:00
+generatedBy: tools/migrate.js
 title: Label This
 permalink: /archive/by_date/2002/12/01/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2003-10-28T10:56:28.000-06:00
+generatedBy: tools/migrate.js
 title: Examples Of Progress
 permalink: /archive/by_date/2003/10/28/
 ---

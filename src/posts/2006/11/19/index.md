@@ -1,5 +1,6 @@
 ---
 date: 2006-11-19T23:56:17.000-06:00
+generatedBy: tools/migrate.js
 title: languageHammer
 permalink: /archive/by_date/2006/11/19/
 ---

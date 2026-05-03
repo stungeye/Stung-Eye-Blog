@@ -1,5 +1,6 @@
 ---
 date: 2002-11-08T18:23:08.000-06:00
+generatedBy: tools/migrate.js
 title: HAL is IBM + 1
 permalink: /archive/by_date/2002/11/08/
 ---

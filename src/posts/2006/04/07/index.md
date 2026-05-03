@@ -1,5 +1,6 @@
 ---
 date: 2006-04-07T15:13:23.000-05:00
+generatedBy: tools/migrate.js
 title: Everything I Have
 permalink: /archive/by_date/2006/04/07/
 ---

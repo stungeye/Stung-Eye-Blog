@@ -1,5 +1,6 @@
 ---
 date: 2003-11-13T12:15:17.000-06:00
+generatedBy: tools/migrate.js
 title: Connections. Added Complexity.
 permalink: /archive/by_date/2003/11/13/
 ---

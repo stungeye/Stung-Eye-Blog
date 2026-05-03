@@ -1,5 +1,6 @@
 ---
 date: 2011-12-03T23:07:00.000-06:00
+generatedBy: tools/migrate.js
 title: We Saw Each Other
 permalink: /archive/by_date/2011/12/03/
 ---

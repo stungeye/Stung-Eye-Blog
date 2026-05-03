@@ -1,5 +1,6 @@
 ---
 date: 2003-12-12T00:11:05.000-06:00
+generatedBy: tools/migrate.js
 title: Captured Hearts
 permalink: /archive/by_date/2003/12/12/
 ---

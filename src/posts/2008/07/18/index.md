@@ -1,5 +1,6 @@
 ---
 date: 2008-07-18T16:14:03.000-05:00
+generatedBy: tools/migrate.js
 title: "This Little Piggy - Pegcity Farmers' Markets"
 permalink: /archive/by_date/2008/07/18/
 ---

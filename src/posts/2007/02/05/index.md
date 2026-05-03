@@ -1,5 +1,6 @@
 ---
 date: 2007-02-05T00:03:46.000-06:00
+generatedBy: tools/migrate.js
 title: Receipt Withheld
 permalink: /archive/by_date/2007/02/05/
 ---

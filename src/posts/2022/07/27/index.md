@@ -1,5 +1,6 @@
 ---
 date: 2022-07-27T08:49:35.000-05:00
+generatedBy: tools/migrate.js
 title: Sound + Code = Jam (Vol 1)
 permalink: /archive/by_date/2022/07/27/
 ---

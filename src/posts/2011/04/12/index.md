@@ -1,5 +1,6 @@
 ---
 date: 2011-04-12T01:29:00.000-05:00
+generatedBy: tools/migrate.js
 title: Chemical Etching For Artists and Hackers
 permalink: /archive/by_date/2011/04/12/
 ---

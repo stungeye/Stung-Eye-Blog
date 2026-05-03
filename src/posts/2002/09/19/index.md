@@ -1,5 +1,6 @@
 ---
 date: 2002-09-19T10:04:56.000-05:00
+generatedBy: tools/migrate.js
 title: A very strong or irresistible impulse to travel
 permalink: /archive/by_date/2002/09/19/
 ---

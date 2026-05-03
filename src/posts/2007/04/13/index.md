@@ -1,5 +1,6 @@
 ---
 date: 2007-04-13T14:42:40.000-05:00
+generatedBy: tools/migrate.js
 title: "Ceci n'est pas New York - Notes on Baudrillard"
 permalink: /archive/by_date/2007/04/13/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2008-03-13T13:22:25.000-05:00
+generatedBy: tools/migrate.js
 title: Stroke of Insight
 permalink: /archive/by_date/2008/03/13/
 ---

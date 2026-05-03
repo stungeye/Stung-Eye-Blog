@@ -1,5 +1,6 @@
 ---
 date: 2007-05-18T00:46:46.000-05:00
+generatedBy: tools/migrate.js
 title: Do you dream?
 permalink: /archive/by_date/2007/05/18/
 ---

@@ -10,6 +10,7 @@
     "resize-images": "node tools/resize-images.js",
     "verify:dates": "node tools/verify-date-time-usage.js",
     "verify:issue5": "npm run verify:dates",
+    "verify:issue7": "node tools/verify-issue-7.js",
     "dev": "npx @11ty/eleventy --serve",
     "build": "rm -rf _site && npx @11ty/eleventy"
   },

@@ -1,5 +1,6 @@
 ---
 date: 2005-11-09T22:25:04.000-06:00
+generatedBy: tools/migrate.js
 title: "Sorting, Tagging, Tweaking"
 permalink: /archive/by_date/2005/11/09/
 ---

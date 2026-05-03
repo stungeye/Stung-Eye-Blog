@@ -1,5 +1,6 @@
 ---
 date: 2002-10-29T16:36:48.000-06:00
+generatedBy: tools/migrate.js
 title: Halloween Countdown
 permalink: /archive/by_date/2002/10/29/
 ---

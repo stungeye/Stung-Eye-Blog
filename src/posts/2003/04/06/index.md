@@ -1,5 +1,6 @@
 ---
 date: 2003-04-06T04:30:58.000-05:00
+generatedBy: tools/migrate.js
 title: Demo-crazy
 permalink: /archive/by_date/2003/04/06/
 ---

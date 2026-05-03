@@ -1,5 +1,6 @@
 ---
 date: 2006-11-17T00:14:03.000-06:00
+generatedBy: tools/migrate.js
 title: "Reston, Virginia Trees"
 permalink: /archive/by_date/2006/11/17/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2002-09-28T15:03:54.000-05:00
+generatedBy: tools/migrate.js
 title: September Skies
 permalink: /archive/by_date/2002/09/28/
 ---

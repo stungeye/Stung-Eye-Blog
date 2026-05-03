@@ -1,5 +1,6 @@
 ---
 date: 2003-05-24T16:32:54.000-05:00
+generatedBy: tools/migrate.js
 title: "misguided, misdirected, and almost fooled"
 permalink: /archive/by_date/2003/05/24/
 ---

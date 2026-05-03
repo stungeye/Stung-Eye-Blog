@@ -1,5 +1,6 @@
 ---
 date: 2010-07-21T14:36:00.000-05:00
+generatedBy: tools/migrate.js
 title: "Request for Feedback: WinnipegElection.ca"
 permalink: /archive/by_date/2010/07/21/
 ---

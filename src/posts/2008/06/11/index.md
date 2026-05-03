@@ -1,5 +1,6 @@
 ---
 date: 2008-06-11T20:30:11.000-05:00
+generatedBy: tools/migrate.js
 title: Copyfight in Canada
 permalink: /archive/by_date/2008/06/11/
 ---

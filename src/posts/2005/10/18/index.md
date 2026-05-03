@@ -1,5 +1,6 @@
 ---
 date: 2005-10-18T07:49:09.000-05:00
+generatedBy: tools/migrate.js
 title: Winegums
 permalink: /archive/by_date/2005/10/18/
 ---

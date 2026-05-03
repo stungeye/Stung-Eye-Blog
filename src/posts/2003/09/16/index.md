@@ -1,5 +1,6 @@
 ---
 date: 2003-09-16T17:17:01.000-05:00
+generatedBy: tools/migrate.js
 title: Scenes from a memory
 permalink: /archive/by_date/2003/09/16/
 ---

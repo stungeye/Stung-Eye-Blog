@@ -1,5 +1,6 @@
 ---
 date: 2006-05-21T19:56:24.000-05:00
+generatedBy: tools/migrate.js
 title: your name on a list
 permalink: /archive/by_date/2006/05/21/
 ---

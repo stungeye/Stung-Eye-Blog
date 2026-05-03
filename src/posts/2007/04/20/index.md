@@ -1,5 +1,6 @@
 ---
 date: 2007-04-20T14:22:21.000-05:00
+generatedBy: tools/migrate.js
 title: Notes on Baudrillard - Part 2
 permalink: /archive/by_date/2007/04/20/
 ---

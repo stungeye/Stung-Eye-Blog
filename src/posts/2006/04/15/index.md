@@ -1,5 +1,6 @@
 ---
 date: 2006-04-15T19:50:14.000-05:00
+generatedBy: tools/migrate.js
 title: Nerdcore
 permalink: /archive/by_date/2006/04/15/
 ---

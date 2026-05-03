@@ -1,5 +1,6 @@
 ---
 date: 2002-10-16T20:48:09.000-05:00
+generatedBy: tools/migrate.js
 title: Forget Me Nots
 permalink: /archive/by_date/2002/10/16/
 ---

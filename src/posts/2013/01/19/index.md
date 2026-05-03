@@ -1,5 +1,6 @@
 ---
 date: 2013-01-19T16:37:00.000-06:00
+generatedBy: tools/migrate.js
 title: "Philosophy, Physics, and Teaching"
 permalink: /archive/by_date/2013/01/19/
 ---

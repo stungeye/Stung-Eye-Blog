@@ -1,5 +1,6 @@
 ---
 date: 2007-12-15T11:24:18.000-06:00
+generatedBy: tools/migrate.js
 title: How to how to
 permalink: /archive/by_date/2007/12/15/
 ---

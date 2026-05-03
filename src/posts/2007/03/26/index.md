@@ -1,5 +1,6 @@
 ---
 date: 2007-03-26T22:34:36.000-05:00
+generatedBy: tools/migrate.js
 title: Paid in Full
 permalink: /archive/by_date/2007/03/26/
 ---

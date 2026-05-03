@@ -1,5 +1,6 @@
 ---
 date: 2011-11-22T15:06:00.000-06:00
+generatedBy: tools/migrate.js
 title: "Discovered on November 22, 2011"
 permalink: /archive/by_date/2011/11/22/
 ---

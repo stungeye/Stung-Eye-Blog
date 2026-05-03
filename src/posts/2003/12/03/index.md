@@ -1,5 +1,6 @@
 ---
 date: 2003-12-03T11:05:09.000-06:00
+generatedBy: tools/migrate.js
 title: Greatest Hits Collections
 permalink: /archive/by_date/2003/12/03/
 ---

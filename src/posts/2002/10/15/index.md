@@ -1,5 +1,6 @@
 ---
 date: 2002-10-15T16:39:30.000-05:00
+generatedBy: tools/migrate.js
 title: Weakened By The Weekend
 permalink: /archive/by_date/2002/10/15/
 ---

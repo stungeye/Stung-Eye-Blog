@@ -1,5 +1,6 @@
 ---
 date: 2003-09-17T23:58:21.000-05:00
+generatedBy: tools/migrate.js
 title: Would somebody think of the animals?
 permalink: /archive/by_date/2003/09/17/
 ---

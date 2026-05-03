@@ -1,5 +1,6 @@
 ---
 date: 2003-08-27T22:29:54.000-05:00
+generatedBy: tools/migrate.js
 title: Zen and the Art of Rainstorms
 permalink: /archive/by_date/2003/08/27/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2004-02-28T18:09:58.000-06:00
+generatedBy: tools/migrate.js
 title: The Ablest
 permalink: /archive/by_date/2004/02/28/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2005-06-12T06:14:21.000-05:00
+generatedBy: tools/migrate.js
 title: Little Indiscretions
 permalink: /archive/by_date/2005/06/12/
 ---

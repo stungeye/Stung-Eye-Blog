@@ -1,5 +1,6 @@
 ---
 date: 2004-06-14T02:02:28.000-05:00
+generatedBy: tools/migrate.js
 title: Launch
 permalink: /archive/by_date/2004/06/14/
 ---

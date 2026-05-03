@@ -1,5 +1,6 @@
 ---
 date: 2004-02-24T01:22:07.000-06:00
+generatedBy: tools/migrate.js
 title: as the sky tries on its uniform of turned off t.v. grey
 permalink: /archive/by_date/2004/02/24/
 ---

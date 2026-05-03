@@ -1,5 +1,6 @@
 ---
 date: 2003-01-23T23:59:41.000-06:00
+generatedBy: tools/migrate.js
 title: Apathy
 permalink: /archive/by_date/2003/01/23/
 ---

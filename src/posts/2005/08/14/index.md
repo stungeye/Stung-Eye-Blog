@@ -1,5 +1,6 @@
 ---
 date: 2005-08-14T06:04:34.000-05:00
+generatedBy: tools/migrate.js
 title: debating
 permalink: /archive/by_date/2005/08/14/
 ---

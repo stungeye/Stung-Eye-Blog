@@ -1,5 +1,6 @@
 ---
 date: 2003-02-07T16:43:03.000-06:00
+generatedBy: tools/migrate.js
 title: "If you hear them from your brother, better clear them with your mother..."
 permalink: /archive/by_date/2003/02/07/
 ---

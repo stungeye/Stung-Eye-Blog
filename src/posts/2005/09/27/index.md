@@ -1,5 +1,6 @@
 ---
 date: 2005-09-27T23:29:28.000-05:00
+generatedBy: tools/migrate.js
 title: The Way
 permalink: /archive/by_date/2005/09/27/
 ---

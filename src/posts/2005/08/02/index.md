@@ -1,5 +1,6 @@
 ---
 date: 2005-08-02T04:18:36.000-05:00
+generatedBy: tools/migrate.js
 title: Give me twenty
 permalink: /archive/by_date/2005/08/02/
 ---

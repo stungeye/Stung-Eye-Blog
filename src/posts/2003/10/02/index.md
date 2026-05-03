@@ -1,5 +1,6 @@
 ---
 date: 2003-10-02T22:32:55.000-05:00
+generatedBy: tools/migrate.js
 title: What time is it?
 permalink: /archive/by_date/2003/10/02/
 ---

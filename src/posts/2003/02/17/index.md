@@ -1,5 +1,6 @@
 ---
 date: 2003-02-17T23:55:21.000-06:00
+generatedBy: tools/migrate.js
 title: Balanced
 permalink: /archive/by_date/2003/02/17/
 ---

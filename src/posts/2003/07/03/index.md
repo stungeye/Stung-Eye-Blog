@@ -1,5 +1,6 @@
 ---
 date: 2003-07-03T00:37:08.000-05:00
+generatedBy: tools/migrate.js
 title: An Elegy For Imagination?
 permalink: /archive/by_date/2003/07/03/
 ---

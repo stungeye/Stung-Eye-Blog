@@ -1,5 +1,6 @@
 ---
 date: 2004-04-28T13:33:54.000-05:00
+generatedBy: tools/migrate.js
 title: Tit for Tat
 permalink: /archive/by_date/2004/04/28/
 ---

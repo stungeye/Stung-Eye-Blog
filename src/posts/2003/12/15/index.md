@@ -1,5 +1,6 @@
 ---
 date: 2003-12-15T01:10:09.000-06:00
+generatedBy: tools/migrate.js
 title: Square Meals
 permalink: /archive/by_date/2003/12/15/
 ---

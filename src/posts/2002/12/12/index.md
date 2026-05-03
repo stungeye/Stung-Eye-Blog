@@ -1,5 +1,6 @@
 ---
 date: 2002-12-12T18:02:27.000-06:00
+generatedBy: tools/migrate.js
 title: Wooden Matches
 permalink: /archive/by_date/2002/12/12/
 ---

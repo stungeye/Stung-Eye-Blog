@@ -1,5 +1,6 @@
 ---
 date: 2005-03-18T14:21:04.000-06:00
+generatedBy: tools/migrate.js
 title: Emphasis theirs
 permalink: /archive/by_date/2005/03/18/
 ---

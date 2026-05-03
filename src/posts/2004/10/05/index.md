@@ -1,5 +1,6 @@
 ---
 date: 2004-10-05T11:35:00.000-05:00
+generatedBy: tools/migrate.js
 title: Informatiques
 permalink: /archive/by_date/2004/10/05/
 ---

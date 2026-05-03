@@ -1,5 +1,6 @@
 ---
 date: 2003-11-03T22:01:51.000-06:00
+generatedBy: tools/migrate.js
 title: Stay Right Here
 permalink: /archive/by_date/2003/11/03/
 ---

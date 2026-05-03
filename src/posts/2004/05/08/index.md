@@ -1,5 +1,6 @@
 ---
 date: 2004-05-08T16:24:28.000-05:00
+generatedBy: tools/migrate.js
 title: Evolution Baby
 permalink: /archive/by_date/2004/05/08/
 ---

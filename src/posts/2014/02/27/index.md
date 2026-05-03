@@ -1,5 +1,6 @@
 ---
 date: 2014-02-27T17:08:00.000-06:00
+generatedBy: tools/migrate.js
 title: Lines Allude a Circle
 permalink: /archive/by_date/2014/02/27/
 ---

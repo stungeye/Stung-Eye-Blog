@@ -1,5 +1,6 @@
 ---
 date: 2005-10-04T01:56:38.000-05:00
+generatedBy: tools/migrate.js
 title: Current Sea
 permalink: /archive/by_date/2005/10/04/
 ---

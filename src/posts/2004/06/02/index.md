@@ -1,5 +1,6 @@
 ---
 date: 2004-06-02T13:51:31.000-05:00
+generatedBy: tools/migrate.js
 title: Home of Purple City
 permalink: /archive/by_date/2004/06/02/
 ---

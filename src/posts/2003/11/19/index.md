@@ -1,5 +1,6 @@
 ---
 date: 2003-11-19T13:15:45.000-06:00
+generatedBy: tools/migrate.js
 title: Mad Hatter
 permalink: /archive/by_date/2003/11/19/
 ---

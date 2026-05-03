@@ -1,5 +1,6 @@
 ---
 date: 2004-08-10T23:19:03.000-05:00
+generatedBy: tools/migrate.js
 title: New Beginnings
 permalink: /archive/by_date/2004/08/10/
 ---

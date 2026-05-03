@@ -1,5 +1,6 @@
 ---
 date: 2008-02-10T03:36:51.000-06:00
+generatedBy: tools/migrate.js
 title: "Porgy & Bess"
 permalink: /archive/by_date/2008/02/10/
 ---

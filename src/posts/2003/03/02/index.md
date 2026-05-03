@@ -1,5 +1,6 @@
 ---
 date: 2003-03-02T12:12:36.000-06:00
+generatedBy: tools/migrate.js
 title: See what I see
 permalink: /archive/by_date/2003/03/02/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2004-07-04T23:33:06.000-05:00
+generatedBy: tools/migrate.js
 title: Technical Advantages
 permalink: /archive/by_date/2004/07/04/
 ---

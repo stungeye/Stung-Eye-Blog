@@ -1,5 +1,6 @@
 ---
 date: 2003-03-16T23:30:02.000-06:00
+generatedBy: tools/migrate.js
 title: Living the dream
 permalink: /archive/by_date/2003/03/16/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2004-07-20T15:16:38.000-05:00
+generatedBy: tools/migrate.js
 title: Tool Shed Blues
 permalink: /archive/by_date/2004/07/20/
 ---

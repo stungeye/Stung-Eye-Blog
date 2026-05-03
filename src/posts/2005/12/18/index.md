@@ -1,5 +1,6 @@
 ---
 date: 2005-12-18T18:21:59.000-06:00
+generatedBy: tools/migrate.js
 title: Palm in the Middle
 permalink: /archive/by_date/2005/12/18/
 ---

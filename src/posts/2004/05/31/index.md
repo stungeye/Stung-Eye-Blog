@@ -1,5 +1,6 @@
 ---
 date: 2004-05-31T02:26:52.000-05:00
+generatedBy: tools/migrate.js
 title: drawn in
 permalink: /archive/by_date/2004/05/31/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2003-02-03T12:33:28.000-06:00
+generatedBy: tools/migrate.js
 title: Stomach Troubles
 permalink: /archive/by_date/2003/02/03/
 ---

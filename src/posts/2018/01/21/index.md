@@ -1,5 +1,6 @@
 ---
 date: 2018-01-21T09:39:47.000-06:00
+generatedBy: tools/migrate.js
 title: Reading and Listening in 2017
 permalink: /archive/by_date/2018/01/21/
 ---

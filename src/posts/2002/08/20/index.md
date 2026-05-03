@@ -1,5 +1,6 @@
 ---
 date: 2002-08-20T14:52:36.000-05:00
+generatedBy: tools/migrate.js
 title: Problems... Solutions...
 permalink: /archive/by_date/2002/08/20/
 ---

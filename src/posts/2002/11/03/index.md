@@ -1,5 +1,6 @@
 ---
 date: 2002-11-03T14:37:48.000-06:00
+generatedBy: tools/migrate.js
 title: Post Halloween Party Wrap-up
 permalink: /archive/by_date/2002/11/03/
 ---

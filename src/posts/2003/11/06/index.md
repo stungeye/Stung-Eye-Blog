@@ -1,5 +1,6 @@
 ---
 date: 2003-11-06T23:24:23.000-06:00
+generatedBy: tools/migrate.js
 title: Nobody Said That The World Was Fair
 permalink: /archive/by_date/2003/11/06/
 ---

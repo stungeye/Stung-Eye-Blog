@@ -1,5 +1,6 @@
 ---
 date: 2009-01-27T11:00:41.000-06:00
+generatedBy: tools/migrate.js
 title: "Act Entr'act"
 permalink: /archive/by_date/2009/01/27/
 ---

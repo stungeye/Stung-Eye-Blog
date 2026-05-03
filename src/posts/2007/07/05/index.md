@@ -1,5 +1,6 @@
 ---
 date: 2007-07-05T21:33:20.000-05:00
+generatedBy: tools/migrate.js
 title: Change
 permalink: /archive/by_date/2007/07/05/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2006-02-09T16:11:03.000-06:00
+generatedBy: tools/migrate.js
 title: Controller Controller
 permalink: /archive/by_date/2006/02/09/
 ---

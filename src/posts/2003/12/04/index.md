@@ -1,5 +1,6 @@
 ---
 date: 2003-12-04T16:00:18.000-06:00
+generatedBy: tools/migrate.js
 title: Woodland Caribou
 permalink: /archive/by_date/2003/12/04/
 ---

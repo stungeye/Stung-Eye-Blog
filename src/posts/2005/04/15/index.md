@@ -1,5 +1,6 @@
 ---
 date: 2005-04-15T09:46:58.000-05:00
+generatedBy: tools/migrate.js
 title: two for the price of one
 permalink: /archive/by_date/2005/04/15/
 ---

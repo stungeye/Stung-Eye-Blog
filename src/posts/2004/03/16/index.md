@@ -1,5 +1,6 @@
 ---
 date: 2004-03-16T22:57:35.000-06:00
+generatedBy: tools/migrate.js
 title: Honey Brown
 permalink: /archive/by_date/2004/03/16/
 ---

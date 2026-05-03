@@ -1,5 +1,6 @@
 ---
 date: 2002-12-17T00:19:11.000-06:00
+generatedBy: tools/migrate.js
 title: Stickers and Cams
 permalink: /archive/by_date/2002/12/17/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2007-12-07T08:46:03.000-06:00
+generatedBy: tools/migrate.js
 title: "CANADIANS! Tomorrow is your best chance to fight the Canadian DMCA!"
 permalink: /archive/by_date/2007/12/07/
 ---

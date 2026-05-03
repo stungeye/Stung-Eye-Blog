@@ -1,5 +1,6 @@
 ---
 date: 2005-08-23T03:28:41.000-05:00
+generatedBy: tools/migrate.js
 title: 366 Days
 permalink: /archive/by_date/2005/08/23/
 ---

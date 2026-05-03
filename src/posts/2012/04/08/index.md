@@ -1,5 +1,6 @@
 ---
 date: 2012-04-08T21:39:00.000-05:00
+generatedBy: tools/migrate.js
 title: Eulogy for Craig Sisk
 permalink: /archive/by_date/2012/04/08/
 ---

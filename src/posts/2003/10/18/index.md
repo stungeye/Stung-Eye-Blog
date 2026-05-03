@@ -1,5 +1,6 @@
 ---
 date: 2003-10-18T13:22:44.000-05:00
+generatedBy: tools/migrate.js
 title: Giving in to sweetness
 permalink: /archive/by_date/2003/10/18/
 ---

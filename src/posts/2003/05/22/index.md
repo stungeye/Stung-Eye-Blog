@@ -1,5 +1,6 @@
 ---
 date: 2003-05-22T00:08:39.000-05:00
+generatedBy: tools/migrate.js
 title: Setec Astronomy
 permalink: /archive/by_date/2003/05/22/
 ---

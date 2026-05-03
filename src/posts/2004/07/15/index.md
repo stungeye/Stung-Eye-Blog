@@ -1,5 +1,6 @@
 ---
 date: 2004-07-15T13:41:27.000-05:00
+generatedBy: tools/migrate.js
 title: Tied up - Tied down
 permalink: /archive/by_date/2004/07/15/
 ---

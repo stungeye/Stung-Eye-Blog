@@ -1,5 +1,6 @@
 ---
 date: 2003-03-12T23:45:42.000-06:00
+generatedBy: tools/migrate.js
 title: Blowing In The Wind
 permalink: /archive/by_date/2003/03/12/
 ---

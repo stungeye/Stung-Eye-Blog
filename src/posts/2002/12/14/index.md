@@ -1,5 +1,6 @@
 ---
 date: 2002-12-14T01:05:32.000-06:00
+generatedBy: tools/migrate.js
 title: Freestyle Rant
 permalink: /archive/by_date/2002/12/14/
 ---

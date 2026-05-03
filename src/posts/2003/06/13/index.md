@@ -1,5 +1,6 @@
 ---
 date: 2003-06-13T15:02:17.000-05:00
+generatedBy: tools/migrate.js
 title: Out to lunch
 permalink: /archive/by_date/2003/06/13/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2005-10-02T03:38:07.000-05:00
+generatedBy: tools/migrate.js
 title: Chill Bill
 permalink: /archive/by_date/2005/10/02/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2002-09-25T13:05:28.000-05:00
+generatedBy: tools/migrate.js
 title: "Tomatoe Soup & Pop Sensibility"
 permalink: /archive/by_date/2002/09/25/
 ---

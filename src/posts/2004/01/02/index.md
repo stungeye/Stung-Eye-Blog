@@ -1,5 +1,6 @@
 ---
 date: 2004-01-02T11:35:30.000-06:00
+generatedBy: tools/migrate.js
 title: "I Couldn't Resist"
 permalink: /archive/by_date/2004/01/02/
 ---

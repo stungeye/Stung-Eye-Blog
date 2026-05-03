@@ -1,5 +1,6 @@
 ---
 date: 2003-06-10T20:18:37.000-05:00
+generatedBy: tools/migrate.js
 title: "Hollywood, but couldn't"
 permalink: /archive/by_date/2003/06/10/
 ---

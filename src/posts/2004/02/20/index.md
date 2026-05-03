@@ -1,5 +1,6 @@
 ---
 date: 2004-02-20T12:10:01.000-06:00
+generatedBy: tools/migrate.js
 title: Irony vs Empath
 permalink: /archive/by_date/2004/02/20/
 ---

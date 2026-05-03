@@ -1,5 +1,6 @@
 ---
 date: 2005-05-16T06:38:46.000-05:00
+generatedBy: tools/migrate.js
 title: "3.14159265[etc]"
 permalink: /archive/by_date/2005/05/16/
 ---

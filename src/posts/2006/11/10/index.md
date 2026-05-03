@@ -1,5 +1,6 @@
 ---
 date: 2006-11-10T15:54:14.000-06:00
+generatedBy: tools/migrate.js
 title: "Wash Don't Run"
 permalink: /archive/by_date/2006/11/10/
 ---

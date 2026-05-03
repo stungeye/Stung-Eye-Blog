@@ -1,5 +1,6 @@
 ---
 date: 2003-04-20T17:03:18.000-05:00
+generatedBy: tools/migrate.js
 title: Numbingly comfortable
 permalink: /archive/by_date/2003/04/20/
 ---

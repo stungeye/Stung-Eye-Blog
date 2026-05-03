@@ -1,5 +1,6 @@
 ---
 date: 2006-09-29T16:32:07.000-05:00
+generatedBy: tools/migrate.js
 title: "\"Might is Right\" Gone Pear Shaped"
 permalink: /archive/by_date/2006/09/29/
 ---

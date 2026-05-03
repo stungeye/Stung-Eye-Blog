@@ -1,5 +1,6 @@
 ---
 date: 2002-12-02T23:34:35.000-06:00
+generatedBy: tools/migrate.js
 title: Change changes
 permalink: /archive/by_date/2002/12/02/
 ---

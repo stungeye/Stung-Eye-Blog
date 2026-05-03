@@ -1,5 +1,6 @@
 ---
 date: 2004-08-06T17:31:29.000-05:00
+generatedBy: tools/migrate.js
 title: Harmony
 permalink: /archive/by_date/2004/08/06/
 ---

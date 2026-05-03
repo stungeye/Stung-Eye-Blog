@@ -1,5 +1,6 @@
 ---
 date: 2004-06-10T23:35:44.000-05:00
+generatedBy: tools/migrate.js
 title: They Cover Walls
 permalink: /archive/by_date/2004/06/10/
 ---

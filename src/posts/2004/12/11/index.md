@@ -1,5 +1,6 @@
 ---
 date: 2004-12-11T08:47:02.000-06:00
+generatedBy: tools/migrate.js
 title: Stuck in the middle
 permalink: /archive/by_date/2004/12/11/
 ---

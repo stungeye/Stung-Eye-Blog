@@ -1,5 +1,6 @@
 ---
 date: 2002-08-21T11:08:38.000-05:00
+generatedBy: tools/migrate.js
 title: Beat Generation Mad Trick
 permalink: /archive/by_date/2002/08/21/
 ---

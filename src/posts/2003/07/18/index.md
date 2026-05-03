@@ -1,5 +1,6 @@
 ---
 date: 2003-07-18T15:19:39.000-05:00
+generatedBy: tools/migrate.js
 title: Signal To Noise
 permalink: /archive/by_date/2003/07/18/
 ---

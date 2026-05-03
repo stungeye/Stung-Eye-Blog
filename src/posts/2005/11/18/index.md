@@ -1,5 +1,6 @@
 ---
 date: 2005-11-18T19:59:37.000-06:00
+generatedBy: tools/migrate.js
 title: Fresh is the taste
 permalink: /archive/by_date/2005/11/18/
 ---

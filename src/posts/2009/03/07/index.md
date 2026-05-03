@@ -1,5 +1,6 @@
 ---
 date: 2009-03-07T10:48:05.000-06:00
+generatedBy: tools/migrate.js
 title: Art and Code - Day 1 - Morning
 permalink: /archive/by_date/2009/03/07/
 ---

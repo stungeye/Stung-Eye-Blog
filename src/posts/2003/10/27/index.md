@@ -1,5 +1,6 @@
 ---
 date: 2003-10-27T18:42:10.000-06:00
+generatedBy: tools/migrate.js
 title: Past Lives
 permalink: /archive/by_date/2003/10/27/
 ---

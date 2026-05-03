@@ -1,5 +1,6 @@
 ---
 date: 2004-09-30T05:01:38.000-05:00
+generatedBy: tools/migrate.js
 title: Auberge des Jeunes
 permalink: /archive/by_date/2004/09/30/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2005-09-14T09:51:04.000-05:00
+generatedBy: tools/migrate.js
 title: Hits your eye
 permalink: /archive/by_date/2005/09/14/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2003-03-11T22:57:08.000-06:00
+generatedBy: tools/migrate.js
 title: Win Without
 permalink: /archive/by_date/2003/03/11/
 ---

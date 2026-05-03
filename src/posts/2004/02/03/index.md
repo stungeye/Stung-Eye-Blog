@@ -1,5 +1,6 @@
 ---
 date: 2004-02-03T15:36:08.000-06:00
+generatedBy: tools/migrate.js
 title: Blunt Sharpie Cursive
 permalink: /archive/by_date/2004/02/03/
 ---

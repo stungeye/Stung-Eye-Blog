@@ -1,5 +1,6 @@
 ---
 date: 2007-03-04T12:40:42.000-06:00
+generatedBy: tools/migrate.js
 title: "Look up! Get Down!"
 permalink: /archive/by_date/2007/03/04/
 ---

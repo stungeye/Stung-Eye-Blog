@@ -1,5 +1,6 @@
 ---
 date: 2003-08-21T01:28:07.000-05:00
+generatedBy: tools/migrate.js
 title: In Other Words... hold my hand
 permalink: /archive/by_date/2003/08/21/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2005-01-08T08:36:03.000-06:00
+generatedBy: tools/migrate.js
 title: amsterdamaged
 permalink: /archive/by_date/2005/01/08/
 ---

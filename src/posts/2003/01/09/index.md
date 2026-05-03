@@ -1,5 +1,6 @@
 ---
 date: 2003-01-09T18:30:32.000-06:00
+generatedBy: tools/migrate.js
 title: One Great City
 permalink: /archive/by_date/2003/01/09/
 ---

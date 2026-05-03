@@ -1,5 +1,6 @@
 ---
 date: 2004-11-23T15:08:39.000-06:00
+generatedBy: tools/migrate.js
 title: Really?
 permalink: /archive/by_date/2004/11/23/
 ---

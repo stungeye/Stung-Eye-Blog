@@ -1,5 +1,6 @@
 ---
 date: 2003-03-19T23:21:14.000-06:00
+generatedBy: tools/migrate.js
 title: Birds Still Sing
 permalink: /archive/by_date/2003/03/19/
 ---

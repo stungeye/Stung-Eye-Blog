@@ -1,5 +1,6 @@
 ---
 date: 2025-03-02T08:39:55.000-06:00
+generatedBy: tools/migrate.js
 title: Manitoba Gold 2024
 permalink: /archive/by_date/2025/03/02/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2008-06-20T09:56:28.000-05:00
+generatedBy: tools/migrate.js
 title: "Jim Prentice, Minister of 8-Tracks"
 permalink: /archive/by_date/2008/06/20/
 ---

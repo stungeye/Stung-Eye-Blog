@@ -1,5 +1,6 @@
 ---
 date: 2003-03-26T23:31:59.000-06:00
+generatedBy: tools/migrate.js
 title: Mic In Track
 permalink: /archive/by_date/2003/03/26/
 ---

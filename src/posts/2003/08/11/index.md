@@ -1,5 +1,6 @@
 ---
 date: 2003-08-11T17:04:34.000-05:00
+generatedBy: tools/migrate.js
 title: "Ceci n'est pas une pipe"
 permalink: /archive/by_date/2003/08/11/
 ---

@@ -1,5 +1,6 @@
 ---
 date: 2004-01-14T22:52:41.000-06:00
+generatedBy: tools/migrate.js
 title: Check your head
 permalink: /archive/by_date/2004/01/14/
 ---

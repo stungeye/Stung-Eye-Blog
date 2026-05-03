@@ -1,5 +1,6 @@
 ---
 date: 2006-12-05T23:28:39.000-06:00
+generatedBy: tools/migrate.js
 title: Just One Less Than Most
 permalink: /archive/by_date/2006/12/05/
 ---

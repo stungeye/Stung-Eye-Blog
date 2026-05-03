@@ -1,5 +1,6 @@
 ---
 date: 2008-09-01T17:55:00.000-05:00
+generatedBy: tools/migrate.js
 title: Two New Wally Glutton Mixes
 permalink: /archive/by_date/2008/09/01/
 ---
