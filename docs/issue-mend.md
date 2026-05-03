@@ -102,6 +102,14 @@ Before closing the repair:
 - compare the result against every acceptance criterion
 - sanity-check adjacent behavior that is easy to regress
 
+Environment note: this project includes an `.nvmrc`. In non-interactive shells,
+`npm` may not be on `PATH` until nvm is initialized. If a plain `npm ...`
+command is not found, rerun it with:
+
+```bash
+source ~/.nvm/nvm.sh && nvm use >/dev/null && npm ...
+```
+
 Report your findings and ask if the issue should be considered fixed or if further work is required.
 
 Return to Phase 4 for further work.

@@ -12,6 +12,14 @@ npm run dev       # Dev server with live reload at http://localhost:8080
 npm run build     # Production build → _site/
 ```
 
+The project includes an `.nvmrc`. In non-interactive shells, `npm` may not be on
+`PATH` until nvm is initialized; use this form when running commands from
+automation or agent shells:
+
+```bash
+source ~/.nvm/nvm.sh && nvm use >/dev/null && npm run build
+```
+
 ## Project Structure
 
 ```

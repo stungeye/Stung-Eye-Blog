@@ -94,18 +94,6 @@ the migration script will not alter the checked-in pages unless migration is
 rerun. A repair should either patch the 22 generated markdown files directly or
 change migration and intentionally regenerate the corpus.
 
-### 2. Low: Archive nav link missing trailing slash
-
-**Status:** Confirmed. Quick fix.
-
-**What:** [src/\_includes/layouts/base.njk](../src/_includes/layouts/base.njk)
-links to `/archive` instead of `/archive/`.
-
-**Impact:** One avoidable redirect when clicking the nav link on servers that
-canonicalize directory indexes. No content risk.
-
-**Fix:** Change the nav href to `/archive/`.
-
 ### 3. Low: Legacy MT body content contains section-level `<h1>` tags
 
 **Status:** Confirmed, but lower practical risk than originally implied.
@@ -205,10 +193,9 @@ manual documented cleanup for one-time migration reruns.
 | -------- | ------------------------------ | ---------------------------------------------------- |
 | 1        | #1 MT heading dedup            | Real readability issue on 22 legacy pages            |
 | 2        | #6 Future authoring date model | Needs a decision before regular manual/CMS authoring |
-| 3        | #2 Archive trailing slash      | Tiny polish fix                                      |
-| 4        | #4 RSS double encoding         | Low current impact, likely easy to test              |
-| 5        | #7 Migration stale files       | Conditional on rerunning migration                   |
-| 6        | #3 Body `<h1>` tags            | Legacy semantics polish/defer candidate              |
+| 3        | #4 RSS double encoding         | Low current impact, likely easy to test              |
+| 4        | #7 Migration stale files       | Conditional on rerunning migration                   |
+| 5        | #3 Body `<h1>` tags            | Legacy semantics polish/defer candidate              |
 
 No data loss or incorrectly migrated entries were found. The main pre-deploy
 date handling repair has been completed and archived.
