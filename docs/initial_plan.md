@@ -233,7 +233,7 @@ markdown. HTML is preserved inline where markdown conversion would be lossy.
 
 ```yaml
 ---
-date: 2008-07-23 18:46:42
+date: 2008-07-23T18:46:42-05:00
 title: Discovered on July 23, 2008
 permalink: /archive/by_date/2008/07/23/
 ---
@@ -241,6 +241,8 @@ permalink: /archive/by_date/2008/07/23/
 
 The `permalink` field is always written explicitly with a trailing slash to ensure
 Eleventy generates the correct `index.html` path regardless of global config defaults.
+The `date` field is now written as an explicit `America/Winnipeg` local-offset
+ISO datetime so archive grouping, display, and RSS dates share one date model.
 
 **Body rules:**
 

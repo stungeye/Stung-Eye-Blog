@@ -134,7 +134,7 @@ With frontmatter:
 
 ```yaml
 ---
-date: YYYY-MM-DD
+date: 2026-05-02T12:00:00-05:00
 title: Post Title
 permalink: /archive/by_date/YYYY/MM/DD/
 ---
@@ -153,7 +153,10 @@ date: 2026-05-02T12:00:00-05:00
 ```
 
 Choose a time that reflects the actual publish time, or use noon (`12:00:00`)
-as a neutral placeholder when there is no meaningful clock time.
+as a neutral placeholder when there is no meaningful clock time. Keep the
+frontmatter date, folder path, and permalink calendar day aligned in
+`America/Winnipeg`; run `npm run build` and then `npm run verify:dates` to
+check this before publishing.
 
 Place any images in the same directory and reference them with absolute paths:
 

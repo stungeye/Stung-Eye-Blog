@@ -28,7 +28,8 @@ The known month-boundary failures were:
 - Updated Eleventy date filters and archive grouping helpers to use the
   configured site timezone instead of UTC or host-local getters.
 - Added `npm run verify:issue5` to check frontmatter offsets, folder/day
-  agreement, boundary month placement, and RSS pubDate formatting.
+  agreement, boundary month placement, and RSS pubDate formatting. The verifier
+  now lives at `tools/verify-date-time-usage.js`.
 
 ## Verification
 
@@ -54,7 +55,7 @@ The known month-boundary failures were:
 - `src/_data/config.js`
 - `eleventy.config.js`
 - `tools/migrate.js`
-- `tools/verify-issue-5.js`
+- `tools/verify-date-time-usage.js`
 - `package.json`
 - `README.md`
 - `MIGRATION-NOTES.md`

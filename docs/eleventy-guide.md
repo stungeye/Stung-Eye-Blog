@@ -82,7 +82,7 @@ Each day page lives at `src/posts/YYYY/MM/DD/index.md` with YAML frontmatter:
 
 ```yaml
 ---
-date: 2008-07-23 18:46:42
+date: 2008-07-23T18:46:42-05:00
 title: Discovered on July 23, 2008
 permalink: /archive/by_date/2008/07/23/
 ---
@@ -91,12 +91,11 @@ Content body (markdown and inline HTML)...
 
 The three frontmatter fields:
 
-- **`date`**: The intended publish/archive datetime. Migrated bare datetimes are
-  legacy site-local wall time, effectively `America/Winnipeg`, not UTC
-  instants. Eleventy/js-yaml currently parses these bare values into JavaScript
-  `Date` objects as if they were UTC. The planned repair is to update migration
-  so generated frontmatter datetimes include explicit Winnipeg offsets, allowing
-  Eleventy to ingest them normally as real instants.
+- **`date`**: The single canonical publish/archive datetime. It must be an
+  explicit local-offset ISO datetime written in `America/Winnipeg` time, such as
+  `2008-07-23T18:46:42-05:00`. Date-only values are not allowed because
+  Eleventy/js-yaml parses them as UTC midnight before the site can apply its
+  timezone rules.
 - **`title`**: Used in the page `<title>`, the `<h1>`, and when other pages link to this day.
 - **`permalink`**: Overrides Eleventy's default URL derivation. Without this explicit permalink, Eleventy would derive URLs from the file path — which would give `/posts/2008/07/23/` instead of `/archive/by_date/2008/07/23/`. The trailing slash causes Eleventy to generate an `index.html` file at that path.
 
@@ -292,14 +291,11 @@ Custom Nunjucks filters defined in `eleventy.config.js`. Filters transform value
 | `split`         | `"2008-07"`, `"-"` | `["2008", "07"]`             | Month page title computation    |
 | `absoluteUrl`   | `"/path/"`, base   | Full URL                     | Sitemap                         |
 
-Date handling should be unified around the configured site timezone,
-`America/Winnipeg`. The important trap: formatting Eleventy's already-parsed
-`Date` in Winnipeg is still wrong for migrated bare datetimes, because those
-values have already been misread as UTC. The repair direction in
-`docs/issues-and-fixes.md` issue #5 is to make migrated frontmatter explicit
-with Winnipeg offsets. After that, Eleventy can ingest `date` normally, while
-archive grouping and display should use the configured site timezone rather than
-UTC or the build machine's local timezone.
+Date handling is unified around the configured site timezone,
+`America/Winnipeg`. Migrated and manually authored posts use explicit Winnipeg
+offsets, so Eleventy can ingest `date` normally while archive grouping and
+display use the configured site timezone rather than UTC or the build machine's
+local timezone.
 
 ## Passthrough Copy
 
@@ -391,7 +387,7 @@ Create a new day page at `src/posts/YYYY/MM/DD/index.md`:
 
 ```yaml
 ---
-date: 2026-04-04 12:00:00
+date: 2026-04-04T12:00:00-05:00
 title: New Post Title
 permalink: /archive/by_date/2026/04/04/
 ---
@@ -414,10 +410,11 @@ Things to remember:
 - You **cannot** use `{{ }}` or `{% %}` syntax in `.md` files (template engine is disabled).
 - The `permalink` must be set explicitly — Eleventy won't derive the right URL from the file path alone.
 - Image paths must be absolute, not relative, so they resolve correctly from any page (homepage, month page, etc.).
-- The `date` field controls sort order and archive grouping. Migrated datetimes
-  should include explicit Winnipeg offsets after issue #5 is repaired; keep the
-  frontmatter date, folder path, and permalink calendar day aligned in
-  `America/Winnipeg`.
+- The `date` field controls sort order and archive grouping. Use an explicit
+  `America/Winnipeg` local-offset ISO datetime; keep the frontmatter date,
+  folder path, and permalink calendar day aligned.
+- Run `npm run build` and then `npm run verify:dates` to catch date-only
+  values, missing offsets, and folder/permalink/date mismatches.
 
 ## CSS
 

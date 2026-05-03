@@ -40,6 +40,8 @@ function assert(condition, message) {
   }
 }
 
+assert(existsSync(SITE_DIR), "Run npm run build before verify:dates");
+
 function readPost(pathParts) {
   return readFileSync(join(POSTS_DIR, ...pathParts, "index.md"), "utf-8");
 }
@@ -50,15 +52,32 @@ function frontmatterDate(markdown) {
   return match[1].trim();
 }
 
+function frontmatterPermalink(markdown) {
+  const match = markdown.match(/^permalink:\s*(.+)$/m);
+  assert(match, "Missing frontmatter permalink");
+  return match[1].trim();
+}
+
 function assertPostDateMatchesFolder(pathParts, dateValue) {
   const expectedDay = pathParts.join("-");
-  const dt = dateValue.includes("T")
-    ? DateTime.fromISO(dateValue, { setZone: true }).setZone(config.siteTimeZone)
-    : DateTime.fromISO(dateValue, { zone: config.siteTimeZone });
+  const dt = DateTime.fromISO(dateValue, { setZone: true });
   assert(dt.isValid, `Invalid ISO date for ${pathParts.join("/")}: ${dateValue}`);
+  const siteDt = dt.setZone(config.siteTimeZone);
   assert(
-    dt.toISODate() === expectedDay,
-    `${pathParts.join("/")} renders as ${dt.toISODate()} in ${config.siteTimeZone}`,
+    dt.offset === siteDt.offset,
+    `${pathParts.join("/")} date is not written with the ${config.siteTimeZone} offset: ${dateValue}`,
+  );
+  assert(
+    siteDt.toISODate() === expectedDay,
+    `${pathParts.join("/")} renders as ${siteDt.toISODate()} in ${config.siteTimeZone}`,
+  );
+}
+
+function assertPostPermalinkMatchesFolder(pathParts, permalink) {
+  const expectedPermalink = `/archive/by_date/${pathParts.join("/")}/`;
+  assert(
+    permalink === expectedPermalink,
+    `${pathParts.join("/")} permalink is ${permalink}, expected ${expectedPermalink}`,
   );
 }
 
@@ -96,23 +115,19 @@ function postPaths(dir = POSTS_DIR, prefix = []) {
 }
 
 for (const pathParts of postPaths()) {
-  const dateValue = frontmatterDate(readPost(pathParts));
+  const post = readPost(pathParts);
+  const dateValue = frontmatterDate(post);
+  const permalink = frontmatterPermalink(post);
 
-  if (dateValue.includes("T")) {
-    assert(
-      /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}[+-]\d{2}:\d{2}$/.test(
-        dateValue,
-      ),
-      `${pathParts.join("/")} has a datetime without an explicit offset: ${dateValue}`,
-    );
-  } else {
-    assert(
-      /^\d{4}-\d{2}-\d{2}$/.test(dateValue),
-      `${pathParts.join("/")} has an unsupported date format: ${dateValue}`,
-    );
-  }
+  assert(
+    /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d{3})?[+-]\d{2}:\d{2}$/.test(
+      dateValue,
+    ),
+    `${pathParts.join("/")} date must be an explicit local-offset ISO datetime: ${dateValue}`,
+  );
 
   assertPostDateMatchesFolder(pathParts, dateValue);
+  assertPostPermalinkMatchesFolder(pathParts, permalink);
 }
 
 for (const post of boundaryPosts) {
@@ -138,4 +153,4 @@ for (const pubDate of feed.matchAll(/<pubDate>([^<]+)<\/pubDate>/g)) {
   );
 }
 
-console.log("Issue #5 timezone checks passed.");
+console.log("Date/time authoring checks passed.");

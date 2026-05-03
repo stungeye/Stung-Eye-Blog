@@ -100,43 +100,6 @@ a feed item includes literal HTML entities in content.
 **Fix direction:** Add or use an entity-decoding step for feed descriptions
 before XML escaping, with a focused feed regression check.
 
-### 6. Medium: Future post authoring needs an explicit date model
-
-**Status:** Reframed. This is less an immediate migration bug and more an
-authoring/CMS design decision.
-
-**What:** The current site has one `date` field doing three jobs:
-
-- sorting day pages
-- displaying the day-page date
-- generating RSS pubDate
-
-Migrated content now carries explicit `America/Winnipeg` offsets after the issue
-#5 repair, but the site still has one `date` field doing both calendar-day and
-publication-instant work.
-
-**Policy now documented in README:** All manually authored posts must use an
-explicit local-offset ISO datetime. Date-only frontmatter is not allowed.
-
-```yaml
-date: 2026-05-02T14:30:00-05:00
-```
-
-Use the actual publish time, or noon (`12:00:00`) as a neutral placeholder when
-there is no meaningful clock time. Archive grouping follows the configured
-site-time calendar day.
-
-**Pages CMS direction:** If Pages CMS or similar becomes the authoring interface,
-prefer separating the canonical archive day from the exact publish instant, for
-example:
-
-- `date` or `archiveDate`: the day-page date used for display, URL, and archive
-  grouping
-- `publishedAt`: optional local datetime with offset used for RSS ordering/time
-
-That avoids making manual UTC entry part of the long-term workflow and keeps
-archive URLs independent from timezone conversion surprises.
-
 ### 7. Low: Migration reruns can leave stale `src/posts/` content
 
 **Status:** Confirmed, but conditional.
@@ -156,12 +119,11 @@ manual documented cleanup for one-time migration reruns.
 
 ## Current Priority Order
 
-| Priority | Issue                          | Why                                                  |
-| -------- | ------------------------------ | ---------------------------------------------------- |
-| 1        | #6 Future authoring date model | Needs a decision before regular manual/CMS authoring |
-| 2        | #4 RSS double encoding         | Low current impact, likely easy to test              |
-| 3        | #7 Migration stale files       | Conditional on rerunning migration                   |
-| 4        | #3 Body `<h1>` tags            | Legacy semantics polish/defer candidate              |
+| Priority | Issue                    | Why                                     |
+| -------- | ------------------------ | --------------------------------------- |
+| 1        | #4 RSS double encoding   | Low current impact, likely easy to test |
+| 2        | #7 Migration stale files | Conditional on rerunning migration      |
+| 3        | #3 Body `<h1>` tags      | Legacy semantics polish/defer candidate |
 
 No data loss or incorrectly migrated entries were found. The main pre-deploy
 date handling repair has been completed and archived.
