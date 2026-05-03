@@ -36,6 +36,31 @@ The `rendered.*` fields from the export are used directly. `item_data` is only a
 - If the day has a `page_title_source` of `"primary-item"`, use `page_title` from the day record.
 - Otherwise, fall back to `"Discovered on Month D, YYYY"`.
 
+### Date And Time Semantics
+
+Migrated frontmatter datetimes preserve the legacy platform's local wall-clock
+time. For this site, that should be treated as `America/Winnipeg` time, not UTC.
+
+Evidence from the source data:
+
+- MT live page footers match migrated markdown dates to the minute, with
+  markdown preserving seconds.
+- CI/Tumblr exports include both a local `date` and `date-gmt`; migrated
+  markdown uses the local `date`.
+- Posts written while the author was in Europe during 2004-2005 often appear in
+  Winnipeg night hours, consistent with the publishing platform remaining on
+  Winnipeg/site time.
+
+Implementation note: Eleventy/js-yaml parses bare YAML datetimes like
+`2005-10-01 02:20:18` as UTC JavaScript `Date` objects. That parse result does
+not represent the intended timestamp. Date display, sorting, archive grouping,
+sitemap dates, and RSS dates should be based on the frontmatter value parsed as
+`America/Winnipeg` wall time. The preferred repair is to update migration so
+generated frontmatter datetimes include explicit Winnipeg offsets, letting
+Eleventy ingest them normally as real instants. Eleventy display and archive
+grouping should still use the configured site timezone. See
+`docs/issues-and-fixes.md` issue #5 for the pending repair plan.
+
 ## MT Entries → Day Pages
 
 Each MT entry from `mt_entries.json` becomes (or merges into) a day page. Only entries with `entry_status = 2` (published) are included.
