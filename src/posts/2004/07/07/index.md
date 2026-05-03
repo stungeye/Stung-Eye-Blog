@@ -1,10 +1,8 @@
 ---
 date: 2004-07-07T23:52:26.000-05:00
-title: "I'll Drink To That"
+title: Deux
 permalink: /archive/by_date/2004/07/07/
 ---
-
-## Deux
 
 If programming books read like <i><a href="http://www.poignantguide.net/ruby/chapter-1.html" target="_blank">why's (poignant) guide to ruby</a></i>, I would smile more often. (Related: <a href="http://whytheluckystiff.net/" target="_blank"><i>why</i> the lucky stiff</a>)
 
@@ -27,5 +25,7 @@ I use <a href="http://spurl.net">spurl</a> to ping my links to <a href="http://d
 Create PDF files for free with <a href="http://www.download.com/PDF995/3000-6675-10209039.html?tag=lst-0-1" target="_blank">pdf995</a>. No need to crack Adobe Distiller;)
 
 ---
+
+## I'll Drink To That
 
 Jack Kerouac - Dean Moriarity - <a href="http://www.stungeye.com/sounds/songweek/0704/Jack Kerouac - Dean Moriarity - Poetry for the Beat Generation.mp3">Poetry for the Beat Generation</a>.

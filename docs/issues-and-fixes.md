@@ -61,39 +61,6 @@ v24.14.1.
 
 ## Active Issues
 
-### 1. Medium: Multi-entry MT day heading dedup creates orphaned sections
-
-**Status:** Confirmed. Keep as Medium because the content is present, but the
-reading structure is confusing on affected days.
-
-**What:** On multi-entry MT-only days, the page title is taken from the first MT
-entry in export order, while body entries render newest-first. The heading dedup
-then removes the heading from the title-matching entry even when that entry
-renders later on the page.
-
-**Scope:** Confirmed 22 affected pages out of 23 multi-entry MT-only days. The
-unaffected day is 2004-12-11, where identical timestamps preserve the expected
-order.
-
-Representative examples:
-
-- [src/posts/2003/01/02/index.md](../src/posts/2003/01/02/index.md) - h1
-  "Zone Woes"; first rendered section is `## 1825`; "Zone Woes" content appears
-  below without a heading.
-- [src/posts/2003/02/17/index.md](../src/posts/2003/02/17/index.md) - h1
-  "A New Home"; first rendered section is `## Balanced`.
-- [src/posts/2003/09/11/index.md](../src/posts/2003/09/11/index.md) - h1
-  "What happened here?"; first rendered section is `## On a ferry`.
-
-**Root cause:** `determineDayTitle()` in [tools/migrate.js](../tools/migrate.js)
-uses `mtEntries[0]`; `buildDayEntries()` sorts entries descending before
-rendering.
-
-**Implementation note:** If `src/posts/` is now the canonical corpus, fixing only
-the migration script will not alter the checked-in pages unless migration is
-rerun. A repair should either patch the 22 generated markdown files directly or
-change migration and intentionally regenerate the corpus.
-
 ### 3. Low: Legacy MT body content contains section-level `<h1>` tags
 
 **Status:** Confirmed, but lower practical risk than originally implied.
@@ -191,11 +158,10 @@ manual documented cleanup for one-time migration reruns.
 
 | Priority | Issue                          | Why                                                  |
 | -------- | ------------------------------ | ---------------------------------------------------- |
-| 1        | #1 MT heading dedup            | Real readability issue on 22 legacy pages            |
-| 2        | #6 Future authoring date model | Needs a decision before regular manual/CMS authoring |
-| 3        | #4 RSS double encoding         | Low current impact, likely easy to test              |
-| 4        | #7 Migration stale files       | Conditional on rerunning migration                   |
-| 5        | #3 Body `<h1>` tags            | Legacy semantics polish/defer candidate              |
+| 1        | #6 Future authoring date model | Needs a decision before regular manual/CMS authoring |
+| 2        | #4 RSS double encoding         | Low current impact, likely easy to test              |
+| 3        | #7 Migration stale files       | Conditional on rerunning migration                   |
+| 4        | #3 Body `<h1>` tags            | Legacy semantics polish/defer candidate              |
 
 No data loss or incorrectly migrated entries were found. The main pre-deploy
 date handling repair has been completed and archived.

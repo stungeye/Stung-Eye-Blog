@@ -1,10 +1,8 @@
 ---
 date: 2004-01-02T11:35:30.000-06:00
-title: B. Sc.
+title: "I Couldn't Resist"
 permalink: /archive/by_date/2004/01/02/
 ---
-
-## I Couldn't Resist
 
 As hip-pop continues to take over the airwaves, hip-hop is as fresh as ever:
 
@@ -17,6 +15,8 @@ As hip-pop continues to take over the airwaves, hip-hop is as fresh as ever:
 --------</li>
 
 ---
+
+## B. Sc.
 
 The work of Josh Nimoy is hard to define. Technological art? An online collection of Josh's experiments can be found at <a href="http://www.jtnimoy.net/" target="_blank">jtnimoy.net</a>. The word juxtaposition comes to mind. (I like the sound of that word, although I think this may be the first time I've actually used it.) Some experiments I enjoyed:
 

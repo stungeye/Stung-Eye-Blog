@@ -1,10 +1,8 @@
 ---
 date: 2003-11-05T10:25:25.000-06:00
-title: why say yes to democracy when fascism works so well?
+title: Time
 permalink: /archive/by_date/2003/11/05/
 ---
-
-## Time
 
 The <a href="http://www.perceptionalism.com" target="_blank">chef</a> asked me to take some winter snapshots. So, if you are interested in what an early winter looks like in Winnipeg, Manitoba, Canada:
 
@@ -28,5 +26,7 @@ And perhaps on a related note, <a href="http://www.theglobeandmail.com/servlet/A
 Arachnophobes heed this warning: Do not follow <a href="http://www.squub.com/110420031.htm" target="_blank">this link</a>.
 
 ---
+
+## why say yes to democracy when fascism works so well?
 
 I still can't get over this.  My friends to the south seem to be headed to a strange place.  <a href="http://www.torontostar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&amp;call_pageid=971358637177&amp;c=Article&amp;cid=1067121006945" target="_blank">This Toronto Star article </a>from October 25th details some very disturbing trends.  I'm hoping some of this comes to light for next year's US federal election.  If freedom of speech is at stake, what's next?  Will the second amendment be the next right struck down?  We've all got a good reason to be scared...  more than usual.

@@ -1,10 +1,8 @@
 ---
 date: 2003-09-11T22:34:45.000-05:00
-title: What happened here?
+title: On a ferry
 permalink: /archive/by_date/2003/09/11/
 ---
-
-## On a ferry
 
 People sit in rows facing forward and back.
 
@@ -35,6 +33,8 @@ On deck the two of you can be in the background of  tourists' photographs, smili
 Kissing her is by far the best option for your mouth in this situation.</i>
 
 ---
+
+## What happened here?
 
 I guess it's time for some links:
 

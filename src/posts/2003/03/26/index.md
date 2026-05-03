@@ -1,10 +1,8 @@
 ---
 date: 2003-03-26T23:31:59.000-06:00
-title: Thoughts
+title: Mic In Track
 permalink: /archive/by_date/2003/03/26/
 ---
-
-## Mic In Track
 
 Want to check out a scary webpage??? It's the <a href="http://www.newamericancentury.org/statementofprinciples.htm" target="_blank">Project For The New American Century</a> a <i>"non-profit educational organization dedicated to a few fundamental propositions: that American leadership is good both for America and for the world; that such leadership requires military strength, diplomatic energy and commitment to moral principle; and that too few political leaders today are making the case for global leadership.</i>" This old boys club has many influential members including: Dick Cheney, Dan Quayle, Jeb Bush and Donald Rumsfeld. How's that for an all-star line-up of an organization intent on American military world domination? In their report, <a href="http://www.newamericancentury.org/RebuildingAmericasDefenses.pdf" target="_blank">Rebuilding America's Defenses: Strategy, Forces and Resources For a New Century</a>, they state that <i>"the process of transformation, even if it brings revolutionary change, is likely to be a long one, absent some catastrophic and catalyzing event – like a new Pearl Harbor."</i> We've got to take a step back and realize that this war on terror has been in the works for many years and Sept 11th was simply their new Pearl Harbor.
 
@@ -15,6 +13,8 @@ Did you catch <a href="http://www.michaelmoore.com/" target="_blank">Michael Moo
 Last but not least... UK graffiti artist Bansky has give <a href="http://www.banksy.co.uk/menu.html" target="_blank">his page</a> a facelift. Lots of new art.
 
 ---
+
+## Thoughts
 
 just sorta thinking things over here...  and yeah, it centres around Iraq.
 

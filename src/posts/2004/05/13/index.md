@@ -1,10 +1,8 @@
 ---
 date: 2004-05-13T14:53:30.000-05:00
-title: Paper Memory
+title: Digital Memory
 permalink: /archive/by_date/2004/05/13/
 ---
-
-## Digital Memory
 
 Whereas the last post dealt with books, this post will highlight what is keeping my mind busy online.
 
@@ -26,6 +24,8 @@ Some chapters from the 2002 revision of <a href="http://www.slofi.com/About_the_
 Finally, <a href="http://www.jengajam.com/r/shirt-folding" target="_blank">the coolest way to fold a t-shirt</a>, ever. [Quicktime]
 
 ---
+
+## Paper Memory
 
 I'm addicted to information. Books have always been my favourite knowledge narcotic. My search for used books to fuel <a href="http://stungeye.com/archives/2003/11/time.php">Glutton University</a> was successful this month:
 <ul>

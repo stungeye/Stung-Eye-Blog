@@ -693,22 +693,30 @@ function buildDayEntries(ciDay, mtEntries) {
 
 /**
  * Determine the page title for a day.
+ * @param {object|null} ciDay
+ * @param {object[]|null} mtEntries
+ * @param {object[]} dayEntries - Sorted entries from buildDayEntries().
  */
-function determineDayTitle(ciDay, mtEntries) {
-  // If CI day exists and has a page title, use it
+function determineDayTitle(ciDay, mtEntries, dayEntries) {
+  // CI page_title always wins on merged days; MT title logic is MT-only.
   if (ciDay && ciDay.page_title) {
-    // If the day also has MT entries and CI title is a fallback-date,
-    // we could potentially use the MT title, but spec says use CI page_title
     return ciDay.page_title;
   }
 
-  // MT-only day
+  // MT-only day. Match the rendered newest-first order so title dedup skips
+  // the first visible entry, not whichever entry appeared first in the export.
   if (mtEntries && mtEntries.length > 0) {
-    const firstTitle = mtEntries[0].entry_title;
+    if (!Array.isArray(dayEntries)) {
+      throw new Error("determineDayTitle requires sorted dayEntries");
+    }
+
+    const firstRenderedMtEntry =
+      dayEntries.find((entry) => entry.source === "mt")?.entry ?? mtEntries[0];
+    const firstTitle = firstRenderedMtEntry.entry_title;
     if (firstTitle) return firstTitle;
 
     // Fallback
-    const dateStr = mtEntries[0].day_date;
+    const dateStr = firstRenderedMtEntry.day_date;
     const d = new Date(dateStr + "T00:00:00");
     return `Entry from ${monthName(dateStr)} ${d.getDate()}, ${d.getFullYear()}`;
   }
@@ -745,7 +753,7 @@ function determineDayDate(ciDay, mtEntries) {
 
 async function generateDayPage(dateStr, ciDay, mtEntries) {
   const dayEntries = buildDayEntries(ciDay, mtEntries);
-  const title = determineDayTitle(ciDay, mtEntries);
+  const title = determineDayTitle(ciDay, mtEntries, dayEntries);
   const dateValue = determineDayDate(ciDay, mtEntries);
   const permalink = dayPermalink(dateStr);
 

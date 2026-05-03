@@ -1,10 +1,8 @@
 ---
 date: 2003-08-27T22:29:54.000-05:00
-title: Traded in my Crayons for Krylons
+title: Zen and the Art of Rainstorms
 permalink: /archive/by_date/2003/08/27/
 ---
-
-## Zen and the Art of Rainstorms
 
 I rode my bicycle home in the rain today. Sometimes all it takes is a simple summer storm to make you feel truly alive.
  
@@ -38,6 +36,8 @@ Maybe next time I see the sky swell with ominous black clouds I’ll take the ri
 If you watch the <a href="http://www.stungeye.com/cams.htm">stungeye cam</a> over the next week you should be able to follow the growth of the grass I planted today. In two weeks time the bunnies are in for a treat.
 
 ---
+
+## Traded in my Crayons for Krylons
 
 <a href="http://www.metafilter.com" target="_blank">Metafilter</a> led me to the following two interesting reads:
 

@@ -1,16 +1,16 @@
 ---
 date: 2003-01-02T17:25:18.000-06:00
-title: Zone Woes
+title: 1825
 permalink: /archive/by_date/2003/01/02/
 ---
-
-## 1825
 
 Today is a special day. I have now been dating my girlfriend for five years. Happy Aniversary Sweetheart!
 
 I love you.
 
 ---
+
+## Zone Woes
 
 From the movie, <a href="http://www.allmovie.com/cg/avg.dll?p=avg&amp;type=2&amp;srch=the|ice|storm" target="blank">The Ice Storm</a> :
 

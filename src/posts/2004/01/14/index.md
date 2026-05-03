@@ -1,10 +1,8 @@
 ---
 date: 2004-01-14T22:52:41.000-06:00
-title: The Under Toad
+title: Check your head
 permalink: /archive/by_date/2004/01/14/
 ---
-
-## Check your head
 
 Playing with the new brushes in Photoshop:
 
@@ -19,6 +17,8 @@ Legs:
 <a href="#" border="0" onmouseover="window.status='Click to view Legs in another window';return true" onmouseout="window.status='';return true" onclick="display_image_mult('http://www.stungeye.com/images/photos/wally/0104/legs','Legs',640,480,3);return false;"><img hspace="0" vspace="0" border="0" src="http://www.stungeye.com/images/photos/wally/0104/legs_T.jpg"></a>
 
 ---
+
+## The Under Toad
 
 <li>All Consuming's, <a href="http://allconsuming.net/2003-summary.html" target="_BLANK">most blogged about books for 2003</a>.
 

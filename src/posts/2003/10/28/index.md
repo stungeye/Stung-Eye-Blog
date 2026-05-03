@@ -1,10 +1,8 @@
 ---
 date: 2003-10-28T10:56:28.000-06:00
-title: Novel Animality
+title: Examples Of Progress
 permalink: /archive/by_date/2003/10/28/
 ---
-
-## Examples Of Progress
 
 Two great Beatles tracks for you to soak in, now that we are all studied up on Beatles recording technology, (i.e. For the music geeks):
 
@@ -14,6 +12,8 @@ Two great Beatles tracks for you to soak in, now that we are all studied up on B
 The prior was recorded using a 4-track in 1963, the latter was recorded three years down the road. Even if you've heard these tracks 1000s of times before, you should download and listen again.
 
 ---
+
+## Novel Animality
 
 <a href="http://www.stampete.de/projects/uncommoncreatures" target="_blank"><img hspace="0" vspace="0" border="0" src="http://www.stungeye.com/images/others/1003/uncommon.jpg"></a>
 

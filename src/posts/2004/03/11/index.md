@@ -1,10 +1,8 @@
 ---
 date: 2004-03-11T10:42:31.000-06:00
-title: Those who care...
+title: Nothing destroys description so much as words...
 permalink: /archive/by_date/2004/03/11/
 ---
-
-## Nothing destroys description so much as words...
 
 The Chinese are downloading <a href="http://stungeye.com/archives/2003/11/can_you_imagine.php">my John Lennon vs. mcenroe mash-up</a> like mad. The mix I made back in November has received 1000+ hits in the past 10 days; these hits come almost exclusively from <a href="http://www.baidu.com/" target="_blank">Baidu</a>, a Chinese search engine.
 
@@ -75,6 +73,8 @@ A visit to <a href="http://www.marchdesign.com/blog.htm" target="_blank">*.*</a>
 </li></ul>
 
 ---
+
+## Those who care...
 
 I've been nurtured by some marvelous teachers; both my parents are teachers. The following letter was published in today's <a href="http://www.winnipegfreepress.com" target="_blank">Winnipeg Free Press</a>:
 

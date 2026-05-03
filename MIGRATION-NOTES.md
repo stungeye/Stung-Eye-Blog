@@ -78,7 +78,8 @@ Each MT entry from `mt_entries.json` becomes (or merges into) a day page. Only e
 422 days exist only in MT data (not in CI). These become real built pages, not just redirect targets. Title logic:
 
 - Single entry → use `entry_title`
-- Multiple entries → use first entry's title
+- Multiple entries → use the first rendered entry's title after newest-first
+  sorting
 - Fallback → `"Entry from Month D, YYYY"`
 
 ### Merged Days

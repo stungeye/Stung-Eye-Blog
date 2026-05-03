@@ -1,10 +1,8 @@
 ---
 date: 2003-10-16T23:34:39.000-05:00
-title: Had a little too much to think tonight
+title: Borrowing account
 permalink: /archive/by_date/2003/10/16/
 ---
-
-## Borrowing account
 
 A few interesting Canadian/Winnipeg-ian political developments:
 
@@ -19,6 +17,8 @@ A few interesting Canadian/Winnipeg-ian political developments:
 Hmmm. Re-reading the above, I'm not sure I'm comfortable with taking this blog into the political discussion realm. I just don't have the time to properly research the topics at hand and provide well thought out commentary on the issues. Geez, that says a lot for democracy, doesn't it? Who really has the time to research and make informed political decisions these days? (Other than politicians...)
 
 ---
+
+## Had a little too much to think tonight
 
 Some photographs from Gimli, Manitoba:
 

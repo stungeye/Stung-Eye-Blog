@@ -1,10 +1,8 @@
 ---
 date: 2004-04-20T11:38:44.000-05:00
-title: We Are All Noorons
+title: Right Reality
 permalink: /archive/by_date/2004/04/20/
 ---
-
-## Right Reality
 
 <i>From those who are he
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to those who are she.</i>
@@ -25,6 +23,8 @@ Pretty colours, rhythmic flashes across the reflection of your stare.
 An indoor wind caught in the corners of your skirt and in the tips of your hair.
 
 ---
+
+## We Are All Noorons
 
 <a href="http://perceptionalism.com/archives/000103.html" target="_blank">Welcome to the Noosphere</a> - The Chef tackles a subject that is very close to my heart: The emergence of a global consciousness. It's worth the read.
 

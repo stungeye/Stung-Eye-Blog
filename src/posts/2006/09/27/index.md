@@ -1,10 +1,8 @@
 ---
 date: 2006-09-27T23:14:20.000-05:00
-title: FallenPrey
+title: Stat Attack
 permalink: /archive/by_date/2006/09/27/
 ---
-
-## Stat Attack
 
 <img src="http://stungeye.com/images/statsSept2006.jpg" alt="Stats as of 27 Sept. 2006" title="Stats as of 27 Sept. 2006" style="border: solid 2px #902400;">
 
@@ -31,6 +29,8 @@ Some love:
 * [Saving Your Life on a Hard Drive](http://www.tfot.info/content/view/63/)
 
 ---
+
+## FallenPrey
 
 <a href="http://www.flickr.com/photos/44124420549@N01/253863832/" title="Click for hi-res" target="_blank"><img src="http://static.flickr.com/106/253863832_44d37cecbd.jpg" alt="" style="border: solid 2px #000000;"></a>
 

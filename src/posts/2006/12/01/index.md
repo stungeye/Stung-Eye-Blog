@@ -1,10 +1,8 @@
 ---
 date: 2006-12-01T15:28:06.000-06:00
-title: "To Sleep, Perchance to Scream"
+title: "My God, it's Full of Stars"
 permalink: /archive/by_date/2006/12/01/
 ---
-
-## My God, it's Full of Stars
 
 If you read the Da Vinci Code, or closer to home, if you've been following the daily Winnipeg Free Press articles on [Sacred Geometry in our legislative building](http://www.grandlodge.mb.ca/mrc_docs/Masonic%20Interpretation%20of%20Manitoba%20Legislative%20Building.pdf), you've heard of the number Phi.
 
@@ -58,6 +56,8 @@ A scale is comprised of **8** notes, of which the **5**th and **3**rd notes crea
 * [US Presidential Speeches Tag Cloud](http://chir.ag/phernalia/preztags/)
 
 ---
+
+## To Sleep, Perchance to Scream
 
 Traffic around here has spiked since Sunday, 7000 visits and counting. The norm for one week is less than 500.
 

@@ -1,10 +1,8 @@
 ---
 date: 2004-08-28T16:26:20.000-05:00
-title: Before and After
+title: Cucumber Cool
 permalink: /archive/by_date/2004/08/28/
 ---
-
-## Cucumber Cool
 
 <h1>Language</h1>
 <ul>
@@ -26,6 +24,8 @@ permalink: /archive/by_date/2004/08/28/
 </ul>
 
 ---
+
+## Before and After
 
 Shannon and I are now married.
 

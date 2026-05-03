@@ -1,10 +1,8 @@
 ---
 date: 2003-11-18T18:02:42.000-06:00
-title: Images from other eyes.
+title: Can you imagine that?
 permalink: /archive/by_date/2003/11/18/
 ---
-
-## Can you imagine that?
 
 Last week <a href="http://www.perceptionalism.com" target="_blank">the Chef</a> pointed out that we always produced our best work at school while under pressure. So I've decided to add a time limiting component to my audio and flash sketches. This morning I gave myself 3 hours to toss together a mash-up between John Lennon's <i>Imagine</i> and a hip-hop beat from <a href="http://www.peanutsandcorn.com" target="_blank">mcenroe</a>'s album <i>Billy's Vision</i>:
 
@@ -13,6 +11,8 @@ Last week <a href="http://www.perceptionalism.com" target="_blank">the Chef</a> 
 I'm pretty happy with the result. The beat loses sync here and here, but I think the two songs sound good together. Things would have been easier if old John Lennon had used a metronome. Check out this old <a href="http://stungeye.com/archives/2003/02/mashed_potatoes.php">post of mine on Mash Ups</a>.
 
 ---
+
+## Images from other eyes.
 
 Here are some pix from DJMose and Chen.
 

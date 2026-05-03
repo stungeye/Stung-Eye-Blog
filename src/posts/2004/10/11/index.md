@@ -1,10 +1,8 @@
 ---
 date: 2004-10-11T12:10:51.000-05:00
-title: Friendly Giant
+title: No place like home?
 permalink: /archive/by_date/2004/10/11/
 ---
-
-## No place like home?
 
 There are parrots here. We are no longer in Paris. Barcelona is now <a href="http://www.likeathome.net/" target="_blank">our home</a>.
 
@@ -19,6 +17,8 @@ Now, in Spain, Shannon and I find ourselves in the same boat: We do not speak th
 Last nights dinner was a true hostel experience. Our food provided by the kitchen's free shelf. All markets being closed on Sunday, past noon.
 
 ---
+
+## Friendly Giant
 
 <a href="http://www.flickr.com/photos/44124420549@N01/813891/" title="Click for hi-res" target="_blank"><img src="http://www.flickr.com/photos/813891_cc0b466689_m.jpg" alt="" style="border: solid 2px #000000;"></a>
 

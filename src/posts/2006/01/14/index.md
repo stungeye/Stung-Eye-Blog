@@ -1,10 +1,8 @@
 ---
 date: 2006-01-14T18:01:47.000-06:00
-title: pieces of pieces
+title: "Greasemonkey'd Music Search"
 permalink: /archive/by_date/2006/01/14/
 ---
-
-## Greasemonkey'd Music Search
 
 Let's use [GreaseMonkey](http://greasemonkey.mozdev.org/) to add direct download capabilities to the [RadioBlogClub search](http://www.radioblogclub.com/search/) results.
 
@@ -33,6 +31,8 @@ Some recommended searches:
 As predicted, Radio.Blog.Club has switched up their search results. The script will no longer work. A new script is in the works.
 
 ---
+
+## pieces of pieces
 
 <a href="http://www.flickr.com/photos/44124420549@N01/86530022/" title="Click for hi-res" target="_blank"><img src="http://static.flickr.com/42/86530022_1fabf08739_m.jpg" alt="" style="border: solid 2px #000000;"></a>
 
