@@ -1,5 +1,5 @@
 ---
-date: 2018-06-05 16:50:45
+date: 2018-06-05T16:50:45.000-05:00
 title: Meow Reader Ex Machina
 permalink: /archive/by_date/2018/06/05/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2004-09-23 14:21:04
+date: 2004-09-23T14:21:04.000-05:00
 title: Maki
 permalink: /archive/by_date/2004/09/23/
 ---

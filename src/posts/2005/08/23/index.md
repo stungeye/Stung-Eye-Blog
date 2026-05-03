@@ -1,5 +1,5 @@
 ---
-date: 2005-08-23 03:28:41
+date: 2005-08-23T03:28:41.000-05:00
 title: 366 Days
 permalink: /archive/by_date/2005/08/23/
 ---

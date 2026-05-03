@@ -1,5 +1,5 @@
 ---
-date: 2006-02-09 16:11:03
+date: 2006-02-09T16:11:03.000-06:00
 title: Controller Controller
 permalink: /archive/by_date/2006/02/09/
 ---

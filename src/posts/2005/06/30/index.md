@@ -1,5 +1,5 @@
 ---
-date: 2005-06-30 05:16:41
+date: 2005-06-30T05:16:41.000-05:00
 title: Devil of a lake
 permalink: /archive/by_date/2005/06/30/
 ---

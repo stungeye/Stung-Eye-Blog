@@ -1,5 +1,5 @@
 ---
-date: 2003-01-27 09:49:25
+date: 2003-01-27T09:49:25.000-06:00
 title: Weather
 permalink: /archive/by_date/2003/01/27/
 ---

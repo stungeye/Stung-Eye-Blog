@@ -1,5 +1,5 @@
 ---
-date: 2003-10-21 23:35:07
+date: 2003-10-21T23:35:07.000-05:00
 title: Nothing self-inflicted hurts like an accident
 permalink: /archive/by_date/2003/10/21/
 ---

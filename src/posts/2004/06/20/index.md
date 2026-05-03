@@ -1,5 +1,5 @@
 ---
-date: 2004-06-20 22:38:31
+date: 2004-06-20T22:38:31.000-05:00
 title: Clickclickclickclickclick...
 permalink: /archive/by_date/2004/06/20/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-01-21 13:04:07
+date: 2003-01-21T13:04:07.000-06:00
 title: On the disturbing side of beautiful
 permalink: /archive/by_date/2003/01/21/
 ---

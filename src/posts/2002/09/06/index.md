@@ -1,5 +1,5 @@
 ---
-date: 2002-09-06 10:53:58
+date: 2002-09-06T10:53:58.000-05:00
 title: "Andre!"
 permalink: /archive/by_date/2002/09/06/
 ---

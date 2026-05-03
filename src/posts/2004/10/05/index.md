@@ -1,5 +1,5 @@
 ---
-date: 2004-10-05 11:35:00
+date: 2004-10-05T11:35:00.000-05:00
 title: Informatiques
 permalink: /archive/by_date/2004/10/05/
 ---

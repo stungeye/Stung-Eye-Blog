@@ -1,5 +1,5 @@
 ---
-date: 2003-12-23 19:20:21
+date: 2003-12-23T19:20:21.000-06:00
 title: Pretend to try
 permalink: /archive/by_date/2003/12/23/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-07-23 00:06:26
+date: 2003-07-23T00:06:26.000-05:00
 title: Find A Penny
 permalink: /archive/by_date/2003/07/23/
 ---

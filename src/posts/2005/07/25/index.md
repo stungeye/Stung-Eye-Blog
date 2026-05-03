@@ -1,5 +1,5 @@
 ---
-date: 2005-07-25 05:36:02
+date: 2005-07-25T05:36:02.000-05:00
 title: Consume
 permalink: /archive/by_date/2005/07/25/
 ---

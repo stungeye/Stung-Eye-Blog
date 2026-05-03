@@ -1,5 +1,5 @@
 ---
-date: 2003-08-29 15:06:20
+date: 2003-08-29T15:06:20.000-05:00
 title: Fast Forward. Rewind.
 permalink: /archive/by_date/2003/08/29/
 ---

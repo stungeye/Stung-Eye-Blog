@@ -1,5 +1,5 @@
 ---
-date: 2014-06-04 13:16:00
+date: 2014-06-04T13:16:00.000-05:00
 title: Sweat Lodge Ceremony
 permalink: /archive/by_date/2014/06/04/
 ---

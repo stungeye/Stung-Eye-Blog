@@ -1,5 +1,5 @@
 ---
-date: 2014-02-27 17:08:00
+date: 2014-02-27T17:08:00.000-06:00
 title: Lines Allude a Circle
 permalink: /archive/by_date/2014/02/27/
 ---

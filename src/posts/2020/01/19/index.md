@@ -1,5 +1,5 @@
 ---
-date: 2020-01-19 21:36:32
+date: 2020-01-19T21:36:32.000-06:00
 title: Reading and Listening in 2019
 permalink: /archive/by_date/2020/01/19/
 ---

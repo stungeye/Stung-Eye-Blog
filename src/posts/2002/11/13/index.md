@@ -1,5 +1,5 @@
 ---
-date: 2002-11-13 23:12:12
+date: 2002-11-13T23:12:12.000-06:00
 title: C.F. Mode
 permalink: /archive/by_date/2002/11/13/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2006-01-27 16:15:40
+date: 2006-01-27T16:15:40.000-06:00
 title: Torn
 permalink: /archive/by_date/2006/01/27/
 ---

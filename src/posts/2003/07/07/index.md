@@ -1,5 +1,5 @@
 ---
-date: 2003-07-07 16:55:39
+date: 2003-07-07T16:55:39.000-05:00
 title: Disconnected
 permalink: /archive/by_date/2003/07/07/
 ---

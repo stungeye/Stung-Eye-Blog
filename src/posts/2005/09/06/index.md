@@ -1,5 +1,5 @@
 ---
-date: 2005-09-06 08:29:53
+date: 2005-09-06T08:29:53.000-05:00
 title: Aromas and Humidity
 permalink: /archive/by_date/2005/09/06/
 ---

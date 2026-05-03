@@ -1,5 +1,5 @@
 ---
-date: 2008-07-28 17:30:00
+date: 2008-07-28T17:30:00.000-05:00
 title: An Inch of Rope
 permalink: /archive/by_date/2008/07/28/
 ---

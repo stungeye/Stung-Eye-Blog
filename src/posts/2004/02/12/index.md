@@ -1,5 +1,5 @@
 ---
-date: 2004-02-12 18:14:58
+date: 2004-02-12T18:14:58.000-06:00
 title: Ordered Chaos Revisited
 permalink: /archive/by_date/2004/02/12/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-05-27 16:37:44
+date: 2003-05-27T16:37:44.000-05:00
 title: Beat Trip
 permalink: /archive/by_date/2003/05/27/
 ---

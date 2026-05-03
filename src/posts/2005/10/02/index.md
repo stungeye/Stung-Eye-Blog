@@ -1,5 +1,5 @@
 ---
-date: 2005-10-02 03:38:07
+date: 2005-10-02T03:38:07.000-05:00
 title: Chill Bill
 permalink: /archive/by_date/2005/10/02/
 ---

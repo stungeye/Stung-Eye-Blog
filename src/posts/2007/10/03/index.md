@@ -1,5 +1,5 @@
 ---
-date: 2007-10-03 11:25:16
+date: 2007-10-03T11:25:16.000-05:00
 title: But I am that Project
 permalink: /archive/by_date/2007/10/03/
 ---

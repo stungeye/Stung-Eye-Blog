@@ -1,5 +1,5 @@
 ---
-date: 2002-12-18 14:00:22
+date: 2002-12-18T14:00:22.000-06:00
 title: Babylon
 permalink: /archive/by_date/2002/12/18/
 ---

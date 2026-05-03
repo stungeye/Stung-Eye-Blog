@@ -1,5 +1,5 @@
 ---
-date: 2003-01-02 17:25:18
+date: 2003-01-02T17:25:18.000-06:00
 title: Zone Woes
 permalink: /archive/by_date/2003/01/02/
 ---

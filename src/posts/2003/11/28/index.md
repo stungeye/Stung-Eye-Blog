@@ -1,5 +1,5 @@
 ---
-date: 2003-11-28 10:31:00
+date: 2003-11-28T10:31:00.000-06:00
 title: From instincts to consciousness
 permalink: /archive/by_date/2003/11/28/
 ---

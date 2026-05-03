@@ -1,5 +1,5 @@
 ---
-date: 2006-04-30 22:40:47
+date: 2006-04-30T22:40:47.000-05:00
 title: "dear future,"
 permalink: /archive/by_date/2006/04/30/
 ---

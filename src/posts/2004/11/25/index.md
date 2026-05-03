@@ -1,5 +1,5 @@
 ---
-date: 2004-11-25 14:04:34
+date: 2004-11-25T14:04:34.000-06:00
 title: "L'Oiseau do feu, 1958"
 permalink: /archive/by_date/2004/11/25/
 ---

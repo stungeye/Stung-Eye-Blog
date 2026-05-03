@@ -1,5 +1,5 @@
 ---
-date: 2007-08-31 20:45:36
+date: 2007-08-31T20:45:36.000-05:00
 title: Show + Tell
 permalink: /archive/by_date/2007/08/31/
 ---

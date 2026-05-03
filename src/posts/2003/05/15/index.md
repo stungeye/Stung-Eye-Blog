@@ -1,5 +1,5 @@
 ---
-date: 2003-05-15 00:36:20
+date: 2003-05-15T00:36:20.000-05:00
 title: Is it all going to fall?
 permalink: /archive/by_date/2003/05/15/
 ---

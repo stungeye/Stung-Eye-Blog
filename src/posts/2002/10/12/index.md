@@ -1,5 +1,5 @@
 ---
-date: 2002-10-12 18:26:23
+date: 2002-10-12T18:26:23.000-05:00
 title: Hermits
 permalink: /archive/by_date/2002/10/12/
 ---

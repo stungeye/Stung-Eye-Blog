@@ -1,5 +1,5 @@
 ---
-date: 2002-08-31 14:17:25
+date: 2002-08-31T14:17:25.000-05:00
 title: Peg City Holla
 permalink: /archive/by_date/2002/08/31/
 ---

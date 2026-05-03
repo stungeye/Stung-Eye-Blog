@@ -1,5 +1,5 @@
 ---
-date: 2003-01-20 23:49:20
+date: 2003-01-20T23:49:20.000-06:00
 title: Crown of what?
 permalink: /archive/by_date/2003/01/20/
 ---

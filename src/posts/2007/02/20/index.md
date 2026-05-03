@@ -1,5 +1,5 @@
 ---
-date: 2007-02-20 01:00:20
+date: 2007-02-20T01:00:20.000-06:00
 title: In Waiting
 permalink: /archive/by_date/2007/02/20/
 ---

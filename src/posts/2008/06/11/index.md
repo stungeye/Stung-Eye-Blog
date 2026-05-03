@@ -1,5 +1,5 @@
 ---
-date: 2008-06-11 20:30:11
+date: 2008-06-11T20:30:11.000-05:00
 title: Copyfight in Canada
 permalink: /archive/by_date/2008/06/11/
 ---

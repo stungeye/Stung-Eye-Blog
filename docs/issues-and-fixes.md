@@ -1,154 +1,214 @@
 # Final Pre-Deploy Issues Identified
 
-Review date: 2026-04-12
+Original review date: 2026-04-12
+Re-triage date: 2026-05-02
+Date model research update: 2026-05-03
 
-## What Was Verified (No Issues Found)
+This file was rechecked against the current README, migration script, Eleventy
+config, generated post corpus, and a fresh `npm run build` using nvm Node
+v24.14.1.
 
-- **Day page count:** 970 generated day pages in `src/posts/`, matching the combined CI/Tumblr (548) + MT-only (422) + merged (1) day count.
-- **Item count:** 1,252 total items/entries confirmed present (806 CI items + 446 MT entries). Separator count in generated files cross-checks perfectly: 2,222 total `---` lines = 1,940 frontmatter delimiters + 282 inter-item separators = 970 pages + 282 multi-item separators = 1,252 items.
-- **Built output matches:** 970 day pages, 25 year pages, 183 month pages, 96 paginated archive pages (/page/2/ through /page/97/) — all present and correct.
-- **Image passthrough copy:** 298 images in `src/posts/` → 298 images in `_site/archive/by_date/`. All co-located images copied correctly.
-- **No empty or near-empty pages:** Spot-checked posts from every era (2002–2026). All have substantive content.
-- **Overlap day (2008-07-23):** Both CI and MT content present and properly merged.
-- **MT entry_text_more concatenation:** Extended content from all 33 entries with `entry_text_more` verified present in generated files.
-- **Single-entry MT title dedup:** Working correctly — single-entry days have the title in frontmatter only, not duplicated as `##` in the body.
-- **YAML special characters in titles:** `yamlString()` correctly quotes titles containing colons, apostrophes, brackets, `@`, `!`, etc.
-- **`{{ }}` in legacy content:** `markdownTemplateEngine: false` correctly prevents Nunjucks from processing curly braces in post content. Hundreds of posts contain `{{ }}` without build errors.
-- **No unknown item types:** Zero `<!-- TODO: unknown type -->` comments in generated files.
-- **All permalinks present:** Every `index.md` has a `permalink:` field in frontmatter.
-- **No broken internal archive links:** All `/archive/by_date/` hrefs in the built output resolve to existing pages.
-- **Canonical URLs correct:** All pages have correct `<link rel="canonical">` using `https://www.stungeye.com` + `page.url`.
-- **Sitemap complete and correct:** 1,276 URLs, no duplicates. Paginated pages /page/2/ through /page/97/ all present.
-- **Nginx redirects:** 447 rules (446 MT entries + 1 `/archives/` → `/archive/`), all with `permanent` flag and proper regex escaping.
-- **posts.json data file:** Correctly sets `layout: "layouts/day.njk"`.
-- **Passthrough copy API:** The two-argument `addPassthroughCopy({ remapping }, { filter })` form is valid in Eleventy 3.x — confirmed against the Eleventy source.
-- **RSS feed:** 20 items present, dates in RFC 2822 format, XML well-formed.
-- **CSS:** Responsive breakpoints, iframe aspect-ratio rules for all known embed providers, proper image `max-width: 100%` handling.
+## What Still Looks Sound
 
-## Confirmed Issues
+- **Day page count:** 970 generated day pages in `src/posts/`, spanning
+  2002-2026.
+- **Item count:** 1,252 total items/entries remain accounted for.
+- **Built output:** A fresh build completed successfully and produced the
+  expected archive/page/feed output.
+- **Overlap day (2008-07-23):** Both CI/Tumblr and MT content are present.
+- **MT `entry_text_more` concatenation:** Extended MT content is present.
+- **Single-entry MT title dedup:** Still working as intended.
+- **YAML title quoting:** The migration helper still handles titles with YAML
+  special characters.
+- **`{{ }}` in legacy content:** `markdownTemplateEngine: false` still prevents
+  Nunjucks from processing curly braces inside posts.
+- **Permalinks:** Every post has an explicit `/archive/by_date/YYYY/MM/DD/`
+  permalink.
+- **RSS:** Feed XML builds and dates render in RFC 2822 format.
+  **Manual authoring:** README requires explicit local-offset ISO datetimes;
+  date-only frontmatter is not allowed.
+
+## Re-Triage Notes
+
+- The date/archive issue is real, but the better framing changed after
+  timestamp research on 2026-05-03: migrated markdown datetimes are legacy
+  site-local wall-clock timestamps, not UTC publication instants. The best
+  operational timezone for the site is `America/Winnipeg`.
+- Evidence: MT live page footers match migrated markdown dates to the minute
+  while markdown preserves seconds. Example: live "May 14, 2007 @ 01:42 PM"
+  matches `src/posts/2007/05/14/index.md` frontmatter
+  `2007-05-14 13:42:08`. CI/Tumblr exports contain both a local `date` and a
+  `date-gmt`; migrated markdown uses the local `date`, not `date-gmt`. Example:
+  `src/posts/2009/02/01/index.md` uses `2009-02-01 03:20:13`, matching Tumblr's
+  local `Sun, 01 Feb 2009 03:20:13` while the export GMT value is
+  `2009-02-01 08:20:13 GMT`.
+- The human author also confirmed that posts during the 2004-2005 Europe period
+  often fall in Winnipeg night hours because the publishing platform remained on
+  Winnipeg/site time. This supports interpreting migrated datetimes as platform
+  wall time rather than author-location time.
+- `js-yaml` parses bare frontmatter datetimes such as
+  `2005-10-01 02:20:18` as UTC `Date` objects. It also parses `YYYY-MM-DD` as
+  UTC midnight and ISO datetimes with offsets as the corresponding UTC instant.
+- Important repair warning: do not simply format Eleventy's already-parsed
+  `Date` in `America/Winnipeg`. That would turn `2005-10-01 02:20:18` into
+  September 30, 2005 21:20 in Winnipeg because the value has already been
+  misread as UTC. The preferred fix is to make the migrated frontmatter explicit
+  by emitting ISO datetimes with historical `America/Winnipeg` offsets.
+- Repair is complete. Migrated datetimes carry explicit Winnipeg offsets.
+  All manually authored posts must use explicit local-offset ISO datetimes.
+  Date-only frontmatter is not allowed: Eleventy/js-yaml parses bare dates as
+  UTC midnight, which shifts the archive day in Winnipeg time.
+
+## Active Issues
 
 ### 1. Medium: Multi-entry MT day heading dedup creates orphaned sections
 
-**What:** On multi-entry MT-only days, the page h1 title comes from the chronologically earliest entry (`mtEntries[0]`), but content renders newest-first (descending timestamp sort). The title dedup logic then strips the `##` heading from the earliest entry (since its title matches the page h1), but that entry's content appears at the _bottom_ of the page—below other entries that have their own `##` headings.
+**Status:** Confirmed. Keep as Medium because the content is present, but the
+reading structure is confusing on affected days.
 
-**Result:** The earliest entry's content appears as a headless section at the bottom of the page. The reader sees:
+**What:** On multi-entry MT-only days, the page title is taken from the first MT
+entry in export order, while body entries render newest-first. The heading dedup
+then removes the heading from the title-matching entry even when that entry
+renders later on the page.
 
-```
-<h1>Earliest Entry Title</h1>       ← page header
-<h2>Newer Entry Title</h2>          ← has its heading
-Newer entry's content...
----
-Earliest entry's content...          ← NO heading, appears orphaned
-```
+**Scope:** Confirmed 22 affected pages out of 23 multi-entry MT-only days. The
+unaffected day is 2004-12-11, where identical timestamps preserve the expected
+order.
 
-**Scope:** 22 of 23 multi-entry MT days are affected (the 23rd, 2004-12-11, has identical timestamps so stable sort preserves correct ordering). Representative examples:
+Representative examples:
 
-- [src/posts/2003/01/02/index.md](../src/posts/2003/01/02/index.md) — h1 "Zone Woes" (earliest), but "Zone Woes" content appears second without heading. `## 1825` (newer) appears first.
-- [src/posts/2003/02/17/index.md](../src/posts/2003/02/17/index.md) — h1 "A New Home" (earliest) with headless content below `## Balanced` (newer).
-- [src/posts/2003/09/11/index.md](../src/posts/2003/09/11/index.md) — h1 "What happened here?" with headless content below `## On a ferry`.
+- [src/posts/2003/01/02/index.md](../src/posts/2003/01/02/index.md) - h1
+  "Zone Woes"; first rendered section is `## 1825`; "Zone Woes" content appears
+  below without a heading.
+- [src/posts/2003/02/17/index.md](../src/posts/2003/02/17/index.md) - h1
+  "A New Home"; first rendered section is `## Balanced`.
+- [src/posts/2003/09/11/index.md](../src/posts/2003/09/11/index.md) - h1
+  "What happened here?"; first rendered section is `## On a ferry`.
 
-**Root cause:** `determineDayTitle()` in [tools/migrate.js](../tools/migrate.js) line ~695 uses `mtEntries[0]` (chronologically earliest from the JSON). The rendering sort in `buildDayEntries()` is descending, so the earliest entry appears last. The dedup check at line ~748 strips the heading when the entry title matches the page title—but doesn't account for the entry's position in the rendered output.
+**Root cause:** `determineDayTitle()` in [tools/migrate.js](../tools/migrate.js)
+uses `mtEntries[0]`; `buildDayEntries()` sorts entries descending before
+rendering.
 
-**Not data loss** — all content is present. The issue is confusing heading hierarchy.
+**Implementation note:** If `src/posts/` is now the canonical corpus, fixing only
+the migration script will not alter the checked-in pages unless migration is
+rerun. A repair should either patch the 22 generated markdown files directly or
+change migration and intentionally regenerate the corpus.
 
 ### 2. Low: Archive nav link missing trailing slash
 
-**What:** In [src/\_includes/layouts/base.njk](../src/_includes/layouts/base.njk) line 17, the archive link is `<a href="/archive">Archive</a>` instead of `<a href="/archive/">Archive</a>`.
+**Status:** Confirmed. Quick fix.
 
-**Impact:** Nginx (or any standards-compliant server) will 301 redirect `/archive` → `/archive/` when `index.html` exists at that path. This causes an unnecessary redirect hop on every click. All other internal links use trailing slashes correctly (e.g. year.njk uses `/archive/`).
+**What:** [src/\_includes/layouts/base.njk](../src/_includes/layouts/base.njk)
+links to `/archive` instead of `/archive/`.
 
-### 3. Low: 7 MT posts have `<h1>` tags in body content
+**Impact:** One avoidable redirect when clicking the nav link on servers that
+canonicalize directory indexes. No content risk.
 
-**What:** 7 MT-era posts contain `<h1>` tags in their body HTML. Since the day.njk layout already renders a page-level `<h1>` from the frontmatter title, these pages have multiple `<h1>` elements.
+**Fix:** Change the nav href to `/archive/`.
 
-**Affected posts:**
+### 3. Low: Legacy MT body content contains section-level `<h1>` tags
 
-- [src/posts/2004/08/17/index.md](../src/posts/2004/08/17/index.md) — `<h1>Music:</h1>`, `<h1>Language:</h1>`, `<h1>Misc:</h1>`
-- [src/posts/2004/08/28/index.md](../src/posts/2004/08/28/index.md) — `<h1>Language</h1>`, `<h1>Writing</h1>`, `<h1>Misc</h1>`
-- [src/posts/2004/08/31/index.md](../src/posts/2004/08/31/index.md) — `<h1>Playlist</h1>` (from `entry_text_more`)
-- [src/posts/2005/02/23/index.md](../src/posts/2005/02/23/index.md) — 4 sub-section `<h1>` tags
-- [src/posts/2005/07/18/index.md](../src/posts/2005/07/18/index.md) — `<h1>Anticipation</h1>`
-- [src/posts/2005/12/16/index.md](../src/posts/2005/12/16/index.md) — `<h1>A Video Reminder:</h1>`
-- [src/posts/2007/12/29/index.md](../src/posts/2007/12/29/index.md) — 3 sub-section `<h1>` tags
+**Status:** Confirmed, but lower practical risk than originally implied.
 
-**Impact:** Minor SEO/accessibility concern (multiple `<h1>` elements per page). The `<h1>` tags were used as sub-section headers in the original MT entries. The spec's h1-stripping rule applies only to `regular`-type CI items, not MT entries, so this is by-design behavior — but worth noting these could be downgraded to `<h2>` in the migration script if desired.
+**What:** 7 MT-era markdown files contain body `<h1>` tags that are being used as
+sub-section headings:
 
-### 4. Low: RSS feed has one double-encoded entity
+- [src/posts/2004/08/17/index.md](../src/posts/2004/08/17/index.md)
+- [src/posts/2004/08/28/index.md](../src/posts/2004/08/28/index.md)
+- [src/posts/2004/08/31/index.md](../src/posts/2004/08/31/index.md)
+- [src/posts/2005/02/23/index.md](../src/posts/2005/02/23/index.md)
+- [src/posts/2005/07/18/index.md](../src/posts/2005/07/18/index.md)
+- [src/posts/2005/12/16/index.md](../src/posts/2005/12/16/index.md)
+- [src/posts/2007/12/29/index.md](../src/posts/2007/12/29/index.md)
 
-**What:** One feed item ("Reading in 2023") contains `&amp;amp;` in its `<description>`. The source content has a literal `&amp;` HTML entity, and the Nunjucks `{{ ... }}` auto-escaping encodes it again when rendering the feed.
+**Additional context:** The site header in `base.njk` already uses an `<h1>` for
+the site title and the day layout uses another `<h1>` for the post title, so the
+issue is not simply "more than one h1 exists." The real concern is that legacy
+body subheadings are semantically too high in the article hierarchy.
 
-**Location:** [\_site/feed.xml](_site/feed.xml) line 85.
+**Triage:** Low/defer candidate. Convert to `<h2>` during a broader semantic HTML
+pass, or leave alone if preserving legacy markup is preferred.
 
-**Impact:** Most RSS readers handle double-encoded entities correctly. Strict readers may display a literal `&amp;` instead of `&`. Only 1 item affected out of 20. The issue could potentially affect more items as older content rotates into the feed (if it contains HTML entities that survive `striptags`).
+### 4. Low: RSS feed has double-encoded HTML entities in descriptions
 
-### 5. High: Month/year archive misgroups 4 day pages due to local-timezone date methods
+**Status:** Confirmed.
 
-**What:** The `daysByYear` and `daysByMonth` collection builders in [eleventy.config.js](../eleventy.config.js) use `getFullYear()` and `getMonth()` — JavaScript local-timezone methods. `js-yaml` parses bare frontmatter datetime strings (e.g. `date: 2005-10-01 02:20:18`) as UTC. On a build machine in CDT (UTC−5), any date whose UTC timestamp falls between midnight and 06:00 UTC will be seen as the previous calendar day (or even previous month) by the local-time methods, and the page gets grouped into the wrong month/year archive.
+**What:** The "Reading in 2023" feed item currently contains `&amp;amp;` in
+`_site/feed.xml`.
 
-**Confirmed in built output:** The day page for 2005-10-01 (`/archive/by_date/2005/10/01/`) appears in the September 2005 month archive instead of October 2005.
+**Root cause:** `feed.njk` strips tags from HTML content, leaving existing HTML
+entities as text, and Nunjucks then escapes that text again while rendering XML.
 
-**All 4 affected day pages (verified against export data):**
+**Impact:** One current feed item is affected, but the pattern can recur whenever
+a feed item includes literal HTML entities in content.
 
-| Day page   | Frontmatter timestamp       | Should appear in | Actually grouped into      |
-| ---------- | --------------------------- | ---------------- | -------------------------- |
-| 2005-02-01 | `05:43:03 UTC` → Jan 31 CST | February 2005    | January 2005               |
-| 2005-04-01 | `01:04:26 UTC` → Mar 31 CDT | April 2005       | March 2005                 |
-| 2005-10-01 | `02:20:18 UTC` → Sep 30 CDT | October 2005     | September 2005 ← confirmed |
-| 2009-02-01 | `03:20:13 UTC` → Jan 31 CDT | February 2009    | January 2009               |
+**Fix direction:** Add or use an entity-decoding step for feed descriptions
+before XML escaping, with a focused feed regression check.
 
-**Root cause:** `getFullYear()`/`getMonth()` are local-timezone methods. The display filters (`readableDate`, `isoDate`, `rssDate`) all use Luxon with `zone: "utc"`, so they are unaffected. Only the collection grouping logic is broken.
+### 6. Medium: Future post authoring needs an explicit date model
 
-**Fix:** Replace all `getFullYear()`/`getMonth()` calls in `eleventy.config.js` with `getUTCFullYear()`/`getUTCMonth()`. Also replace `getMonth()` in the `monthFromDate` and `uniqueMonths` filters for consistency. This makes grouping UTC-throughout, matching how every other part of the system interprets dates, regardless of build server timezone.
+**Status:** Reframed. This is less an immediate migration bug and more an
+authoring/CMS design decision.
 
-**RSS dates are unaffected.** The `rssDate` filter goes through Luxon's UTC path — `DateTime.fromJSDate(dateObj, { zone: "utc" }).toRFC2822()` — so pubDates render the correct calendar date. RSS readers display pubDate in the reader's local timezone, which means e.g. a post with `00:30:00 +0000` will show as the previous evening in Winnipeg, but this is a cosmetic time-of-day issue only; the linked day page is always correct.
+**What:** The current site has one `date` field doing three jobs:
 
-### 6. Medium: Timezone handling for future post authoring is undocumented
+- sorting day pages
+- displaying the day-page date
+- generating RSS pubDate
 
-**What:** There is no documented convention for how to write `date:` values in frontmatter when authoring new posts after deploy. The legacy timestamps were stored in Central Time but written without a timezone suffix. The entire pipeline (js-yaml, Luxon filters, collection builders after the fix above) is internally consistent only if dates are written as UTC or with an explicit offset.
+Migrated content now carries explicit `America/Winnipeg` offsets after the issue
+#5 repair, but the site still has one `date` field doing both calendar-day and
+publication-instant work.
 
-**Two viable conventions for new posts:**
-
-**Option A — Explicit offset (recommended for accurate RSS times):**
+**Policy now documented in README:** All manually authored posts must use an
+explicit local-offset ISO datetime. Date-only frontmatter is not allowed.
 
 ```yaml
-date: 2026-04-12T14:30:00-05:00  # CDT (mid-March to early November)
-date: 2027-01-08T14:30:00-06:00  # CST (early November to mid-March)
+date: 2026-05-02T14:30:00-05:00
 ```
 
-js-yaml understands YAML 1.1 ISO 8601 timestamps with offsets and converts to a UTC Date correctly. Display, archive grouping (after fix), and RSS pubDates all work correctly. RSS readers in Winnipeg show the right local time. The friction is remembering the current offset when writing a post.
+Use the actual publish time, or noon (`12:00:00`) as a neutral placeholder when
+there is no meaningful clock time. Archive grouping follows the configured
+site-time calendar day.
 
-**Option B — Date-only (simplest, avoids time-of-day issues entirely):**
+**Pages CMS direction:** If Pages CMS or similar becomes the authoring interface,
+prefer separating the canonical archive day from the exact publish instant, for
+example:
 
-```yaml
-date: 2026-04-12
-```
+- `date` or `archiveDate`: the day-page date used for display, URL, and archive
+  grouping
+- `publishedAt`: optional local datetime with offset used for RSS ordering/time
 
-js-yaml parses as `2026-04-12T00:00:00Z` (UTC midnight). Archive grouping is always correct (midnight UTC is safe for `getUTCMonth()`). RSS pubDate shows `00:00:00 +0000`, which RSS readers display as the previous evening in Winnipeg — a minor cosmetic issue.
-
-**Pages CMS note:** If Pages CMS is integrated in the future, its `datetime` field type can inject the Winnipeg local time with the correct offset automatically from the browser timezone, eliminating manual offset selection entirely. Verify that Pages CMS writes YAML 1.1 ISO 8601 format with offset (not a plain string) so js-yaml parses it as a Date object rather than a string, which would break the date filters.
-
-**Action required before authoring any new posts:** Choose Option A or B and document it in `MIGRATION-NOTES.md` or a new `AUTHORING.md`.
+That avoids making manual UTC entry part of the long-term workflow and keeps
+archive URLs independent from timezone conversion surprises.
 
 ### 7. Low: Migration reruns can leave stale `src/posts/` content
 
-**What:** The build script correctly removes `_site` before running Eleventy, so stale built pages are not a concern during normal `npm run build`. The migration script is different: [tools/migrate.js](../tools/migrate.js) writes generated markdown and co-located media into `src/posts/`, but it does not clear `src/posts/` before regenerating content.
+**Status:** Confirmed, but conditional.
 
-**Impact:** If `tools/migrate.js` is rerun after export data changes, any day folder or media file that no longer exists in the export can remain in `src/posts/`. A later clean Eleventy build would still discover that stale markdown file or copied asset and include it in `_site`, even though it is no longer present in the source export.
+**What:** `npm run build` removes `_site`, so stale output is not a normal build
+risk. `tools/migrate.js` writes into `src/posts/` without first clearing the
+generated post tree, so rerunning migration against changed export data can leave
+old markdown or media files behind.
 
-**Scope:** This is only a risk if the migration is rerun against changed export data before deploy. If the export is frozen and `src/posts/` is treated as the canonical post corpus from this point onward, this is not a current content-loss issue.
+**Triage:** Low if the export is frozen and `src/posts/` is now the canonical
+corpus. More important if migration will be rerun before deploy.
 
-**Fix:** Make the migration script explicitly clean only its generated output area before writing, or document that `src/posts/` must be removed before rerunning `npm run migrate`.
+**Additional context:** A naive "delete `src/posts/` before migrate" fix becomes
+dangerous once manually authored or CMS-authored posts live there. If this is
+fixed, use an explicit regeneration boundary, a manifest of generated files, or
+manual documented cleanup for one-time migration reruns.
 
-## Summary
+## Current Priority Order
 
-| #   | Severity | Category        | Description                                                              |
-| --- | -------- | --------------- | ------------------------------------------------------------------------ |
-| 1   | Medium   | Migration logic | Multi-entry MT heading dedup orphans 22 day pages                        |
-| 2   | Low      | Template        | Archive nav link missing trailing slash                                  |
-| 3   | Low      | Content         | 7 MT posts have `<h1>` in body (multiple h1 per page)                    |
-| 4   | Low      | Feed            | One double-encoded `&amp;amp;` entity in RSS                             |
-| 5   | High     | Build config    | `getMonth()`/`getFullYear()` misgroups 4 pages into wrong month archives |
-| 6   | Medium   | Authoring       | No documented timezone convention for new post frontmatter dates         |
-| 7   | Low      | Migration logic | Migration reruns can leave stale `src/posts/` content                    |
+| Priority | Issue                          | Why                                                               |
+| -------- | ------------------------------ | ----------------------------------------------------------------- |
+| 1        | #1 MT heading dedup            | Real readability issue on 22 legacy pages            |
+| 2        | #6 Future authoring date model | Needs a decision before regular manual/CMS authoring |
+| 3        | #2 Archive trailing slash      | Tiny polish fix                                      |
+| 4        | #4 RSS double encoding         | Low current impact, likely easy to test              |
+| 5        | #7 Migration stale files       | Conditional on rerunning migration                   |
+| 6        | #3 Body `<h1>` tags            | Legacy semantics polish/defer candidate              |
 
-No data loss or incorrectly migrated entries were found. All 1,252 items across 970 day pages are present and accounted for.
+No data loss or incorrectly migrated entries were found. The main pre-deploy
+date handling repair has been completed and archived.

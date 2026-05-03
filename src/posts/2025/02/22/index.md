@@ -1,5 +1,5 @@
 ---
-date: 2025-02-22 11:07:00
+date: 2025-02-22T11:07:00.000-06:00
 title: Manitoba Hip Hop 2024
 permalink: /archive/by_date/2025/02/22/
 ---

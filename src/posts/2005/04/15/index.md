@@ -1,5 +1,5 @@
 ---
-date: 2005-04-15 09:46:58
+date: 2005-04-15T09:46:58.000-05:00
 title: two for the price of one
 permalink: /archive/by_date/2005/04/15/
 ---

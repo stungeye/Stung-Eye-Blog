@@ -1,5 +1,5 @@
 ---
-date: 2003-10-13 16:38:58
+date: 2003-10-13T16:38:58.000-05:00
 title: "Nature's Climbing Paintbrush"
 permalink: /archive/by_date/2003/10/13/
 ---

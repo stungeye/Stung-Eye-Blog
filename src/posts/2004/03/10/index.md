@@ -1,5 +1,5 @@
 ---
-date: 2004-03-10 10:48:01
+date: 2004-03-10T10:48:01.000-06:00
 title: "Inside, it's all..."
 permalink: /archive/by_date/2004/03/10/
 ---

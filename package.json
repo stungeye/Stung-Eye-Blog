@@ -8,6 +8,7 @@
     "scan-media": "node tools/scan-media.js",
     "download-hires": "node tools/download-hires.js",
     "resize-images": "node tools/resize-images.js",
+    "verify:issue5": "node tools/verify-issue-5.js",
     "dev": "npx @11ty/eleventy --serve",
     "build": "rm -rf _site && npx @11ty/eleventy"
   },

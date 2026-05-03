@@ -1,5 +1,5 @@
 ---
-date: 2006-11-17 00:14:03
+date: 2006-11-17T00:14:03.000-06:00
 title: "Reston, Virginia Trees"
 permalink: /archive/by_date/2006/11/17/
 ---

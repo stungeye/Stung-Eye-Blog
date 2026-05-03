@@ -1,5 +1,5 @@
 ---
-date: 2003-02-25 17:06:54
+date: 2003-02-25T17:06:54.000-06:00
 title: Stick it to the man
 permalink: /archive/by_date/2003/02/25/
 ---

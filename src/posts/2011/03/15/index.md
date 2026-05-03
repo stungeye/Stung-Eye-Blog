@@ -1,5 +1,5 @@
 ---
-date: 2011-03-15 11:24:51
+date: 2011-03-15T11:24:51.000-05:00
 title: TEDxManitoba Analogies
 permalink: /archive/by_date/2011/03/15/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-05-24 16:32:54
+date: 2003-05-24T16:32:54.000-05:00
 title: "misguided, misdirected, and almost fooled"
 permalink: /archive/by_date/2003/05/24/
 ---

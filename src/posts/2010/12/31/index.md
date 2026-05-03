@@ -1,5 +1,5 @@
 ---
-date: 2010-12-31 18:30:37
+date: 2010-12-31T18:30:37.000-06:00
 title: "Discovered on December 31, 2010"
 permalink: /archive/by_date/2010/12/31/
 ---

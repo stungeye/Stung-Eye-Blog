@@ -1,5 +1,5 @@
 ---
-date: 2005-06-24 02:03:03
+date: 2005-06-24T02:03:03.000-05:00
 title: All in the family
 permalink: /archive/by_date/2005/06/24/
 ---

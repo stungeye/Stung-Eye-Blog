@@ -1,5 +1,5 @@
 ---
-date: 2007-03-09 16:37:23
+date: 2007-03-09T16:37:23.000-06:00
 title: Face 2 Face
 permalink: /archive/by_date/2007/03/09/
 ---

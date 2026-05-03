@@ -1,5 +1,5 @@
 ---
-date: 2003-12-19 15:19:33
+date: 2003-12-19T15:19:33.000-06:00
 title: The Blue Pill
 permalink: /archive/by_date/2003/12/19/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2005-02-23 08:45:43
+date: 2005-02-23T08:45:43.000-06:00
 title: Find the honey tree
 permalink: /archive/by_date/2005/02/23/
 ---

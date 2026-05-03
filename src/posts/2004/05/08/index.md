@@ -1,5 +1,5 @@
 ---
-date: 2004-05-08 16:24:28
+date: 2004-05-08T16:24:28.000-05:00
 title: Evolution Baby
 permalink: /archive/by_date/2004/05/08/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2006-01-26 00:10:08
+date: 2006-01-26T00:10:08.000-06:00
 title: two chariot wheels
 permalink: /archive/by_date/2006/01/26/
 ---

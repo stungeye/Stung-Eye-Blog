@@ -1,5 +1,5 @@
 ---
-date: 2007-10-18 11:59:43
+date: 2007-10-18T11:59:43.000-05:00
 title: Crystalized
 permalink: /archive/by_date/2007/10/18/
 ---

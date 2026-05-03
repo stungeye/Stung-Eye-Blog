@@ -1,5 +1,5 @@
 ---
-date: 2005-04-25 12:14:58
+date: 2005-04-25T12:14:58.000-05:00
 title: Thank you kindly
 permalink: /archive/by_date/2005/04/25/
 ---

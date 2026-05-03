@@ -1,5 +1,5 @@
 ---
-date: 2003-07-03 00:37:08
+date: 2003-07-03T00:37:08.000-05:00
 title: An Elegy For Imagination?
 permalink: /archive/by_date/2003/07/03/
 ---

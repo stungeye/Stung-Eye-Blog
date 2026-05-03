@@ -1,5 +1,5 @@
 ---
-date: 2008-09-19 20:05:00
+date: 2008-09-19T20:05:00.000-05:00
 title: "Exit the Loop, but When?"
 permalink: /archive/by_date/2008/09/19/
 ---

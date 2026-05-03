@@ -1,5 +1,5 @@
 ---
-date: 2005-12-18 18:21:59
+date: 2005-12-18T18:21:59.000-06:00
 title: Palm in the Middle
 permalink: /archive/by_date/2005/12/18/
 ---

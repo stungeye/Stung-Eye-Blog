@@ -1,5 +1,5 @@
 ---
-date: 2003-05-23 16:14:46
+date: 2003-05-23T16:14:46.000-05:00
 title: I See Patterns Everywhere
 permalink: /archive/by_date/2003/05/23/
 ---

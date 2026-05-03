@@ -1,5 +1,5 @@
 ---
-date: 2005-06-11 09:41:00
+date: 2005-06-11T09:41:00.000-05:00
 title: Climb Trees
 permalink: /archive/by_date/2005/06/11/
 ---

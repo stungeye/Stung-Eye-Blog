@@ -1,5 +1,5 @@
 ---
-date: 2006-11-19 23:56:17
+date: 2006-11-19T23:56:17.000-06:00
 title: languageHammer
 permalink: /archive/by_date/2006/11/19/
 ---

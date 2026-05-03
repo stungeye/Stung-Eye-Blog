@@ -1,5 +1,5 @@
 ---
-date: 2005-06-01 10:50:05
+date: 2005-06-01T10:50:05.000-05:00
 title: Who me?
 permalink: /archive/by_date/2005/06/01/
 ---

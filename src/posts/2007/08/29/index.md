@@ -1,5 +1,5 @@
 ---
-date: 2007-08-29 23:14:45
+date: 2007-08-29T23:14:45.000-05:00
 title: The Amateur Magician
 permalink: /archive/by_date/2007/08/29/
 ---

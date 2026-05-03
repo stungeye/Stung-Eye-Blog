@@ -1,5 +1,5 @@
 ---
-date: 2003-05-13 00:16:49
+date: 2003-05-13T00:16:49.000-05:00
 title: "Signals, Systems and Transforms"
 permalink: /archive/by_date/2003/05/13/
 ---

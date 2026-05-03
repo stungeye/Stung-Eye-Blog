@@ -1,5 +1,5 @@
 ---
-date: 2007-05-18 00:46:46
+date: 2007-05-18T00:46:46.000-05:00
 title: Do you dream?
 permalink: /archive/by_date/2007/05/18/
 ---

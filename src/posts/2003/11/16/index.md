@@ -1,5 +1,5 @@
 ---
-date: 2003-11-16 22:01:34
+date: 2003-11-16T22:01:34.000-06:00
 title: Lost?
 permalink: /archive/by_date/2003/11/16/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-08-27 22:29:54
+date: 2003-08-27T22:29:54.000-05:00
 title: Traded in my Crayons for Krylons
 permalink: /archive/by_date/2003/08/27/
 ---

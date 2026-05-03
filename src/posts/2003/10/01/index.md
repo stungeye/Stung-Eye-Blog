@@ -1,5 +1,5 @@
 ---
-date: 2003-10-01 13:26:38
+date: 2003-10-01T13:26:38.000-05:00
 title: "A Crash Course On Complexity, Emergence and Collective Intelligence"
 permalink: /archive/by_date/2003/10/01/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2007-05-31 14:29:13
+date: 2007-05-31T14:29:13.000-05:00
 title: Turtle Shells
 permalink: /archive/by_date/2007/05/31/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-10-18 13:22:44
+date: 2003-10-18T13:22:44.000-05:00
 title: Giving in to sweetness
 permalink: /archive/by_date/2003/10/18/
 ---

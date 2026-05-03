@@ -1,5 +1,5 @@
 ---
-date: 2005-12-20 16:49:15
+date: 2005-12-20T16:49:15.000-06:00
 title: Part Apart
 permalink: /archive/by_date/2005/12/20/
 ---

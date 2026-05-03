@@ -1,5 +1,5 @@
 ---
-date: 2008-08-15 13:49:37
+date: 2008-08-15T13:49:37.000-05:00
 title: Wikiabet
 permalink: /archive/by_date/2008/08/15/
 ---

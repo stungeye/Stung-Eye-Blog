@@ -1,5 +1,5 @@
 ---
-date: 2003-07-16 09:42:34
+date: 2003-07-16T09:42:34.000-05:00
 title: Pathetic Life Path Etiquette
 permalink: /archive/by_date/2003/07/16/
 ---

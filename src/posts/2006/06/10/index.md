@@ -1,5 +1,5 @@
 ---
-date: 2006-06-10 11:25:44
+date: 2006-06-10T11:25:44.000-05:00
 title: Freedom
 permalink: /archive/by_date/2006/06/10/
 ---

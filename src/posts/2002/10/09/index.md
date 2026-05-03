@@ -1,5 +1,5 @@
 ---
-date: 2002-10-09 12:47:27
+date: 2002-10-09T12:47:27.000-05:00
 title: Working Title
 permalink: /archive/by_date/2002/10/09/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2004-07-27 13:31:31
+date: 2004-07-27T13:31:31.000-05:00
 title: forging order
 permalink: /archive/by_date/2004/07/27/
 ---

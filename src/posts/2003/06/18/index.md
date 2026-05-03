@@ -1,5 +1,5 @@
 ---
-date: 2003-06-18 15:58:33
+date: 2003-06-18T15:58:33.000-05:00
 title: "Ever Wish, Receive And Regret?"
 permalink: /archive/by_date/2003/06/18/
 ---

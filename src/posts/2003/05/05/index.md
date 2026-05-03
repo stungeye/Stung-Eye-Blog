@@ -1,5 +1,5 @@
 ---
-date: 2003-05-05 15:29:10
+date: 2003-05-05T15:29:10.000-05:00
 title: Who called the kettle what?
 permalink: /archive/by_date/2003/05/05/
 ---

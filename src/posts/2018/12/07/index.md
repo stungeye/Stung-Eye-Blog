@@ -1,5 +1,5 @@
 ---
-date: 2018-12-07 11:26:08
+date: 2018-12-07T11:26:08.000-06:00
 title: Maps and Clouds
 permalink: /archive/by_date/2018/12/07/
 ---

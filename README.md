@@ -2,7 +2,7 @@
 
 Personal blog at [stungeye.com](https://www.stungeye.com), live since 2002. Built with [Eleventy](https://www.11ty.dev/) 3.x.
 
-Migrated from a legacy PHP/MySQL/CodeIgniter/Tumblr system to a fully static site. All content — 970 day pages spanning 2002–2025 — is served as pre-built HTML with no database, no CMS, and no client-side framework.
+Migrated from a legacy PHP/MySQL/CodeIgniter/Tumblr system to a fully static site. All content — 970 day pages spanning 2002–2026 — is served as pre-built HTML with no database, no CMS, and no client-side framework.
 
 ## Quick Start
 
@@ -111,6 +111,8 @@ Site-wide settings are in `src/_data/config.js`:
 - `siteTitle` — site title used in templates and meta tags
 - `siteUrl` — canonical domain for sitemap and meta tags
 - `daysPerPage` — number of days per paginated archive page (default: 10)
+- `daysPerFeed` — number of days included in the RSS feed
+- `imageMaxWidth` — maximum width used by `npm run resize-images`
 
 ## Writing New Posts
 
@@ -124,12 +126,26 @@ With frontmatter:
 
 ```yaml
 ---
-date: YYYY-MM-DD HH:MM:SS
+date: YYYY-MM-DD
 title: Post Title
 permalink: /archive/by_date/YYYY/MM/DD/
 ---
 Your content here.
 ```
+
+Migrated post datetimes are legacy site-local wall-clock values, best understood
+as `America/Winnipeg` time. Migrated frontmatter datetimes include explicit
+Winnipeg offsets, and Eleventy archive grouping uses the configured
+`siteTimeZone`. All manually authored posts must use an explicit local-offset
+ISO datetime. Date-only values must not be used — Eleventy/js-yaml parses them
+as UTC midnight, which shifts the archive day in Winnipeg time.
+
+```yaml
+date: 2026-05-02T12:00:00-05:00
+```
+
+Choose a time that reflects the actual publish time, or use noon (`12:00:00`)
+as a neutral placeholder when there is no meaningful clock time.
 
 Place any images in the same directory and reference them with absolute paths:
 

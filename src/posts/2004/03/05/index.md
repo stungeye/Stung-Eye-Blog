@@ -1,5 +1,5 @@
 ---
-date: 2004-03-05 14:51:23
+date: 2004-03-05T14:51:23.000-06:00
 title: Scratching Post
 permalink: /archive/by_date/2004/03/05/
 ---

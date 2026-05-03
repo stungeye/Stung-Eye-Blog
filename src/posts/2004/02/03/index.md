@@ -1,5 +1,5 @@
 ---
-date: 2004-02-03 15:36:08
+date: 2004-02-03T15:36:08.000-06:00
 title: Blunt Sharpie Cursive
 permalink: /archive/by_date/2004/02/03/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2006-09-29 16:32:07
+date: 2006-09-29T16:32:07.000-05:00
 title: "\"Might is Right\" Gone Pear Shaped"
 permalink: /archive/by_date/2006/09/29/
 ---

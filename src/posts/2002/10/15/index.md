@@ -1,5 +1,5 @@
 ---
-date: 2002-10-15 16:39:30
+date: 2002-10-15T16:39:30.000-05:00
 title: Weakened By The Weekend
 permalink: /archive/by_date/2002/10/15/
 ---

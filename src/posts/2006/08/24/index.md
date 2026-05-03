@@ -1,5 +1,5 @@
 ---
-date: 2006-08-24 12:43:41
+date: 2006-08-24T12:43:41.000-05:00
 title: Why We Fight
 permalink: /archive/by_date/2006/08/24/
 ---

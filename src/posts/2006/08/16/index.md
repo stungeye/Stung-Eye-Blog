@@ -1,5 +1,5 @@
 ---
-date: 2006-08-16 14:59:29
+date: 2006-08-16T14:59:29.000-05:00
 title: Decorate Your Dignity
 permalink: /archive/by_date/2006/08/16/
 ---

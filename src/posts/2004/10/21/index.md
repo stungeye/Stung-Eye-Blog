@@ -1,5 +1,5 @@
 ---
-date: 2004-10-21 07:28:14
+date: 2004-10-21T07:28:14.000-05:00
 title: An Oasis of Chance
 permalink: /archive/by_date/2004/10/21/
 ---

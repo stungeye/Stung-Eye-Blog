@@ -1,5 +1,5 @@
 ---
-date: 2003-10-20 23:39:40
+date: 2003-10-20T23:39:40.000-05:00
 title: Match and Win
 permalink: /archive/by_date/2003/10/20/
 ---

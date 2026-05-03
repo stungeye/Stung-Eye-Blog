@@ -1,5 +1,5 @@
 ---
-date: 2007-02-06 17:46:09
+date: 2007-02-06T17:46:09.000-06:00
 title: Potato Scheming
 permalink: /archive/by_date/2007/02/06/
 ---

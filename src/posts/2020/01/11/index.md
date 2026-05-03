@@ -1,5 +1,5 @@
 ---
-date: 2020-01-11 08:36:00
+date: 2020-01-11T08:36:00.000-06:00
 title: Learning in Public
 permalink: /archive/by_date/2020/01/11/
 ---

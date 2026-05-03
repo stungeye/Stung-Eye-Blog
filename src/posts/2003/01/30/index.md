@@ -1,5 +1,5 @@
 ---
-date: 2003-01-30 23:36:58
+date: 2003-01-30T23:36:58.000-06:00
 title: Got No Time For Sweet 909
 permalink: /archive/by_date/2003/01/30/
 ---

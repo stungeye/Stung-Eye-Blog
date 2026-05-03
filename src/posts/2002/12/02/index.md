@@ -1,5 +1,5 @@
 ---
-date: 2002-12-02 23:34:35
+date: 2002-12-02T23:34:35.000-06:00
 title: Change changes
 permalink: /archive/by_date/2002/12/02/
 ---

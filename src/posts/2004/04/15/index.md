@@ -1,5 +1,5 @@
 ---
-date: 2004-04-15 07:50:03
+date: 2004-04-15T07:50:03.000-05:00
 title: Buy a dog a bone
 permalink: /archive/by_date/2004/04/15/
 ---

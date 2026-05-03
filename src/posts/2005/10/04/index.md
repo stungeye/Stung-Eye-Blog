@@ -1,5 +1,5 @@
 ---
-date: 2005-10-04 01:56:38
+date: 2005-10-04T01:56:38.000-05:00
 title: Current Sea
 permalink: /archive/by_date/2005/10/04/
 ---

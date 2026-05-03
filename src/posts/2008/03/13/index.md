@@ -1,5 +1,5 @@
 ---
-date: 2008-03-13 13:22:25
+date: 2008-03-13T13:22:25.000-05:00
 title: Stroke of Insight
 permalink: /archive/by_date/2008/03/13/
 ---

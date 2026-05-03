@@ -1,5 +1,5 @@
 ---
-date: 2003-02-05 00:02:15
+date: 2003-02-05T00:02:15.000-06:00
 title: Mashed Potatoes
 permalink: /archive/by_date/2003/02/05/
 ---

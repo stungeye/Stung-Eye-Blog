@@ -1,5 +1,5 @@
 ---
-date: 2003-11-05 10:25:25
+date: 2003-11-05T10:25:25.000-06:00
 title: why say yes to democracy when fascism works so well?
 permalink: /archive/by_date/2003/11/05/
 ---

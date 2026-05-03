@@ -1,5 +1,5 @@
 ---
-date: 2006-07-08 00:14:02
+date: 2006-07-08T00:14:02.000-05:00
 title: Enter New Create
 permalink: /archive/by_date/2006/07/08/
 ---

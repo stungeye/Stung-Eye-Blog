@@ -1,5 +1,5 @@
 ---
-date: 2007-12-29 15:59:41
+date: 2007-12-29T15:59:41.000-06:00
 title: "Don't Break The Chain"
 permalink: /archive/by_date/2007/12/29/
 ---

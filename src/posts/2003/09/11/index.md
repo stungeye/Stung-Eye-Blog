@@ -1,5 +1,5 @@
 ---
-date: 2003-09-11 22:34:45
+date: 2003-09-11T22:34:45.000-05:00
 title: What happened here?
 permalink: /archive/by_date/2003/09/11/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-04-16 23:59:16
+date: 2003-04-16T23:59:16.000-05:00
 title: Lost in a sea of questions
 permalink: /archive/by_date/2003/04/16/
 ---

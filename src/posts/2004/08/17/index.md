@@ -1,5 +1,5 @@
 ---
-date: 2004-08-17 12:28:35
+date: 2004-08-17T12:28:35.000-05:00
 title: Beekind
 permalink: /archive/by_date/2004/08/17/
 ---

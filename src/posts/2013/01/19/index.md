@@ -1,5 +1,5 @@
 ---
-date: 2013-01-19 16:37:00
+date: 2013-01-19T16:37:00.000-06:00
 title: "Philosophy, Physics, and Teaching"
 permalink: /archive/by_date/2013/01/19/
 ---

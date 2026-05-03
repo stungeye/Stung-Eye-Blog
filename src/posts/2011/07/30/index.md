@@ -1,5 +1,5 @@
 ---
-date: 2011-07-30 16:33:46
+date: 2011-07-30T16:33:46.000-05:00
 title: "Brains, Consciousness, and Thinking Machines"
 permalink: /archive/by_date/2011/07/30/
 ---

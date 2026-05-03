@@ -1,5 +1,5 @@
 ---
-date: 2003-11-19 13:15:45
+date: 2003-11-19T13:15:45.000-06:00
 title: Mad Hatter
 permalink: /archive/by_date/2003/11/19/
 ---

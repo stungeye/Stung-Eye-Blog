@@ -1,5 +1,5 @@
 ---
-date: 2006-10-11 12:16:10
+date: 2006-10-11T12:16:10.000-05:00
 title: Shaddai
 permalink: /archive/by_date/2006/10/11/
 ---

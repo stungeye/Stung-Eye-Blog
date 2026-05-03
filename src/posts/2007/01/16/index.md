@@ -1,5 +1,5 @@
 ---
-date: 2007-01-16 23:59:04
+date: 2007-01-16T23:59:04.000-06:00
 title: Manufacturing Resent
 permalink: /archive/by_date/2007/01/16/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-10-02 22:32:55
+date: 2003-10-02T22:32:55.000-05:00
 title: What time is it?
 permalink: /archive/by_date/2003/10/02/
 ---

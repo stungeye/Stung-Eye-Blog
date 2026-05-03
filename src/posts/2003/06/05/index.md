@@ -1,5 +1,5 @@
 ---
-date: 2003-06-05 23:55:26
+date: 2003-06-05T23:55:26.000-05:00
 title: Wonder Full
 permalink: /archive/by_date/2003/06/05/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2004-10-11 12:10:51
+date: 2004-10-11T12:10:51.000-05:00
 title: Friendly Giant
 permalink: /archive/by_date/2004/10/11/
 ---

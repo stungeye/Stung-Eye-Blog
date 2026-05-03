@@ -1,5 +1,5 @@
 ---
-date: 2004-08-28 16:26:20
+date: 2004-08-28T16:26:20.000-05:00
 title: Before and After
 permalink: /archive/by_date/2004/08/28/
 ---

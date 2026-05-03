@@ -1,4 +1,11 @@
 import { DateTime } from "luxon";
+import config from "./src/_data/config.js";
+
+const siteDate = (dateObj) =>
+  DateTime.fromJSDate(dateObj).setZone(config.siteTimeZone);
+const siteYear = (dateObj) => siteDate(dateObj).toFormat("yyyy");
+const siteMonth = (dateObj) => siteDate(dateObj).toFormat("LL");
+const siteYearMonth = (dateObj) => siteDate(dateObj).toFormat("yyyy-LL");
 
 export default function (eleventyConfig) {
   // --- Passthrough copy ---
@@ -39,7 +46,7 @@ export default function (eleventyConfig) {
 
     const byYear = {};
     for (const day of days) {
-      const year = day.date.getFullYear().toString();
+      const year = siteYear(day.date);
       if (!byYear[year]) byYear[year] = [];
       byYear[year].push(day);
     }
@@ -55,9 +62,7 @@ export default function (eleventyConfig) {
 
     const byMonth = {};
     for (const day of days) {
-      const y = day.date.getFullYear().toString();
-      const m = (day.date.getMonth() + 1).toString().padStart(2, "0");
-      const key = `${y}-${m}`;
+      const key = siteYearMonth(day.date);
       if (!byMonth[key]) byMonth[key] = [];
       byMonth[key].push(day);
     }
@@ -68,39 +73,37 @@ export default function (eleventyConfig) {
   // --- Filters ---
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
-      "LLLL d, yyyy",
-    );
+    return siteDate(dateObj).toFormat("LLLL d, yyyy");
+  });
+
+  eleventyConfig.addFilter("readableDateTime", (dateObj) => {
+    return siteDate(dateObj).toFormat("LLLL d, yyyy 'at' h:mm a");
   });
 
   eleventyConfig.addFilter("shortDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
-      "LLL d, yyyy",
-    );
+    return siteDate(dateObj).toFormat("LLL d, yyyy");
   });
 
   eleventyConfig.addFilter("isoDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toISO();
+    return siteDate(dateObj).toISO();
   });
 
   eleventyConfig.addFilter("rssDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toRFC2822();
+    return siteDate(dateObj).toRFC2822();
   });
 
   eleventyConfig.addFilter("yearFromDate", (dateObj) => {
-    return dateObj.getFullYear().toString();
+    return siteYear(dateObj);
   });
 
   eleventyConfig.addFilter("monthFromDate", (dateObj) => {
-    return (dateObj.getMonth() + 1).toString().padStart(2, "0");
+    return siteMonth(dateObj);
   });
 
   eleventyConfig.addFilter("uniqueMonths", (days) => {
     const months = [
       ...new Set(
-        days.map((day) =>
-          (day.date.getMonth() + 1).toString().padStart(2, "0"),
-        ),
+        days.map((day) => siteMonth(day.date)),
       ),
     ];
     return months.sort();

@@ -1,5 +1,5 @@
 ---
-date: 2006-12-22 16:37:01
+date: 2006-12-22T16:37:01.000-06:00
 title: Astro Mix
 permalink: /archive/by_date/2006/12/22/
 ---

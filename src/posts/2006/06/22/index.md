@@ -1,5 +1,5 @@
 ---
-date: 2006-06-22 09:25:37
+date: 2006-06-22T09:25:37.000-05:00
 title: Geeksta
 permalink: /archive/by_date/2006/06/22/
 ---

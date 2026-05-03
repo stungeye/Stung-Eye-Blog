@@ -1,5 +1,5 @@
 ---
-date: 2011-12-03 23:07:00
+date: 2011-12-03T23:07:00.000-06:00
 title: We Saw Each Other
 permalink: /archive/by_date/2011/12/03/
 ---

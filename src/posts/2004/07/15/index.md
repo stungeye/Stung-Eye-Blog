@@ -1,5 +1,5 @@
 ---
-date: 2004-07-15 13:41:27
+date: 2004-07-15T13:41:27.000-05:00
 title: Tied up - Tied down
 permalink: /archive/by_date/2004/07/15/
 ---

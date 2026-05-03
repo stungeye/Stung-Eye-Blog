@@ -1,5 +1,5 @@
 ---
-date: 2007-07-01 17:57:14
+date: 2007-07-01T17:57:14.000-05:00
 title: Select Statement
 permalink: /archive/by_date/2007/07/01/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2005-09-27 23:29:28
+date: 2005-09-27T23:29:28.000-05:00
 title: The Way
 permalink: /archive/by_date/2005/09/27/
 ---

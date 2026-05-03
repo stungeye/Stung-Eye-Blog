@@ -1,5 +1,5 @@
 ---
-date: 2004-06-10 23:35:44
+date: 2004-06-10T23:35:44.000-05:00
 title: They Cover Walls
 permalink: /archive/by_date/2004/06/10/
 ---

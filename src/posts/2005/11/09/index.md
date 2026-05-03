@@ -1,5 +1,5 @@
 ---
-date: 2005-11-09 22:25:04
+date: 2005-11-09T22:25:04.000-06:00
 title: "Sorting, Tagging, Tweaking"
 permalink: /archive/by_date/2005/11/09/
 ---

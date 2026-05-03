@@ -1,5 +1,5 @@
 ---
-date: 2006-02-20 22:11:36
+date: 2006-02-20T22:11:36.000-06:00
 title: "Same River, Different Foot"
 permalink: /archive/by_date/2006/02/20/
 ---

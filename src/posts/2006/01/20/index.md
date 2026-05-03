@@ -1,5 +1,5 @@
 ---
-date: 2006-01-20 00:25:33
+date: 2006-01-20T00:25:33.000-06:00
 title: Transplanted
 permalink: /archive/by_date/2006/01/20/
 ---

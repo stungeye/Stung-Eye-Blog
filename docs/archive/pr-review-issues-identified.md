@@ -58,6 +58,12 @@ This is a real regression in the MT archive experience, especially for the 2003-
 
 **Resolution:** Added an `rssDate` filter in [eleventy.config.js](../eleventy.config.js) using Luxon's `toRFC2822()`. Updated [src/pages/feed.njk](../src/pages/feed.njk) to use `rssDate` for `<lastBuildDate>` and `<pubDate>`. Dates now render in RFC 822 format (e.g. `Sun, 22 Feb 2026 09:39:24 +0000`).
 
+**Later note:** The `+0000` example reflects the date handling model at the time
+of this archived review. Date model research on 2026-05-03 superseded that
+assumption: migrated bare frontmatter datetimes should be treated as
+`America/Winnipeg` wall time. See
+[docs/issues-and-fixes.md](../issues-and-fixes.md) issue #5.
+
 ### 6. Additional: Responsive iframe sizing
 
 During the fix for issues 3–5, iframe `width`, `height`, and `frameborder` attributes were stripped from all iframes by `normalizeHtml()` in [tools/migrate.js](../tools/migrate.js) (including video embeds via `renderVideoItem()`). Responsive sizing is now handled entirely in CSS in [assets/css/main.css](../assets/css/main.css):

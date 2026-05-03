@@ -1,5 +1,5 @@
 ---
-date: 2003-10-27 18:42:10
+date: 2003-10-27T18:42:10.000-06:00
 title: Past Lives
 permalink: /archive/by_date/2003/10/27/
 ---

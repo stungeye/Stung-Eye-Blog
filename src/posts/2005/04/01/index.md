@@ -1,5 +1,5 @@
 ---
-date: 2005-04-01 01:04:26
+date: 2005-04-01T01:04:26.000-06:00
 title: I am given
 permalink: /archive/by_date/2005/04/01/
 ---

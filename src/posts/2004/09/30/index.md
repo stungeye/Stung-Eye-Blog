@@ -1,5 +1,5 @@
 ---
-date: 2004-09-30 05:01:38
+date: 2004-09-30T05:01:38.000-05:00
 title: Auberge des Jeunes
 permalink: /archive/by_date/2004/09/30/
 ---

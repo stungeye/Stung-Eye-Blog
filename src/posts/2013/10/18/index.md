@@ -1,5 +1,5 @@
 ---
-date: 2013-10-18 12:19:00
+date: 2013-10-18T12:19:00.000-05:00
 title: Music and Fractal Landscapes
 permalink: /archive/by_date/2013/10/18/
 ---

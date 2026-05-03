@@ -1,5 +1,5 @@
 ---
-date: 2004-05-26 16:03:31
+date: 2004-05-26T16:03:31.000-05:00
 title: "Democracy:Good - Fascism:Bad"
 permalink: /archive/by_date/2004/05/26/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2004-01-29 11:20:21
+date: 2004-01-29T11:20:21.000-06:00
 title: Honey never goes bad (a.k.a. sweet teeth)
 permalink: /archive/by_date/2004/01/29/
 ---

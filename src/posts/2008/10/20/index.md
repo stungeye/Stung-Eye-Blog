@@ -1,5 +1,5 @@
 ---
-date: 2008-10-20 17:36:45
+date: 2008-10-20T17:36:45.000-05:00
 title: "Discovered on October 20, 2008"
 permalink: /archive/by_date/2008/10/20/
 ---

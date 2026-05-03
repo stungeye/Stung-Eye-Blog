@@ -1,5 +1,5 @@
 ---
-date: 2007-12-15 11:24:18
+date: 2007-12-15T11:24:18.000-06:00
 title: How to how to
 permalink: /archive/by_date/2007/12/15/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2004-07-04 23:33:06
+date: 2004-07-04T23:33:06.000-05:00
 title: Technical Advantages
 permalink: /archive/by_date/2004/07/04/
 ---

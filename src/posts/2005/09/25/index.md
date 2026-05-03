@@ -1,5 +1,5 @@
 ---
-date: 2005-09-25 07:59:32
+date: 2005-09-25T07:59:32.000-05:00
 title: water fell
 permalink: /archive/by_date/2005/09/25/
 ---

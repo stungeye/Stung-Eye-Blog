@@ -1,5 +1,5 @@
 ---
-date: 2004-07-20 15:16:38
+date: 2004-07-20T15:16:38.000-05:00
 title: Tool Shed Blues
 permalink: /archive/by_date/2004/07/20/
 ---

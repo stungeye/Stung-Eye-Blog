@@ -1,5 +1,5 @@
 ---
-date: 2008-06-27 11:37:54
+date: 2008-06-27T11:37:54.000-05:00
 title: Cornucopia
 permalink: /archive/by_date/2008/06/27/
 ---

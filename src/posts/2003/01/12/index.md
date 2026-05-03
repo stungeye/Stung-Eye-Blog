@@ -1,5 +1,5 @@
 ---
-date: 2003-01-12 17:44:46
+date: 2003-01-12T17:44:46.000-06:00
 title: Fly Paper
 permalink: /archive/by_date/2003/01/12/
 ---

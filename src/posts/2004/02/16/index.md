@@ -1,5 +1,5 @@
 ---
-date: 2004-02-16 00:28:21
+date: 2004-02-16T00:28:21.000-06:00
 title: "Experimentation. Familiarization. It's all a nature walk."
 permalink: /archive/by_date/2004/02/16/
 ---

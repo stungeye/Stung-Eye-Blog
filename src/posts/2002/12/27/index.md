@@ -1,5 +1,5 @@
 ---
-date: 2002-12-27 16:56:03
+date: 2002-12-27T16:56:03.000-06:00
 title: Holidaze
 permalink: /archive/by_date/2002/12/27/
 ---

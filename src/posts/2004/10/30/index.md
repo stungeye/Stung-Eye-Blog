@@ -1,5 +1,5 @@
 ---
-date: 2004-10-30 15:03:22
+date: 2004-10-30T15:03:22.000-05:00
 title: Title
 permalink: /archive/by_date/2004/10/30/
 ---

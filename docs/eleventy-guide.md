@@ -91,7 +91,12 @@ Content body (markdown and inline HTML)...
 
 The three frontmatter fields:
 
-- **`date`**: Eleventy parses this into a JavaScript `Date` object, available as `page.date` in templates. This controls sort order in collections.
+- **`date`**: The intended publish/archive datetime. Migrated bare datetimes are
+  legacy site-local wall time, effectively `America/Winnipeg`, not UTC
+  instants. Eleventy/js-yaml currently parses these bare values into JavaScript
+  `Date` objects as if they were UTC. The planned repair is to update migration
+  so generated frontmatter datetimes include explicit Winnipeg offsets, allowing
+  Eleventy to ingest them normally as real instants.
 - **`title`**: Used in the page `<title>`, the `<h1>`, and when other pages link to this day.
 - **`permalink`**: Overrides Eleventy's default URL derivation. Without this explicit permalink, Eleventy would derive URLs from the file path — which would give `/posts/2008/07/23/` instead of `/archive/by_date/2008/07/23/`. The trailing slash causes Eleventy to generate an `index.html` file at that path.
 
@@ -174,7 +179,8 @@ eleventyConfig.addCollection("days", (collectionApi) => {
 
 All 970 day pages, sorted newest first. Each element is an Eleventy page object with properties like:
 
-- `.date` — JavaScript `Date` from frontmatter
+- `.date` — JavaScript `Date` from frontmatter. After the date repair, migrated
+  datetimes should include explicit offsets so this value is a real instant.
 - `.url` — the permalink (`/archive/by_date/2008/07/23/`)
 - `.data` — frontmatter values (`.data.title`, `.data.permalink`, etc.)
 - `.content` — rendered HTML content of the page
@@ -277,16 +283,23 @@ Custom Nunjucks filters defined in `eleventy.config.js`. Filters transform value
 
 | Filter          | Input              | Output                       | Used In                         |
 | --------------- | ------------------ | ---------------------------- | ------------------------------- |
-| `readableDate`  | JS Date            | `"July 23, 2008"`            | Day pages, day blocks           |
-| `shortDate`     | JS Date            | `"Jul 23, 2008"`             | (Available, not currently used) |
-| `isoDate`       | JS Date            | `"2008-07-23T00:00:00.000Z"` | `<time datetime>`, sitemap      |
-| `yearFromDate`  | JS Date            | `"2008"`                     | (Available for templates)       |
-| `monthFromDate` | JS Date            | `"07"` (zero-padded)         | Archive page month extraction   |
+| `readableDate`  | date/page value    | `"July 23, 2008"`            | Day pages, day blocks           |
+| `shortDate`     | date/page value    | `"Jul 23, 2008"`             | (Available, not currently used) |
+| `isoDate`       | date/page value    | site-time ISO datetime       | `<time datetime>`, sitemap      |
+| `yearFromDate`  | date/page value    | `"2008"`                     | (Available for templates)       |
+| `monthFromDate` | date/page value    | `"07"` (zero-padded)         | Archive page month extraction   |
 | `monthName`     | `"07"` or `7`      | `"July"`                     | Archive/year/month pages        |
 | `split`         | `"2008-07"`, `"-"` | `["2008", "07"]`             | Month page title computation    |
 | `absoluteUrl`   | `"/path/"`, base   | Full URL                     | Sitemap                         |
 
-Date filters use Luxon and force UTC timezone to avoid date-shift issues. This matters because Eleventy parses frontmatter dates as UTC — if a filter used local timezone, a date like `2008-07-23 01:00:00 UTC` could display as July 22 in UTC-5.
+Date handling should be unified around the configured site timezone,
+`America/Winnipeg`. The important trap: formatting Eleventy's already-parsed
+`Date` in Winnipeg is still wrong for migrated bare datetimes, because those
+values have already been misread as UTC. The repair direction in
+`docs/issues-and-fixes.md` issue #5 is to make migrated frontmatter explicit
+with Winnipeg offsets. After that, Eleventy can ingest `date` normally, while
+archive grouping and display should use the configured site timezone rather than
+UTC or the build machine's local timezone.
 
 ## Passthrough Copy
 
@@ -401,7 +414,10 @@ Things to remember:
 - You **cannot** use `{{ }}` or `{% %}` syntax in `.md` files (template engine is disabled).
 - The `permalink` must be set explicitly — Eleventy won't derive the right URL from the file path alone.
 - Image paths must be absolute, not relative, so they resolve correctly from any page (homepage, month page, etc.).
-- The `date` field in frontmatter controls sort order. If you want a post to appear before another same-day post, adjust the time portion.
+- The `date` field controls sort order and archive grouping. Migrated datetimes
+  should include explicit Winnipeg offsets after issue #5 is repaired; keep the
+  frontmatter date, folder path, and permalink calendar day aligned in
+  `America/Winnipeg`.
 
 ## CSS
 

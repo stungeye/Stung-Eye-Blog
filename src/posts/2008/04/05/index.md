@@ -1,5 +1,5 @@
 ---
-date: 2008-04-05 12:02:08
+date: 2008-04-05T12:02:08.000-05:00
 title: Supersonic
 permalink: /archive/by_date/2008/04/05/
 ---

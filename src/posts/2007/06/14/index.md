@@ -1,5 +1,5 @@
 ---
-date: 2007-06-14 23:44:27
+date: 2007-06-14T23:44:27.000-05:00
 title: Mole Man Matters
 permalink: /archive/by_date/2007/06/14/
 ---

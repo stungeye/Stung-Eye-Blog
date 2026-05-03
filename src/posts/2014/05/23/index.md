@@ -1,5 +1,5 @@
 ---
-date: 2014-05-23 14:15:00
+date: 2014-05-23T14:15:00.000-05:00
 title: Pecha Kucha Winnipeg Vol. 18
 permalink: /archive/by_date/2014/05/23/
 ---

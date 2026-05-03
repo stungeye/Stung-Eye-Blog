@@ -1,5 +1,5 @@
 ---
-date: 2004-02-27 13:33:02
+date: 2004-02-27T13:33:02.000-06:00
 title: The fate of drums (Deeper Well)
 permalink: /archive/by_date/2004/02/27/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-07-18 15:19:39
+date: 2003-07-18T15:19:39.000-05:00
 title: Signal To Noise
 permalink: /archive/by_date/2003/07/18/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2002-12-21 12:01:05
+date: 2002-12-21T12:01:05.000-06:00
 title: Two Knight
 permalink: /archive/by_date/2002/12/21/
 ---

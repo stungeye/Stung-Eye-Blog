@@ -1,5 +1,5 @@
 ---
-date: 2002-11-08 18:23:08
+date: 2002-11-08T18:23:08.000-06:00
 title: HAL is IBM + 1
 permalink: /archive/by_date/2002/11/08/
 ---

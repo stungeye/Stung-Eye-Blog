@@ -1,5 +1,5 @@
 ---
-date: 2005-11-11 16:14:28
+date: 2005-11-11T16:14:28.000-06:00
 title: enclosed
 permalink: /archive/by_date/2005/11/11/
 ---

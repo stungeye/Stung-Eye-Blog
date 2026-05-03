@@ -1,5 +1,5 @@
 ---
-date: 2004-01-05 12:25:11
+date: 2004-01-05T12:25:11.000-06:00
 title: Two Rivers
 permalink: /archive/by_date/2004/01/05/
 ---

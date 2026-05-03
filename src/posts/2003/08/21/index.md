@@ -1,5 +1,5 @@
 ---
-date: 2003-08-21 01:28:07
+date: 2003-08-21T01:28:07.000-05:00
 title: In Other Words... hold my hand
 permalink: /archive/by_date/2003/08/21/
 ---

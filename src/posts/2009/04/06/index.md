@@ -1,5 +1,5 @@
 ---
-date: 2009-04-06 11:26:00
+date: 2009-04-06T11:26:00.000-05:00
 title: "Vote for BabyLolly @ The Next Web"
 permalink: /archive/by_date/2009/04/06/
 ---

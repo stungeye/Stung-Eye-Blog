@@ -1,5 +1,5 @@
 ---
-date: 2004-02-28 18:09:58
+date: 2004-02-28T18:09:58.000-06:00
 title: The Ablest
 permalink: /archive/by_date/2004/02/28/
 ---

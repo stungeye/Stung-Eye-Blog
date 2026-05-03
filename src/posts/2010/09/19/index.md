@@ -1,5 +1,5 @@
 ---
-date: 2010-09-19 15:59:00
+date: 2010-09-19T15:59:00.000-05:00
 title: Stretching Your Wrists
 permalink: /archive/by_date/2010/09/19/
 ---

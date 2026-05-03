@@ -1,5 +1,5 @@
 ---
-date: 2002-10-18 21:43:33
+date: 2002-10-18T21:43:33.000-05:00
 title: Hop Along
 permalink: /archive/by_date/2002/10/18/
 ---

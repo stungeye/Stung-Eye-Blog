@@ -1,5 +1,5 @@
 ---
-date: 2003-11-24 17:55:05
+date: 2003-11-24T17:55:05.000-06:00
 title: Mixed Nuts
 permalink: /archive/by_date/2003/11/24/
 ---

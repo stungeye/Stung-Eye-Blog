@@ -1,5 +1,5 @@
 ---
-date: 2002-12-19 23:56:38
+date: 2002-12-19T23:56:38.000-06:00
 title: Lazy Eye
 permalink: /archive/by_date/2002/12/19/
 ---

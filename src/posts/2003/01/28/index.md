@@ -1,5 +1,5 @@
 ---
-date: 2003-01-28 22:31:26
+date: 2003-01-28T22:31:26.000-06:00
 title: Wrong Address
 permalink: /archive/by_date/2003/01/28/
 ---

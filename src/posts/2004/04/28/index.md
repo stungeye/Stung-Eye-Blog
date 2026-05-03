@@ -1,5 +1,5 @@
 ---
-date: 2004-04-28 13:33:54
+date: 2004-04-28T13:33:54.000-05:00
 title: Tit for Tat
 permalink: /archive/by_date/2004/04/28/
 ---

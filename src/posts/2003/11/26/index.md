@@ -1,5 +1,5 @@
 ---
-date: 2003-11-26 09:48:28
+date: 2003-11-26T09:48:28.000-06:00
 title: Standing Room Only
 permalink: /archive/by_date/2003/11/26/
 ---

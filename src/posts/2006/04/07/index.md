@@ -1,5 +1,5 @@
 ---
-date: 2006-04-07 15:13:23
+date: 2006-04-07T15:13:23.000-05:00
 title: Everything I Have
 permalink: /archive/by_date/2006/04/07/
 ---

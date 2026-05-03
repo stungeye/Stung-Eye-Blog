@@ -1,5 +1,5 @@
 ---
-date: 2006-06-14 22:59:49
+date: 2006-06-14T22:59:49.000-05:00
 title: Finally
 permalink: /archive/by_date/2006/06/14/
 ---

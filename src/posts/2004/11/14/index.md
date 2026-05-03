@@ -1,5 +1,5 @@
 ---
-date: 2004-11-14 13:40:36
+date: 2004-11-14T13:40:36.000-06:00
 title: "Long time, no see"
 permalink: /archive/by_date/2004/11/14/
 ---

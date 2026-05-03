@@ -1,5 +1,5 @@
 ---
-date: 2003-01-26 19:15:10
+date: 2003-01-26T19:15:10.000-06:00
 title: Time
 permalink: /archive/by_date/2003/01/26/
 ---

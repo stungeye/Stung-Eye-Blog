@@ -1,5 +1,5 @@
 ---
-date: 2006-04-27 16:18:09
+date: 2006-04-27T16:18:09.000-05:00
 title: We Exist
 permalink: /archive/by_date/2006/04/27/
 ---

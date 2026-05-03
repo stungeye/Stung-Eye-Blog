@@ -1,5 +1,5 @@
 ---
-date: 2002-09-28 15:03:54
+date: 2002-09-28T15:03:54.000-05:00
 title: September Skies
 permalink: /archive/by_date/2002/09/28/
 ---

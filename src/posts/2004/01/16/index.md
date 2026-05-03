@@ -1,5 +1,5 @@
 ---
-date: 2004-01-16 12:14:20
+date: 2004-01-16T12:14:20.000-06:00
 title: no-thing
 permalink: /archive/by_date/2004/01/16/
 ---

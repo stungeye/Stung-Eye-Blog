@@ -1,5 +1,5 @@
 ---
-date: 2005-02-15 15:24:51
+date: 2005-02-15T15:24:51.000-06:00
 title: Pain in the...
 permalink: /archive/by_date/2005/02/15/
 ---

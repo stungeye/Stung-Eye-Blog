@@ -1,5 +1,5 @@
 ---
-date: 2005-02-01 05:43:03
+date: 2005-02-01T05:43:03.000-06:00
 title: Pre-Sale Whale
 permalink: /archive/by_date/2005/02/01/
 ---

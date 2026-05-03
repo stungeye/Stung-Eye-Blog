@@ -1,5 +1,5 @@
 ---
-date: 2004-11-03 09:43:17
+date: 2004-11-03T09:43:17.000-06:00
 title: ... but sweet
 permalink: /archive/by_date/2004/11/03/
 ---

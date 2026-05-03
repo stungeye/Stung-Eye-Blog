@@ -1,5 +1,5 @@
 ---
-date: 2006-01-28 01:27:48
+date: 2006-01-28T01:27:48.000-06:00
 title: revealed
 permalink: /archive/by_date/2006/01/28/
 ---

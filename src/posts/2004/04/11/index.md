@@ -1,5 +1,5 @@
 ---
-date: 2004-04-11 23:38:34
+date: 2004-04-11T23:38:34.000-05:00
 title: "I Can't Pick It Up"
 permalink: /archive/by_date/2004/04/11/
 ---

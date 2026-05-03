@@ -1,5 +1,5 @@
 ---
-date: 2009-11-05 21:50:00
+date: 2009-11-05T21:50:00.000-06:00
 title: A Catch
 permalink: /archive/by_date/2009/11/05/
 ---

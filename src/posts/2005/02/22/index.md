@@ -1,5 +1,5 @@
 ---
-date: 2005-02-22 01:04:15
+date: 2005-02-22T01:04:15.000-06:00
 title: And Roll
 permalink: /archive/by_date/2005/02/22/
 ---

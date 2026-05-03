@@ -1,5 +1,5 @@
 ---
-date: 2007-02-05 00:03:46
+date: 2007-02-05T00:03:46.000-06:00
 title: Receipt Withheld
 permalink: /archive/by_date/2007/02/05/
 ---

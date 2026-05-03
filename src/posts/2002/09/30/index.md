@@ -1,5 +1,5 @@
 ---
-date: 2002-09-30 12:52:42
+date: 2002-09-30T12:52:42.000-05:00
 title: "I've Been Pretending For So Long That I've Almost Forgotten"
 permalink: /archive/by_date/2002/09/30/
 ---

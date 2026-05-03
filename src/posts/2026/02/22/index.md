@@ -1,5 +1,5 @@
 ---
-date: 2026-02-22 09:39:24
+date: 2026-02-22T09:39:24.000-06:00
 title: Reading in 2025
 permalink: /archive/by_date/2026/02/22/
 ---

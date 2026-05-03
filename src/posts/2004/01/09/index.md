@@ -1,5 +1,5 @@
 ---
-date: 2004-01-09 14:31:36
+date: 2004-01-09T14:31:36.000-06:00
 title: Past Wonder
 permalink: /archive/by_date/2004/01/09/
 ---

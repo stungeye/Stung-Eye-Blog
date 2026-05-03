@@ -1,5 +1,5 @@
 ---
-date: 2006-09-27 23:14:20
+date: 2006-09-27T23:14:20.000-05:00
 title: FallenPrey
 permalink: /archive/by_date/2006/09/27/
 ---

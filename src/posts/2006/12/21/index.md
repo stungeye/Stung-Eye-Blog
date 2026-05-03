@@ -1,5 +1,5 @@
 ---
-date: 2006-12-21 18:15:58
+date: 2006-12-21T18:15:58.000-06:00
 title: Chills Bells
 permalink: /archive/by_date/2006/12/21/
 ---

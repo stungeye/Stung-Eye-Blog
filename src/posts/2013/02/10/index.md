@@ -1,5 +1,5 @@
 ---
-date: 2013-02-10 12:13:00
+date: 2013-02-10T12:13:00.000-06:00
 title: Self-Assessment While Learning to Code
 permalink: /archive/by_date/2013/02/10/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-09-23 00:02:16
+date: 2003-09-23T00:02:16.000-05:00
 title: Half Way Through
 permalink: /archive/by_date/2003/09/23/
 ---

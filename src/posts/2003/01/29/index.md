@@ -1,5 +1,5 @@
 ---
-date: 2003-01-29 14:03:03
+date: 2003-01-29T14:03:03.000-06:00
 title: More on the SUA
 permalink: /archive/by_date/2003/01/29/
 ---

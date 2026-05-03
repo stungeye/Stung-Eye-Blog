@@ -1,5 +1,5 @@
 ---
-date: 2007-08-23 23:33:38
+date: 2007-08-23T23:33:38.000-05:00
 title: With Your Radio On
 permalink: /archive/by_date/2007/08/23/
 ---

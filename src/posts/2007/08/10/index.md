@@ -1,5 +1,5 @@
 ---
-date: 2007-08-10 09:15:41
+date: 2007-08-10T09:15:41.000-05:00
 title: Consideration Liberation
 permalink: /archive/by_date/2007/08/10/
 ---

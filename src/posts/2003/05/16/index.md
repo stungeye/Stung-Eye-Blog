@@ -1,5 +1,5 @@
 ---
-date: 2003-05-16 16:05:10
+date: 2003-05-16T16:05:10.000-05:00
 title: "How cute is that!"
 permalink: /archive/by_date/2003/05/16/
 ---

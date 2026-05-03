@@ -1,5 +1,5 @@
 ---
-date: 2004-01-02 11:35:30
+date: 2004-01-02T11:35:30.000-06:00
 title: B. Sc.
 permalink: /archive/by_date/2004/01/02/
 ---

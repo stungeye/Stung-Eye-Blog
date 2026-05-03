@@ -1,5 +1,5 @@
 ---
-date: 2004-08-31 02:14:32
+date: 2004-08-31T02:14:32.000-05:00
 title: Banana moon
 permalink: /archive/by_date/2004/08/31/
 ---

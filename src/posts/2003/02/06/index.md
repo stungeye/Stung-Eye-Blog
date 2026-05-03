@@ -1,5 +1,5 @@
 ---
-date: 2003-02-06 16:59:20
+date: 2003-02-06T16:59:20.000-06:00
 title: The Same But Different
 permalink: /archive/by_date/2003/02/06/
 ---

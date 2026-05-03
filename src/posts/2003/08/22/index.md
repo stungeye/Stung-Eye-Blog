@@ -1,5 +1,5 @@
 ---
-date: 2003-08-22 20:20:26
+date: 2003-08-22T20:20:26.000-05:00
 title: Forgotten Rebels
 permalink: /archive/by_date/2003/08/22/
 ---

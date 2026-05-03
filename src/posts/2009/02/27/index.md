@@ -1,5 +1,5 @@
 ---
-date: 2009-02-27 11:27:05
+date: 2009-02-27T11:27:05.000-06:00
 title: BabyLolly Featured In Winnipeg Free Press
 permalink: /archive/by_date/2009/02/27/
 ---
