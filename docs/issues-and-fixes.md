@@ -84,28 +84,11 @@ body subheadings are semantically too high in the article hierarchy.
 **Triage:** Low/defer candidate. Convert to `<h2>` during a broader semantic HTML
 pass, or leave alone if preserving legacy markup is preferred.
 
-### 4. Low: RSS feed has double-encoded HTML entities in descriptions
-
-**Status:** Confirmed.
-
-**What:** The "Reading in 2023" feed item currently contains `&amp;amp;` in
-`_site/feed.xml`.
-
-**Root cause:** `feed.njk` strips tags from HTML content, leaving existing HTML
-entities as text, and Nunjucks then escapes that text again while rendering XML.
-
-**Impact:** One current feed item is affected, but the pattern can recur whenever
-a feed item includes literal HTML entities in content.
-
-**Fix direction:** Add or use an entity-decoding step for feed descriptions
-before XML escaping, with a focused feed regression check.
-
 ## Current Priority Order
 
 | Priority | Issue                    | Why                                     |
 | -------- | ------------------------ | --------------------------------------- |
-| 1        | #4 RSS double encoding   | Low current impact, likely easy to test |
-| 2        | #3 Body `<h1>` tags      | Legacy semantics polish/defer candidate |
+| 1        | #3 Body `<h1>` tags      | Legacy semantics polish/defer candidate |
 
 No data loss or incorrectly migrated entries were found. The main pre-deploy
 date handling repair has been completed and archived.

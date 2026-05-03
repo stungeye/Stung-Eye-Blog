@@ -20,7 +20,7 @@ eleventyExcludeFromCollections: true
       <link>{{ config.siteUrl }}{{ day.url }}</link>
       <guid>{{ config.siteUrl }}{{ day.url }}</guid>
       <pubDate>{{ day.date | rssDate }}</pubDate>
-      <description>{{ day.content | striptags | truncate(500) }}</description>
+      <description>{{ day.content | striptags | decodeHtmlEntities | truncate(500) }}</description>
     </item>
     {%- endfor %}
   </channel>

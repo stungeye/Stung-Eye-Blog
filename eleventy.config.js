@@ -1,4 +1,5 @@
 import { DateTime } from "luxon";
+import { decodeHTML } from "entities";
 import config from "./src/_data/config.js";
 
 const siteDate = (dateObj) =>
@@ -90,6 +91,10 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addFilter("rssDate", (dateObj) => {
     return siteDate(dateObj).toRFC2822();
+  });
+
+  eleventyConfig.addFilter("decodeHtmlEntities", (value) => {
+    return decodeHTML(String(value ?? ""));
   });
 
   eleventyConfig.addFilter("yearFromDate", (dateObj) => {

@@ -9,6 +9,7 @@
     "download-hires": "node tools/download-hires.js",
     "resize-images": "node tools/resize-images.js",
     "verify:dates": "node tools/verify-date-time-usage.js",
+    "verify:issue4": "node tools/verify-issue-4.js",
     "verify:issue5": "npm run verify:dates",
     "verify:issue7": "node tools/verify-issue-7.js",
     "dev": "npx @11ty/eleventy --serve",
@@ -20,6 +21,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
     "cheerio": "^1.0.0",
+    "entities": "^6.0.1",
     "sharp": "^0.34.5"
   }
 }
