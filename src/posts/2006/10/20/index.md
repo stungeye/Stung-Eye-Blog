@@ -1,5 +1,5 @@
 ---
-date: 2006-10-20 15:41:02
+date: 2006-10-20T15:41:02.000-05:00
 title: People Before Profit
 permalink: /archive/by_date/2006/10/20/
 ---

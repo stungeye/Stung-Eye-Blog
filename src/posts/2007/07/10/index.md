@@ -1,5 +1,5 @@
 ---
-date: 2007-07-10 00:00:43
+date: 2007-07-10T00:00:43.000-05:00
 title: "Autism, Reposition to Shine"
 permalink: /archive/by_date/2007/07/10/
 ---

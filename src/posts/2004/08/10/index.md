@@ -1,5 +1,5 @@
 ---
-date: 2004-08-10 23:19:03
+date: 2004-08-10T23:19:03.000-05:00
 title: New Beginnings
 permalink: /archive/by_date/2004/08/10/
 ---

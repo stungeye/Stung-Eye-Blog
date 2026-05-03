@@ -1,5 +1,5 @@
 ---
-date: 2003-01-23 23:59:41
+date: 2003-01-23T23:59:41.000-06:00
 title: Apathy
 permalink: /archive/by_date/2003/01/23/
 ---

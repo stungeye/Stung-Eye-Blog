@@ -1,5 +1,5 @@
 ---
-date: 2012-08-16 22:21:00
+date: 2012-08-16T22:21:00.000-05:00
 title: "Discovered on August 16, 2012"
 permalink: /archive/by_date/2012/08/16/
 ---

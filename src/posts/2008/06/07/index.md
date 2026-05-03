@@ -1,5 +1,5 @@
 ---
-date: 2008-06-07 17:37:35
+date: 2008-06-07T17:37:35.000-05:00
 title: Local Exploration
 permalink: /archive/by_date/2008/06/07/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2006-07-18 00:39:12
+date: 2006-07-18T00:39:12.000-05:00
 title: A Waltz With Woman
 permalink: /archive/by_date/2006/07/18/
 ---

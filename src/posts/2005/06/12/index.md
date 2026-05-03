@@ -1,5 +1,5 @@
 ---
-date: 2005-06-12 06:14:21
+date: 2005-06-12T06:14:21.000-05:00
 title: Little Indiscretions
 permalink: /archive/by_date/2005/06/12/
 ---

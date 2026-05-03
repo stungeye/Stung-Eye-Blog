@@ -1,5 +1,5 @@
 ---
-date: 2003-10-28 10:56:28
+date: 2003-10-28T10:56:28.000-06:00
 title: Novel Animality
 permalink: /archive/by_date/2003/10/28/
 ---

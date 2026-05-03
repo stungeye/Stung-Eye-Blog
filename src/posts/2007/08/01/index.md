@@ -1,5 +1,5 @@
 ---
-date: 2007-08-01 23:12:18
+date: 2007-08-01T23:12:18.000-05:00
 title: Connect XII
 permalink: /archive/by_date/2007/08/01/
 ---

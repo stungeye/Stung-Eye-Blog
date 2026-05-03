@@ -1,5 +1,5 @@
 ---
-date: 2003-02-12 00:00:30
+date: 2003-02-12T00:00:30.000-06:00
 title: Rain drops on roses
 permalink: /archive/by_date/2003/02/12/
 ---

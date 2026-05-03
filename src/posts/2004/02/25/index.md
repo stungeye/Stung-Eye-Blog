@@ -1,5 +1,5 @@
 ---
-date: 2004-02-25 10:52:06
+date: 2004-02-25T10:52:06.000-06:00
 title: behind her smiling eyes
 permalink: /archive/by_date/2004/02/25/
 ---

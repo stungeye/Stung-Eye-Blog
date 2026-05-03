@@ -1,5 +1,5 @@
 ---
-date: 2004-03-09 10:47:44
+date: 2004-03-09T10:47:44.000-06:00
 title: Sublime
 permalink: /archive/by_date/2004/03/09/
 ---

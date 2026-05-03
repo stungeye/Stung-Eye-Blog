@@ -1,5 +1,5 @@
 ---
-date: 2003-02-08 09:38:20
+date: 2003-02-08T09:38:20.000-06:00
 title: Stats that piss me off
 permalink: /archive/by_date/2003/02/08/
 ---

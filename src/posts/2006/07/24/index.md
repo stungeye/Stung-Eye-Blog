@@ -1,5 +1,5 @@
 ---
-date: 2006-07-24 16:57:48
+date: 2006-07-24T16:57:48.000-05:00
 title: South by South East
 permalink: /archive/by_date/2006/07/24/
 ---

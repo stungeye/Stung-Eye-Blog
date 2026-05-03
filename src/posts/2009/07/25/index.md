@@ -1,5 +1,5 @@
 ---
-date: 2009-07-25 22:37:00
+date: 2009-07-25T22:37:00.000-05:00
 title: The Loss of Parker Forest
 permalink: /archive/by_date/2009/07/25/
 ---

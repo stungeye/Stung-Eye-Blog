@@ -1,5 +1,5 @@
 ---
-date: 2002-10-22 20:21:07
+date: 2002-10-22T20:21:07.000-05:00
 title: The Police Are My Friends
 permalink: /archive/by_date/2002/10/22/
 ---

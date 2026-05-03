@@ -1,5 +1,5 @@
 ---
-date: 2002-11-15 01:15:24
+date: 2002-11-15T01:15:24.000-06:00
 title: Write... Right?
 permalink: /archive/by_date/2002/11/15/
 ---

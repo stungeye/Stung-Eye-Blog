@@ -1,5 +1,5 @@
 ---
-date: 2005-11-01 15:26:30
+date: 2005-11-01T15:26:30.000-06:00
 title: Mixture of Frailties
 permalink: /archive/by_date/2005/11/01/
 ---

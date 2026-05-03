@@ -1,5 +1,5 @@
 ---
-date: 2003-07-29 23:44:59
+date: 2003-07-29T23:44:59.000-05:00
 title: Sun Glasses
 permalink: /archive/by_date/2003/07/29/
 ---

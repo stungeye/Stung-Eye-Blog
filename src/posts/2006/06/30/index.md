@@ -1,5 +1,5 @@
 ---
-date: 2006-06-30 15:12:22
+date: 2006-06-30T15:12:22.000-05:00
 title: Smarty Pants
 permalink: /archive/by_date/2006/06/30/
 ---

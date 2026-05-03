@@ -1,5 +1,5 @@
 ---
-date: 2003-03-28 14:36:36
+date: 2003-03-28T14:36:36.000-06:00
 title: Bowling for Euros
 permalink: /archive/by_date/2003/03/28/
 ---

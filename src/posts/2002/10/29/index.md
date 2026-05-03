@@ -1,5 +1,5 @@
 ---
-date: 2002-10-29 16:36:48
+date: 2002-10-29T16:36:48.000-06:00
 title: Halloween Countdown
 permalink: /archive/by_date/2002/10/29/
 ---

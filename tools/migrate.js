@@ -8,6 +8,8 @@ import {
 import { join, dirname, basename, extname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { load as cheerioLoad } from "cheerio";
+import { DateTime } from "luxon";
+import config from "../src/_data/config.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -139,6 +141,19 @@ function monthName(dateStr) {
 /** Parse a timestamp to extract an ordering key (for descending sort). */
 function timestampKey(ts) {
   return ts; // ISO-ish strings sort lexicographically
+}
+
+/** Format a legacy site-local wall-clock timestamp with an explicit offset. */
+function frontmatterDateTime(timestamp) {
+  const dt = DateTime.fromFormat(timestamp, "yyyy-MM-dd HH:mm:ss", {
+    zone: config.siteTimeZone,
+  });
+
+  if (!dt.isValid) {
+    throw new Error(`Invalid legacy timestamp: ${timestamp}`);
+  }
+
+  return dt.toISO({ suppressMilliseconds: false });
 }
 
 /** Zero-pad month and day and ensure trailing slash in /archive/by_date/ URLs. */
@@ -761,7 +776,7 @@ async function generateDayPage(dateStr, ciDay, mtEntries) {
   // Build markdown with frontmatter
   const frontmatter = [
     "---",
-    `date: ${dateValue}`,
+    `date: ${frontmatterDateTime(dateValue)}`,
     `title: ${yamlString(title)}`,
     `permalink: ${permalink}`,
     "---",

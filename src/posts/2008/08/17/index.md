@@ -1,5 +1,5 @@
 ---
-date: 2008-08-17 14:24:36
+date: 2008-08-17T14:24:36.000-05:00
 title: Canadian Tories Continue to Cut Federal Arts Funding
 permalink: /archive/by_date/2008/08/17/
 ---

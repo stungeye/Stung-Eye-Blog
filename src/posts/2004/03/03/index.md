@@ -1,5 +1,5 @@
 ---
-date: 2004-03-03 12:22:32
+date: 2004-03-03T12:22:32.000-06:00
 title: Tea
 permalink: /archive/by_date/2004/03/03/
 ---

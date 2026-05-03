@@ -1,5 +1,5 @@
 ---
-date: 2015-07-11 09:43:45
+date: 2015-07-11T09:43:45.000-05:00
 title: Coding is Two Things
 permalink: /archive/by_date/2015/07/11/
 ---

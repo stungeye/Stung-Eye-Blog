@@ -1,5 +1,5 @@
 ---
-date: 2004-10-14 16:00:27
+date: 2004-10-14T16:00:27.000-05:00
 title: Southward Bound
 permalink: /archive/by_date/2004/10/14/
 ---

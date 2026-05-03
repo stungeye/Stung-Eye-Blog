@@ -1,5 +1,5 @@
 ---
-date: 2005-07-16 11:46:43
+date: 2005-07-16T11:46:43.000-05:00
 title: Pieces of Eight
 permalink: /archive/by_date/2005/07/16/
 ---

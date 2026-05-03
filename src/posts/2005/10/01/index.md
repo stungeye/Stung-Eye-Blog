@@ -1,5 +1,5 @@
 ---
-date: 2005-10-01 02:20:18
+date: 2005-10-01T02:20:18.000-05:00
 title: Flip the switch
 permalink: /archive/by_date/2005/10/01/
 ---

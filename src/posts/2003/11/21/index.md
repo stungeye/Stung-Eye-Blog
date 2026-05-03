@@ -1,5 +1,5 @@
 ---
-date: 2003-11-21 09:29:29
+date: 2003-11-21T09:29:29.000-06:00
 title: Past
 permalink: /archive/by_date/2003/11/21/
 ---

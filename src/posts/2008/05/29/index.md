@@ -1,5 +1,5 @@
 ---
-date: 2008-05-29 14:10:14
+date: 2008-05-29T14:10:14.000-05:00
 title: Net Neutrality and Copyfight
 permalink: /archive/by_date/2008/05/29/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2012-10-06 18:24:00
+date: 2012-10-06T18:24:00.000-05:00
 title: Happiness in a Broken Reality
 permalink: /archive/by_date/2012/10/06/
 ---

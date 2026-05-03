@@ -1,5 +1,5 @@
 ---
-date: 2003-03-19 23:21:14
+date: 2003-03-19T23:21:14.000-06:00
 title: Birds Still Sing
 permalink: /archive/by_date/2003/03/19/
 ---

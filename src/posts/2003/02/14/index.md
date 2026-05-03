@@ -1,5 +1,5 @@
 ---
-date: 2003-02-14 10:30:31
+date: 2003-02-14T10:30:31.000-06:00
 title: "Hello, my name is..."
 permalink: /archive/by_date/2003/02/14/
 ---

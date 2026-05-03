@@ -1,5 +1,5 @@
 ---
-date: 2002-09-16 09:23:40
+date: 2002-09-16T09:23:40.000-05:00
 title: Funky Lucid Dreams
 permalink: /archive/by_date/2002/09/16/
 ---

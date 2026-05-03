@@ -1,5 +1,5 @@
 ---
-date: 2004-12-11 08:47:02
+date: 2004-12-11T08:47:02.000-06:00
 title: Stuck in the middle
 permalink: /archive/by_date/2004/12/11/
 ---

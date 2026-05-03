@@ -1,5 +1,5 @@
 ---
-date: 2003-06-02 14:12:36
+date: 2003-06-02T14:12:36.000-05:00
 title: "You Can't Get There From Here"
 permalink: /archive/by_date/2003/06/02/
 ---

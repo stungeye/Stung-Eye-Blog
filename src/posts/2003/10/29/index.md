@@ -1,5 +1,5 @@
 ---
-date: 2003-10-29 23:28:47
+date: 2003-10-29T23:28:47.000-06:00
 title: Binary Star
 permalink: /archive/by_date/2003/10/29/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-01-09 18:30:32
+date: 2003-01-09T18:30:32.000-06:00
 title: One Great City
 permalink: /archive/by_date/2003/01/09/
 ---

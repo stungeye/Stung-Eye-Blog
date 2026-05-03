@@ -1,5 +1,5 @@
 ---
-date: 2004-02-05 13:26:26
+date: 2004-02-05T13:26:26.000-06:00
 title: the tyranny of framing our attention
 permalink: /archive/by_date/2004/02/05/
 ---

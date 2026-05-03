@@ -1,5 +1,5 @@
 ---
-date: 2004-07-07 23:52:26
+date: 2004-07-07T23:52:26.000-05:00
 title: "I'll Drink To That"
 permalink: /archive/by_date/2004/07/07/
 ---

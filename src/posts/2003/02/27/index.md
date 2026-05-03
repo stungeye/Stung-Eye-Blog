@@ -1,5 +1,5 @@
 ---
-date: 2003-02-27 20:30:45
+date: 2003-02-27T20:30:45.000-06:00
 title: A Beautiful Day In The Neighborhood?
 permalink: /archive/by_date/2003/02/27/
 ---

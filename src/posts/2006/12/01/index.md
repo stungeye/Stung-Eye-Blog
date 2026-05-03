@@ -1,5 +1,5 @@
 ---
-date: 2006-12-01 15:28:06
+date: 2006-12-01T15:28:06.000-06:00
 title: "To Sleep, Perchance to Scream"
 permalink: /archive/by_date/2006/12/01/
 ---

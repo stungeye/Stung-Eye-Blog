@@ -134,14 +134,18 @@ Your content here.
 ```
 
 Migrated post datetimes are legacy site-local wall-clock values, best understood
-as `America/Winnipeg` time. They should not be treated as UTC publication
-instants. Issue #5 in `docs/issues-and-fixes.md` tracks the repair to make
-migrated datetimes explicit with Winnipeg offsets and make Eleventy archive
-grouping timezone-aware. Until that is complete, prefer a date-only `date` value
-for manually authored posts so the archive day, folder, and permalink stay
-aligned without relying on timezone conversion. After that repair, use the
-authoring convention documented with the fix; posts with clock times should use
-explicit local offsets unless custom date-only parsing is added.
+as `America/Winnipeg` time. Migrated frontmatter datetimes include explicit
+Winnipeg offsets, and Eleventy archive grouping uses the configured
+`siteTimeZone`. All manually authored posts must use an explicit local-offset
+ISO datetime. Date-only values must not be used — Eleventy/js-yaml parses them
+as UTC midnight, which shifts the archive day in Winnipeg time.
+
+```yaml
+date: 2026-05-02T12:00:00-05:00
+```
+
+Choose a time that reflects the actual publish time, or use noon (`12:00:00`)
+as a neutral placeholder when there is no meaningful clock time.
 
 Place any images in the same directory and reference them with absolute paths:
 

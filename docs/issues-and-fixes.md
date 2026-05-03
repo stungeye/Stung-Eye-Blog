@@ -25,7 +25,8 @@ v24.14.1.
 - **Permalinks:** Every post has an explicit `/archive/by_date/YYYY/MM/DD/`
   permalink.
 - **RSS:** Feed XML builds and dates render in RFC 2822 format.
-  manual authoring example uses a date-only frontmatter value.
+  **Manual authoring:** README requires explicit local-offset ISO datetimes;
+  date-only frontmatter is not allowed.
 
 ## Re-Triage Notes
 
@@ -53,11 +54,10 @@ v24.14.1.
   September 30, 2005 21:20 in Winnipeg because the value has already been
   misread as UTC. The preferred fix is to make the migrated frontmatter explicit
   by emitting ISO datetimes with historical `America/Winnipeg` offsets.
-- Date-only frontmatter remains the safest interim manual convention until the
-  repair is complete. After repair, migrated datetimes should carry explicit
-  offsets, and future manual/CMS authoring with clock times should use explicit
-  local-offset datetimes unless a separate archive-date model or custom
-  date-only parsing is added.
+- Repair is complete. Migrated datetimes carry explicit Winnipeg offsets.
+  All manually authored posts must use explicit local-offset ISO datetimes.
+  Date-only frontmatter is not allowed: Eleventy/js-yaml parses bare dates as
+  UTC midnight, which shifts the archive day in Winnipeg time.
 
 ## Active Issues
 
@@ -145,75 +145,6 @@ a feed item includes literal HTML entities in content.
 **Fix direction:** Add or use an entity-decoding step for feed descriptions
 before XML escaping, with a focused feed regression check.
 
-### 5. High: Date handling mixes UTC, machine-local, and site-local semantics
-
-**Status:** Confirmed. High for archive correctness; no data loss.
-
-**What:** Migrated markdown `date` values are legacy site-local wall-clock
-timestamps, effectively `America/Winnipeg`. Eleventy/js-yaml parses bare
-frontmatter datetimes as UTC `Date` objects, while
-[eleventy.config.js](../eleventy.config.js) currently mixes:
-
-- UTC formatting filters: `readableDate`, `shortDate`, `isoDate`, `rssDate`
-- machine-local grouping/filtering: `daysByMonth`, `daysByYear`,
-  `yearFromDate`, `monthFromDate`, `uniqueMonths`
-
-This makes archive behavior depend on an accidental reinterpretation of
-site-local strings as UTC instants, then sometimes as the build machine's local
-date.
-
-**Confirmed current scope:** If Eleventy's already-misparsed UTC `Date` objects
-are displayed or grouped in `America/Winnipeg`, 90 of 970 posts shift to the
-previous Winnipeg calendar day. Only these 4 cross a month boundary and appear
-in the wrong month archive today:
-
-| Day page   | Frontmatter timestamp | Live/export confirmation             | Current wrong grouping | Correct site-time grouping |
-| ---------- | --------------------- | ------------------------------------ | ---------------------- | -------------------------- |
-| 2005-02-01 | `2005-02-01 05:43:03` | live MT: Feb 1, 2005 @ 05:43 AM      | January 2005           | February 2005              |
-| 2005-04-01 | `2005-04-01 01:04:26` | live MT: Apr 1, 2005 @ 01:04 AM      | March 2005             | April 2005                 |
-| 2005-10-01 | `2005-10-01 02:20:18` | live MT: Oct 1, 2005 @ 02:20 AM      | September 2005         | October 2005               |
-| 2009-02-01 | `2009-02-01 03:20:13` | Tumblr local date: Feb 1, 2009 03:20 | January 2009           | February 2009              |
-
-**Correct model:** Unless one already exists, add a single site timezone setting,
-preferably `siteTimeZone: "America/Winnipeg"` in
-[src/\_data/config.js](../src/_data/config.js). The migrated corpus should carry
-explicit offset datetimes generated from legacy site-local wall time. Eleventy
-can then ingest frontmatter dates normally as real instants, while archive
-display/grouping should still use the configured site timezone. Do not use
-machine-local `getFullYear()`/`getMonth()` and do not use UTC calendar fields
-for archive grouping.
-
-**Implementation direction for a fresh repair agent:**
-
-1. Add `siteTimeZone: "America/Winnipeg"` to
-   [src/\_data/config.js](../src/_data/config.js).
-2. Update [tools/migrate.js](../tools/migrate.js) so generated frontmatter
-   datetimes are ISO strings with explicit Winnipeg offsets. Use Luxon to parse
-   legacy timestamps as `America/Winnipeg` wall time and emit ISO, for example
-   `2005-02-01T05:43:03.000-06:00`,
-   `2005-10-01T02:20:18.000-05:00`, and
-   `2009-02-01T03:20:13.000-06:00`. Do not hand-edit offset math; Luxon should
-   apply historical DST rules.
-3. Intentionally update the checked-in generated corpus under `src/posts/`:
-   either rerun migration in the established project workflow, or apply a
-   focused script/patch that converts all migrated bare `date:` values using the
-   same Luxon logic. Keep date-only manually-authored posts, if any, date-only.
-4. Update [eleventy.config.js](../eleventy.config.js) date filters and archive
-   grouping helpers to use `config.siteTimeZone` consistently. `page.date` and
-   `day.date` should be real instants after explicit offsets are present, but
-   year/month/day display and grouping must be computed with
-   `DateTime.fromJSDate(date).setZone(config.siteTimeZone)`, not UTC or
-   machine-local getters.
-5. Keep the visible archive day, folder path, and permalink in agreement with
-   the migrated timestamp's `America/Winnipeg` calendar day.
-
-**Acceptance checks:** Under both `TZ=America/Winnipeg` and another timezone
-such as `TZ=UTC`, `npm run build` should place the four confirmed boundary pages
-in February 2005, April 2005, October 2005, and February 2009 respectively.
-Rendered day dates should still show the same calendar dates as the markdown
-folders. RSS should render valid RFC 2822 `pubDate` values using the explicit
-Winnipeg-derived instants, not hard-coded `+0000` output.
-
 ### 6. Medium: Future post authoring needs an explicit date model
 
 **Status:** Reframed. This is less an immediate migration bug and more an
@@ -225,35 +156,20 @@ authoring/CMS design decision.
 - displaying the day-page date
 - generating RSS pubDate
 
-That currently sort-of works for migrated content only because the raw
-frontmatter date string, folder, and permalink agree. The parsed JavaScript
-`Date` does not preserve the intended meaning. The intended meaning before issue
-#5 is repaired is: bare migrated datetimes are site-local `America/Winnipeg`
-wall time. After issue #5, migrated datetimes should carry explicit Winnipeg
-offsets.
+Migrated content now carries explicit `America/Winnipeg` offsets after the issue
+#5 repair, but the site still has one `date` field doing both calendar-day and
+publication-instant work.
 
-**Interim policy now documented in README:** For manually authored posts, use
-date-only frontmatter:
-
-```yaml
-date: 2026-05-02
-```
-
-This preserves the intended archive day and avoids current local/UTC day shifts.
-This is an interim convention only. If issue #5 is fixed by adding explicit
-offsets to migrated datetimes, future manually authored posts with clock times
-should also use explicit local offsets unless the repair explicitly adds custom
-date-only parsing semantics.
-
-**Explicit local offsets:** This parses correctly:
+**Policy now documented in README:** All manually authored posts must use an
+explicit local-offset ISO datetime. Date-only frontmatter is not allowed.
 
 ```yaml
 date: 2026-05-02T14:30:00-05:00
 ```
 
-It gives an accurate RSS instant. Archive grouping should follow the configured
-site-time calendar day unless a future CMS separates archive day from exact
-publish instant.
+Use the actual publish time, or noon (`12:00:00`) as a neutral placeholder when
+there is no meaningful clock time. Archive grouping follows the configured
+site-time calendar day.
 
 **Pages CMS direction:** If Pages CMS or similar becomes the authoring interface,
 prefer separating the canonical archive day from the exact publish instant, for
@@ -287,14 +203,12 @@ manual documented cleanup for one-time migration reruns.
 
 | Priority | Issue                          | Why                                                               |
 | -------- | ------------------------------ | ----------------------------------------------------------------- |
-| 1        | #5 Date timezone unification   | Real archive misplacement on 4 pages; bounded config/template fix |
-| 2        | #1 MT heading dedup            | Real readability issue on 22 legacy pages                         |
-| 3        | #6 Future authoring date model | Needs a decision before regular manual/CMS authoring              |
-| 4        | #2 Archive trailing slash      | Tiny polish fix                                                   |
-| 5        | #4 RSS double encoding         | Low current impact, likely easy to test                           |
-| 6        | #7 Migration stale files       | Conditional on rerunning migration                                |
-| 7        | #3 Body `<h1>` tags            | Legacy semantics polish/defer candidate                           |
+| 1        | #1 MT heading dedup            | Real readability issue on 22 legacy pages            |
+| 2        | #6 Future authoring date model | Needs a decision before regular manual/CMS authoring |
+| 3        | #2 Archive trailing slash      | Tiny polish fix                                      |
+| 4        | #4 RSS double encoding         | Low current impact, likely easy to test              |
+| 5        | #7 Migration stale files       | Conditional on rerunning migration                   |
+| 6        | #3 Body `<h1>` tags            | Legacy semantics polish/defer candidate              |
 
 No data loss or incorrectly migrated entries were found. The main pre-deploy
-repair remains the date handling bug, now reframed as unifying the site around
-`America/Winnipeg` wall-clock semantics for migrated frontmatter dates.
+date handling repair has been completed and archived.

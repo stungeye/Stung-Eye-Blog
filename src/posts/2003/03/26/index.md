@@ -1,5 +1,5 @@
 ---
-date: 2003-03-26 23:31:59
+date: 2003-03-26T23:31:59.000-06:00
 title: Thoughts
 permalink: /archive/by_date/2003/03/26/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2005-01-20 14:10:42
+date: 2005-01-20T14:10:42.000-06:00
 title: Vampires and such
 permalink: /archive/by_date/2005/01/20/
 ---

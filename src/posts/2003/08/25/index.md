@@ -1,5 +1,5 @@
 ---
-date: 2003-08-25 23:13:48
+date: 2003-08-25T23:13:48.000-05:00
 title: Calculated Chaos
 permalink: /archive/by_date/2003/08/25/
 ---

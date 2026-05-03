@@ -1,5 +1,5 @@
 ---
-date: 2005-11-23 14:28:22
+date: 2005-11-23T14:28:22.000-06:00
 title: Reabsorption
 permalink: /archive/by_date/2005/11/23/
 ---

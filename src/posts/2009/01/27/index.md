@@ -1,5 +1,5 @@
 ---
-date: 2009-01-27 11:00:41
+date: 2009-01-27T11:00:41.000-06:00
 title: "Act Entr'act"
 permalink: /archive/by_date/2009/01/27/
 ---

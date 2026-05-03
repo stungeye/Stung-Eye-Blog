@@ -1,5 +1,5 @@
 ---
-date: 2004-06-14 02:02:28
+date: 2004-06-14T02:02:28.000-05:00
 title: Launch
 permalink: /archive/by_date/2004/06/14/
 ---

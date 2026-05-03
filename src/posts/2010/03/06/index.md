@@ -1,5 +1,5 @@
 ---
-date: 2010-03-06 15:15:05
+date: 2010-03-06T15:15:05.000-06:00
 title: Mobile Development
 permalink: /archive/by_date/2010/03/06/
 ---

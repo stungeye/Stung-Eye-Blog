@@ -53,13 +53,11 @@ Evidence from the source data:
 
 Implementation note: Eleventy/js-yaml parses bare YAML datetimes like
 `2005-10-01 02:20:18` as UTC JavaScript `Date` objects. That parse result does
-not represent the intended timestamp. Date display, sorting, archive grouping,
-sitemap dates, and RSS dates should be based on the frontmatter value parsed as
-`America/Winnipeg` wall time. The preferred repair is to update migration so
-generated frontmatter datetimes include explicit Winnipeg offsets, letting
-Eleventy ingest them normally as real instants. Eleventy display and archive
-grouping should still use the configured site timezone. See
-`docs/issues-and-fixes.md` issue #5 for the pending repair plan.
+not represent the intended timestamp. Migration now parses legacy timestamps as
+`America/Winnipeg` wall time with Luxon and emits explicit-offset ISO
+frontmatter such as `2005-10-01T02:20:18.000-05:00`. Eleventy can ingest those
+values as real instants, while display, archive grouping, sitemap dates, and RSS
+dates use the configured site timezone.
 
 ## MT Entries → Day Pages
 

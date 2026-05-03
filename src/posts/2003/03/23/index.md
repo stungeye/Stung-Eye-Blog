@@ -1,5 +1,5 @@
 ---
-date: 2003-03-23 23:30:43
+date: 2003-03-23T23:30:43.000-06:00
 title: Happiness... revisited
 permalink: /archive/by_date/2003/03/23/
 ---

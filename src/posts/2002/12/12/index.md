@@ -1,5 +1,5 @@
 ---
-date: 2002-12-12 18:02:27
+date: 2002-12-12T18:02:27.000-06:00
 title: Wooden Matches
 permalink: /archive/by_date/2002/12/12/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2008-01-31 18:46:57
+date: 2008-01-31T18:46:57.000-06:00
 title: Quest for Fury
 permalink: /archive/by_date/2008/01/31/
 ---

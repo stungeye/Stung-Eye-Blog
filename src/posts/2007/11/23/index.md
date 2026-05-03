@@ -1,5 +1,5 @@
 ---
-date: 2007-11-23 12:33:41
+date: 2007-11-23T12:33:41.000-06:00
 title: You Are Therefore You Think
 permalink: /archive/by_date/2007/11/23/
 ---

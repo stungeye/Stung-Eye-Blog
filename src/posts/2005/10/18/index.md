@@ -1,5 +1,5 @@
 ---
-date: 2005-10-18 07:49:09
+date: 2005-10-18T07:49:09.000-05:00
 title: Winegums
 permalink: /archive/by_date/2005/10/18/
 ---

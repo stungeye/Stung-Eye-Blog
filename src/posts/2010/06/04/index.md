@@ -1,5 +1,5 @@
 ---
-date: 2010-06-04 16:59:00
+date: 2010-06-04T16:59:00.000-05:00
 title: Canadian Copyright - Bill C32
 permalink: /archive/by_date/2010/06/04/
 ---

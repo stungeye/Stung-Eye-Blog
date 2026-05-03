@@ -1,5 +1,5 @@
 ---
-date: 2006-10-03 12:14:00
+date: 2006-10-03T12:14:00.000-05:00
 title: Urban Forest Explored
 permalink: /archive/by_date/2006/10/03/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2002-11-21 22:30:07
+date: 2002-11-21T22:30:07.000-06:00
 title: Winter Brings Darkness
 permalink: /archive/by_date/2002/11/21/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2004-01-26 10:27:47
+date: 2004-01-26T10:27:47.000-06:00
 title: Bisous
 permalink: /archive/by_date/2004/01/26/
 ---

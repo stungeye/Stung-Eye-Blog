@@ -1,5 +1,5 @@
 ---
-date: 2007-03-04 12:40:42
+date: 2007-03-04T12:40:42.000-06:00
 title: "Look up! Get Down!"
 permalink: /archive/by_date/2007/03/04/
 ---

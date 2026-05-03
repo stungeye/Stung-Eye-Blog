@@ -1,5 +1,5 @@
 ---
-date: 2006-09-06 23:21:28
+date: 2006-09-06T23:21:28.000-05:00
 title: Many Things To Say
 permalink: /archive/by_date/2006/09/06/
 ---

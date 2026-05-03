@@ -1,5 +1,5 @@
 ---
-date: 2010-03-04 22:48:22
+date: 2010-03-04T22:48:22.000-06:00
 title: "You Know Who \"Gets it\"?"
 permalink: /archive/by_date/2010/03/04/
 ---

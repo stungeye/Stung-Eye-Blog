@@ -1,5 +1,5 @@
 ---
-date: 2003-05-04 20:33:44
+date: 2003-05-04T20:33:44.000-05:00
 title: I really never felt quite the same since I lost what I had to gain
 permalink: /archive/by_date/2003/05/04/
 ---

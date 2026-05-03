@@ -1,5 +1,5 @@
 ---
-date: 2007-10-27 20:36:25
+date: 2007-10-27T20:36:25.000-05:00
 title: Number Slumber
 permalink: /archive/by_date/2007/10/27/
 ---

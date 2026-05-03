@@ -1,5 +1,5 @@
 ---
-date: 2007-11-16 18:23:38
+date: 2007-11-16T18:23:38.000-06:00
 title: "Greetings!"
 permalink: /archive/by_date/2007/11/16/
 ---

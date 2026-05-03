@@ -1,5 +1,5 @@
 ---
-date: 2003-09-04 22:49:28
+date: 2003-09-04T22:49:28.000-05:00
 title: Outside In
 permalink: /archive/by_date/2003/09/04/
 ---

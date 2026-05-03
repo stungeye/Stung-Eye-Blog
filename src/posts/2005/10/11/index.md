@@ -1,5 +1,5 @@
 ---
-date: 2005-10-11 08:09:19
+date: 2005-10-11T08:09:19.000-05:00
 title: A Return
 permalink: /archive/by_date/2005/10/11/
 ---

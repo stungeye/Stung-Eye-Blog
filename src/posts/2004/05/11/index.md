@@ -1,5 +1,5 @@
 ---
-date: 2004-05-11 11:43:46
+date: 2004-05-11T11:43:46.000-05:00
 title: A Stitch In Time
 permalink: /archive/by_date/2004/05/11/
 ---

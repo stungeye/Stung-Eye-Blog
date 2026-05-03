@@ -1,5 +1,5 @@
 ---
-date: 2004-05-17 15:53:17
+date: 2004-05-17T15:53:17.000-05:00
 title: Meta
 permalink: /archive/by_date/2004/05/17/
 ---

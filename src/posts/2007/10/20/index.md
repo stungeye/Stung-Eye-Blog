@@ -1,5 +1,5 @@
 ---
-date: 2007-10-20 13:39:01
+date: 2007-10-20T13:39:01.000-05:00
 title: usually permanent form
 permalink: /archive/by_date/2007/10/20/
 ---

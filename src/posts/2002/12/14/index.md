@@ -1,5 +1,5 @@
 ---
-date: 2002-12-14 01:05:32
+date: 2002-12-14T01:05:32.000-06:00
 title: Freestyle Rant
 permalink: /archive/by_date/2002/12/14/
 ---

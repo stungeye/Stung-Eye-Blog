@@ -1,5 +1,5 @@
 ---
-date: 2003-05-19 22:06:28
+date: 2003-05-19T22:06:28.000-05:00
 title: wonderin
 permalink: /archive/by_date/2003/05/19/
 ---

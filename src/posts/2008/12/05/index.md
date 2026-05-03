@@ -1,5 +1,5 @@
 ---
-date: 2008-12-05 23:40:34
+date: 2008-12-05T23:40:34.000-06:00
 title: Pirates of the Amazon Abandon Ship
 permalink: /archive/by_date/2008/12/05/
 ---

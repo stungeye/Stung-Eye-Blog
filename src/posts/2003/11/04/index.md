@@ -1,5 +1,5 @@
 ---
-date: 2003-11-04 10:51:55
+date: 2003-11-04T10:51:55.000-06:00
 title: Trinity
 permalink: /archive/by_date/2003/11/04/
 ---

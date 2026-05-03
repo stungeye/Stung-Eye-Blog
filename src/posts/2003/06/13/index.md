@@ -1,5 +1,5 @@
 ---
-date: 2003-06-13 15:02:17
+date: 2003-06-13T15:02:17.000-05:00
 title: Out to lunch
 permalink: /archive/by_date/2003/06/13/
 ---

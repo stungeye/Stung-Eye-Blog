@@ -1,5 +1,5 @@
 ---
-date: 2002-11-03 14:37:48
+date: 2002-11-03T14:37:48.000-06:00
 title: Post Halloween Party Wrap-up
 permalink: /archive/by_date/2002/11/03/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-04-21 22:43:47
+date: 2003-04-21T22:43:47.000-05:00
 title: Musical Connections
 permalink: /archive/by_date/2003/04/21/
 ---

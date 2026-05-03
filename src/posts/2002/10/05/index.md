@@ -1,5 +1,5 @@
 ---
-date: 2002-10-05 12:25:25
+date: 2002-10-05T12:25:25.000-05:00
 title: "Who's Left? Who's Leaving?"
 permalink: /archive/by_date/2002/10/05/
 ---

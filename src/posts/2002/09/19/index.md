@@ -1,5 +1,5 @@
 ---
-date: 2002-09-19 10:04:56
+date: 2002-09-19T10:04:56.000-05:00
 title: A very strong or irresistible impulse to travel
 permalink: /archive/by_date/2002/09/19/
 ---

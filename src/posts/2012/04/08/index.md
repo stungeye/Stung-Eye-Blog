@@ -1,5 +1,5 @@
 ---
-date: 2012-04-08 21:39:00
+date: 2012-04-08T21:39:00.000-05:00
 title: Eulogy for Craig Sisk
 permalink: /archive/by_date/2012/04/08/
 ---

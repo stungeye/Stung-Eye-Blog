@@ -1,5 +1,5 @@
 ---
-date: 2003-10-09 00:12:20
+date: 2003-10-09T00:12:20.000-05:00
 title: "There's A Freeze Up Coming"
 permalink: /archive/by_date/2003/10/09/
 ---

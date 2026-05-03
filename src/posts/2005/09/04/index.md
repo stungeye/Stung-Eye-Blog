@@ -1,5 +1,5 @@
 ---
-date: 2005-09-04 17:51:24
+date: 2005-09-04T17:51:24.000-05:00
 title: Time for Travel
 permalink: /archive/by_date/2005/09/04/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-09-17 23:58:21
+date: 2003-09-17T23:58:21.000-05:00
 title: Would somebody think of the animals?
 permalink: /archive/by_date/2003/09/17/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-01-07 09:54:04
+date: 2003-01-07T09:54:04.000-06:00
 title: Digital Muse
 permalink: /archive/by_date/2003/01/07/
 ---

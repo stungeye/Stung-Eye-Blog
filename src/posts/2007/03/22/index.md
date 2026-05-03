@@ -1,5 +1,5 @@
 ---
-date: 2007-03-22 12:06:12
+date: 2007-03-22T12:06:12.000-05:00
 title: "wonder, surprise, or incredulity"
 permalink: /archive/by_date/2007/03/22/
 ---

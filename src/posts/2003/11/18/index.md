@@ -1,5 +1,5 @@
 ---
-date: 2003-11-18 18:02:42
+date: 2003-11-18T18:02:42.000-06:00
 title: Images from other eyes.
 permalink: /archive/by_date/2003/11/18/
 ---

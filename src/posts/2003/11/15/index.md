@@ -1,5 +1,5 @@
 ---
-date: 2003-11-15 13:43:14
+date: 2003-11-15T13:43:14.000-06:00
 title: "Teddy Bear's Picnic"
 permalink: /archive/by_date/2003/11/15/
 ---

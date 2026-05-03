@@ -1,5 +1,5 @@
 ---
-date: 2006-10-15 23:24:25
+date: 2006-10-15T23:24:25.000-05:00
 title: nihilism
 permalink: /archive/by_date/2006/10/15/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-11-07 09:41:07
+date: 2003-11-07T09:41:07.000-06:00
 title: Let Me Introduce...
 permalink: /archive/by_date/2003/11/07/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2008-11-25 18:22:00
+date: 2008-11-25T18:22:00.000-06:00
 title: A Process That Resonates
 permalink: /archive/by_date/2008/11/25/
 ---

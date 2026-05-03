@@ -1,5 +1,5 @@
 ---
-date: 2011-04-12 01:29:00
+date: 2011-04-12T01:29:00.000-05:00
 title: Chemical Etching For Artists and Hackers
 permalink: /archive/by_date/2011/04/12/
 ---

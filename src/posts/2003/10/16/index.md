@@ -1,5 +1,5 @@
 ---
-date: 2003-10-16 23:34:39
+date: 2003-10-16T23:34:39.000-05:00
 title: Had a little too much to think tonight
 permalink: /archive/by_date/2003/10/16/
 ---

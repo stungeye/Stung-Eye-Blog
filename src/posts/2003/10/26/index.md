@@ -1,5 +1,5 @@
 ---
-date: 2003-10-26 10:49:44
+date: 2003-10-26T10:49:44.000-06:00
 title: A Blanket For Your Mind
 permalink: /archive/by_date/2003/10/26/
 ---

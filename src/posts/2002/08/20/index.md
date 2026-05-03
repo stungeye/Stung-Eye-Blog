@@ -1,5 +1,5 @@
 ---
-date: 2002-08-20 14:52:36
+date: 2002-08-20T14:52:36.000-05:00
 title: Problems... Solutions...
 permalink: /archive/by_date/2002/08/20/
 ---

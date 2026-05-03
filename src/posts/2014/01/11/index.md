@@ -1,5 +1,5 @@
 ---
-date: 2014-01-11 16:55:00
+date: 2014-01-11T16:55:00.000-06:00
 title: Reading and Listening in 2013
 permalink: /archive/by_date/2014/01/11/
 ---

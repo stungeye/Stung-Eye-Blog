@@ -1,5 +1,5 @@
 ---
-date: 2003-07-11 14:51:53
+date: 2003-07-11T14:51:53.000-05:00
 title: "You're Never There When I Don't Need You"
 permalink: /archive/by_date/2003/07/11/
 ---

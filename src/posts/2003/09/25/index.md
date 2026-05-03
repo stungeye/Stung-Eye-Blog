@@ -1,5 +1,5 @@
 ---
-date: 2003-09-25 13:25:24
+date: 2003-09-25T13:25:24.000-05:00
 title: LONGER IS BETTER
 permalink: /archive/by_date/2003/09/25/
 ---

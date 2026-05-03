@@ -1,5 +1,5 @@
 ---
-date: 2006-01-06 15:01:05
+date: 2006-01-06T15:01:05.000-06:00
 title: "When there's nothing left to burn..."
 permalink: /archive/by_date/2006/01/06/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2005-09-09 01:29:07
+date: 2005-09-09T01:29:07.000-05:00
 title: from another
 permalink: /archive/by_date/2005/09/09/
 ---

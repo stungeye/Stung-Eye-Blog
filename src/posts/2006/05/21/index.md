@@ -1,5 +1,5 @@
 ---
-date: 2006-05-21 19:56:24
+date: 2006-05-21T19:56:24.000-05:00
 title: your name on a list
 permalink: /archive/by_date/2006/05/21/
 ---

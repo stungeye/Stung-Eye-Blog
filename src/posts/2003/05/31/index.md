@@ -1,5 +1,5 @@
 ---
-date: 2003-05-31 12:13:57
+date: 2003-05-31T12:13:57.000-05:00
 title: Cough Cough
 permalink: /archive/by_date/2003/05/31/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2004-03-04 13:38:17
+date: 2004-03-04T13:38:17.000-06:00
 title: Centre
 permalink: /archive/by_date/2004/03/04/
 ---

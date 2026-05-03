@@ -1,5 +1,5 @@
 ---
-date: 2005-11-18 19:59:37
+date: 2005-11-18T19:59:37.000-06:00
 title: Fresh is the taste
 permalink: /archive/by_date/2005/11/18/
 ---

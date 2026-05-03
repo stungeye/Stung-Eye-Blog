@@ -1,5 +1,5 @@
 ---
-date: 2003-04-26 12:24:09
+date: 2003-04-26T12:24:09.000-05:00
 title: Voltage Controlled Oscillator
 permalink: /archive/by_date/2003/04/26/
 ---

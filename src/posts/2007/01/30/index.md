@@ -1,5 +1,5 @@
 ---
-date: 2007-01-30 22:47:16
+date: 2007-01-30T22:47:16.000-06:00
 title: Last is Past
 permalink: /archive/by_date/2007/01/30/
 ---

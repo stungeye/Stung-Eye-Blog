@@ -1,5 +1,5 @@
 ---
-date: 2023-02-12 16:40:40
+date: 2023-02-12T16:40:40.000-06:00
 title: Reading and Listening in 2022
 permalink: /archive/by_date/2023/02/12/
 ---

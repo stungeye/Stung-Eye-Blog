@@ -1,5 +1,5 @@
 ---
-date: 2003-09-30 15:42:35
+date: 2003-09-30T15:42:35.000-05:00
 title: Unintentional Intentions
 permalink: /archive/by_date/2003/09/30/
 ---

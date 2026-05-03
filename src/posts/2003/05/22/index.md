@@ -1,5 +1,5 @@
 ---
-date: 2003-05-22 00:08:39
+date: 2003-05-22T00:08:39.000-05:00
 title: Setec Astronomy
 permalink: /archive/by_date/2003/05/22/
 ---

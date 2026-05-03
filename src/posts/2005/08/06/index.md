@@ -1,5 +1,5 @@
 ---
-date: 2005-08-06 18:24:37
+date: 2005-08-06T18:24:37.000-05:00
 title: There are signs everywhere
 permalink: /archive/by_date/2005/08/06/
 ---

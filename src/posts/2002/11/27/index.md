@@ -1,5 +1,5 @@
 ---
-date: 2002-11-27 09:30:45
+date: 2002-11-27T09:30:45.000-06:00
 title: Green Wednesday
 permalink: /archive/by_date/2002/11/27/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-10-07 23:43:10
+date: 2003-10-07T23:43:10.000-05:00
 title: Let my spirit carry me
 permalink: /archive/by_date/2003/10/07/
 ---

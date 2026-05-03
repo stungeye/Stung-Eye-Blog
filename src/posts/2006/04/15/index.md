@@ -1,5 +1,5 @@
 ---
-date: 2006-04-15 19:50:14
+date: 2006-04-15T19:50:14.000-05:00
 title: Nerdcore
 permalink: /archive/by_date/2006/04/15/
 ---

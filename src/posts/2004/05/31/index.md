@@ -1,5 +1,5 @@
 ---
-date: 2004-05-31 02:26:52
+date: 2004-05-31T02:26:52.000-05:00
 title: drawn in
 permalink: /archive/by_date/2004/05/31/
 ---

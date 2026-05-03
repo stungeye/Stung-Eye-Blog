@@ -1,5 +1,5 @@
 ---
-date: 2020-12-13 08:56:34
+date: 2020-12-13T08:56:34.000-06:00
 title: Email to Friends From This Morning
 permalink: /archive/by_date/2020/12/13/
 ---

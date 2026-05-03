@@ -1,5 +1,5 @@
 ---
-date: 2004-10-19 14:45:07
+date: 2004-10-19T14:45:07.000-05:00
 title: Easy Go
 permalink: /archive/by_date/2004/10/19/
 ---

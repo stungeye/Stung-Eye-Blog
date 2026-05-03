@@ -1,5 +1,5 @@
 ---
-date: 2003-02-13 14:00:34
+date: 2003-02-13T14:00:34.000-06:00
 title: Slipperly Feet
 permalink: /archive/by_date/2003/02/13/
 ---

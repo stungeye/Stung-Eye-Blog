@@ -1,5 +1,5 @@
 ---
-date: 2002-10-16 20:48:09
+date: 2002-10-16T20:48:09.000-05:00
 title: Forget Me Nots
 permalink: /archive/by_date/2002/10/16/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-03-02 12:12:36
+date: 2003-03-02T12:12:36.000-06:00
 title: See what I see
 permalink: /archive/by_date/2003/03/02/
 ---

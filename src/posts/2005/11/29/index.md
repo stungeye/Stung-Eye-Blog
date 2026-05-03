@@ -1,5 +1,5 @@
 ---
-date: 2005-11-29 11:29:14
+date: 2005-11-29T11:29:14.000-06:00
 title: Losing Ground
 permalink: /archive/by_date/2005/11/29/
 ---

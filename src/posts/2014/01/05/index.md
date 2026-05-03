@@ -1,5 +1,5 @@
 ---
-date: 2014-01-05 23:19:00
+date: 2014-01-05T23:19:00.000-06:00
 title: Stuff Dutch People Like
 permalink: /archive/by_date/2014/01/05/
 ---

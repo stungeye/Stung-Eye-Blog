@@ -1,5 +1,5 @@
 ---
-date: 2003-02-03 12:33:28
+date: 2003-02-03T12:33:28.000-06:00
 title: Stomach Troubles
 permalink: /archive/by_date/2003/02/03/
 ---

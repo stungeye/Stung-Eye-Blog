@@ -1,5 +1,5 @@
 ---
-date: 2005-09-14 09:51:04
+date: 2005-09-14T09:51:04.000-05:00
 title: Hits your eye
 permalink: /archive/by_date/2005/09/14/
 ---

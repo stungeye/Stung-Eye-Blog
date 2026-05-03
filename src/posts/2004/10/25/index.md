@@ -1,5 +1,5 @@
 ---
-date: 2004-10-25 07:49:02
+date: 2004-10-25T07:49:02.000-05:00
 title: Pardon me?
 permalink: /archive/by_date/2004/10/25/
 ---

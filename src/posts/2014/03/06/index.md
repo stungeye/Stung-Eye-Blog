@@ -1,5 +1,5 @@
 ---
-date: 2014-03-06 14:29:00
+date: 2014-03-06T14:29:00.000-06:00
 title: Has Anyone Ever Flipped Heads 76 Times in a Row?
 permalink: /archive/by_date/2014/03/06/
 ---

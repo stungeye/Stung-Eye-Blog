@@ -1,5 +1,5 @@
 ---
-date: 2005-07-23 15:04:21
+date: 2005-07-23T15:04:21.000-05:00
 title: Do as I do
 permalink: /archive/by_date/2005/07/23/
 ---

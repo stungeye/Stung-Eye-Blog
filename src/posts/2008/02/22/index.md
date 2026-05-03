@@ -1,5 +1,5 @@
 ---
-date: 2008-02-22 20:53:05
+date: 2008-02-22T20:53:05.000-06:00
 title: Sending Zzzzzs Across the Pond
 permalink: /archive/by_date/2008/02/22/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2006-09-23 15:19:34
+date: 2006-09-23T15:19:34.000-05:00
 title: "Flapp'n"
 permalink: /archive/by_date/2006/09/23/
 ---

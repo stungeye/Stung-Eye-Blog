@@ -1,5 +1,5 @@
 ---
-date: 2006-12-05 23:28:39
+date: 2006-12-05T23:28:39.000-06:00
 title: Just One Less Than Most
 permalink: /archive/by_date/2006/12/05/
 ---

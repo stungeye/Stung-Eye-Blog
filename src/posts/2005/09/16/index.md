@@ -1,5 +1,5 @@
 ---
-date: 2005-09-16 09:33:21
+date: 2005-09-16T09:33:21.000-05:00
 title: BeeBytes
 permalink: /archive/by_date/2005/09/16/
 ---

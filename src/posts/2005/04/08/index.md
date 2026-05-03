@@ -1,5 +1,5 @@
 ---
-date: 2005-04-08 10:31:27
+date: 2005-04-08T10:31:27.000-05:00
 title: 2^10 = nerd
 permalink: /archive/by_date/2005/04/08/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2006-01-14 18:01:47
+date: 2006-01-14T18:01:47.000-06:00
 title: pieces of pieces
 permalink: /archive/by_date/2006/01/14/
 ---

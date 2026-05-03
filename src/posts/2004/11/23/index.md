@@ -1,5 +1,5 @@
 ---
-date: 2004-11-23 15:08:39
+date: 2004-11-23T15:08:39.000-06:00
 title: Really?
 permalink: /archive/by_date/2004/11/23/
 ---

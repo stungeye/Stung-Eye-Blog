@@ -1,5 +1,5 @@
 ---
-date: 2004-02-20 12:10:01
+date: 2004-02-20T12:10:01.000-06:00
 title: Irony vs Empath
 permalink: /archive/by_date/2004/02/20/
 ---

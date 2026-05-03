@@ -1,5 +1,5 @@
 ---
-date: 2003-12-04 16:00:18
+date: 2003-12-04T16:00:18.000-06:00
 title: Woodland Caribou
 permalink: /archive/by_date/2003/12/04/
 ---

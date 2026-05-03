@@ -1,5 +1,5 @@
 ---
-date: 2002-10-10 12:53:16
+date: 2002-10-10T12:53:16.000-05:00
 title: Do You Realize?
 permalink: /archive/by_date/2002/10/10/
 ---

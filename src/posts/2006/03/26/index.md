@@ -1,5 +1,5 @@
 ---
-date: 2006-03-26 02:22:14
+date: 2006-03-26T02:22:14.000-06:00
 title: A Rebel Yell
 permalink: /archive/by_date/2006/03/26/
 ---

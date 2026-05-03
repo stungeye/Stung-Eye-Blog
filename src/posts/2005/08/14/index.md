@@ -1,5 +1,5 @@
 ---
-date: 2005-08-14 06:04:34
+date: 2005-08-14T06:04:34.000-05:00
 title: debating
 permalink: /archive/by_date/2005/08/14/
 ---

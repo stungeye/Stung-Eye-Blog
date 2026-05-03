@@ -1,5 +1,5 @@
 ---
-date: 2008-09-01 17:55:00
+date: 2008-09-01T17:55:00.000-05:00
 title: Two New Wally Glutton Mixes
 permalink: /archive/by_date/2008/09/01/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-03-06 13:21:11
+date: 2003-03-06T13:21:11.000-06:00
 title: If clouds were guitar strings and the raindrops were chords
 permalink: /archive/by_date/2003/03/06/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2005-08-02 04:18:36
+date: 2005-08-02T04:18:36.000-05:00
 title: Give me twenty
 permalink: /archive/by_date/2005/08/02/
 ---

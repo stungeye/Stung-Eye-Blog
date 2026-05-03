@@ -1,5 +1,5 @@
 ---
-date: 2004-01-14 22:52:41
+date: 2004-01-14T22:52:41.000-06:00
 title: The Under Toad
 permalink: /archive/by_date/2004/01/14/
 ---

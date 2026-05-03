@@ -1,5 +1,5 @@
 ---
-date: 2003-04-27 23:52:47
+date: 2003-04-27T23:52:47.000-05:00
 title: Lucky What?
 permalink: /archive/by_date/2003/04/27/
 ---

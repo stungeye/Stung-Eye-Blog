@@ -1,5 +1,5 @@
 ---
-date: 2009-02-26 20:59:00
+date: 2009-02-26T20:59:00.000-06:00
 title: You Are Beyond the Edge of Forever
 permalink: /archive/by_date/2009/02/26/
 ---

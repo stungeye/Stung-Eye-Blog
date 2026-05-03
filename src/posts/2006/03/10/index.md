@@ -1,5 +1,5 @@
 ---
-date: 2006-03-10 15:58:12
+date: 2006-03-10T15:58:12.000-06:00
 title: Soda Pop
 permalink: /archive/by_date/2006/03/10/
 ---

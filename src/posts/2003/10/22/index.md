@@ -1,5 +1,5 @@
 ---
-date: 2003-10-22 22:07:59
+date: 2003-10-22T22:07:59.000-05:00
 title: The Mask Is On
 permalink: /archive/by_date/2003/10/22/
 ---

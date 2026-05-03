@@ -1,5 +1,5 @@
 ---
-date: 2014-03-28 16:03:00
+date: 2014-03-28T16:03:00.000-05:00
 title: "SHE, HE, THEY"
 permalink: /archive/by_date/2014/03/28/
 ---

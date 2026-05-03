@@ -1,5 +1,5 @@
 ---
-date: 2004-03-11 10:42:31
+date: 2004-03-11T10:42:31.000-06:00
 title: Those who care...
 permalink: /archive/by_date/2004/03/11/
 ---

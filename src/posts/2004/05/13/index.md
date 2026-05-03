@@ -1,5 +1,5 @@
 ---
-date: 2004-05-13 14:53:30
+date: 2004-05-13T14:53:30.000-05:00
 title: Paper Memory
 permalink: /archive/by_date/2004/05/13/
 ---

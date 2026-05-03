@@ -14,7 +14,7 @@ title: ""
 <article class="day-block">
   <header class="day-block-header">
     <h2><a href="{{ day.url }}">{{ day.data.title }}</a></h2>
-    <time datetime="{{ day.date | isoDate }}">{{ day.date | readableDate }}</time>
+    <time datetime="{{ day.date | isoDate }}">{{ day.date | readableDateTime }}</time>
   </header>
   <div class="day-block-content">
     {{ day.content | safe }}

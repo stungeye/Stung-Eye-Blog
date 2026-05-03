@@ -1,5 +1,5 @@
 ---
-date: 2002-09-11 10:42:15
+date: 2002-09-11T10:42:15.000-05:00
 title: "Who's Brother?"
 permalink: /archive/by_date/2002/09/11/
 ---

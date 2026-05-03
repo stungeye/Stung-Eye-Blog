@@ -1,5 +1,5 @@
 ---
-date: 2013-03-09 12:58:00
+date: 2013-03-09T12:58:00.000-06:00
 title: A Scientific Approach to Debugging
 permalink: /archive/by_date/2013/03/09/
 ---

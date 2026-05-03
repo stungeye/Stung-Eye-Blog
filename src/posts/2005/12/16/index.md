@@ -1,5 +1,5 @@
 ---
-date: 2005-12-16 13:57:05
+date: 2005-12-16T13:57:05.000-06:00
 title: Have you forgotten what we are?
 permalink: /archive/by_date/2005/12/16/
 ---

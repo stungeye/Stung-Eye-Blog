@@ -1,5 +1,5 @@
 ---
-date: 2006-11-20 22:58:10
+date: 2006-11-20T22:58:10.000-06:00
 title: Lost in the TimeSlice
 permalink: /archive/by_date/2006/11/20/
 ---

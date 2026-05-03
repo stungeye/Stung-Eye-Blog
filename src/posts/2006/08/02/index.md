@@ -1,5 +1,5 @@
 ---
-date: 2006-08-02 19:59:07
+date: 2006-08-02T19:59:07.000-05:00
 title: shoe repair
 permalink: /archive/by_date/2006/08/02/
 ---

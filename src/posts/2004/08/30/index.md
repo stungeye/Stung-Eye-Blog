@@ -1,5 +1,5 @@
 ---
-date: 2004-08-30 01:32:26
+date: 2004-08-30T01:32:26.000-05:00
 title: A Giant Mirror
 permalink: /archive/by_date/2004/08/30/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2005-11-10 21:55:48
+date: 2005-11-10T21:55:48.000-06:00
 title: three
 permalink: /archive/by_date/2005/11/10/
 ---

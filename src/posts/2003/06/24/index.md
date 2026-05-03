@@ -1,5 +1,5 @@
 ---
-date: 2003-06-24 01:09:02
+date: 2003-06-24T01:09:02.000-05:00
 title: Strive on with awareness
 permalink: /archive/by_date/2003/06/24/
 ---

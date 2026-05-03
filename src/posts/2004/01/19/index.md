@@ -1,5 +1,5 @@
 ---
-date: 2004-01-19 15:36:43
+date: 2004-01-19T15:36:43.000-06:00
 title: "The play's the thing"
 permalink: /archive/by_date/2004/01/19/
 ---

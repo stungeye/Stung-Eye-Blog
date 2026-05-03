@@ -1,5 +1,5 @@
 ---
-date: 2003-02-17 23:55:21
+date: 2003-02-17T23:55:21.000-06:00
 title: A New Home
 permalink: /archive/by_date/2003/02/17/
 ---

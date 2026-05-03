@@ -1,5 +1,5 @@
 ---
-date: 2002-12-07 14:29:59
+date: 2002-12-07T14:29:59.000-06:00
 title: "Cache, CSS and other geeky woes"
 permalink: /archive/by_date/2002/12/07/
 ---

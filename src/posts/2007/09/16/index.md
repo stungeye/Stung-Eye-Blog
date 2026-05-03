@@ -1,5 +1,5 @@
 ---
-date: 2007-09-16 10:26:54
+date: 2007-09-16T10:26:54.000-05:00
 title: Lakeshore
 permalink: /archive/by_date/2007/09/16/
 ---

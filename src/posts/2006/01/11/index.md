@@ -1,5 +1,5 @@
 ---
-date: 2006-01-11 16:39:20
+date: 2006-01-11T16:39:20.000-06:00
 title: Bee Still (Simple Meditation)
 permalink: /archive/by_date/2006/01/11/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2012-12-31 11:22:00
+date: 2012-12-31T11:22:00.000-06:00
 title: Reading and Listening in 2012
 permalink: /archive/by_date/2012/12/31/
 ---

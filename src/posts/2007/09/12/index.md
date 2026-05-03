@@ -1,5 +1,5 @@
 ---
-date: 2007-09-12 15:21:32
+date: 2007-09-12T15:21:32.000-05:00
 title: "The Druid's Tune"
 permalink: /archive/by_date/2007/09/12/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-04-04 15:50:35
+date: 2003-04-04T15:50:35.000-06:00
 title: Think of the children
 permalink: /archive/by_date/2003/04/04/
 ---

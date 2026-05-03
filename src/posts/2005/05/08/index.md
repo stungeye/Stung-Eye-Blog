@@ -1,5 +1,5 @@
 ---
-date: 2005-05-08 06:28:14
+date: 2005-05-08T06:28:14.000-05:00
 title: of the most dangerous
 permalink: /archive/by_date/2005/05/08/
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2003-12-05 17:59:47
+date: 2003-12-05T17:59:47.000-06:00
 title: Pick Up Sticks
 permalink: /archive/by_date/2003/12/05/
 ---

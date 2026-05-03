@@ -1,5 +1,5 @@
 ---
-date: 2003-04-10 20:49:59
+date: 2003-04-10T20:49:59.000-05:00
 title: CNN?
 permalink: /archive/by_date/2003/04/10/
 ---

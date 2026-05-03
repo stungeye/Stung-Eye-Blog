@@ -1,5 +1,5 @@
 ---
-date: 2010-05-11 23:20:00
+date: 2010-05-11T23:20:00.000-05:00
 title: Glutton LastFM
 permalink: /archive/by_date/2010/05/11/
 ---

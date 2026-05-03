@@ -1,5 +1,5 @@
 ---
-date: 2005-03-18 14:21:04
+date: 2005-03-18T14:21:04.000-06:00
 title: Emphasis theirs
 permalink: /archive/by_date/2005/03/18/
 ---

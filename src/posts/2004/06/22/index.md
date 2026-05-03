@@ -1,5 +1,5 @@
 ---
-date: 2004-06-22 16:48:27
+date: 2004-06-22T16:48:27.000-05:00
 title: You stood out from the crowd
 permalink: /archive/by_date/2004/06/22/
 ---

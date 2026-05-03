@@ -1,5 +1,5 @@
 ---
-date: 2003-04-11 16:33:14
+date: 2003-04-11T16:33:14.000-05:00
 title: "It's... it's all connected!"
 permalink: /archive/by_date/2003/04/11/
 ---

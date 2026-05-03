@@ -1,5 +1,5 @@
 ---
-date: 2003-09-14 13:06:12
+date: 2003-09-14T13:06:12.000-05:00
 title: In A Way
 permalink: /archive/by_date/2003/09/14/
 ---

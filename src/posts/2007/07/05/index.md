@@ -1,5 +1,5 @@
 ---
-date: 2007-07-05 21:33:20
+date: 2007-07-05T21:33:20.000-05:00
 title: Change
 permalink: /archive/by_date/2007/07/05/
 ---

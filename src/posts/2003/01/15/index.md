@@ -1,5 +1,5 @@
 ---
-date: 2003-01-15 21:32:47
+date: 2003-01-15T21:32:47.000-06:00
 title: Who?
 permalink: /archive/by_date/2003/01/15/
 ---

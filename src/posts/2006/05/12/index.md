@@ -1,5 +1,5 @@
 ---
-date: 2006-05-12 16:21:22
+date: 2006-05-12T16:21:22.000-05:00
 title: transparent
 permalink: /archive/by_date/2006/05/12/
 ---

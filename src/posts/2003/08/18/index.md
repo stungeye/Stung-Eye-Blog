@@ -1,5 +1,5 @@
 ---
-date: 2003-08-18 00:38:09
+date: 2003-08-18T00:38:09.000-05:00
 title: Watch Out Now
 permalink: /archive/by_date/2003/08/18/
 ---

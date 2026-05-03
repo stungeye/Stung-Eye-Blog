@@ -1,5 +1,5 @@
 ---
-date: 2006-02-24 00:59:30
+date: 2006-02-24T00:59:30.000-06:00
 title: clearly or darkly
 permalink: /archive/by_date/2006/02/24/
 ---

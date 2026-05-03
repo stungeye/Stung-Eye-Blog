@@ -1,5 +1,5 @@
 ---
-date: 2003-07-24 00:39:41
+date: 2003-07-24T00:39:41.000-05:00
 title: Well I Wonder...
 permalink: /archive/by_date/2003/07/24/
 ---

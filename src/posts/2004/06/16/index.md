@@ -1,5 +1,5 @@
 ---
-date: 2004-06-16 15:51:53
+date: 2004-06-16T15:51:53.000-05:00
 title: Patterns of Culture
 permalink: /archive/by_date/2004/06/16/
 ---

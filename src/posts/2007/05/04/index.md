@@ -1,5 +1,5 @@
 ---
-date: 2007-05-04 14:35:01
+date: 2007-05-04T14:35:01.000-05:00
 title: H Two Oh?
 permalink: /archive/by_date/2007/05/04/
 ---

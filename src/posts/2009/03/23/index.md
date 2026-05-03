@@ -1,5 +1,5 @@
 ---
-date: 2009-03-23 01:12:57
+date: 2009-03-23T01:12:57.000-05:00
 title: Art and Code - Overview Part II
 permalink: /archive/by_date/2009/03/23/
 ---
