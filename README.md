@@ -108,9 +108,7 @@ The generated `nginx/redirects.conf` must be included in the Nginx server block 
 include /path/to/nginx/redirects.conf;
 ```
 
-Deploy this file separately from the site content. It contains 301 redirects from legacy `/archives/YYYY/MM/entry_basename.php` URLs to canonical day page URLs.
-
-The legacy archive landing URL `/archives/` should also redirect to `/archive/` — add this manually to your Nginx config if not already present.
+Deploy this file separately from the site content. It contains 301 redirects from legacy `/archives/YYYY/MM/entry_basename.php` URLs to canonical day page URLs, plus a catch-all `^/archives/$` → `/archive/` rule.
 
 ## Configuration
 

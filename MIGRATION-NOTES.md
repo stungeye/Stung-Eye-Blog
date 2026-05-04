@@ -93,7 +93,7 @@ Items and entries on the same day are separated by `---` (markdown horizontal ru
 
 ## Legacy Redirect Handling
 
-All 446 rows from `redirects.csv` generate Nginx 301 rewrite rules in `nginx/redirects.conf`. Each legacy MT URL (`/archives/YYYY/MM/entry_basename.php`) redirects to its canonical day page URL with trailing slash.
+All 446 rows from `redirects.csv` generate Nginx 301 rewrite rules in `nginx/redirects.conf`, plus one hardcoded catch-all rule (`^/archives/$` → `/archive/`) = 447 rules total. Each legacy MT URL (`/archives/YYYY/MM/entry_basename.php`) redirects to its canonical day page URL with trailing slash.
 
 The migration script validates that every redirect target has a corresponding built page. Anchor-based URL disambiguation is not used — all redirects point to bare day URLs.
 
@@ -155,14 +155,14 @@ All paginated pages are self-canonical — no canonicalization to page 1 or to i
 
 ## Statistics
 
-| Metric                  | Count |
-| ----------------------- | ----- |
-| Total day pages         | 970   |
-| CI-only days            | 547   |
-| MT-only days            | 422   |
-| Merged days             | 1     |
-| Total items/entries     | 1,252 |
-| Local images copied     | 295   |
-| Tumblr images localized | 3     |
-| Nginx redirect rules    | 447   |
-| Build output files      | 1,278 |
+| Metric                  | Count                                          |
+| ----------------------- | ---------------------------------------------- |
+| Total day pages         | 970                                            |
+| CI-only days            | 547                                            |
+| MT-only days            | 422                                            |
+| Merged days             | 1                                              |
+| Total items/entries     | 1,252                                          |
+| Local images copied     | 295                                            |
+| Tumblr images localized | 3                                              |
+| Nginx redirect rules    | 447                                            |
+| Build output files      | 1,579 (1,279 written + 300 passthrough copied) |

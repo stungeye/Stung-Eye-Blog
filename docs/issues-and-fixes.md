@@ -61,13 +61,69 @@ v24.14.1.
 
 ## Active Issues
 
-No active pre-deploy issues remain.
+### Issue A — rsync `--delete` will destroy legacy media referenced in 72 day pages
+
+**Identified:** 2026-05-03
+
+**Severity:** Show-stopper (data loss at deploy time)
+
+The README deploy command is:
+
+```bash
+rsync -avz --delete _site/ user@server:/var/www/stungeye.com/
+```
+
+The `--delete` flag removes any server file not present in `_site/`. Legacy
+`stungeye.com`-hosted media files that are still referenced in migrated content
+are **not** included in `_site/`. Running this command will permanently delete
+them from the server, breaking 187 media references across 72 day pages:
+
+- 125 `.jpg` images (many 2003–2013 photo posts)
+- 36 `.mp3` audio files
+- 21 `.swf` Flash files (already non-functional in modern browsers)
+- 1 `.gif`, 1 `.png`, 2 `.avi`, 1 `.fla`
+
+`migration-media-report.md` already documents the full list under "stungeye.com
+Self-Hosted Media References (187 across 72 days)" and warns: "If deployment
+replaces the old site root, these will 404."
+
+**Options before deploying:**
+
+1. Drop `--delete` from rsync and manually clean up only known-safe paths.
+2. Copy the legacy media tree into `_site/` (or a parallel deploy target) so
+   rsync includes it.
+3. Accept the breakage (72 day pages have broken images/audio) and document it
+   as a known limitation.
+
+---
+
+### Issue B — README incorrectly said to add `/archives/` redirect manually
+
+**Identified:** 2026-05-03 (corrected same day)
+
+**Severity:** Documentation inaccuracy (now fixed)
+
+The README's "Nginx Redirects" deployment section contained this sentence:
+
+> The legacy archive landing URL `/archives/` should also redirect to `/archive/` — add this manually to your Nginx config if not already present.
+
+This is incorrect. `tools/migrate.js` `generateNginxConfig()` already appends a
+hardcoded `rewrite ^/archives/$ /archive/ permanent;` rule to
+`nginx/redirects.conf` — it is the source of the 447th rule (446 CSV rows + 1
+hardcoded). The manual step is not needed and would produce a duplicate rule.
+
+**Fix applied:** README updated to state that `redirects.conf` includes both the
+446 per-entry rules and the catch-all `/archives/` rule. MIGRATION-NOTES body
+text updated to clarify the 446-rows-plus-one-hardcoded breakdown.
+
+---
 
 ## Current Priority Order
 
-| Priority | Issue | Why |
-| -------- | ----- | --- |
-| —        | None  | All pre-deploy issues have been repaired or archived |
+| Priority | Issue   | Why                                                             |
+| -------- | ------- | --------------------------------------------------------------- |
+| 1        | Issue A | rsync --delete will irreversibly destroy legacy media at deploy |
+| —        | Issue B | Documentation inaccuracy — fixed                                |
 
-No data loss or incorrectly migrated entries were found. The main pre-deploy
-date handling repair has been completed and archived.
+No data loss or incorrectly migrated entries were found in the built output.
+The main pre-deploy date handling repair has been completed and archived.
