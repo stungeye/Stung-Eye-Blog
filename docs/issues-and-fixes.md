@@ -61,7 +61,7 @@ v24.14.1.
 
 ## Active Issues
 
-### Issue A — rsync `--delete` will destroy legacy media referenced in 72 day pages
+### Issue 8 — rsync `--delete` will destroy legacy media referenced in 72 day pages
 
 **Identified:** 2026-05-03
 
@@ -97,33 +97,11 @@ replaces the old site root, these will 404."
 
 ---
 
-### Issue B — README incorrectly said to add `/archives/` redirect manually
-
-**Identified:** 2026-05-03 (corrected same day)
-
-**Severity:** Documentation inaccuracy (now fixed)
-
-The README's "Nginx Redirects" deployment section contained this sentence:
-
-> The legacy archive landing URL `/archives/` should also redirect to `/archive/` — add this manually to your Nginx config if not already present.
-
-This is incorrect. `tools/migrate.js` `generateNginxConfig()` already appends a
-hardcoded `rewrite ^/archives/$ /archive/ permanent;` rule to
-`nginx/redirects.conf` — it is the source of the 447th rule (446 CSV rows + 1
-hardcoded). The manual step is not needed and would produce a duplicate rule.
-
-**Fix applied:** README updated to state that `redirects.conf` includes both the
-446 per-entry rules and the catch-all `/archives/` rule. MIGRATION-NOTES body
-text updated to clarify the 446-rows-plus-one-hardcoded breakdown.
-
----
-
 ## Current Priority Order
 
 | Priority | Issue   | Why                                                             |
 | -------- | ------- | --------------------------------------------------------------- |
-| 1        | Issue A | rsync --delete will irreversibly destroy legacy media at deploy |
-| —        | Issue B | Documentation inaccuracy — fixed                                |
+| 1        | Issue 8 | rsync --delete will irreversibly destroy legacy media at deploy |
 
 No data loss or incorrectly migrated entries were found in the built output.
 The main pre-deploy date handling repair has been completed and archived.
