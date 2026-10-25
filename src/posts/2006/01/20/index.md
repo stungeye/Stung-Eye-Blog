@@ -7,7 +7,7 @@ permalink: /archive/by_date/2006/01/20/
 
 **Gezellig** (*Geh-ZEL-ick*) - companionable, sociable, [convivial](http://www.answers.com/convivial), snug, cozy, social.
 
-&gt; A gezellig environment is one that allows good times to happen. It's almost like a vibe. And it's contagious. A gezellig place is cozy and inviting and full of gezellig things that make it so gezellig.
+> A gezellig environment is one that allows good times to happen. It's almost like a vibe. And it's contagious. A gezellig place is cozy and inviting and full of gezellig things that make it so gezellig.
 
 [via](http://fantasycity.org/gezellig.htm) {[f](http://flickr.com/photos/tags/gezellig/)} {[gi](http://images.google.com/images?q=gezellig)) {[gv](http://video.google.com/videosearch?q=gezellig)}
 

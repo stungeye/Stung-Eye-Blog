@@ -11,7 +11,7 @@ permalink: /archive/by_date/2011/07/21/
 
 ---
 
-![Strangers in Transit montréal, québec. STM 165, direction nord. via](/archive/by_date/2011/07/21/tumblr_lop0lbISCP1qzoknmo1_500.jpg)
+[![Strangers in Transit montréal, québec. STM 165, direction nord. via](/archive/by_date/2011/07/21/tumblr_lop0lbISCP1qzoknmo1_500.jpg)](http://strangersintransit.tumblr.com/)
 
 <p><a href="http://strangersintransit.tumblr.com/">Strangers in Transit</a> 
 montréal, québec. STM 165, direction nord.</p>

@@ -15,11 +15,11 @@ After wandering through a second-hand/nick-nack market, I stumbled upon [Nijhof 
 
 Finally, I came across [Droog Design](http://www.droogdesign.nl/) [[Image](http://www.droogdesign.nl/files/image/cache/800_New_Dutch_designers_02.jpg)].
 
-&gt;Droog is a brand and a mentality: design of products that do what they should and think about why they're doing it in the first place: function? fun? wit? criticism? All of the above?
+>Droog is a brand and a mentality: design of products that do what they should and think about why they're doing it in the first place: function? fun? wit? criticism? All of the above?
 
 Their website is a "100% hypertext environment":
 
-&gt;This means that every word on this site is a link, which when clicked will generate associated information displayed on the right. A click on a sentence in this 'concordance' will open the associated text[.]
+>This means that every word on this site is a link, which when clicked will generate associated information displayed on the right. A click on a sentence in this 'concordance' will open the associated text[.]
 
 Droog is currently hosting a show by the Swedish design group [Front](http://frontdesign.se/). If Design turns you on, and you're in (or near) Amsterdam, I urge you to head over to Staalstraat 7a/b for a shot of inspiration.
 

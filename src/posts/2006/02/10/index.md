@@ -7,19 +7,19 @@ permalink: /archive/by_date/2006/02/10/
 
 As I mentioned a [few days back](http://stungeye.com/archives/2006/02/left_behind.php), I sent the following via email to some friends, as well as to [ask.metafilter](http://ask.metafilter.com):
 
-&gt;According to [Leibniz](http://en.wikipedia.org/wiki/Leibniz), a theory must be simpler than the data it explains. In other words (for the nerds amongst us), understanding equals compression.
-&gt;
-&gt;I challenge you to help me understand this via a thought-experiment:
-&gt;
-&gt;Let's take two experiences we are all familiar with: [Pleasure](http://www.google.ca/search?q=define%3Apleasure) and [Pain](http://www.google.ca/search?q=define%3Apain).
-&gt;
-&gt;Explain the difference between these two experiences.
-&gt;
-&gt;There is (of course) no "correct" answer; however, I ask that you attempt to use as few words as possible to explain your answer.
+>According to [Leibniz](http://en.wikipedia.org/wiki/Leibniz), a theory must be simpler than the data it explains. In other words (for the nerds amongst us), understanding equals compression.
+>
+>I challenge you to help me understand this via a thought-experiment:
+>
+>Let's take two experiences we are all familiar with: [Pleasure](http://www.google.ca/search?q=define%3Apleasure) and [Pain](http://www.google.ca/search?q=define%3Apain).
+>
+>Explain the difference between these two experiences.
+>
+>There is (of course) no "correct" answer; however, I ask that you attempt to use as few words as possible to explain your answer.
 
 I sent this email for many reason; the question itself being initially irrelevant.
 
-Mainly, I wanted to see if the net, specifically email, could be used to spark wonder. I also wanted to gain further understanding of Leibniz theories where they apply to the work of w[Turing](Alan Turing), w[Chaitin](Gregory Chaitin), the [Omega constant](http://www.daviddarling.info/encyclopedia/C/Chaitins_constant.html), and [elegance in computer programming](http://www.flownet.com/gat/chaitin.html). (I won't get into that right now.)
+Mainly, I wanted to see if the net, specifically email, could be used to spark wonder. I also wanted to gain further understanding of Leibniz theories where they apply to the work of [Turing](https://en.wikipedia.org/wiki/Alan_Turing), [Chaitin](https://en.wikipedia.org/wiki/Gregory_Chaitin), the [Omega constant](http://www.daviddarling.info/encyclopedia/C/Chaitins_constant.html), and [elegance in computer programming](http://www.flownet.com/gat/chaitin.html). (I won't get into that right now.)
 
 The comments I received fell into the following camps:
 

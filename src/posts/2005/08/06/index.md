@@ -5,24 +5,24 @@ title: There are signs everywhere
 permalink: /archive/by_date/2005/08/06/
 ---
 
-&gt;**Obscenities Uttered by Jesus Christ**
-&gt;*by Cara Jennison and Andrew Sutherland*
-&gt;
-&gt; "Dad damn you."
-&gt;
-&gt; "Holy Mom, mother of me."
-&gt; 
-&gt; "Dad."
-&gt; 
-&gt; "Myself almighty."
-&gt; 
-&gt; "Good me."
-&gt; 
-&gt; "Me, Mom, and Mom's husband ..."
-&gt; 
-&gt; "Me." 
-&gt;
-&gt;[[Link](http://www.mcsweeneys.net/links/lists/3CaraJennisonandAndrewSutherland.html)]
+>**Obscenities Uttered by Jesus Christ**
+>*by Cara Jennison and Andrew Sutherland*
+>
+> "Dad damn you."
+>
+> "Holy Mom, mother of me."
+> 
+> "Dad."
+> 
+> "Myself almighty."
+> 
+> "Good me."
+> 
+> "Me, Mom, and Mom's husband ..."
+> 
+> "Me." 
+>
+>[[Link](http://www.mcsweeneys.net/links/lists/3CaraJennisonandAndrewSutherland.html)]
 
 \*\*\*
 

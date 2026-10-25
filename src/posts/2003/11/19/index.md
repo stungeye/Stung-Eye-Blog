@@ -13,7 +13,7 @@ Looking around, you may notice that a small degree of house keeping has been car
 
 For the Winnipegers: 
 
-<a href="http://www.hothotheat.com/index.php" target="_blank">Hot Hot Heat</a>, <a href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;opt1=1&amp;sql=metric" onmouseover="window.status='Search allmusic.com for Metric\'s entry';return true" onmouseout="window.status='';return true" "target="_blank&quot;">Metric</a> and <a href="http://www.alien8recordings.com/unicorns.php3" target="_blank">The Unicorns</a> are playing the Pyramid on Tuesday November 25th. Indie-pop/rock heaven.
+<a href="http://www.hothotheat.com/index.php" target="_blank">Hot Hot Heat</a>, <a href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;opt1=1&amp;sql=metric" onmouseover="window.status='Search allmusic.com for Metric\'s entry';return true" onmouseout="window.status='';return true">Metric</a> and <a href="http://www.alien8recordings.com/unicorns.php3" target="_blank">The Unicorns</a> are playing the Pyramid on Tuesday November 25th. Indie-pop/rock heaven.
 
 From the <a href="http://chartattack.com/" target="_blank">ChartAttack</a> Winnipeg buzz: "On a sadder note, Times Change(d) High and Lonesome Club seems to be in a spot of trouble. In one of his semi-regular email newsletters sent out earlier this week, the local venue's President and Janitor John Scoles expressed discontent over tightened regulations handed down from the province's Liquor Control Commission, coupled with an unhappy landlord who is threatening to allow the sports bar next door to expand into Scoles' space." From info <a href="http://chartattack.com/damn/2003/11/0701.cfm" target="_blank">here</a>.
 

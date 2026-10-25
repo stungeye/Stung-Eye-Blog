@@ -21,9 +21,9 @@ We are capable of much more.
 
 \*\*\*
 
-&gt;[Le Parkour](http://en.wikipedia.org/wiki/Parkour) is a physical discipline of French origin, in which participants attempt to pass obstacles in a smooth and rapid manner. 
-&gt;
-&gt;Parkour is said to be *L'art du Deplacement*, consisting of uninterrupted forward motion over, under, around and through obstacles (both man-made and natural) in one's environment. Such movement may come in the form of running, jumping, climbing and other more complicated techniques. The goal of the practice of parkour is to be able to adapt one's movement to any given situation so that any obstacle can be overcome with the human body's abilities.
+>[Le Parkour](http://en.wikipedia.org/wiki/Parkour) is a physical discipline of French origin, in which participants attempt to pass obstacles in a smooth and rapid manner. 
+>
+>Parkour is said to be *L'art du Deplacement*, consisting of uninterrupted forward motion over, under, around and through obstacles (both man-made and natural) in one's environment. Such movement may come in the form of running, jumping, climbing and other more complicated techniques. The goal of the practice of parkour is to be able to adapt one's movement to any given situation so that any obstacle can be overcome with the human body's abilities.
 
 Flipping, and other acrobatics, isn't part of pure Parkour. We'll call it FreeStyle Parkour.
 

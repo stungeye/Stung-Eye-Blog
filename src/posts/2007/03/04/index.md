@@ -5,7 +5,7 @@ title: "Look up! Get Down!"
 permalink: /archive/by_date/2007/03/04/
 ---
 
-#Favourite Dance-tas-tic Tunes of 2006
+## Favourite Dance-tas-tic Tunes of 2006
 
 [Look Up! Get Down!](http://www.divshare.com/download/142987-afa) (mp3 mix)
 
@@ -13,7 +13,7 @@ This is part one of three best-of-2006 mixes; an homage to sweaty parties, energ
 
 I've included some links to music videos and live performances below.
 
-#Track List
+## Track List
 
 **00:00** [Soul Mechanik](http://www.allmusic.com/cg/amg.dll?p=amg&amp;token=&amp;sql=11:fce097bskr5t) - Never touch that switch ([Freeform](http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=11:4q61mpbd9ffo) Reform)
 
@@ -49,7 +49,7 @@ I've included some links to music videos and live performances below.
 
 **62:00** [LO2](http://www.anachronomicon.com/) - He Saw The Cat
 
-#Past Mixes
+## Past Mixes
 
 **2005:** [Astro Mix](http://stungeye.com/archives/2006/12/astro_mix.php)
 

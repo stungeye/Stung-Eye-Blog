@@ -22,7 +22,7 @@ All rendering decisions are made during migration. Eleventy templates are type-a
 
 | Type      | Output                                                                                              |
 | --------- | --------------------------------------------------------------------------------------------------- |
-| `photo`   | Markdown image with absolute path. Caption as HTML below. Wrapped in link if `photo_click_url` set. |
+| `photo`   | Markdown image with absolute path. Caption as HTML below. Wrapped in link if `photo_click_url` set, except Tumblr's own image/lightbox URLs (reblog credits to other `*.tumblr.com` blogs are kept). |
 | `regular` | `rendered.body_html_without_h1` as HTML passthrough. h1 stripping is migration-only.                |
 | `blog`    | `## title` heading + `rendered.body_html` as HTML passthrough.                                      |
 | `quote`   | Blockquote + `— source` attribution line.                                                           |
@@ -69,10 +69,16 @@ Each MT entry from `mt_entries.json` becomes (or merges into) a day page. Only e
 2. **Script stripping**: `<script>` and `<noscript>` tags removed (dead Haloscan comment scripts).
 3. **Haloscan link removal**: Dead comment service links (`haloscan.com/comments.php`) stripped from body.
 4. **BR conversion**: `<BR><BR>` → paragraph break (`\n\n`), single `<BR>` → newline. Applied before HTML normalization to preserve semantic line breaks.
-5. **HTML normalization**: Body run through cheerio to lowercase all tags and quote all attributes (e.g., `<A HREF=url target=_blank>` → `<a href="url" target="_blank">`).
-6. **Body heading demotion**: Legacy body `<h1>` tags used as section headings are rendered as `<h2>` so they sit below the day page title.
-7. **Trailing dash stripping**: Legacy `--------` separators removed (these would otherwise be parsed as setext h2 underlines by markdown).
-8. **Title rendering**: `## entry_title` heading, but skipped when the entry title matches the page h1 title (prevents duplication on single-entry days).
+5. **Link macros**: MT's `w[Text](Article)` → `https://en.wikipedia.org/wiki/Article` (spaces → `_`) and `a[Text](Artist)` → an AllMusic search, as the live MT pages render them. Markdown.pl's `\)` escape inside link URLs is percent-encoded, since markdown-it rejects it.
+6. **HTML normalization**: Body run through cheerio to lowercase all tags and quote all attributes (e.g., `<A HREF=url target=_blank>` → `<a href="url" target="_blank">`). Attributes with invalid names (from malformed markup such as `"target=_blank"`) are dropped, otherwise markdown-it renders the whole tag as escaped text.
+7. **Body heading demotion**: Legacy body `<h1>` tags used as section headings are rendered as `<h2>` so they sit below the day page title.
+8. **Markdown repair**: Cheerio escapes `>` blockquote markers to `&gt;`; they are restored. Quote paragraphs separated by blank lines are joined into one blockquote, as Markdown.pl did. ATX headings get the space markdown-it requires (`#Track List` → `## Track List`, with `#` demoted to `##`).
+9. **Trailing dash stripping**: Legacy `--------` separators removed (these would otherwise be parsed as setext h2 underlines by markdown).
+10. **Title rendering**: `## entry_title` heading, but skipped when the entry title matches the page h1 title (prevents duplication on single-entry days).
+
+### Live Page Edits
+
+A few live MT archive pages were edited by hand after the database snapshot (dead links swapped, a sentence removed). `tools/mt-live-edits.json` records each edit as exact find/replace text on the exported entry, and `npm run migrate` applies them before rendering. It fails if any find text doesn't occur exactly once.
 
 ### MT-Only Days
 

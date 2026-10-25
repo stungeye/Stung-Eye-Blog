@@ -11,7 +11,7 @@ Other than the Sufjan Stevens tracks, this is music I discovered in 2006 which d
 
 Download or Stream: [Parental 2007](http://www.divshare.com/download/786301-969) (Mp3 mix)
 
-#Track List
+## Track List
 
 **01** - Amy Winehouse - Rehab
 
@@ -48,7 +48,7 @@ Download or Stream: [Parental 2007](http://www.divshare.com/download/786301-969)
 **17** - M83 - Let Men Burn Stars
 
 
-#Past Mixes
+## Past Mixes
 
 **2006:** [Look Up! Get Down!](http://stungeye.com/archives/2007/03/look_up_get_dow.php)
 

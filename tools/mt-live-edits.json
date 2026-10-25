@@ -1,0 +1,61 @@
+[
+  {
+    "legacy_mt_url": "/archives/2004/08/banana_moon.php",
+    "note": "Live page: mix link moved to goo.gl, Coral mirror credit removed.",
+    "edits": [
+      {
+        "field": "entry_text",
+        "find": "http://stungeye.com.nyud.net:8080/sounds/back_and_forth.mp3",
+        "replace": "https://goo.gl/S0wj6"
+      },
+      {
+        "field": "entry_text",
+        "find": "\n\n<I>Mirrored-distribution provided by <a href=\"http://www.scs.cs.nyu.edu/coral/\">Coral</a>.</I>",
+        "replace": ""
+      }
+    ]
+  },
+  {
+    "legacy_mt_url": "/archives/2005/09/the_way.php",
+    "note": "Live page: dead links to The Mind's I replaced.",
+    "edits": [
+      {
+        "field": "entry_text",
+        "find": "http://www.mayogenuine.com/minds_i.htm",
+        "replace": "http://themindi.blogspot.ca/"
+      },
+      {
+        "field": "entry_text",
+        "find": "http://yolanda3.dynalias.org/wbpage/god/godTaoist.html",
+        "replace": "http://themindi.blogspot.ca/2007/02/chapter-20-is-god-taoist.html"
+      }
+    ]
+  },
+  {
+    "legacy_mt_url": "/archives/2008/02/sending_zzzzzs.php",
+    "note": "Live page: mix moved from DivShare to Dropbox, player instructions removed.",
+    "edits": [
+      {
+        "field": "entry_text",
+        "find": "http://www.divshare.com/download/3855014-1ed",
+        "replace": "http://dl.getdropbox.com/u/124879/For_Sophia_a_wally_glutton_mix.mp3"
+      },
+      {
+        "field": "entry_text",
+        "find": "\n\nUse the \"Download Original\" link or stream it from the player (it's the bottom track).",
+        "replace": ""
+      }
+    ]
+  },
+  {
+    "legacy_mt_url": "/archives/2008/06/cornucopia.php",
+    "note": "Live page: FlyGuy .swf link replaced with a game page.",
+    "edits": [
+      {
+        "field": "entry_text",
+        "find": "http://www.trevorvanmeter.com/flyguy/flyGuy.swf",
+        "replace": "http://www.crazygames.com/game/fly-guy"
+      }
+    ]
+  }
+]

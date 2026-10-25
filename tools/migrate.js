@@ -27,6 +27,7 @@ const NGINX_DIR = join(ROOT, "nginx");
 const CI_DAYS_PATH = join(EXPORT_DIR, "ci_days.json");
 const MT_ENTRIES_PATH = join(EXPORT_DIR, "mt_entries.json");
 const REDIRECTS_CSV_PATH = join(EXPORT_DIR, "redirects.csv");
+const MT_LIVE_EDITS_PATH = join(__dirname, "mt-live-edits.json");
 const MEDIA_REPORT_PATH = join(ROOT, "migration-media-report.md");
 const GENERATED_BY = "tools/migrate.js";
 
@@ -139,6 +140,13 @@ function normalizeHtml(html) {
     $(el).removeAttr("data-orig-height");
     $(el).removeAttr("data-orig-width");
   });
+  // Drop attribute names markdown-it rejects (e.g. `"target` from malformed
+  // legacy markup); one would make the whole tag render as escaped text
+  $("*").each((_, el) => {
+    for (const name of Object.keys(el.attribs || {})) {
+      if (!/^[a-zA-Z_:][-a-zA-Z0-9_:.]*$/.test(name)) $(el).removeAttr(name);
+    }
+  });
   // Strip width, height, and frameborder from iframes (handled by CSS)
   $("iframe").each((_, el) => {
     $(el).removeAttr("width");
@@ -228,6 +236,78 @@ function padArchiveUrls(text) {
     (_, y, m, d) =>
       `/archive/by_date/${y}/${m.padStart(2, "0")}/${d.padStart(2, "0")}/`,
   );
+}
+
+/**
+ * Expand MT-era link macros: w[Text](Article) links to Wikipedia and
+ * a[Text](Artist) to an AllMusic search, as the live MT pages render them.
+ */
+function expandMtLinkMacros(text) {
+  return text.replace(
+    /(?<![\w\]!])([wa])\[([^\]]+)\]\(([^)"]+?)\s*("[^"]*")?\)/g,
+    (_, macro, label, target, title) => {
+      const url =
+        macro === "w"
+          ? `https://en.wikipedia.org/wiki/${target.trim().replace(/ /g, "_")}`
+          : `http://www.allmusic.com/cg/amg.dll?p=amg&opt1=1&sql=${target.trim().replace(/ /g, "+")}`;
+      return `[${label}](${url}${title ? ` ${title}` : ""})`;
+    },
+  );
+}
+
+/** Percent-encode parens in link URLs that use Markdown.pl's \) escape. */
+function encodeEscapedLinkParens(text) {
+  return text.replace(
+    /\]\(([^\s)]*\\\)[^\s)]*)\)/g,
+    (_, url) =>
+      `](${url.replace(/\\\)/g, "%29").replace(/\(/g, "%28")})`,
+  );
+}
+
+/**
+ * Undo cheerio's escaping of Markdown blockquote markers at line starts, and
+ * join quote paragraphs split by blank lines into one blockquote as
+ * Markdown.pl did (markdown-it starts a new blockquote for each).
+ */
+function restoreBlockquoteMarkers(text) {
+  return text
+    .replace(/^[ \t]{0,3}(?:&gt;[ \t]?)+/gm, (markers) =>
+      markers.replace(/&gt;/g, ">"),
+    )
+    .replace(/^([ \t]{0,3}>.*)\n(?:[ \t]*\n)+(?=[ \t]{0,3}>)/gm, "$1\n>\n");
+}
+
+/**
+ * Give ATX headings the space markdown-it requires (MT's Markdown.pl did not),
+ * demoting h1 to h2 to match the legacy body heading rule.
+ */
+function normalizeMarkdownHeadings(text) {
+  return text.replace(
+    /^(#{1,6})[ \t]*(?=[^#\s])/gm,
+    (_, hashes) => `${hashes === "#" ? "##" : hashes} `,
+  );
+}
+
+/** Apply hand edits made to live MT archive pages after the DB snapshot. */
+function applyMtLiveEdits(entries, liveEdits) {
+  const byUrl = new Map(entries.map((entry) => [entry.legacy_mt_url, entry]));
+
+  for (const { legacy_mt_url, edits } of liveEdits) {
+    const entry = byUrl.get(legacy_mt_url);
+    if (!entry) throw new Error(`Live edit target not found: ${legacy_mt_url}`);
+
+    for (const { field, find, replace } of edits) {
+      const value = entry[field] || "";
+      if (value.split(find).length !== 2) {
+        throw new Error(
+          `Live edit text must occur exactly once in ${legacy_mt_url} ${field}: ${find}`,
+        );
+      }
+      entry[field] = value.replace(find, () => replace);
+    }
+  }
+
+  return entries;
 }
 
 // Media file extensions for classifying stungeye.com URLs
@@ -375,6 +455,25 @@ function isTumblrMediaUrl(url) {
       hostname === "media.tumblr.com" ||
       hostname === "64.media.tumblr.com" ||
       hostname.endsWith(".media.tumblr.com")
+    );
+  } catch {
+    return false;
+  }
+}
+
+/**
+ * Keep photo click-through links except Tumblr's own image and lightbox pages.
+ * Reblog credits to other blogs (<name>.tumblr.com) are kept.
+ */
+function keepPhotoClickUrl(url) {
+  if (!url.includes("tumblr.com")) return true;
+  try {
+    const hostname = new URL(url).hostname;
+    return (
+      hostname.endsWith(".tumblr.com") &&
+      hostname !== "www.tumblr.com" &&
+      hostname !== "stungeye.tumblr.com" &&
+      !isTumblrMediaUrl(url)
     );
   } catch {
     return false;
@@ -551,9 +650,9 @@ async function renderPhotoItem(item, dateStr) {
 
   const lines = [];
 
-  // Image with optional link — skip Tumblr click-through URLs
+  // Image with optional link — skip Tumblr's own click-through URLs
   const imgMarkdown = `![${altText}](${imagePath})`;
-  if (clickUrl && !clickUrl.includes("tumblr.com")) {
+  if (clickUrl && keepPhotoClickUrl(clickUrl)) {
     lines.push(`[${imgMarkdown}](${clickUrl})`);
   } else {
     lines.push(imgMarkdown);
@@ -699,9 +798,15 @@ function renderMtEntry(entry, { includeTitle = false } = {}) {
   body = body.replace(/<br\s*\/?>\s*<br\s*\/?>/gi, "\n\n");
   body = body.replace(/<br\s*\/?>/gi, "\n");
 
+  body = expandMtLinkMacros(body);
+  body = encodeEscapedLinkParens(body);
+
   // Normalize legacy HTML (lowercase tags, quote attributes) via cheerio
   body = normalizeHtml(body);
   body = demoteBodyH1Headings(body);
+  // Cheerio escapes Markdown syntax it mistakes for text; restore it
+  body = restoreBlockquoteMarkers(body);
+  body = normalizeMarkdownHeadings(body);
 
   // Strip trailing separator dashes (legacy MT formatting)
   body = body.replace(/\n?-{4,}\s*$/g, "");
@@ -859,8 +964,9 @@ async function generateDayPage(dateStr, ciDay, mtEntries) {
 
   const body = renderedParts.join("\n\n---\n\n");
 
-  // Zero-pad any unpadded /archive/by_date/ URLs in post content
-  const paddedBody = padArchiveUrls(body);
+  // Zero-pad any unpadded /archive/by_date/ URLs in post content, and use LF
+  // line endings (some exported bodies contain CRLF)
+  const paddedBody = padArchiveUrls(body).replace(/\r\n?/g, "\n");
 
   // Scan for self-hosted references and legacy JS
   scanContent(dateStr, paddedBody);
@@ -1156,7 +1262,10 @@ async function main() {
   // Load data
   console.log("Loading export data...");
   const ciDays = JSON.parse(readFileSync(CI_DAYS_PATH, "utf-8"));
-  const mtEntries = JSON.parse(readFileSync(MT_ENTRIES_PATH, "utf-8"));
+  const mtEntries = applyMtLiveEdits(
+    JSON.parse(readFileSync(MT_ENTRIES_PATH, "utf-8")),
+    JSON.parse(readFileSync(MT_LIVE_EDITS_PATH, "utf-8")),
+  );
   const redirects = parseRedirectsCsv(REDIRECTS_CSV_PATH);
 
   console.log(`  CI days: ${ciDays.length}`);

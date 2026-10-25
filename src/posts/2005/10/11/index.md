@@ -17,36 +17,35 @@ And now for something completely different.
 
 Stories written by a computer:
 
-&gt;John became very lazy at work 
-
-&gt;John lost his job 
-
-&gt;John decided to get drunk 
-
-&gt;He started to commit crimes 
-
-&gt;John went to prison 
-
-&gt;He experienced bruises 
-
-&gt;John cried 
-
-&gt;He looked at himself differently 
-
-
-&gt;Mary went to the zoo 
-
-&gt;Mary learned about animals 
-
-&gt;Mary experienced enlightenment 
-
-&gt;Mary felt superior 
-
-&gt;Mary became a snob 
-
-&gt;Mary was disliked 
-
-&gt;Mary felt ashamed of who she was 
+>John became very lazy at work 
+>
+>John lost his job 
+>
+>John decided to get drunk 
+>
+>He started to commit crimes 
+>
+>John went to prison 
+>
+>He experienced bruises 
+>
+>John cried 
+>
+>He looked at himself differently 
+>
+>Mary went to the zoo 
+>
+>Mary learned about animals 
+>
+>Mary experienced enlightenment 
+>
+>Mary felt superior 
+>
+>Mary became a snob 
+>
+>Mary was disliked 
+>
+>Mary felt ashamed of who she was 
 
 
 From: [MAKEBELIEVE - Using Commonsense Knowledge to Generate Stories](http://web.media.mit.edu/~hugo/publications/papers/AAAI2002-makebelieve.pdf) [PDF]

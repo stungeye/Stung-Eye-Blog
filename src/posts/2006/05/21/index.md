@@ -22,11 +22,11 @@ permalink: /archive/by_date/2006/05/21/
 * [Masterpiece Theatre](http://www.pbs.org/wgbh/masterpiece/)
 * &amp;c.
 
-&gt;"In 1969, the US Senate held hearings about funding the newly formed, [Corporation for Public Broadcasting](http://www.pbs.org/). A $20 million dollar grant, was in jeopardy.
-&gt;
-&gt;President Richard Nixon wanted that amount cut in-half.
-&gt;
-&gt;Alright Rogers, you've got the floor..."
+>"In 1969, the US Senate held hearings about funding the newly formed, [Corporation for Public Broadcasting](http://www.pbs.org/). A $20 million dollar grant, was in jeopardy.
+>
+>President Richard Nixon wanted that amount cut in-half.
+>
+>Alright Rogers, you've got the floor..."
 - [Mr. Rogers, a kind and caring](http://www.youtube.com/watch?v=3Sd7TcVH670) <acronym title="The art or study of using language effectively and persuasively.">rhetoric<!--<acronym-->.
 
 \*\*\*

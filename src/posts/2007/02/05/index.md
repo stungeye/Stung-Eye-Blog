@@ -27,5 +27,5 @@ Links:
 
 Too Exciting:
 
-* Starting next term I'll be teaching an evening course at [Red River College](http://www.rrc.mb.ca/). The course is an introduction to the w[Java](Java) programming language.
+* Starting next term I'll be teaching an evening course at [Red River College](http://www.rrc.mb.ca/). The course is an introduction to the [Java](https://en.wikipedia.org/wiki/Java) programming language.
 * I now have a space at my Dad's printmaking studio in the [Artspace](http://www.art-space.ca/) building.

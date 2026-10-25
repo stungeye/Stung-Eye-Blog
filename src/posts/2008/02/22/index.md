@@ -5,11 +5,9 @@ title: Sending Zzzzzs Across the Pond
 permalink: /archive/by_date/2008/02/22/
 ---
 
-[A sleepytime Mix for Howie, Tania and their goddess of knowledge](http://www.divshare.com/download/3855014-1ed).
+[A sleepytime Mix for Howie, Tania and their goddess of knowledge](http://dl.getdropbox.com/u/124879/For_Sophia_a_wally_glutton_mix.mp3).
 
-Use the "Download Original" link or stream it from the player (it's the bottom track).
-
-#Track List
+## Track List
 
 * Overdub - What a Wonderful Radiohead
 * David Bowie - Kooks
@@ -27,7 +25,7 @@ Use the "Download Original" link or stream it from the player (it's the bottom t
 * Beethoven - Moonlight Sonata
 * Brahms - Lullaby
 
-#Past Mixes
+## Past Mixes
 
 **2007:** [Parental Mix](http://stungeye.com/archives/2007/05/turtle_shells.php)
 

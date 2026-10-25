@@ -5,14 +5,14 @@ title: "Don't Sit Here"
 permalink: /archive/by_date/2007/05/23/
 ---
 
-# Winnipeg #
+## Winnipeg #
 
 * [Five From Half Pints](http://beerbeatsbites.blogspot.com/2007/02/five-from-half-pints.html) - A review of five beers from Winnipeg CraftBewery Half Pints. These are indeed delicious beers.
 * [Brewmaster Dave's Blog](http://brewmasterdave.blogspot.com/) - Half Pints Brewing Company
 * [Hooks n' Pegs](http://hooksnpegs.blogspot.com/) - Winnipeg Street Style
 * [Heartache and humiliation at Bar Italia](http://www.cbc.ca/arts/artdesign/winnipeg2.html) - Letter from Winnipeg by Guy Maddin 
 
-# Science #
+## Science #
 
 * [Since That Matters](http://sciencethatmatters.com/)
 * [Fruit Flies and Free Will](http://www.msnbc.msn.com/id/18684016/)
@@ -20,11 +20,11 @@ permalink: /archive/by_date/2007/05/23/
 * [Solar Heat Pump Electrical Generation System](http://www.shpegs.org/) - Open Source Power!
 * [Do Not Debase Science](http://www.collectedthoughts.com/quote.aspx?id=11302) - Don't Call On It To Settle Your Ancient, Provincial, Medieval Disputes. Richard Feynman
 
-# Mmmmmmm #
+## Mmmmmmm #
 * [Stuffed Cabbage Rolls a la Aunt Angela](http://foodwishes.blogspot.com/2007/03/stuffed-cabbage-rolls-la-aunt-angela.html)
 * [Homemade Pizza in 3 Acts](http://foodwishes.blogspot.com/2007/02/homemade-pizza-in-3-acts.html)
 
-# Etc. #
+## Etc. #
 
 ![Don't Sit](/images/others/0507/dontsit.png "Don't Sit")
 
@@ -35,7 +35,7 @@ permalink: /archive/by_date/2007/05/23/
 * [SecondBrain](http://www.secondbrain.com/) - Your Personal Internet Library
 * [Our oceans are turning into plastic...are we?](http://www.bestlifeonline.com/cms/publish/health-fitness/Our_oceans_are_turning_into_plastic_are_we_2_printer.shtml)
 
-# EcoLanguage #
+## EcoLanguage #
 
 <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/-QI1iuAvTKE"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/-QI1iuAvTKE" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></object>
 

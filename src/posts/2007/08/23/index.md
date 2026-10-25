@@ -5,7 +5,7 @@ title: With Your Radio On
 permalink: /archive/by_date/2007/08/23/
 ---
 
-I start teaching this Tuesday, w[XML](XML) and w[Mobile Development](Mobile Development).
+I start teaching this Tuesday, [XML](https://en.wikipedia.org/wiki/XML) and [Mobile Development](https://en.wikipedia.org/wiki/Mobile_Development).
 
 Last weekend I went on a canoe trip in [Nopiming Provincial Park](http://www.gov.mb.ca/conservation/parks/popular_parks/nopiming/index.html):
 

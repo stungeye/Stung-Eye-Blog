@@ -13,7 +13,7 @@ Enough links to keep you exploring until next Thursday.
 * [How to make seed bombs](http://www.latimes.com/features/home/la-hm.0529.seedbomb-pg,0,5088922.photogallery?1)
 * [Map of Humanity](http://www.joeydevilla.com/wordpress/wp-content/uploads/2007/09/map_of_humanity.jpg)
 * [Genealogy of Influence viewer](http://goosebumps4all.net/goi/)
-* [FlyGuy](http://www.trevorvanmeter.com/flyguy/flyGuy.swf) [flash]
+* [FlyGuy](http://www.crazygames.com/game/fly-guy) [flash]
 * [Everyday Normal Guy](http://www.youtube.com/watch?v=5PsnxDQvQpw&amp;feature=user) - Ironic HipHop Language Warning :)
 * [Wordle](http://wordle.net/) is a toy for generating "word clouds" from text that you provide. 
 * [Games for the Brain](http://www.gamesforthebrain.com/)

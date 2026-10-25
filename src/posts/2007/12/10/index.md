@@ -5,7 +5,7 @@ title: We Do Count
 permalink: /archive/by_date/2007/12/10/
 ---
 
-An update to [my previous post](http://stungeye.com/archives/2007/12/canadians_tomor.php) on the impending Canadian w[DMCA](DMCA):
+An update to [my previous post](http://stungeye.com/archives/2007/12/canadians_tomor.php) on the impending Canadian [DMCA](https://en.wikipedia.org/wiki/DMCA):
 
 "The government last week filed a notice indicating the bill would be introduced this week, leading industry experts to expect it to happen on Tuesday. But a spokesperson for Industry Minister Jim Prentice, who was to introduce the bill, said it would not happen on Tuesday and could not say if it would happen this week." - [Copyright reform bill critics eye victory](http://www.cbc.ca/technology/story/2007/12/10/tech-copyright.html) @ CBC
 

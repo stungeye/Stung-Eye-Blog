@@ -5,7 +5,7 @@ title: Until
 permalink: /archive/by_date/2006/03/22/
 ---
 
-I'm working on a post about w[AI](AI) and digital evolution. Until it's ready, here are some links to explore:
+I'm working on a post about [AI](https://en.wikipedia.org/wiki/AI) and digital evolution. Until it's ready, here are some links to explore:
 
 * [I/O Brush: The World as the Palette](http://web.media.mit.edu/~kimiko/iobrush/)
 * [One Man Band](http://www.anticon.com/dosh.mov) [quicktime video]

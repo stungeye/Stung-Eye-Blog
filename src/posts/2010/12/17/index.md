@@ -15,7 +15,7 @@ permalink: /archive/by_date/2010/12/17/
 
 ---
 
-![#heythat&#8217;smybike via&#160;: via](/archive/by_date/2010/12/17/tumblr_ldi036V9Gh1qbvpg9o1_500.jpg)
+[![#heythat&#8217;smybike via&#160;: via](/archive/by_date/2010/12/17/tumblr_ldi036V9Gh1qbvpg9o1_500.jpg)](http://patrickjoust.tumblr.com/post/2330852213/new-york-ny-yashica-mat-124g-fujichrome-astia)
 
 <p>#heythat&#8217;smybike</p>
 

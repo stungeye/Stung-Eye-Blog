@@ -5,13 +5,13 @@ title: Freedom
 permalink: /archive/by_date/2006/06/10/
 ---
 
-Michael Berg is the father of Nicholas Berg, an American businessman believed to have been murdered by w[Abu Musab al-Zarqawi](Abu Musab al-Zarqawi "The first leader of the Islamist terrorist group Al-Qaeda in Iraq.") in 2004. 
+Michael Berg is the father of Nicholas Berg, an American businessman believed to have been murdered by [Abu Musab al-Zarqawi](https://en.wikipedia.org/wiki/Abu_Musab_al-Zarqawi "The first leader of the Islamist terrorist group Al-Qaeda in Iraq.") in 2004. 
 
 When asked about the <acronym title="Intentionally killing, with premeditation.">murder</acronym> of al-Zarqawi by US forces, Michael Berg had this to say:
 
-&gt;Well, my reaction is I'm sorry whenever any human being dies. Zarqawi is a human being. He has a family who are reacting just as my family reacted when Nick was killed, and I feel bad for that. 
-&gt;
-&gt;I feel doubly bad, though, because Zarqawi is also a political figure, and his death will re-ignite yet another wave of revenge, and revenge is something that I do not follow, that I do want ask for, that I do not wish for against anybody. And it can't end the cycle. As long as people use violence to combat violence, we will always have violence.
+>Well, my reaction is I'm sorry whenever any human being dies. Zarqawi is a human being. He has a family who are reacting just as my family reacted when Nick was killed, and I feel bad for that. 
+>
+>I feel doubly bad, though, because Zarqawi is also a political figure, and his death will re-ignite yet another wave of revenge, and revenge is something that I do not follow, that I do want ask for, that I do not wish for against anybody. And it can't end the cycle. As long as people use violence to combat violence, we will always have violence.
 
 The [full text is available on Cnn.com](http://www.cnn.com/2006/WORLD/meast/06/08/berg.interview/). 
 

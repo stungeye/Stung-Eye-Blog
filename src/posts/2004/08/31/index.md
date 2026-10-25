@@ -7,9 +7,7 @@ permalink: /archive/by_date/2004/08/31/
 
 I made this mix for some friends. It's life, love, hills, and valleys.
 
-<a href="http://stungeye.com.nyud.net:8080/sounds/back_and_forth.mp3">Back and Forth</a> [76.5 Minutes, 88 MB, MP3]
-
-<i>Mirrored-distribution provided by <a href="http://www.scs.cs.nyu.edu/coral/">Coral</a>.</i>
+<a href="https://goo.gl/S0wj6">Back and Forth</a> [76.5 Minutes, 88 MB, MP3]
 
 <h2>Playlist</h2>
 

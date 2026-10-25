@@ -13,7 +13,7 @@ found @ <a href="http://www.xkcd.com/c167.html">xkcd</a>.
 
 <img src="http://stungeye.com/images/others/1006/pill_buddha.jpg" alt="Pill Budhha" style="border: dashed 2px #902400; float: right;">
 
-* [Pill Buddha](http://www.10e.org/mt2/archives/200609/290003.php) - Take w[Aum](Aum) and call me in the morning.
+* [Pill Buddha](http://www.10e.org/mt2/archives/200609/290003.php) - Take [Aum](https://en.wikipedia.org/wiki/Aum) and call me in the morning.
 * Mmmmmmm [Orion](http://antwrp.gsfc.nasa.gov/apod/image/0610/OriondeepfieldM_gendler_big.jpg)
 * Man re-invents old-school technology to [build personal stonehedge](http://www.youtube.com/watch?v=lRRDzFROMx0) [video]
 * [FacadePrinter](http://www.facadeprinter.org/)

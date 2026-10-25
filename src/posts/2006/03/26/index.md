@@ -9,7 +9,7 @@ permalink: /archive/by_date/2006/03/26/
 
 From [allmusic.com](http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=11:tia9qj3yojfa~T1):
 
-&gt;[The Kamkars](http://www.kamkars.net/Main.html) [...] fuse elements from their Kurdish folk music heritage with conventions from Persian classical music, using instruments from both. [They are a] family ensemble, consisting of seven brothers, one sister, and her son from Samandaj, in northwest Iran.
+>[The Kamkars](http://www.kamkars.net/Main.html) [...] fuse elements from their Kurdish folk music heritage with conventions from Persian classical music, using instruments from both. [They are a] family ensemble, consisting of seven brothers, one sister, and her son from Samandaj, in northwest Iran.
 
 \*\*\*
 

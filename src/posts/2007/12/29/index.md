@@ -5,14 +5,14 @@ title: "Don't Break The Chain"
 permalink: /archive/by_date/2007/12/29/
 ---
 
-Earlier this year [ChefQuix](http://perceptionalism.com) told me about a technique used By w[Jerry Seinfeld](Jerry Seinfeld) to motivate himself to work on his comedy act everyday. With New Year's Resolutions forming in our heads I thought you might enjoy this habit forming w[life hack](life hack):
+Earlier this year [ChefQuix](http://perceptionalism.com) told me about a technique used By [Jerry Seinfeld](https://en.wikipedia.org/wiki/Jerry_Seinfeld) to motivate himself to work on his comedy act everyday. With New Year's Resolutions forming in our heads I thought you might enjoy this habit forming [life hack](https://en.wikipedia.org/wiki/life_hack):
 
 * Obtain a big wall calendar that has a whole year on one page and hang it on a prominent wall. 
 * Get a big red magic marker.
 * Choose a daily task you wish to make a habit.
 * For each day that you accomplish your task put a big red X over that day on the wall calendar.
 
-&gt;"After a few days you'll have a chain. Just keep at it and the chain will grow longer every day. You'll like seeing that chain, especially when you get a few weeks under your belt. Your only job next is to not break the chain." 
+>"After a few days you'll have a chain. Just keep at it and the chain will grow longer every day. You'll like seeing that chain, especially when you get a few weeks under your belt. Your only job next is to not break the chain." 
 [[via](http://lifehacker.com/software/motivation/jerry-seinfelds-productivity-secret-281626.php)]
 
 <h2>Print your own "chain-calendar"</h2>

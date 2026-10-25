@@ -9,10 +9,10 @@ permalink: /archive/by_date/2007/10/18/
 
 This is a "crystal" I generated using a <a href="http://en.wikipedia.org/wiki/Diffusion-limited_aggregation">DLA </a> algorithm implemented in <a href="http://processing.org">Processing</a>.
 
-I first saw a generative crystal back in early ninties. Sam and I had come across a collection of w[fractal](fractal) programs written in w[C](C_programming_language).
+I first saw a generative crystal back in early ninties. Sam and I had come across a collection of [fractal](https://en.wikipedia.org/wiki/fractal) programs written in [C](https://en.wikipedia.org/wiki/C_programming_language).
 
 I can remember spending hours trying to figure out how the crystal grew. Since then I've tried coding generative crystals a number of times and have always failed.
 
-Yesterday I came across an [article on Diffusion-limited aggregation](http://www.hugi.scene.org/online/hugi33/hugi%2033%20-%20coding%20corner%20thygrion%20diffusion-limited%20aggregation.htm) in a w[Demoscene](Demoscene) zine, and everything "crystalized."
+Yesterday I came across an [article on Diffusion-limited aggregation](http://www.hugi.scene.org/online/hugi33/hugi%2033%20-%20coding%20corner%20thygrion%20diffusion-limited%20aggregation.htm) in a [Demoscene](https://en.wikipedia.org/wiki/Demoscene) zine, and everything "crystalized."
 
 An interactive model is forthcoming.<br style="clear:both;">
