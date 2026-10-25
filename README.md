@@ -79,6 +79,27 @@ npm run scan-media
 
 Re-scans migrated markdown files for remaining remote image references. Can be run at any time after migration, independent of the migration script itself.
 
+## Legacy File Explorer
+
+```bash
+npm run legacy:explorer
+```
+
+Starts a local browser for `legacy-data/legacy-file-list.tsv`, excluding
+`system/` and `archives/`. It links previews to `https://stungeye.com/` by
+default, and writes keep/discard triage state to
+`legacy-data/legacy-file-flags.json`.
+
+The data files map the legacy httpdocs, so they are not in this repo:
+`legacy-data/` is gitignored, and the files live in the private legacy archive.
+Copy them into `legacy-data/`, or point `LEGACY_DATA_DIR` at a folder that holds
+them. `LEGACY_FILE_LIST` and `LEGACY_FLAGS` override single file names (relative
+to the data folder).
+
+Set `LEGACY_REMOTE_BASE=https://example.com/` to point previews at another
+hosted copy, or set `LEGACY_ROOT=/path/to/httpdocs` to enable local file
+fallback previews.
+
 ## Archive Pages
 
 | Page              | URL                            |

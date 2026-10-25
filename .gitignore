@@ -1,6 +1,11 @@
 # Dependencies
 node_modules/
 
+# Legacy explorer data (maps the legacy httpdocs; kept in the private archive)
+legacy-data/
+legacy-*.tsv
+legacy-*.json
+
 # Eleventy output
 _site/
 

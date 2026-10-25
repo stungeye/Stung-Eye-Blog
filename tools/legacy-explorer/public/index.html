@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Legacy Explorer</title>
+    <link rel="stylesheet" href="/assets/styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-mark">SE</span>
+        <span>Legacy Explorer</span>
+      </div>
+      <form class="search" id="searchForm">
+        <input id="searchInput" name="q" type="search" autocomplete="off" placeholder="Search paths">
+        <select id="kindFilter" name="kind" aria-label="Kind">
+          <option value="all">All kinds</option>
+          <option value="folder">Folders</option>
+          <option value="image">Images</option>
+          <option value="audio">Audio</option>
+          <option value="video">Video</option>
+          <option value="page">Pages</option>
+          <option value="text">Text</option>
+          <option value="pdf">PDFs</option>
+          <option value="flash">Flash</option>
+        </select>
+        <select id="statusFilter" name="status" aria-label="Status">
+          <option value="all">All flags</option>
+          <option value="keep">Keep</option>
+          <option value="discard">Discard</option>
+        </select>
+      </form>
+      <div class="stats" id="stats"></div>
+    </header>
+
+    <main class="workspace">
+      <aside class="navigator">
+        <div class="panel-head">
+          <div class="eyebrow">Browse</div>
+          <button id="rootButton" class="icon-button" type="button" title="Go to root">⌂</button>
+        </div>
+        <div id="sidebarList" class="list"></div>
+      </aside>
+
+      <section class="detail">
+        <div class="detail-head">
+          <nav class="breadcrumbs" id="breadcrumbs" aria-label="Breadcrumbs"></nav>
+          <div class="actions">
+            <a id="remoteLink" class="button secondary" href="#" target="_blank" rel="noopener">Open</a>
+            <button id="keepButton" class="button keep" type="button">Keep</button>
+            <button id="discardButton" class="button discard" type="button">Discard</button>
+            <button id="clearButton" class="button secondary" type="button">Clear</button>
+          </div>
+        </div>
+
+        <div class="title-row">
+          <div>
+            <h1 id="itemTitle">Legacy Explorer</h1>
+            <div id="itemMeta" class="meta-line"></div>
+          </div>
+          <span id="flagBadge" class="flag-badge"></span>
+        </div>
+
+        <label class="note-wrap">
+          <span>Note</span>
+          <textarea id="flagNote" rows="2" maxlength="500"></textarea>
+        </label>
+
+        <div id="viewer" class="viewer"></div>
+      </section>
+    </main>
+
+    <template id="rowTemplate">
+      <button class="row" type="button">
+        <span class="row-icon"></span>
+        <span class="row-main">
+          <span class="row-name"></span>
+          <span class="row-path"></span>
+        </span>
+        <span class="row-flag"></span>
+      </button>
+    </template>
+
+    <script src="/assets/app.js" type="module"></script>
+  </body>
+</html>
