@@ -96,6 +96,13 @@ Copy them into `legacy-data/`, or point `LEGACY_DATA_DIR` at a folder that holds
 them. `LEGACY_FILE_LIST` and `LEGACY_FLAGS` override single file names (relative
 to the data folder).
 
+If `legacy-data/legacy-suggestions.json` exists (`LEGACY_SUGGESTIONS` overrides
+the name), each item also shows a *suggested* keep/discard/ask with its reason,
+inherited from the nearest suggested folder. Suggestions are read-only and kept
+apart from the flags: **Accept suggestion** writes a normal flag (marked
+`acceptedSuggestion`). The status filter lists unconfirmed suggestions and flags
+that differ from them.
+
 Set `LEGACY_REMOTE_BASE=https://example.com/` to point previews at another
 hosted copy, or set `LEGACY_ROOT=/path/to/httpdocs` to enable local file
 fallback previews.

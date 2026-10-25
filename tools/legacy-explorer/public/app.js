@@ -7,6 +7,7 @@ const state = {
 };
 
 const elements = {
+  acceptButton: document.querySelector("#acceptButton"),
   breadcrumbs: document.querySelector("#breadcrumbs"),
   clearButton: document.querySelector("#clearButton"),
   discardButton: document.querySelector("#discardButton"),
@@ -23,6 +24,10 @@ const elements = {
   sidebarList: document.querySelector("#sidebarList"),
   stats: document.querySelector("#stats"),
   statusFilter: document.querySelector("#statusFilter"),
+  suggestionBadge: document.querySelector("#suggestionBadge"),
+  suggestionBox: document.querySelector("#suggestionBox"),
+  suggestionFrom: document.querySelector("#suggestionFrom"),
+  suggestionReason: document.querySelector("#suggestionReason"),
   viewer: document.querySelector("#viewer"),
 };
 
@@ -40,6 +45,7 @@ elements.rootButton.addEventListener("click", () => loadPath(""));
 elements.keepButton.addEventListener("click", () => setFlag("keep"));
 elements.discardButton.addEventListener("click", () => setFlag("discard"));
 elements.clearButton.addEventListener("click", () => setFlag(null));
+elements.acceptButton.addEventListener("click", () => setFlag(state.item?.suggestion?.suggest, true));
 elements.flagNote.addEventListener("change", () => setFlag(state.item?.flag?.status ?? null));
 
 loadPath(new URLSearchParams(window.location.search).get("path") ?? "");
@@ -81,11 +87,22 @@ function renderHeader(data) {
   elements.itemMeta.textContent = metaFor(item);
   elements.remoteLink.href = item.remoteUrl;
   elements.flagNote.value = item.flag?.note ?? "";
-  elements.stats.textContent = `${data.counts.files.toLocaleString()} files, ${data.counts.folders.toLocaleString()} folders | keep ${data.flags.keep}, discard ${data.flags.discard}`;
+  elements.stats.textContent = `${data.counts.files.toLocaleString()} files, ${data.counts.folders.toLocaleString()} folders | keep ${data.flags.keep}, discard ${data.flags.discard} | confirmed ${data.flags.confirmed} of ${data.flags.suggested} suggestions`;
   elements.keepButton.classList.toggle("active", item.flag?.status === "keep");
   elements.discardButton.classList.toggle("active", item.flag?.status === "discard");
   elements.flagBadge.textContent = item.flag?.status ?? "";
   elements.flagBadge.className = `flag-badge ${item.flag?.status ?? ""}`;
+  renderSuggestion(item.suggestion);
+}
+
+function renderSuggestion(suggestion) {
+  elements.suggestionBox.hidden = !suggestion;
+  if (!suggestion) return;
+  elements.suggestionBadge.textContent = `Suggested: ${suggestion.suggest}`;
+  elements.suggestionBadge.className = `suggestion-badge ${suggestion.suggest}`;
+  elements.suggestionReason.textContent = suggestion.reason;
+  elements.suggestionFrom.textContent = suggestion.inherited ? `(from ${suggestion.from || "root"}/)` : "";
+  elements.acceptButton.hidden = !["keep", "discard"].includes(suggestion.suggest);
 }
 
 function renderBreadcrumbs(crumbs) {
@@ -124,7 +141,9 @@ function renderSidebar(items, activePath, message = null) {
     row.querySelector(".row-icon").textContent = iconFor(item);
     row.querySelector(".row-name").textContent = item.name;
     row.querySelector(".row-path").textContent = item.path || "root";
-    row.querySelector(".row-flag").textContent = item.flag?.status ? item.flag.status.toUpperCase() : "";
+    const flagCell = row.querySelector(".row-flag");
+    flagCell.textContent = rowFlagText(item);
+    flagCell.classList.toggle("suggested", !item.flag?.status && Boolean(ownSuggestion(item)));
     row.addEventListener("click", () => loadPath(item.path));
     elements.sidebarList.append(fragment);
   }
@@ -222,11 +241,11 @@ function toolbarForPages(pageFiles) {
 function folderTable(rows) {
   const table = document.createElement("table");
   table.className = "folder-table";
-  table.innerHTML = "<thead><tr><th>Name</th><th>Kind</th><th>Size</th><th>Modified</th><th>Flag</th></tr></thead>";
+  table.innerHTML = "<thead><tr><th>Name</th><th>Kind</th><th>Size</th><th>Modified</th><th>Flag</th><th>Suggested</th></tr></thead>";
   const tbody = document.createElement("tbody");
   for (const row of rows) {
     const tr = document.createElement("tr");
-    tr.innerHTML = `<td>${escapeHtml(row.name)}</td><td>${escapeHtml(row.kind)}</td><td>${formatBytes(row.totalSize ?? row.size)}</td><td>${escapeHtml(row.modified ?? "")}</td><td>${escapeHtml(row.flag?.status ?? "")}</td>`;
+    tr.innerHTML = `<td>${escapeHtml(row.name)}</td><td>${escapeHtml(row.kind)}</td><td>${formatBytes(row.totalSize ?? row.size)}</td><td>${escapeHtml(row.modified ?? "")}</td><td>${escapeHtml(row.flag?.status ?? "")}</td><td>${escapeHtml(ownSuggestion(row)?.suggest ?? "")}</td>`;
     tr.addEventListener("click", () => loadPath(row.path));
     tbody.append(tr);
   }
@@ -318,7 +337,7 @@ async function loadTextInto(path, element) {
   element.textContent = data.truncated ? `${data.text}\n\n[truncated]` : data.text;
 }
 
-async function setFlag(status) {
+async function setFlag(status, acceptedSuggestion = false) {
   if (!state.item) return;
   const data = await fetchJson("/api/flag", {
     method: "POST",
@@ -327,7 +346,8 @@ async function setFlag(status) {
       path: state.item.path,
       type: state.item.type,
       status,
-      note: elements.flagNote.value,
+      note: acceptedSuggestion && !elements.flagNote.value ? state.item.suggestion.reason.slice(0, 500) : elements.flagNote.value,
+      acceptedSuggestion,
     }),
   });
   if (data.error) {
@@ -373,6 +393,17 @@ function iconFor(item) {
     text: "T",
     video: "▶",
   }[item.kind] ?? "•";
+}
+
+function ownSuggestion(item) {
+  return item.suggestion && !item.suggestion.inherited ? item.suggestion : null;
+}
+
+// Confirmed flags in capitals; an unconfirmed suggestion in lower case with a "?".
+function rowFlagText(item) {
+  if (item.flag?.status) return item.flag.status.toUpperCase();
+  const suggestion = ownSuggestion(item);
+  return suggestion && suggestion.suggest !== "mixed" ? `${suggestion.suggest}?` : "";
 }
 
 function isPage(path) {

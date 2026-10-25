@@ -11,6 +11,8 @@ const PUBLIC_DIR = path.join(__dirname, "public");
 const DATA_DIR = path.resolve(ROOT, process.env.LEGACY_DATA_DIR ?? "legacy-data");
 const MANIFEST_PATH = path.resolve(DATA_DIR, process.env.LEGACY_FILE_LIST ?? "legacy-file-list.tsv");
 const FLAGS_PATH = path.resolve(DATA_DIR, process.env.LEGACY_FLAGS ?? "legacy-file-flags.json");
+// Suggestions are read-only input (written by the migration's audit), kept apart from the owner's flags.
+const SUGGESTIONS_PATH = path.resolve(DATA_DIR, process.env.LEGACY_SUGGESTIONS ?? "legacy-suggestions.json");
 const LOCAL_ROOT = path.resolve(ROOT, process.env.LEGACY_ROOT ?? ".");
 const PORT = Number.parseInt(process.env.LEGACY_EXPLORER_PORT ?? process.env.PORT ?? "4175", 10);
 const REMOTE_BASE = normalizeRemoteBase(process.env.LEGACY_REMOTE_BASE ?? "https://stungeye.com/");
@@ -74,6 +76,7 @@ const mimeTypes = new Map([
 
 const manifest = loadManifest();
 let flags = loadFlags();
+const suggestions = loadSuggestions();
 
 const server = http.createServer(async (request, response) => {
   try {
@@ -129,6 +132,7 @@ server.listen(PORT, () => {
   console.log(`Remote base: ${REMOTE_BASE}`);
   console.log(`Local root fallback: ${LOCAL_ROOT}`);
   console.log(`Flags: ${FLAGS_PATH}`);
+  console.log(`Suggestions: ${SUGGESTIONS_PATH} (${Object.keys(suggestions.items).length})`);
 });
 
 function loadManifest() {
@@ -258,13 +262,23 @@ function searchManifest(params) {
 
   for (const item of pool) {
     if (query && !item.path.toLowerCase().includes(query)) continue;
-    if (status !== "all" && item.flag?.status !== status) continue;
+    if (!matchesStatus(item, status)) continue;
     if (kind !== "all" && item.kind !== kind && item.type !== kind) continue;
     results.push(item);
     if (results.length >= limit) break;
   }
 
   return { results, truncated: results.length >= limit };
+}
+
+function matchesStatus(item, status) {
+  if (status === "all") return true;
+  if (status === "keep" || status === "discard") return item.flag?.status === status;
+  const own = item.suggestion && !item.suggestion.inherited ? item.suggestion : null;
+  if (status === "unconfirmed") return Boolean(own && own.suggest !== "mixed" && !item.flag?.status);
+  if (status === "disagree") return Boolean(own && item.flag?.status && ["keep", "discard"].includes(own.suggest) && own.suggest !== item.flag.status);
+  if (status.startsWith("suggested-")) return own?.suggest === status.slice("suggested-".length);
+  return false;
 }
 
 async function getTextPreview(rawPath) {
@@ -312,6 +326,7 @@ async function updateFlag(body) {
   const status = body?.status === "keep" || body?.status === "discard" ? body.status : null;
   const type = body?.type === "folder" ? "folder" : "file";
   const note = String(body?.note ?? "").slice(0, 500);
+  const accepted = body?.acceptedSuggestion === true && status !== null && suggestionFor(targetPath)?.suggest === status;
 
   if (targetPath && !manifest.files.has(targetPath) && !manifest.dirs.has(targetPath)) {
     return { error: "Path is not in legacy-file-list.tsv" };
@@ -325,6 +340,7 @@ async function updateFlag(body) {
       status,
       note,
       type,
+      ...(accepted ? { acceptedSuggestion: true } : {}),
       updatedAt: new Date().toISOString(),
     };
   }
@@ -371,6 +387,7 @@ function enrichFile(file) {
   return {
     ...file,
     flag: flags.items?.[file.path] ?? null,
+    suggestion: suggestionFor(file.path),
     localExists,
     localUrl: localExists ? `/local?path=${encodeURIComponent(file.path)}` : null,
     remoteUrl: remoteUrlFor(file.path),
@@ -383,6 +400,7 @@ function enrichDirectory(directory) {
     ...directory,
     kind: "folder",
     flag: flags.items?.[directory.path] ?? null,
+    suggestion: suggestionFor(directory.path),
     hasPages: pageFiles.length > 0,
     pageCount: pageFiles.length,
     remoteUrl: directory.path ? remoteUrlFor(`${directory.path}/`) : REMOTE_BASE,
@@ -410,11 +428,42 @@ function countsForManifest() {
 
 function flagSummary() {
   const values = Object.values(flags.items ?? {});
+  const open = Object.entries(suggestions.items).filter(([itemPath, entry]) => entry.suggest !== "mixed" && isListed(itemPath));
   return {
     keep: values.filter((entry) => entry.status === "keep").length,
     discard: values.filter((entry) => entry.status === "discard").length,
     noted: values.filter((entry) => entry.note).length,
+    suggested: open.length,
+    confirmed: open.filter(([itemPath]) => flags.items?.[itemPath]?.status).length,
   };
+}
+
+function isListed(itemPath) {
+  return manifest.files.has(itemPath) || manifest.dirs.has(itemPath);
+}
+
+// The suggestion for a path: its own, or the nearest suggested folder above it (inherited).
+function suggestionFor(itemPath) {
+  const own = suggestions.items[itemPath];
+  if (own) return { ...own, inherited: false, from: itemPath };
+  let current = itemPath;
+  while (current) {
+    current = parentOf(current);
+    const entry = suggestions.items[current];
+    if (entry && entry.suggest !== "mixed") return { ...entry, inherited: true, from: current };
+  }
+  return null;
+}
+
+function loadSuggestions() {
+  if (!fs.existsSync(SUGGESTIONS_PATH)) return { items: {} };
+  try {
+    const parsed = JSON.parse(fs.readFileSync(SUGGESTIONS_PATH, "utf8"));
+    return { ...parsed, items: parsed.items ?? {} };
+  } catch (error) {
+    console.error(`Could not read ${SUGGESTIONS_PATH}: ${error.message}`);
+    return { items: {} };
+  }
 }
 
 function loadFlags() {

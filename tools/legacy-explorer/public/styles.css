@@ -313,6 +313,58 @@ h1 {
   background: var(--discard);
 }
 
+.suggestion {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 14px;
+  border: 1px dashed var(--line);
+  border-radius: 8px;
+  padding: 10px 12px;
+  background: var(--soft);
+}
+
+.suggestion[hidden] {
+  display: none;
+}
+
+.suggestion-text {
+  line-height: 1.45;
+}
+
+.suggestion-badge {
+  margin-right: 8px;
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.suggestion-badge.keep {
+  color: var(--keep);
+}
+
+.suggestion-badge.discard {
+  color: var(--discard);
+}
+
+.suggestion-badge.ask {
+  color: var(--warn);
+}
+
+.suggestion-from {
+  margin-left: 6px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.row-flag.suggested {
+  color: var(--muted);
+  font-weight: 600;
+  font-style: italic;
+}
+
 .note-wrap {
   display: grid;
   gap: 6px;

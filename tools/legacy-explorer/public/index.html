@@ -29,6 +29,11 @@
           <option value="all">All flags</option>
           <option value="keep">Keep</option>
           <option value="discard">Discard</option>
+          <option value="unconfirmed">Suggested, not confirmed</option>
+          <option value="disagree">Flag differs from suggestion</option>
+          <option value="suggested-keep">Suggested keep</option>
+          <option value="suggested-discard">Suggested discard</option>
+          <option value="suggested-ask">Suggested: ask</option>
         </select>
       </form>
       <div class="stats" id="stats"></div>
@@ -60,6 +65,15 @@
             <div id="itemMeta" class="meta-line"></div>
           </div>
           <span id="flagBadge" class="flag-badge"></span>
+        </div>
+
+        <div id="suggestionBox" class="suggestion" hidden>
+          <div class="suggestion-text">
+            <span id="suggestionBadge" class="suggestion-badge"></span>
+            <span id="suggestionReason"></span>
+            <span id="suggestionFrom" class="suggestion-from"></span>
+          </div>
+          <button id="acceptButton" class="button secondary" type="button">Accept suggestion</button>
         </div>
 
         <label class="note-wrap">
