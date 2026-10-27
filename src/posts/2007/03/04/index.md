@@ -39,7 +39,7 @@ I've included some links to music videos and live performances below.
 
 **48:08** [Spektrum](http://www.spektrum.co.uk/) - Don't be shy [[video](http://youtube.com/watch?v=0vraT6drxPU)]
 
-**51:05** [Cansei de Ser Sexy](Cansei de Ser Sexy) (CSS) - alala [[video](http://youtube.com/watch?v=2cnOvMFnRvs)]
+**51:05** [Cansei de Ser Sexy](https://en.wikipedia.org/wiki/CSS_(band)) (CSS) - alala [[video](http://youtube.com/watch?v=2cnOvMFnRvs)]
 
 **54:48** [The Lovely Feathers](http://www.myspace.com/thelovelyfeathers) - In the Valley
 

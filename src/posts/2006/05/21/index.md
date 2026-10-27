@@ -27,7 +27,7 @@ permalink: /archive/by_date/2006/05/21/
 >President Richard Nixon wanted that amount cut in-half.
 >
 >Alright Rogers, you've got the floor..."
-- [Mr. Rogers, a kind and caring](http://www.youtube.com/watch?v=3Sd7TcVH670) <acronym title="The art or study of using language effectively and persuasively.">rhetoric<!--<acronym-->.
+> \- [Mr. Rogers, a kind and caring](http://www.youtube.com/watch?v=3Sd7TcVH670) <acronym title="The art or study of using language effectively and persuasively.">rhetoric<!--<acronym-->.
 
 \*\*\*
 

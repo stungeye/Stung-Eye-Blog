@@ -29,6 +29,7 @@ const MT_ENTRIES_PATH = join(EXPORT_DIR, "mt_entries.json");
 const MT_ENTRY_META_PATH = join(EXPORT_DIR, "mt_entry_meta.json");
 const REDIRECTS_CSV_PATH = join(EXPORT_DIR, "redirects.csv");
 const MT_LIVE_EDITS_PATH = join(__dirname, "mt-live-edits.json");
+const MT_MARKDOWN_FIXES_PATH = join(__dirname, "mt-markdown-fixes.json");
 const MEDIA_REPORT_PATH = join(ROOT, "migration-media-report.md");
 const GENERATED_BY = "tools/migrate.js";
 
@@ -1339,7 +1340,10 @@ async function main() {
   const mtEntries = applyMtEntryMeta(
     applyMtLiveEdits(
       JSON.parse(readFileSync(MT_ENTRIES_PATH, "utf-8")),
-      JSON.parse(readFileSync(MT_LIVE_EDITS_PATH, "utf-8")),
+      [
+        ...JSON.parse(readFileSync(MT_LIVE_EDITS_PATH, "utf-8")),
+        ...JSON.parse(readFileSync(MT_MARKDOWN_FIXES_PATH, "utf-8")),
+      ],
     ),
     JSON.parse(readFileSync(MT_ENTRY_META_PATH, "utf-8")),
   );

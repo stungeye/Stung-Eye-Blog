@@ -84,6 +84,10 @@ Each MT entry from `mt_entries.json` becomes (or merges into) a day page. Only e
 
 A few live MT archive pages were edited by hand after the database snapshot (dead links swapped, a sentence removed). `tools/mt-live-edits.json` records each edit as exact find/replace text on the exported entry, and `npm run migrate` applies them before rendering. It fails if any find text doesn't occur exactly once.
 
+### Markdown Fixes
+
+Where markdown-it and MT's Markdown.pl disagree on a Markdown entry, `tools/mt-markdown-fixes.json` (same format, applied the same way) changes the source so the page renders as live did: a `- source` line after a `>` quote stays in the quote (2 entries), intraword `_emphasis_` (2), and trailing spaces in a table cell (1). One link whose target was the band name (broken on live) now points to Wikipedia. SmartyPants' curly quotes are not reproduced (owner's choice): Markdown entries keep straight quotes.
+
 ### MT-Only Days
 
 422 days exist only in MT data (not in CI). These become real built pages, not just redirect targets. Title logic:

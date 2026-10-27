@@ -7,7 +7,7 @@ permalink: /archive/by_date/2006/06/22/
 
 I forgot to mention that the [Nerdcore Hip-Hop Compilation](http://www.rhymetorrents.com/) was released earlier this month. My track, _In a Way_, can be found on [Volume 3, Rare and Classic Tracks](http://www.rhymetorrents.com/disc3/index.html) ([quick bittorrent link](http://zerotracker.com/download/HTTP/60214/RhymeTorrentsVolumeThree.rar.torrent)).
 
-The quality of tracks on these discs is varied, and you have to be fairly geeky to understand the inside-jokes that most of the tracks are built around. I guess that was the point: _*nerd*_core.
+The quality of tracks on these discs is varied, and you have to be fairly geeky to understand the inside-jokes that most of the tracks are built around. I guess that was the point: <em>\*nerd\*</em>core.
 
 \* \* \*
 

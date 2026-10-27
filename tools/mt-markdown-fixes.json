@@ -1,0 +1,78 @@
+[
+  {
+    "legacy_mt_url": "/archives/2006/05/your_name_on_a_1.php",
+    "note": "Markdown.pl kept the \"- source\" line in the quote; markdown-it ends the quote and starts a list.",
+    "edits": [
+      {
+        "field": "entry_text",
+        "find": "got the floor...\"\n- [",
+        "replace": "got the floor...\"\n> \\- ["
+      }
+    ]
+  },
+  {
+    "legacy_mt_url": "/archives/2007/12/canadians_tomor.php",
+    "note": "Markdown.pl kept the \"- source\" lines in the quotes; markdown-it ends each quote and starts a list.",
+    "edits": [
+      {
+        "field": "entry_text",
+        "find": "paying artists.\"\n- [",
+        "replace": "paying artists.\"\n> \\- ["
+      },
+      {
+        "field": "entry_text",
+        "find": "in all things.\" \n- [",
+        "replace": "in all things.\" \n> \\- ["
+      },
+      {
+        "field": "entry_text",
+        "find": "Canadian-made solution.\" \n- [",
+        "replace": "Canadian-made solution.\" \n> \\- ["
+      }
+    ]
+  },
+  {
+    "legacy_mt_url": "/archives/2006/06/finally.php",
+    "note": "Markdown.pl italicised intraword _(ish)_; markdown-it doesn't.",
+    "edits": [
+      {
+        "field": "entry_text",
+        "find": "new_(ish)_ pix",
+        "replace": "new<em>(ish)</em> pix"
+      }
+    ]
+  },
+  {
+    "legacy_mt_url": "/archives/2006/06/geeksta.php",
+    "note": "Markdown.pl italicised intraword _*nerd*_ (asterisks shown); markdown-it doesn't.",
+    "edits": [
+      {
+        "field": "entry_text",
+        "find": "_*nerd*_core",
+        "replace": "<em>\\*nerd\\*</em>core"
+      }
+    ]
+  },
+  {
+    "legacy_mt_url": "/archives/2007/03/look_up_get_dow.php",
+    "note": "Link target was the band name (broken on live); owner chose the Wikipedia page.",
+    "edits": [
+      {
+        "field": "entry_text",
+        "find": "[Cansei de Ser Sexy](Cansei de Ser Sexy)",
+        "replace": "[Cansei de Ser Sexy](https://en.wikipedia.org/wiki/CSS_(band))"
+      }
+    ]
+  },
+  {
+    "legacy_mt_url": "/archives/2008/07/this_little_pig.php",
+    "note": "Trailing spaces in a table cell: Markdown.pl ignored them; markdown-it makes a line break.",
+    "edits": [
+      {
+        "field": "entry_text",
+        "find": "\t\t\tWinnipeg       \n",
+        "replace": "\t\t\tWinnipeg\n"
+      }
+    ]
+  }
+]

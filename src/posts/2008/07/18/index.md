@@ -194,7 +194,7 @@ It's summer, make yourself a friend in a local farmer. Enjoy the tastiness.
           </tr>
 			<tr>
             <td width="13%" valign="top">
-			Winnipeg       
+			Winnipeg
 			(Red River)</td>
             <td width="13%" valign="top">
 			Darryl Ruston</td>
