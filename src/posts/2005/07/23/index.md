@@ -5,7 +5,7 @@ title: Do as I do
 permalink: /archive/by_date/2005/07/23/
 ---
 
-LinkDump:
+<p>LinkDump:</p>
 
 <ul>
 <li>What's your <a href="http://www.myfavoriteword.com/">favourite word</a>?</li>

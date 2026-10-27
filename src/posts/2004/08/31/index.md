@@ -5,9 +5,9 @@ title: Banana moon
 permalink: /archive/by_date/2004/08/31/
 ---
 
-I made this mix for some friends. It's life, love, hills, and valleys.
+<p>I made this mix for some friends. It's life, love, hills, and valleys.</p>
 
-<a href="https://goo.gl/S0wj6">Back and Forth</a> [76.5 Minutes, 88 MB, MP3]
+<p><a href="https://goo.gl/S0wj6">Back and Forth</a> [76.5 Minutes, 88 MB, MP3]</p>
 
 <h2>Playlist</h2>
 

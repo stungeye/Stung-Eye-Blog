@@ -5,8 +5,8 @@ title: Wishing Well
 permalink: /archive/by_date/2003/06/26/
 ---
 
-Art:
-<ul><li>A beautiful <a href="http://www.analemma.de/english/sunpath.html" target="_blank">time lapse image of the sun</a> moving across the sky
+<p>Art:
+</p><ul><li>A beautiful <a href="http://www.analemma.de/english/sunpath.html" target="_blank">time lapse image of the sun</a> moving across the sky
 </li><li>Check out <a href="http://www.clearfour.com/art/" target="_blank">the handmade books!</a>
 </li><li><a href="http://www.artofimagination.org/Pages/ArtEssays.html" target="_blank">The philosophical meaning of art?</a>
 </li><li><a href="http://www.circlemakers.org/totc2002.html" target="_blank">Amazing crop circles</a>
@@ -34,4 +34,4 @@ Misc:
 <ul><li><a href="http://www.imprint.co.uk/online/Clark.html" target="_blank">I am John's brain</a> - What exactly is this martian in our heads?
 </li><li><a href="http://www.whichbook.net/index.jsp" target="_blank">Which book</a> - A neat way to discover new books tailored to your tastes.
 </li><li><a href="http://www.blogger.com" target="_blank">Blogger</a> has gone through a re-design. I hope my <a href="http://www.stungeye.com/archive.htm">archives</a> start working again.
-</li><li>I forgot all the 'vias' again. There goes my blogging etiquette.</li></ul>
+</li><li>I forgot all the 'vias' again. There goes my blogging etiquette.</li></ul><p></p>

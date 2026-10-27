@@ -8,6 +8,7 @@ Technical notes on how the legacy stungeye.com content was migrated to Eleventy.
 | ------------------------ | ------------------------------------------------------------- |
 | `export/ci_days.json`    | Primary source for CI/Tumblr era day pages (items embedded)   |
 | `export/mt_entries.json` | MT era entries (pre-Tumblr, 2002–2008)                        |
+| `export/mt_entry_meta.json` | Per MT entry: text format (`convert_breaks`) and author name |
 | `export/redirects.csv`   | Legacy MT URL → day page redirect mappings                    |
 | `export/images/`         | Locally archived Tumblr photo-post images                     |
 | `export/ci_items.json`   | Flat item list, used by scan-media only (not page generation) |
@@ -68,13 +69,16 @@ Each MT entry from `mt_entries.json` becomes (or merges into) a day page. Only e
 1. **Body assembly**: `entry_text` + `entry_text_more` concatenated (33 entries have extended content).
 2. **Script stripping**: `<script>` and `<noscript>` tags removed (dead Haloscan comment scripts).
 3. **Haloscan link removal**: Dead comment service links (`haloscan.com/comments.php`) stripped from body.
-4. **BR conversion**: `<BR><BR>` → paragraph break (`\n\n`), single `<BR>` → newline. Applied before HTML normalization to preserve semantic line breaks.
-5. **Link macros**: MT's `w[Text](Article)` → `https://en.wikipedia.org/wiki/Article` (spaces → `_`) and `a[Text](Artist)` → an AllMusic search, as the live MT pages render them. Markdown.pl's `\)` escape inside link URLs is percent-encoded, since markdown-it rejects it.
-6. **HTML normalization**: Body run through cheerio to lowercase all tags and quote all attributes (e.g., `<A HREF=url target=_blank>` → `<a href="url" target="_blank">`). Attributes with invalid names (from malformed markup such as `"target=_blank"`) are dropped, otherwise markdown-it renders the whole tag as escaped text.
-7. **Body heading demotion**: Legacy body `<h1>` tags used as section headings are rendered as `<h2>` so they sit below the day page title.
-8. **Markdown repair**: Cheerio escapes `>` blockquote markers to `&gt;`; they are restored. Quote paragraphs separated by blank lines are joined into one blockquote, as Markdown.pl did. ATX headings get the space markdown-it requires (`#Track List` → `## Track List`, with `#` demoted to `##`).
-9. **Trailing dash stripping**: Legacy `--------` separators removed (these would otherwise be parsed as setext h2 underlines by markdown).
-10. **Title rendering**: `## entry_title` heading, but skipped when the entry title matches the page h1 title (prevents duplication on single-entry days).
+4. **Guest byline**: entries by an author other than the owner (`stungeye` / `Wally Glutton`) begin "Guest entry by <name>: " (11 entries: Dj Mose ×10, Soup and Spoons ×1).
+5. **Text format** (`convert_breaks` in `mt_entry_meta.json`, from the MT database). Each entry is rendered the way MT rendered its format:
+   - **Convert Line Breaks** (`__default__`, 299 entries): not Markdown. As MT did, a blank line separates paragraphs and a single newline becomes `<br />`, and a paragraph that starts with a block tag (`<div>`, `<ul>`, `<p>`, …) is left as it is. A `<BR>` at the end of a line duplicates that newline, so it becomes the newline (`<BR><BR>` a paragraph break); one inside a line, or in a paragraph left as it is, is kept. No `<br />` is added next to a block tag, where it would only add an empty line. The result is HTML blocks, so markdown-it applies no Markdown syntax: no invented lists or `_x_` italics.
+   - **Markdown** (`markdown_with_smartypants`, 147 entries): `<BR><BR>` → paragraph break (`\n\n`), single `<BR>` → newline, then steps 6 and 9.
+6. **Link macros** (Markdown entries): MT's `w[Text](Article)` → `https://en.wikipedia.org/wiki/Article` (spaces → `_`) and `a[Text](Artist)` → an AllMusic search, as the live MT pages render them. Markdown.pl's `\)` escape inside link URLs is percent-encoded, since markdown-it rejects it.
+7. **HTML normalization**: Body run through cheerio to lowercase all tags and quote all attributes (e.g., `<A HREF=url target=_blank>` → `<a href="url" target="_blank">`). Attributes with invalid names (from malformed markup such as `"target=_blank"`) are dropped, otherwise markdown-it renders the whole tag as escaped text. Formatting that spans paragraphs (an `<I>` across a blank line) is repaired the way browsers repair it on the live pages.
+8. **Body heading demotion**: Legacy body `<h1>` tags used as section headings are rendered as `<h2>` so they sit below the day page title.
+9. **Markdown repair** (Markdown entries): Cheerio escapes `>` blockquote markers to `&gt;`; they are restored. Quote paragraphs separated by blank lines are joined into one blockquote, as Markdown.pl did. ATX headings get the space markdown-it requires (`#Track List` → `## Track List`, with `#` demoted to `##`).
+10. **Trailing dash stripping**: Legacy `--------` separators removed (these would otherwise be parsed as setext h2 underlines by markdown).
+11. **Title rendering**: `## entry_title` heading, but skipped when the entry title matches the page h1 title (prevents duplication on single-entry days).
 
 ### Live Page Edits
 

@@ -5,6 +5,6 @@ title: ... but sweet
 permalink: /archive/by_date/2004/11/03/
 ---
 
-Yesterday, I swam in the ocean. Today, it rained. Tomorrow, Lisbon awaits: the anticipation of new.
+<p>Yesterday, I swam in the ocean. Today, it rained. Tomorrow, Lisbon awaits: the anticipation of new.</p>
 
-Last night, we had fun at a local pub, chatting with the owners and fellow temporary friends.
+<p>Last night, we had fun at a local pub, chatting with the owners and fellow temporary friends.</p>

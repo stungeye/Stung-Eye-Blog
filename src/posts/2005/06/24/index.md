@@ -5,13 +5,13 @@ title: All in the family
 permalink: /archive/by_date/2005/06/24/
 ---
 
-My sister has joined the blogsphere: <a href="http://justdazzle.com">JustDazzle.Com</a> - the blog of a 25 year old Canadian girl living and working in Amsterdam.
+<p>My sister has joined the blogsphere: <a href="http://justdazzle.com">JustDazzle.Com</a> - the blog of a 25 year old Canadian girl living and working in Amsterdam.</p>
 
-I based the design of her site off a blogger template, but the backend uses <a href="http://www.sixapart.com/movabletype/">MovableType</a>. If your browser has problems rendering the site, drop me a comment including your browser name and version.
+<p>I based the design of her site off a blogger template, but the backend uses <a href="http://www.sixapart.com/movabletype/">MovableType</a>. If your browser has problems rendering the site, drop me a comment including your browser name and version.</p>
 
-***
+<p>***</p>
 
-Friday <a href="http://www.answers.com/diversions/">Diversions</a>:
+<p>Friday <a href="http://www.answers.com/diversions/">Diversions</a>:</p>
 
 <ul>
 <li><a href="http://www.brainwashed.com/h3o/dreamachine/lucidwaking.html">Lucid Waking</a> - "Man is asleep; for compared to what we are capable of, our normal waking state is more like sleep-walking."</li>

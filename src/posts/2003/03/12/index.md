@@ -5,10 +5,9 @@ title: Blowing In The Wind
 permalink: /archive/by_date/2003/03/12/
 ---
 
-There has been much talk in the media lately about <a href="http://www.cnn.com/2003/SHOWBIZ/Music/03/06/ew.hot.iraq/" target="_blank">the role that celebrities and musicians play in politics</a>. More specifically, in <a href="http://www.dtdmedia.com/music_for_peace.html" target="_blank">anti or pro war politics</a>. Check out <a href="http://www.moveon.org/musiciansunited/" target="_blank">Musicians United to Win without War</a>.
-
+<p>There has been much talk in the media lately about <a href="http://www.cnn.com/2003/SHOWBIZ/Music/03/06/ew.hot.iraq/" target="_blank">the role that celebrities and musicians play in politics</a>. More specifically, in <a href="http://www.dtdmedia.com/music_for_peace.html" target="_blank">anti or pro war politics</a>. Check out <a href="http://www.moveon.org/musiciansunited/" target="_blank">Musicians United to Win without War</a>.<br>
 Here's a quick list of some songs you might want to check out:
-<ul>
+</p><ul>
 <li><a href="http://www.beastieboys.com/" target="_blank">The Beastie boys</a> - <a href="http://beasties.silocorp.com/downloads/Beastie%20Boys%20-%20In%20A%20World%20Gone%20Mad.mp3" target="_blank">In A World Gone Mad</a>. (<a href="http://www.beastieboys.com/song_lyrics.html" target="_blank">Lyrics</a>)
 </li><li><a href="http://www.non-prophets.com" target="_blank">Sage Francis</a> - <a href="http://www.non-prophets.com/media/mp3/sage_francis_makeshift_patriot.mp3" target="_blank">Makeshift Patriot</a> (<a href="http://www.non-prophets.com/lyrics/makeshift_patriot.html" target="_blank">Lyrics</a>)
 </li><li><a href="http://www.chumba.com/" target="_blank">Chumbawamba</a> - <a href="http://www.chumbawamba.tv/media/Chumbawamba-Jacobs_Ladder-NotInMyName.mp3" target="_blank">Jacob's Ladder (Not In My Name)</a>
@@ -19,4 +18,4 @@ Here's a quick list of some songs you might want to check out:
 </li><li>Wally Glutton - Taking Cover (Download from the <a href="http://www.stungeye.com/sounds.htm">sounds section</a>. The lyrics can be found in the <a href="http://www.stungeye.com/words.htm">words section</a>. While this song isn't directly about war, it is about two major factors involved with this impending war: fear and anxiety. Please note that only the lyrics are mine. The track was produced by <a href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;opt1=1&amp;sql=the|dining|rooms" target="_blank">The Dining Rooms</a> and used without consent.)
 </li><li><a href="http://www.lordbuckley.com" target="_blank">Lord Buckley</a> - <a href="http://www.stungeye.com/sounds/Lord_Buckley-HBomb.mp3" target="_blank">H-Bomb</a> (Old School! Info <a href="http://www.lordbuckley.com/LBC/LBCFrames/Wordland/HBomb.html" target="_blank">here</a>.)
 </li></ul>
-Not war or music related: I added a new photo to the <a href="http://www.stungeye.com/images.htm">images section</a>.
+Not war or music related: I added a new photo to the <a href="http://www.stungeye.com/images.htm">images section</a>.<p></p>

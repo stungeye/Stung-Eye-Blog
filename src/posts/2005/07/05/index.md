@@ -5,7 +5,7 @@ title: Dad Will Dig
 permalink: /archive/by_date/2005/07/05/
 ---
 
-From <a href="http://languageisavirus.com/">Language Is A Virus</a>:
+<p>From <a href="http://languageisavirus.com/">Language Is A Virus</a>:</p>
 
 <ul>
 <li><a href="http://languageisavirus.com/articles/articles.php?subaction=showcomments&amp;id=1099110341&amp;archive=&amp;start_from=&amp;ucat=&amp;">Ezra Pound on Language in Poetry</a></li>
@@ -14,28 +14,28 @@ From <a href="http://languageisavirus.com/">Language Is A Virus</a>:
 <li>Explore <a href="http://languageisavirus.com/">this virus</a>, many treats to be found.</li>
 </ul>
 
-***
+<p>***</p>
 
-Last Saturday we went to an Electro party at the <a href="http://squat.net/overtoom301/">301 Overtoom</a> squat (or ex-squat?).
+<p>Last Saturday we went to an Electro party at the <a href="http://squat.net/overtoom301/">301 Overtoom</a> squat (or ex-squat?).</p>
 
 <div class="quote">"Squatting is the act of occupying an abandoned or unoccupied space or building that the squatter does not own, rent, or otherwise have permission to use. Squatters often claim rights over the spaces they have squatted by virtue of occupation, rather than ownership; in this sense, squatting is similar to (and potentially a necessary condition of) adverse possession, by which a possessor of real property without title may eventually gain legal title to the real property. [...]
 
-Besides places to live squats are often socially interesting places, hosting give-away shops, pirate radio stations, (often vegetarian or vegan) restaurants."</div><a href="http://en.wikipedia.org/wiki/Squatting">Squatting @ Wikipedia</a>
+<p>Besides places to live squats are often socially interesting places, hosting give-away shops, pirate radio stations, (often vegetarian or vegan) restaurants."</p></div><a href="http://en.wikipedia.org/wiki/Squatting">Squatting @ Wikipedia</a><p></p>
 
-There is a long history of squatting in The Netherlands, and throughout the rest of Europe. In Amsterdam their are squatted restaurants, bars, internet cafes, and of course apartments.
+<p>There is a long history of squatting in The Netherlands, and throughout the rest of Europe. In Amsterdam their are squatted restaurants, bars, internet cafes, and of course apartments.</p>
 
-Despite political pressure and police evictions, there are a few remaining squats in Canada and the US. 
+<p>Despite political pressure and police evictions, there are a few remaining squats in Canada and the US.</p>
 
 <ul>
 <li><a href="http://squat.net/kraakhandleiding/english.html">How to squat</a> (in A'dam)</li>
 <li><a href="http://squat.net/">Squat!net</a></li>
 </ul>
 
-***
+<p>***</p>
 
-On Thursday we'll take a train to Eindhoven and then fly to Dublin for the <a href="oxegen.ie">Oxegen festival</a>. 
+<p>On Thursday we'll take a train to Eindhoven and then fly to Dublin for the <a href="oxegen.ie">Oxegen festival</a>.</p>
 
-Some of the acts I'm excited to see (in no particular order):
+<p>Some of the acts I'm excited to see (in no particular order):</p>
 
 <ul>
 <li><a href="http://oxegen.ie/lineup/profile.php?id=110">The Streets</a></li>

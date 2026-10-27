@@ -5,14 +5,13 @@ title: Tool Shed Blues
 permalink: /archive/by_date/2004/07/20/
 ---
 
-Our overseas adventures begin in September. As I will be working while abroad, I wish to compile a collection of <i>essential Windows tools</i> to bring along on CD. (I'm hoping that the majority of these tools will be <a href="http://en.wikipedia.org/wiki/Freeware" target="_blank">freeware</a>.) Along with this CD, I will bring <a href="http://www.ultimatebootcd.com/" target="_blank">The Ultimate Boot CD</a>, (as well as <a href="http://www.windowsubcd.com/" target="_blank">this Windows-based boot CD</a>.) 
+<p>Our overseas adventures begin in September. As I will be working while abroad, I wish to compile a collection of <i>essential Windows tools</i> to bring along on CD. (I'm hoping that the majority of these tools will be <a href="http://en.wikipedia.org/wiki/Freeware" target="_blank">freeware</a>.) Along with this CD, I will bring <a href="http://www.ultimatebootcd.com/" target="_blank">The Ultimate Boot CD</a>, (as well as <a href="http://www.windowsubcd.com/" target="_blank">this Windows-based boot CD</a>.)</p>
 
-What freeware/shareware applications do you consider essential? Submit your list as a comment.
+<p>What freeware/shareware applications do you consider essential? Submit your list as a comment.</p>
 
-Please forward <a href="http://stungeye.com/archives/2004/07/tool_shed_blues.php">the permalink for this post</a> to your friends, so that they can contribute as well.
+<p>Please forward <a href="http://stungeye.com/archives/2004/07/tool_shed_blues.php">the permalink for this post</a> to your friends, so that they can contribute as well.</p>
 
-
-Here is the preliminary tools list:
+<p>Here is the preliminary tools list:</p>
 
 <ul><li>Text / Document Editors</li><ul>
 <li><a href="http://www.notetab.com/ntl.php" target="_blank">Notetab Light</a> - Notepad replacement. [freeware]</li>

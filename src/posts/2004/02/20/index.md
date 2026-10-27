@@ -7,42 +7,38 @@ permalink: /archive/by_date/2004/02/20/
 
 <center>begin
 
-<i>"Good, better, best;
-Never let it rest
-Until the good is better
-And the better best."</i>
+<p><i>"Good, better, best;<br>
+Never let it rest<br>
+Until the good is better<br>
+And the better best."</i></p>
 
-She had time for me.
+<p>She had time for me.</p>
 
-<i>Only</i> she had time for me.
-She <i>only</i> had time for me.
-She had <i>only</i> time for me.
-She had time <i>only</i> for me.
-She had time for <i>only</i> me.
-She had time for me <i>only</i>.
+<p><i>Only</i> she had time for me.<br>
+She <i>only</i> had time for me.<br>
+She had <i>only</i> time for me.<br>
+She had time <i>only</i> for me.<br>
+She had time for <i>only</i> me.<br>
+She had time for me <i>only</i>.</p>
 
-Never take language for granted.
+<p>Never take language for granted.</p>
 
-end</center>
+<p>end</p></center>
+***<p></p>
 
-***
+<p><b>Today's Special:</b></p>
 
+<p><a href="#" border="0" onmouseover="window.status='Click to view to Soupish in another window';return true" onmouseout="window.status='';return true" onclick="display_processing('http://www.stungeye.com/processing/0204/','balls','Soupish',200,200);return false;">Soupish?</a> - Click to pause/unpause - Press any key to add soup particles</p>
 
-<b>Today's Special:</b>
-
-<a href="#" border="0" onmouseover="window.status='Click to view to Soupish in another window';return true" onmouseout="window.status='';return true" onclick="display_processing('http://www.stungeye.com/processing/0204/','balls','Soupish',200,200);return false;">Soupish?</a> - Click to pause/unpause - Press any key to add soup particles
-
-
-***
-
+<p>***</p>
 
 <li><a href="http://www.greytuesday.org/" target="_blank">Grey Tuesday</a> - <a href="http://www.djdangermouse.com/" target="_blank">DJ Danger Mouse</a>:
 
-<i>"The Grey Album is an art project/experiment that uses the full vocal content of Jay-Z's Black Album recorded over new beats and production made using the Beatles White Album as the sole source material."
+<p><i>"The Grey Album is an art project/experiment that uses the full vocal content of Jay-Z's Black Album recorded over new beats and production made using the Beatles White Album as the sole source material."</i></p><i>
 
-"Jay-Z's record label, Roc-A-Fella, released an a capella version of his Black Album specifically to encourage remixes like this one. But despite praise from music fans [...] EMI has sent cease and desist letters demanding that stores destroy their copies of the album and websites remove them from their site. EMI claims copyright control of the Beatles 1968 White Album."</i>
+</i><p><i>"Jay-Z's record label, Roc-A-Fella, released an a capella version of his Black Album specifically to encourage remixes like this one. But despite praise from music fans [...] EMI has sent cease and desist letters demanding that stores destroy their copies of the album and websites remove them from their site. EMI claims copyright control of the Beatles 1968 White Album."</i></p>
 
-Check back here next Tuesday.
+<p>Check back here next Tuesday.</p>
 
 </li><li><a href="http://www.lamermelculo.com/video.php?id=678" target="_blank">Playing the flute and beat-boxing at the same time</a>.
 
@@ -54,10 +50,8 @@ Check back here next Tuesday.
 
 </li><li><a href="http://www.ctheory.net/default.asp" target="_blank">CTHEORY</a>:
 
-<i>"[A]n international journal of theory, technology and culture. Articles, interviews, and key book reviews in contemporary discourse are published weekly as well as theorisations of major 'event-scenes' in the mediascape".</i>
+<p><i>"[A]n international journal of theory, technology and culture. Articles, interviews, and key book reviews in contemporary discourse are published weekly as well as theorisations of major 'event-scenes' in the mediascape".</i></p>
 
-(There is also a <a href="http://www.ctheory.net/library/default.asp" target="_blank">digital library</a> for the Canadian Journal of Political and Social Theory, <a href="http://www.ctheory.net/book_default.asp" target="_blank">ctheory books</a> and <a href="http://ctheorymultimedia.cornell.edu/" target="_blank">multimedia</a>.)
+<p>(There is also a <a href="http://www.ctheory.net/library/default.asp" target="_blank">digital library</a> for the Canadian Journal of Political and Social Theory, <a href="http://www.ctheory.net/book_default.asp" target="_blank">ctheory books</a> and <a href="http://ctheorymultimedia.cornell.edu/" target="_blank">multimedia</a>.)</p>
 
-Some ctheory finds: <a href="http://www.ctheory.net/text_file.asp?pick=382" target="_blank">The Turntable</a>, <a href="http://www.ctheory.net/text_file.asp?pick=349" target="_blank">Motion Perception in Movies and Painting</a>, <a href="http://www.ctheory.net/text_file.asp?pick=135" target="_blank">Time And The Cinematic Image</a> by Paul D. Miller (DJ Spooky, who sits on the editorial board.) 
-
---------</li>
+<p>Some ctheory finds: <a href="http://www.ctheory.net/text_file.asp?pick=382" target="_blank">The Turntable</a>, <a href="http://www.ctheory.net/text_file.asp?pick=349" target="_blank">Motion Perception in Movies and Painting</a>, <a href="http://www.ctheory.net/text_file.asp?pick=135" target="_blank">Time And The Cinematic Image</a> by Paul D. Miller (DJ Spooky, who sits on the editorial board.)</p></li>

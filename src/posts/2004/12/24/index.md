@@ -5,7 +5,7 @@ title: To you and yours
 permalink: /archive/by_date/2004/12/24/
 ---
 
-Smiles, hugs, and all that jazz.
+<p>Smiles, hugs, and all that jazz.</p>
 
-Peace and Peaches,
-WG
+<p>Peace and Peaches,<br>
+WG</p>

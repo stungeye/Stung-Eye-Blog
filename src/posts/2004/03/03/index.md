@@ -5,12 +5,12 @@ title: Tea
 permalink: /archive/by_date/2004/03/03/
 ---
 
-I've caught a new thought virus; the fractal nature of <a href="http://www.math.auckland.ac.nz/~king/Preprints/pdf/BrainCon.pdf" target="_blank">consciousness</a> [pdf] and <a href="http://www.mi.sanu.ac.yu/vismath/ljkocic/" target="_blank">aesthetics</a>.
+<p>I've caught a new thought virus; the fractal nature of <a href="http://www.math.auckland.ac.nz/~king/Preprints/pdf/BrainCon.pdf" target="_blank">consciousness</a> [pdf] and <a href="http://www.mi.sanu.ac.yu/vismath/ljkocic/" target="_blank">aesthetics</a>.</p>
 
-<a href="#" border="0" onmouseover="window.status='Click to view the movement of light in another window';return true" onmouseout="window.status='';return true" onclick="display_image('http://www.stungeye.com/images/sketches/wally/0204/deco8.jpg','Beholder',600,371);return false;"><img hspace="0" vspace="0" border="0" src="http://www.stungeye.com/images/sketches/wally/0204/deco8_T.jpg"></a>
-<i>Click the thumbnail to view full image.</i>
+<p><a href="#" border="0" onmouseover="window.status='Click to view the movement of light in another window';return true" onmouseout="window.status='';return true" onclick="display_image('http://www.stungeye.com/images/sketches/wally/0204/deco8.jpg','Beholder',600,371);return false;"><img hspace="0" vspace="0" border="0" src="http://www.stungeye.com/images/sketches/wally/0204/deco8_T.jpg"></a><br>
+<i>Click the thumbnail to view full image.</i></p>
 
-***
+<p>***</p>
 
 <li><a href="http://www.jujurecords.com/artists.php?artist=3" target="_blank">Chords</a> is a Swedish MC signed to <a href="http://www.jujurecords.com/" target="_blank">Juju records</a>. Here is <a href="http://www.streaming.telia.com/startmedia/default.asp?k=377&amp;e=n&amp;n=b_00_m_a_331.wmv">his video for <i>Wrap Your Chops</i></a> [wmv], from the 12" of the same name. (If the wmv link fails, find the video <a href="http://www.hultsfred.tv/" target="_blank">here</a>.)
 
@@ -26,6 +26,4 @@ I've caught a new thought virus; the fractal nature of <a href="http://www.math.
 
 </li><li><a href="http://ilx.wh3rd.net/thread.php?msgid=4328588" target="_blank">Novel summaries in 25 words</a>.
 
-</li><li><a href="http://ilx.wh3rd.net/thread.php?msgid=4282716" target="_blank">Travel book picks</a>.
-
---------</li>
+</li><li><a href="http://ilx.wh3rd.net/thread.php?msgid=4282716" target="_blank">Travel book picks</a>.</li>

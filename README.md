@@ -59,7 +59,7 @@ npm run migrate
 npm run resize-images  # must be run after every migrate
 ```
 
-`npm run migrate` reads from `export/ci_days.json`, `export/mt_entries.json`, and `export/redirects.csv`, then:
+`npm run migrate` reads from `export/ci_days.json`, `export/mt_entries.json`, `export/mt_entry_meta.json`, and `export/redirects.csv`, then:
 
 - Generates 970 day pages under `src/posts/`
 - Copies 295 archived images (at 500px) into co-located day folders

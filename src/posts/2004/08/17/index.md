@@ -5,7 +5,7 @@ title: Beekind
 permalink: /archive/by_date/2004/08/17/
 ---
 
-I heard a knocking at my window, just now. I discovered a woodpecker, climbing the wooden-edged frame, of the opened window, across the hall.
+<p>I heard a knocking at my window, just now. I discovered a woodpecker, climbing the wooden-edged frame, of the opened window, across the hall.</p>
 
 <h2>Music:</h2>
 <ul>

@@ -26,6 +26,7 @@ const POSTS_DIR = join(ROOT, "src", "posts");
 const NGINX_DIR = join(ROOT, "nginx");
 const CI_DAYS_PATH = join(EXPORT_DIR, "ci_days.json");
 const MT_ENTRIES_PATH = join(EXPORT_DIR, "mt_entries.json");
+const MT_ENTRY_META_PATH = join(EXPORT_DIR, "mt_entry_meta.json");
 const REDIRECTS_CSV_PATH = join(EXPORT_DIR, "redirects.csv");
 const MT_LIVE_EDITS_PATH = join(__dirname, "mt-live-edits.json");
 const MEDIA_REPORT_PATH = join(ROOT, "migration-media-report.md");
@@ -286,6 +287,67 @@ function normalizeMarkdownHeadings(text) {
     /^(#{1,6})[ \t]*(?=[^#\s])/gm,
     (_, hashes) => `${hashes === "#" ? "##" : hashes} `,
   );
+}
+
+// Block-level tags: MT leaves a paragraph that starts with one as it is, and
+// a line break next to one only adds an empty line
+const MT_BLOCK_TAG =
+  "(?:h[1-6]|table|thead|tbody|tr|td|th|ol|ul|li|dl|dt|dd|menu|dir|p|pre|center|form|fieldset|select|blockquote|address|div|hr)\\b";
+const MT_STARTS_BLOCK = new RegExp(`^</?${MT_BLOCK_TAG}`, "i");
+const MT_ENDS_BLOCK = new RegExp(`</?${MT_BLOCK_TAG}[^>]*>$`, "i");
+
+/**
+ * Render an MT "Convert Line Breaks" entry as MT did: a blank line separates
+ * paragraphs and a single newline is a <br />. A paragraph that starts with a
+ * block tag is left as it is. The result is HTML blocks, so markdown-it
+ * applies no Markdown syntax to it.
+ */
+function convertMtLineBreaks(text) {
+  return text
+    .split(/\n[ \t]*\n\s*/)
+    .map((para) => para.trim())
+    .filter(Boolean)
+    .flatMap((para) => {
+      if (MT_STARTS_BLOCK.test(para)) return [para];
+      // A <BR> that ends a line duplicates the <br /> MT added for the newline,
+      // so it becomes the newline (<BR><BR> a blank line); others are kept
+      return para
+        .replace(/(?:<br\s*\/?>[ \t]*){2,}(?:\n|$)/gi, "\n\n")
+        .replace(/<br\s*\/?>[ \t]*(?:\n|$)/gi, "\n")
+        .split(/\n[ \t]*\n\s*/)
+        .map((part) => part.trim())
+        .filter(Boolean)
+        .map((part) => {
+          const lines = part.split("\n");
+          const html = lines
+            .map((line, i) =>
+              i < lines.length - 1 &&
+              !MT_ENDS_BLOCK.test(line.trimEnd()) &&
+              !MT_STARTS_BLOCK.test(lines[i + 1].trimStart())
+                ? `${line}<br />`
+                : line,
+            )
+            .join("\n");
+          return MT_STARTS_BLOCK.test(part) ? html : `<p>${html}</p>`;
+        });
+    })
+    .join("\n\n");
+}
+
+// MT authors who are the owner; every other author's entry gets a guest byline
+const MT_OWNER_AUTHORS = new Set(["stungeye", "Wally Glutton"]);
+function isMtGuestEntry(entry) {
+  return Boolean(entry.author) && !MT_OWNER_AUTHORS.has(entry.author);
+}
+
+/** Add convert_breaks and author from the DB re-export (PLAN C3.0). */
+function applyMtEntryMeta(entries, meta) {
+  for (const entry of entries) {
+    const fields = meta[entry.entry_id];
+    if (!fields) throw new Error(`No MT entry meta for ${entry.entry_id}`);
+    Object.assign(entry, fields);
+  }
+  return entries;
 }
 
 /** Apply hand edits made to live MT archive pages after the DB snapshot. */
@@ -794,19 +856,31 @@ function renderMtEntry(entry, { includeTitle = false } = {}) {
     "",
   );
 
-  // Convert <BR><BR> to paragraph breaks (blank line) and <BR> to newlines
-  body = body.replace(/<br\s*\/?>\s*<br\s*\/?>/gi, "\n\n");
-  body = body.replace(/<br\s*\/?>/gi, "\n");
+  if (isMtGuestEntry(entry)) {
+    body = `Guest entry by ${entry.author}: ${body}`;
+  }
 
-  body = expandMtLinkMacros(body);
-  body = encodeEscapedLinkParens(body);
+  if (entry.convert_breaks === "__default__") {
+    // "Convert Line Breaks" entries are not Markdown: render them as HTML
+    body = body.replace(/\r\n?/g, "\n").replace(/\n?-{4,}\s*$/g, "");
+    body = convertMtLineBreaks(body);
+    body = normalizeHtml(body);
+    body = demoteBodyH1Headings(body);
+  } else {
+    // Convert <BR><BR> to paragraph breaks (blank line) and <BR> to newlines
+    body = body.replace(/<br\s*\/?>\s*<br\s*\/?>/gi, "\n\n");
+    body = body.replace(/<br\s*\/?>/gi, "\n");
 
-  // Normalize legacy HTML (lowercase tags, quote attributes) via cheerio
-  body = normalizeHtml(body);
-  body = demoteBodyH1Headings(body);
-  // Cheerio escapes Markdown syntax it mistakes for text; restore it
-  body = restoreBlockquoteMarkers(body);
-  body = normalizeMarkdownHeadings(body);
+    body = expandMtLinkMacros(body);
+    body = encodeEscapedLinkParens(body);
+
+    // Normalize legacy HTML (lowercase tags, quote attributes) via cheerio
+    body = normalizeHtml(body);
+    body = demoteBodyH1Headings(body);
+    // Cheerio escapes Markdown syntax it mistakes for text; restore it
+    body = restoreBlockquoteMarkers(body);
+    body = normalizeMarkdownHeadings(body);
+  }
 
   // Strip trailing separator dashes (legacy MT formatting)
   body = body.replace(/\n?-{4,}\s*$/g, "");
@@ -1262,9 +1336,12 @@ async function main() {
   // Load data
   console.log("Loading export data...");
   const ciDays = JSON.parse(readFileSync(CI_DAYS_PATH, "utf-8"));
-  const mtEntries = applyMtLiveEdits(
-    JSON.parse(readFileSync(MT_ENTRIES_PATH, "utf-8")),
-    JSON.parse(readFileSync(MT_LIVE_EDITS_PATH, "utf-8")),
+  const mtEntries = applyMtEntryMeta(
+    applyMtLiveEdits(
+      JSON.parse(readFileSync(MT_ENTRIES_PATH, "utf-8")),
+      JSON.parse(readFileSync(MT_LIVE_EDITS_PATH, "utf-8")),
+    ),
+    JSON.parse(readFileSync(MT_ENTRY_META_PATH, "utf-8")),
   );
   const redirects = parseRedirectsCsv(REDIRECTS_CSV_PATH);
 

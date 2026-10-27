@@ -5,26 +5,26 @@ title: Southward Bound
 permalink: /archive/by_date/2004/10/14/
 ---
 
-We found the bus terminal today, and bought two tickets for <a href="http://www.red2000.com/spain/valencia/" target="_blank">Valencia</a>. We leave on Saturday, at 14:30. 
+<p>We found the bus terminal today, and bought two tickets for <a href="http://www.red2000.com/spain/valencia/" target="_blank">Valencia</a>. We leave on Saturday, at 14:30.</p>
 
-We also visited the <a href="http://www.aquariumbcn.com/" target="_blank">Barcelona Aquarium</a>. The sharks and penguins were our favourite aquatic beasts.
+<p>We also visited the <a href="http://www.aquariumbcn.com/" target="_blank">Barcelona Aquarium</a>. The sharks and penguins were our favourite aquatic beasts.</p>
 
-Shannon has been a little under the weather. Last night, she awoke to chills, and then a fever. To make matters worse, the man next to us was snoring, loudly. I reached for the earplugs.
+<p>Shannon has been a little under the weather. Last night, she awoke to chills, and then a fever. To make matters worse, the man next to us was snoring, loudly. I reached for the earplugs.</p>
 
-I managed to purchase a bottle of cough syrup for Shannon. 
+<p>I managed to purchase a bottle of cough syrup for Shannon.</p>
 
-The conversation:
+<p>The conversation:</p>
 
-<em>Me: Habla Inglés?
+<p><em>Me: Habla Inglés?</em></p><em>
 
-Pharmacist: No.
+<p>Pharmacist: No.</p>
 
-Me: Me pone, algo para el catarro, por favor?
+<p>Me: Me pone, algo para el catarro, por favor?</p>
 
-Pharmacist: [Points to her throat]
+<p>Pharmacist: [Points to her throat]</p>
 
-Me: [Nod]</em>
+</em><p><em>Me: [Nod]</em></p>
 
-Props to Erin, for giving us our European phrasebook.
+<p>Props to Erin, for giving us our European phrasebook.</p>
 
-Yesterday, we explored <a href="http://www.op.net/~jmeltzer/Gaudi/parkgell.html" target="_blank">Park Guell</a> [<a href="http://images.google.ca/images?q=Park%20G%C3%BCell" target="_blank">google images</a>], and <a href="http://www.sagradafamilia.org/eng/index.htm" target="_blank">La Sagrada Familia</a> [<a href="http://images.google.ca/images?q=La%20Sagrada%20Familia" target="_blank">google images</a>], two amazing <a href="http://www.gaudi2002.bcn.es/english/" target="_blank">Gaudi</a> creations.
+<p>Yesterday, we explored <a href="http://www.op.net/~jmeltzer/Gaudi/parkgell.html" target="_blank">Park Guell</a> [<a href="http://images.google.ca/images?q=Park%20G%C3%BCell" target="_blank">google images</a>], and <a href="http://www.sagradafamilia.org/eng/index.htm" target="_blank">La Sagrada Familia</a> [<a href="http://images.google.ca/images?q=La%20Sagrada%20Familia" target="_blank">google images</a>], two amazing <a href="http://www.gaudi2002.bcn.es/english/" target="_blank">Gaudi</a> creations.</p>

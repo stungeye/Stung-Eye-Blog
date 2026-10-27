@@ -5,8 +5,8 @@ title: Sublime
 permalink: /archive/by_date/2004/03/09/
 ---
 
-A pattern matching exercise for you brain: 
+<p>A pattern matching exercise for you brain:</p>
 
-<a href="http://www.stungeye.com/images/photos/wally/0304/mrE.avi">A Mystery Video</a> [avi]
+<p><a href="http://www.stungeye.com/images/photos/wally/0304/mrE.avi">A Mystery Video</a> [avi]</p>
 
-I captured the video this morning. What is it?
+<p>I captured the video this morning. What is it?</p>

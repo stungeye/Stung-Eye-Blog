@@ -28,6 +28,6 @@ permalink: /archive/by_date/2004/08/28/
 
 ## Before and After
 
-Shannon and I are now married.
+<p>Shannon and I are now married.</p>
 
-I've posted <a href="http://www.flickr.com/groups/shankylewed/" target="_blank">some of our wedding pictures to a Flickr group</a>.
+<p>I've posted <a href="http://www.flickr.com/groups/shankylewed/" target="_blank">some of our wedding pictures to a Flickr group</a>.</p>

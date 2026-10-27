@@ -5,23 +5,23 @@ title: Devil of a lake
 permalink: /archive/by_date/2005/06/30/
 ---
 
-From my friend Claire:
+<p>From my friend Claire:</p>
 
 <div class="quote">The Devil's Lake water diversion project is scheduled to open on July 1st.  When it opens, water will flow from Devil's Lake in North Dakota, into the Sheyenne River, which joins the Red River and flows through Manitoba into Hudson Bay. [...]
 
-Canada and Manitoba have been asking for review of the project by the International Joint Commission, which administrates the Boundary Waters Treaty, but so far the United States has not agreed.
+<p>Canada and Manitoba have been asking for review of the project by the International Joint Commission, which administrates the Boundary Waters Treaty, but so far the United States has not agreed.</p>
 
-By going ahead with the Devil's Lake Outlet without proper assessment, North Dakota is endangering not only the downstream environments of North Dakota and Manitoba but also a long-standing, internationally acclaimed environmental agreement.
-</div>
+<p>By going ahead with the Devil's Lake Outlet without proper assessment, North Dakota is endangering not only the downstream environments of North Dakota and Manitoba but also a long-standing, internationally acclaimed environmental agreement.
+</p></div><p></p>
 
-Claire has created an <a href="http://www.petitiononline.com/DevilsLk/petition.html">online petition</a> to push for further review of this project, and is working on a "one stop shop" for <a href="http://www.geocities.com/devilslake05/">Devil's Lake diversion information</a>.
+<p>Claire has created an <a href="http://www.petitiononline.com/DevilsLk/petition.html">online petition</a> to push for further review of this project, and is working on a "one stop shop" for <a href="http://www.geocities.com/devilslake05/">Devil's Lake diversion information</a>.</p>
 
-Inform yourself, and sign <a href="http://www.petitiononline.com/DevilsLk/petition.html">the petition</a> if this project concerns you.
+<p>Inform yourself, and sign <a href="http://www.petitiononline.com/DevilsLk/petition.html">the petition</a> if this project concerns you.</p>
 
-More information from <a href="http://www.foecanada.org/">Friends of the Earth</a>:
-<ul>
+<p>More information from <a href="http://www.foecanada.org/">Friends of the Earth</a>:
+</p><ul>
 <li><a href="http://www.foecanada.org/index.php?option=content&amp;task=view&amp;id=85&amp;Itemid=73">5 Reasons to Care about the Devils Lake Outlet</a>.</li>
 <li><a href="http://www.foecanada.org/index.php?option=content&amp;task=view&amp;id=101&amp;Itemid=87">Send an E-letter to Paul Matrin voicing your concern</a>.</li>
-</ul>
+</ul><p></p>
 
-You would think the state of North Dakota would give us better <a href="http://www.pch.gc.ca/progs/cpsc-ccsp/jfa-ha/canada_e.cfm">birthday present</a> than this.
+<p>You would think the state of North Dakota would give us better <a href="http://www.pch.gc.ca/progs/cpsc-ccsp/jfa-ha/canada_e.cfm">birthday present</a> than this.</p>
