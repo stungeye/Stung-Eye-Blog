@@ -563,7 +563,7 @@ iframe[src*="openprocessing.org"] {
   display: block;
   margin: 0 auto;
   max-width: 100%;
-  max-height: calc(94vh - 8rem);
+  /* max-height is set by legacy-viewer.js from the measured space left in the dialog. */
   width: auto;
   height: auto;
 }

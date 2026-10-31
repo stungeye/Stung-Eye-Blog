@@ -71,6 +71,7 @@
       bodyEl.textContent = "";
     });
     document.body.appendChild(dialog);
+    window.addEventListener("resize", refit);
   }
 
   function open(name) {
@@ -95,17 +96,33 @@
     return img;
   }
 
+  // Put an image in the dialog, sized so the whole dialog fits the window with no scrollbar.
+  // The space taken by the title bar, the gallery buttons, padding and border is measured
+  // (with the body empty) rather than guessed, so long titles and wrapped buttons are covered.
+  function place(img) {
+    bodyEl.textContent = "";
+    var chrome = dialog.offsetHeight; // body is empty here, so this is everything but the image
+    var limit = parseFloat(getComputedStyle(dialog).maxHeight);
+    if (!(limit > 0)) limit = window.innerHeight * 0.94;
+    img.style.maxHeight = Math.max(120, Math.floor(limit - chrome - 1)) + "px";
+    bodyEl.appendChild(img);
+  }
+
+  function refit() {
+    var img = dialog && dialog.open && bodyEl.querySelector("img");
+    if (img) place(img);
+  }
+
   function note(text) {
     return el("p", { className: "legacy-viewer-note", text: text });
   }
 
   function showGalleryImage() {
     var g = gallery;
-    bodyEl.textContent = "";
-    bodyEl.appendChild(image(g.base + g.index + ".jpg", g.name + " (" + g.index + " of " + g.count + ")", g.width, g.height));
     counterEl.textContent = "Image " + g.index + " of " + g.count;
     prevBtn.disabled = g.index <= 1;
     nextBtn.disabled = g.index >= g.count;
+    place(image(g.base + g.index + ".jpg", g.name + " (" + g.index + " of " + g.count + ")", g.width, g.height));
   }
 
   function step(delta) {
@@ -119,7 +136,7 @@
 
   window.display_image = function (url, name, width, height) {
     open(name);
-    bodyEl.appendChild(image(localUrl(url), name, width, height));
+    place(image(localUrl(url), name, width, height));
     return false;
   };
 
