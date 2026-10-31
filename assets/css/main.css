@@ -517,3 +517,86 @@ iframe[src*="openprocessing.org"] {
 .archive-index li {
   margin: 0.3rem 0;
 }
+
+/* --- Legacy viewer (assets/js/legacy-viewer.js) --- */
+/* Photos and galleries from 2003–2004 posts, shown in a dialog instead of the old popups. */
+.legacy-viewer {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.75rem 1rem 1rem;
+  max-width: min(94vw, 1100px);
+  max-height: 94vh;
+  color: var(--text);
+  background: var(--bg);
+}
+.legacy-viewer::backdrop {
+  background: rgba(0, 0, 0, 0.75);
+}
+.legacy-viewer-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+.legacy-viewer-title {
+  margin: 0;
+  font-size: 1.1rem;
+}
+.legacy-viewer-close {
+  border: 0;
+  background: none;
+  color: var(--text-light);
+  font-size: 1.75rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0 0.25rem;
+}
+.legacy-viewer-close:hover,
+.legacy-viewer-close:focus-visible {
+  color: var(--text);
+}
+.legacy-viewer-body {
+  text-align: center;
+}
+.legacy-viewer-body img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  max-height: calc(94vh - 8rem);
+  width: auto;
+  height: auto;
+}
+.legacy-viewer-note {
+  max-width: 32rem;
+  margin: 1rem auto;
+  color: var(--text-light);
+}
+.legacy-viewer-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 0.75rem;
+}
+.legacy-viewer-nav[hidden] {
+  display: none;
+}
+.legacy-viewer-nav button {
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--accent-bg);
+  color: var(--accent);
+  padding: 0.3rem 0.8rem;
+  cursor: pointer;
+  font: inherit;
+}
+.legacy-viewer-nav button:disabled {
+  color: var(--text-light);
+  cursor: default;
+  opacity: 0.5;
+}
+.legacy-viewer-counter {
+  color: var(--text-light);
+  font-variant-numeric: tabular-nums;
+}

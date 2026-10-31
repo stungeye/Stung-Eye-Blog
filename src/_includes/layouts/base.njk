@@ -7,6 +7,9 @@
   <link rel="canonical" href="{{ config.siteUrl }}{{ page.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ config.siteTitle }}" href="/feed.xml">
   <link rel="stylesheet" href="/assets/css/main.css">
+  {%- if "display_" in content %}
+  <script src="/assets/js/legacy-viewer.js" defer></script>
+  {%- endif %}
 </head>
 <body>
   <header>
