@@ -1,5 +1,5 @@
 # Dependencies
-node_modules/
+node_modules
 
 # Eleventy output
 _site/
@@ -12,3 +12,6 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+# Wrangler local state
+.wrangler/

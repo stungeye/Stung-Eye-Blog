@@ -1,0 +1,109 @@
+{
+  "_comment": "Hand-decided legacy redirects (Phase C C3.1; PLAN F13, F35, F36). Read by tools/build-redirects.mjs. Static rules are exact paths; dynamic rules use :placeholders or a * splat and come after every static rule. All are 301.",
+  "static": [
+    {
+      "from": "/archives/2003/10/tsop_wen.php",
+      "to": "/archive/by_date/2003/10/01/",
+      "_why": "stale MT file of a_crash_course.php (F36)"
+    },
+    {
+      "from": "/archives",
+      "to": "/archive/"
+    },
+    {
+      "from": "/archives/",
+      "to": "/archive/"
+    },
+    {
+      "from": "/archives/index.php",
+      "to": "/archive/"
+    },
+    {
+      "from": "/archives/index.html",
+      "to": "/archive/"
+    },
+    {
+      "from": "/feed",
+      "to": "/feed.xml",
+      "_why": "CodeIgniter RSS (feed readers subscribe here)"
+    },
+    {
+      "from": "/feed/",
+      "to": "/feed.xml"
+    },
+    {
+      "from": "/rss",
+      "to": "/feed.xml"
+    },
+    {
+      "from": "/monthly_feed",
+      "to": "/feed.xml"
+    },
+    {
+      "from": "/monthly_feed/",
+      "to": "/feed.xml"
+    },
+    {
+      "from": "/monthly_feed/weekly",
+      "to": "/feed.xml"
+    },
+    {
+      "from": "/startup",
+      "to": "/archive/by_date/2010/01/27/",
+      "_why": "CodeIgniter route"
+    },
+    {
+      "from": "/index.php",
+      "to": "/"
+    },
+    {
+      "from": "/home",
+      "to": "/"
+    },
+    {
+      "from": "/home/",
+      "to": "/"
+    },
+    {
+      "from": "/page/1",
+      "to": "/"
+    },
+    {
+      "from": "/page/1/",
+      "to": "/"
+    }
+  ],
+  "dynamic": [
+    {
+      "from": "/feed/*",
+      "to": "/feed.xml",
+      "_why": "/feed/blog, /feed/photo, /feed/link, ..."
+    },
+    {
+      "from": "/archives/:year/:month/index.php",
+      "to": "/archive/by_date/:year/:month/",
+      "_why": "MT monthly archives"
+    },
+    {
+      "from": "/archives/:year/:month/index.html",
+      "to": "/archive/by_date/:year/:month/"
+    },
+    {
+      "from": "/archives/:year/:month/",
+      "to": "/archive/by_date/:year/:month/"
+    },
+    {
+      "from": "/archives/:category/index.php",
+      "to": "/archive/",
+      "_why": "MT category archives (no categories in the new blog)"
+    },
+    {
+      "from": "/archives/:category/index.html",
+      "to": "/archive/"
+    },
+    {
+      "from": "/archives/:category/",
+      "to": "/archive/"
+    }
+  ]
+}

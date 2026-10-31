@@ -1,0 +1,197 @@
+{
+  "schema": {
+    "name": "winnipeg_manitoba_news_sources",
+    "version": "2.0.4",
+    "generatedAt": "2026-03-01",
+    "updatedAt": "2026-03-11",
+    "description": "News source directory for the Winnipeg News app."
+  },
+  "outlets": [
+    {
+      "name": "Access Winnipeg",
+      "language": "english",
+      "category": "digital_local_news_and_events",
+      "websiteUrl": "https://accesswinnipeg.com/",
+      "rssUrls": [
+        "https://accesswinnipeg.com/feed/"
+      ],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/accessWinnipeg_400x400.jpg"
+    },
+    {
+      "name": "APTN News Manitoba",
+      "language": "english",
+      "category": "indigenous_broadcaster_digital_newsroom",
+      "websiteUrl": "https://www.aptnnews.ca/tag/manitoba/",
+      "rssUrls": ["https://www.aptnnews.ca/tag/manitoba/feed/"],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/aptn_400x400.jpg"
+    },
+    {
+      "name": "CBC News Manitoba",
+      "language": "english",
+      "category": "public_broadcaster_tv_radio_digital",
+      "websiteUrl": "https://www.cbc.ca/news/canada/manitoba",
+      "rssUrls": [
+        "https://www.cbc.ca/webfeed/rss/rss-canada-manitoba"
+      ],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/cbc_400x400.jpg"
+    },
+    {
+      "name": "ChrisD.ca",
+      "language": "english",
+      "category": "digital_local_news_and_events",
+      "websiteUrl": "https://www.chrisd.ca",
+      "rssUrls": ["https://www.chrisd.ca/feed/"],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/chrisD_400x400.jpg"
+    },
+    {
+      "name": "CityNews Winnipeg",
+      "language": "english",
+      "category": "tv_broadcaster_digital",
+      "websiteUrl": "https://winnipeg.citynews.ca",
+      "rssUrls": [
+        "https://winnipeg.citynews.ca/feed/"
+      ],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/cityNews_400x400.jpg"
+    },
+    {
+      "name": "City of Winnipeg",
+      "language": "english",
+      "category": "government_official_newsroom",
+      "websiteUrl": "https://www.winnipeg.ca/news",
+      "rssUrls": [
+        "https://www.winnipeg.ca/rss/en/media-releases.xml",
+        "https://www.winnipeg.ca/rss/en/stories.xml"
+      ],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/cityOfWinnipeg_400x400.jpg"
+    },
+    {
+      "name": "Global News Winnipeg",
+      "language": "english",
+      "category": "tv_broadcaster_digital",
+      "websiteUrl": "https://globalnews.ca/winnipeg/",
+      "rssUrls": [
+        "https://globalnews.ca/winnipeg/feed/"
+      ],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/globalNews_400x400.jpg"
+    },
+    {
+      "name": "Kenora Miner and News",
+      "language": "english",
+      "category": "print_newspaper_regional_neighbour",
+      "websiteUrl": "https://www.kenoraminerandnews.com/",
+      "rssUrls": ["https://www.kenoraminerandnews.com/search/?f=rss&t=article"],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/kenoraMiner_400x400.jpg"
+    },
+    {
+      "name": "La Liberté",
+      "language": "français",
+      "category": "print_and_digital_news",
+      "websiteUrl": "https://www.la-liberte.ca/",
+      "rssUrls": ["https://www.la-liberte.ca/feed/"],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/laLiberte_400x400.jpg"
+    },
+    {
+      "name": "Portage Online",
+      "language": "english",
+      "category": "digital_local_news_and_events",
+      "websiteUrl": "https://www.portageonline.com",
+      "rssUrls": ["https://www.portageonline.com/rss/local-news", "https://www.portageonline.com/rss/community"],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/portageOnline_400x400.jpg"
+    },
+    {
+      "name": "Province of Manitoba",
+      "language": "english",
+      "category": "government_official_updates",
+      "websiteUrl": "https://news.gov.mb.ca/news/",
+      "rssUrls": ["https://news.gov.mb.ca/news/index.rss"],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/provinceOfManitoba_400x400.jpg"
+    },
+    {
+      "name": "Province du Manitoba (Communiqués)",
+      "language": "français",
+      "category": "government_official_updates",
+      "websiteUrl": "https://news.gov.mb.ca/news/",
+      "rssUrls": ["https://news.gov.mb.ca/news/index.fr.rss"],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/provinceOfManitoba_400x400.jpg"
+    },
+    {
+      "name": "Radio-Canada Manitoba",
+      "language": "français",
+      "category": "public_broadcaster_tv_radio_digital",
+      "websiteUrl": "https://ici.radio-canada.ca/manitoba",
+      "rssUrls": ["https://ici.radio-canada.ca/info/rss/manitoba/en-continu"],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/cbc_400x400.jpg"
+    },
+    {
+      "name": "Selkirk Times",
+      "language": "english",
+      "category": "digital_local_news_and_events",
+      "websiteUrl": "https://selkirktimes.ca",
+      "rssUrls": ["https://selkirktimes.ca/feed/"],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/selkirkTimes_400x400.jpg"
+    },
+    {
+      "name": "The Brandon Sun",
+      "language": "english",
+      "category": "print_and_digital_news",
+      "websiteUrl": "https://www.brandonsun.com/",
+      "rssUrls": ["https://www.brandonsun.com//local/feed"],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/brandonSun_400x400.jpg"
+    },
+    {
+      "name": "The Leaf",
+      "language": "english",
+      "category": "community_newspaper",
+      "websiteUrl": "https://theleafnews.ca/",
+      "rssUrls": ["https://theleafnews.ca/feed/"],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/theLeafNews_500x500.jpg"
+    },
+    {
+      "name": "The Manitoban",
+      "language": "english",
+      "category": "campus_newspaper",
+      "websiteUrl": "https://themanitoban.com/",
+      "rssUrls": ["https://themanitoban.com/feed/"],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/theManitoban_400x400.jpg"
+    },
+    {
+      "name": "The Projector",
+      "language": "english",
+      "category": "campus_newspaper",
+      "websiteUrl": "https://theprojector.ca/",
+      "rssUrls": [
+        "https://theprojector.ca/feed/"
+      ],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/theProjector_200x200.jpg"
+    },
+    {
+      "name": "Winnipeg Free Press",
+      "language": "english",
+      "category": "print_and_digital_news",
+      "websiteUrl": "https://www.winnipegfreepress.com/",
+      "rssUrls": [
+        "https://www.winnipegfreepress.com/local/feed",
+        "https://www.winnipegfreepress.com/breakingnews/feed"
+      ],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/winnipegFreePress_400x400.jpg"
+    },
+    {
+      "name": "Winnipeg Goldeyes",
+      "language": "english",
+      "category": "sports_team_official_source",
+      "websiteUrl": "https://www.goldeyes.com/news",
+      "rssUrls": ["https://www.goldeyes.com/feed/rss2"],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/winnipegGoldeyes_400x400.jpg"
+    },
+    {
+      "name": "Winnipeg Sun",
+      "language": "english",
+      "category": "print_and_digital_news",
+      "websiteUrl": "https://winnipegsun.com/",
+      "rssUrls": [
+        "https://www.winnipegsun.com/search/?f=rss&t=article"
+      ],
+      "logoPath": "https://stungeye.com/WinnipegNews/icons/winnipegSun_400x400.jpg"
+    }
+  ]
+}

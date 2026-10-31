@@ -23,7 +23,6 @@ const ROOT = join(__dirname, "..");
 const EXPORT_DIR = join(ROOT, "export");
 const IMAGES_DIR = join(EXPORT_DIR, "images");
 const POSTS_DIR = join(ROOT, "src", "posts");
-const NGINX_DIR = join(ROOT, "nginx");
 const CI_DAYS_PATH = join(EXPORT_DIR, "ci_days.json");
 const MT_ENTRIES_PATH = join(EXPORT_DIR, "mt_entries.json");
 const MT_ENTRY_META_PATH = join(EXPORT_DIR, "mt_entry_meta.json");
@@ -408,7 +407,7 @@ function scanContent(dateStr, body) {
 
     // Skip archive/by_date links — those are internal post links, not legacy media
     if (/\/archive\/by_date\//.test(url)) continue;
-    // Skip legacy /archives/*.php links — handled by nginx redirects
+    // Skip legacy /archives/*.php links — handled by _redirects (tools/build-redirects.mjs)
     if (/\/archives\/.*\.php/.test(url)) continue;
 
     const pathname = new URL(url).pathname;
@@ -1050,7 +1049,7 @@ async function generateDayPage(dateStr, ciDay, mtEntries) {
 }
 
 // ---------------------------------------------------------------------------
-// Nginx redirect generation
+// Legacy MT redirect list (redirects.csv)
 // ---------------------------------------------------------------------------
 
 function parseRedirectsCsv(csvPath) {
@@ -1112,26 +1111,6 @@ function parseCsvLine(line) {
   return fields;
 }
 
-function escapeNginxPath(path) {
-  // Escape dots for nginx regex
-  return path.replace(/\./g, "\\.");
-}
-
-function generateNginxConfig(redirects) {
-  const lines = ["# Generated from redirects.csv — do not edit manually", ""];
-
-  for (const r of redirects) {
-    const escaped = escapeNginxPath(r.legacyUrl);
-    lines.push(`rewrite ^${escaped}$ ${r.target} permanent;`);
-  }
-
-  // Add legacy /archives/ → /archive/ redirect
-  lines.push("");
-  lines.push("# Legacy MT archive landing page");
-  lines.push("rewrite ^/archives/$ /archive/ permanent;");
-
-  return lines.join("\n") + "\n";
-}
 
 // ---------------------------------------------------------------------------
 // Media report generation
@@ -1445,15 +1424,7 @@ async function main() {
   }
   console.log("");
 
-  // Generate Nginx config
-  console.log("Generating Nginx redirect config...");
-  mkdirSync(NGINX_DIR, { recursive: true });
-  const nginxConfig = generateNginxConfig(redirects);
-  writeFileSync(join(NGINX_DIR, "redirects.conf"), nginxConfig, "utf-8");
-  console.log(
-    `  Written to nginx/redirects.conf (${redirects.length + 1} rules)`,
-  );
-  console.log("");
+  // Legacy URL redirects: tools/build-redirects.mjs writes _redirects (Cloudflare Workers).
 
   // Generate media report
   console.log("Generating media report...");

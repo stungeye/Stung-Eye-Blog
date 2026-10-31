@@ -14,7 +14,9 @@
     "verify:issue5": "npm run verify:dates",
     "verify:issue7": "node tools/verify-issue-7.js",
     "dev": "npx @11ty/eleventy --serve",
-    "build": "rm -rf _site && npx @11ty/eleventy"
+    "build": "rm -rf _site && npx @11ty/eleventy",
+    "redirects": "node tools/build-redirects.mjs",
+    "import-legacy": "node tools/import-legacy.mjs"
   },
   "dependencies": {
     "luxon": "^3.7.2"

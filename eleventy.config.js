@@ -11,6 +11,10 @@ const siteYearMonth = (dateObj) => siteDate(dateObj).toFormat("yyyy-LL");
 export default function (eleventyConfig) {
   // --- Passthrough copy ---
   eleventyConfig.addPassthroughCopy("assets");
+  // Kept legacy www.stungeye.com files, served at their original paths (tools/import-legacy.mjs)
+  eleventyConfig.addPassthroughCopy({ legacy: "/" });
+  // Legacy URL redirects for Workers static assets (tools/build-redirects.mjs)
+  eleventyConfig.addPassthroughCopy("_redirects");
   // Copy co-located images — remap from src/posts/YYYY/MM/DD/ to archive/by_date/YYYY/MM/DD/
   eleventyConfig.addPassthroughCopy(
     {

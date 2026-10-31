@@ -1,0 +1,12 @@
+body {
+  width: 80%;
+  margin: auto;
+}
+
+img {
+  height: 350px;
+}
+div.image {
+  display: inline-block;
+  margin: 0 20px 20px 0;
+}

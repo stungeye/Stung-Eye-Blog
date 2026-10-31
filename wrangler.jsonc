@@ -1,0 +1,15 @@
+// www.stungeye.com on Cloudflare Workers (Phase C, PLAN C3.6 / F35).
+// Built by Workers Builds from main: `npm ci && npm run build` (F8).
+{
+  "name": "static-www-stungeye-com",
+  "main": "worker/index.js",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./_site",
+    "binding": "ASSETS",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  },
+  "workers_dev": true,
+  "preview_urls": false
+}
