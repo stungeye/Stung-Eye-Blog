@@ -4,6 +4,8 @@ Personal blog at [stungeye.com](https://www.stungeye.com), live since 2002. Buil
 
 Migrated from a legacy PHP/MySQL/CodeIgniter/Tumblr system to a fully static site. All content — 970 day pages spanning 2002–2026 — is served as pre-built HTML with no database, no CMS, and no client-side framework.
 
+Deployed to Cloudflare Workers.
+
 ## Quick Start
 
 ```bash
