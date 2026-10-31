@@ -11,5 +11,10 @@
     "not_found_handling": "404-page"
   },
   "workers_dev": true,
-  "preview_urls": false
+  "preview_urls": false,
+  // www cutover (PLAN C3.8, F37, owner-confirmed 2026-10-31). /sounds and /sounds/* are
+  // routed to static-www-stungeye-com-sounds, which outranks this. Rollback: remove this.
+  "routes": [
+    { "pattern": "www.stungeye.com/*", "zone_name": "stungeye.com" }
+  ]
 }
