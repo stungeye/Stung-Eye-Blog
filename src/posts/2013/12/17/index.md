@@ -37,7 +37,7 @@ permalink: /archive/by_date/2013/12/17/
 
 <p>I coded the following visualization to demonstrates these dice-sum probabilities. In this program virtual 6-sided dice-throws are simulated using a <a href="https://en.wikipedia.org/wiki/Pseudorandomness">pseudorandom</a> number generator. In total over 3000 virtual dice are thrown before the programs resets.</p>
 
-<iframe scrolling="no" src="https://www.openprocessing.org/sketch/124236/embed/?width=400&amp;height=300&amp;border=true"></iframe>
+<iframe src="https://openprocessing.org/sketch/124236/embed/" width="400" height="400"></iframe>
 
 <p>The <span style="color:#eee; background-color:#008789; padding: 0 3px;">left-hand graph</span> above shows how often each virtual die lands on a specific side, 1 through 6. Since there is an equal probability of each side appearing, the columns in this graph should all be approximately the same height. This is the uniform distribution I mentioned earlier.</p>
 
@@ -51,19 +51,19 @@ permalink: /archive/by_date/2013/12/17/
 
 <p>The next visualization demonstrates just this effect. Each refresh of the graphs represents another possible 72-roll game of Settlers. <em>With a sample size of 72 pairs of dice the graphs are often far from ideal.</em> In some games <span style="color:#eee; background-color:#008789; padding: 0 3px;">dice-sides</span> are far from uniform, and the <span style="color:#eee; background-color:#FC4349; padding: 0 3px;">dice sums</span> do not always follow the expected triangular probability distribution.</p>
 
-<iframe scrolling="no" src="https://www.openprocessing.org/sketch/124261/embed/?width=400&amp;height=300&amp;border=true"></iframe>
+<iframe src="https://openprocessing.org/sketch/124261/embed/" width="400" height="400"></iframe>
 
 <h3>Our Crazy Game</h3>
 
-<p>So how rare was our game? I used the <a href="http://anydice.com">AnyDice programming language</a> (which is an amazing tool btw) to find out.</p>
+<p>So how rare was our game? I used the <a href="https://anydice.com">AnyDice programming language</a> (which is an amazing tool btw) to find out.</p>
 
 <blockquote>
   <p>output 72d (2d6 = 8)</p>
 </blockquote>
 
-<p>This program calculates the odds of rolling any number of 8s in a game of 72 rolls of 2 six-sided dice. Based on <a href="http://anydice.com/program/2f6b">the output of this program</a> the odds of rolling only one 8 in a 72 turn game of Settlers is 0.0245020661348%. In other words, a game like this could be expected once every 4,081 games.</p>
+<p>This program calculates the odds of rolling any number of 8s in a game of 72 rolls of 2 six-sided dice. Based on <a href="https://anydice.com/program/2f6b">the output of this program</a> the odds of rolling only one 8 in a 72 turn game of Settlers is 0.0245020661348%. In other words, a game like this could be expected once every 4,081 games.</p>
 
-<p>Truthfully, since our game went to 79 rolls it was more like a <a href="http://anydice.com/program/300c">1 out of 10,594 game</a>. Had no eights rolled in the entire 79 roll game, it would have been a 1 out of 135,000 game. Rare, but still possible. <em>Such is chaos.</em></p>
+<p>Truthfully, since our game went to 79 rolls it was more like a <a href="https://anydice.com/program/300c">1 out of 10,594 game</a>. Had no eights rolled in the entire 79 roll game, it would have been a 1 out of 135,000 game. Rare, but still possible. <em>Such is chaos.</em></p>
 
 <h3>UPDATE (18/12/2013): What About The Sequence of No-8 Rolls?</h3>
 
@@ -75,16 +75,16 @@ permalink: /archive/by_date/2013/12/17/
 <li>Probability of rolling only one 8&nbsp;<strong>anywhere</strong> in 79 rolls: 1 in 10,594</li>
 </ol><h3>Resources and Further Reading</h3>
 
-<p>Before I started writing this blog post I wrote <a href="https://gist.github.com/stungeye/7912928">a Ruby program to simulate the roll of dice in Settlers</a> using the truly random data from <a href="http://random.org">Random.org</a>.</p>
+<p>Before I started writing this blog post I wrote <a href="https://gist.github.com/stungeye/7912928">a Ruby program to simulate the roll of dice in Settlers</a> using the truly random data from <a href="https://random.org">Random.org</a>.</p>
 
 <p><strong>I referenced the following sites while writing this post:</strong></p>
 
-<ul><li><a href="http://world.mathigon.org/Probability">Understanding Probability</a></li>
-<li><a href="http://www-cs-faculty.stanford.edu/~nick/settlers/DiceOddsSettlers.html">Dice Odds for Settlers of Catan</a></li>
-<li><a href="http://dicehateme.com/2011/09/these-dice-are-driving-me-crazy-a-guest-blog/">These dice are driving me crazy!</a></li>
+<ul><li><a href="https://world.mathigon.org/Probability">Understanding Probability</a></li>
+<li><a href="https://www-cs-faculty.stanford.edu/~nick/settlers/DiceOddsSettlers.html">Dice Odds for Settlers of Catan</a></li>
+<li><a href="https://dicehateme.com/2011/09/these-dice-are-driving-me-crazy-a-guest-blog/">These dice are driving me crazy!</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Central_limit_theorem">Central Limit Theorem</a></li>
 <li><a href="https://www.mathcelebrity.com/2dice.php">Two Dice Roll Calculator</a></li>
-<li><a href="http://www.statisticalengineering.com/sums_of_random_variables.htm">Triangle Distribution - The Sum of Random Variables</a></li>
+<li><a href="https://www.statisticalengineering.com/sums_of_random_variables.htm">Triangle Distribution - The Sum of Random Variables</a></li>
 </ul><p><strong>*Example Probability Calculation:</strong> The odds of rolling no 8s in a game of 71 turns.</p>
 
 <p>The probability of <em>not</em> rolling an 8 is 1 minus the probability <em>of</em> rolling an 8.</p>
@@ -99,4 +99,4 @@ permalink: /archive/by_date/2013/12/17/
   <p>The odds are 0.00245020661348% which is <strong>1 out of 40,813</strong>.</p>
 </blockquote>
 
-<p><strong>Attributions:</strong> The header image for this post was found on <a href="http://enjoyneer.blogspot.ca/2011/01/settlers-of-catan.html">enjoyneer.blogspot.ca</a>. The dice-sum probability image was found on <a href="http://rosalind.info/problems/lia/">rosalind.info</a>. I wrote the two programs in this post using the <a href="http://processing.org">Processing language</a> and they are hosted on <a href="http://openprocessing.org">OpenProcessing.org</a>.</p>
+<p><strong>Attributions:</strong> The header image for this post was found on <a href="https://enjoyneer.blogspot.ca/2011/01/settlers-of-catan.html">enjoyneer.blogspot.ca</a>. The dice-sum probability image was found on <a href="http://rosalind.info/problems/lia/">rosalind.info</a>. I wrote the two programs in this post using the <a href="https://processing.org">Processing language</a> and they are hosted on <a href="https://openprocessing.org">OpenProcessing.org</a>.</p>
