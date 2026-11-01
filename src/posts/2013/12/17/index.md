@@ -75,7 +75,7 @@ permalink: /archive/by_date/2013/12/17/
 <li>Probability of rolling only one 8 <strong>anywhere</strong> in 79 rolls: 1 in 10,595</li>
 </ol>
 
-<p>The first number is smaller because it describes a narrower event, one picked after we’d seen how the game played out. A run of 71 or more no-8 rolls <em>anywhere</em> in a 79 roll game is about a 1 in 19,332 event.</p>
+<p>The first is less likely because it describes a narrower event, one picked after we’d seen how the game played out. A run of 71 or more no-8 rolls <em>anywhere</em> in a 79 roll game is about a 1 in 19,332 event.</p>
 
 <h3>Resources and Further Reading</h3>
 
