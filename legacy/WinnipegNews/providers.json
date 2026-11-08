@@ -1,22 +1,12 @@
 {
   "schema": {
     "name": "winnipeg_manitoba_news_sources",
-    "version": "2.0.4",
+    "version": "2.0.5",
     "generatedAt": "2026-03-01",
-    "updatedAt": "2026-03-11",
+    "updatedAt": "2026-11-08",
     "description": "News source directory for the Winnipeg News app."
   },
   "outlets": [
-    {
-      "name": "Access Winnipeg",
-      "language": "english",
-      "category": "digital_local_news_and_events",
-      "websiteUrl": "https://accesswinnipeg.com/",
-      "rssUrls": [
-        "https://accesswinnipeg.com/feed/"
-      ],
-      "logoPath": "https://stungeye.com/WinnipegNews/icons/accessWinnipeg_400x400.jpg"
-    },
     {
       "name": "APTN News Manitoba",
       "language": "english",
@@ -135,7 +125,7 @@
       "language": "english",
       "category": "print_and_digital_news",
       "websiteUrl": "https://www.brandonsun.com/",
-      "rssUrls": ["https://www.brandonsun.com//local/feed"],
+      "rssUrls": ["https://www.brandonsun.com/local/feed"],
       "logoPath": "https://stungeye.com/WinnipegNews/icons/brandonSun_400x400.jpg"
     },
     {
