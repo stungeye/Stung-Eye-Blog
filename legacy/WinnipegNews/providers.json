@@ -126,6 +126,7 @@
       "category": "print_and_digital_news",
       "websiteUrl": "https://www.brandonsun.com/",
       "rssUrls": ["https://www.brandonsun.com/local/feed"],
+      "imageLookup": "wordpress",
       "logoPath": "https://stungeye.com/WinnipegNews/icons/brandonSun_400x400.jpg"
     },
     {
@@ -163,6 +164,7 @@
         "https://www.winnipegfreepress.com/local/feed",
         "https://www.winnipegfreepress.com/breakingnews/feed"
       ],
+      "imageLookup": "wordpress",
       "logoPath": "https://stungeye.com/WinnipegNews/icons/winnipegFreePress_400x400.jpg"
     },
     {
