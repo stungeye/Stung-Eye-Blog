@@ -1,9 +1,9 @@
 {
   "schema": {
     "name": "winnipeg_manitoba_news_sources",
-    "version": "2.0.5",
+    "version": "2.1.0",
     "generatedAt": "2026-03-01",
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-24",
     "description": "News source directory for the Winnipeg News app."
   },
   "outlets": [
